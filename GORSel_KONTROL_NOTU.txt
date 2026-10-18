@@ -1,0 +1,22 @@
+SKOPSE — KONTROL EDILMIS DUZELTME
+
+Bu paket SKOPSE Atlas V3'ün yeni pembe / mor / turkuaz tasarimini içerir.
+Ana menu: Sehir, Karakterler, Sirketler, Zaman Cizelgesi, Sozluk, Bolum Ozetleri.
+
+YENI STIL ILLUSTRASYONLAR
+Nil — nil-concept.webp (dogru kadin karakter)
+Blake — blake.webp (ayri erkek karakter görseli; kavramsal ilustrasyon)
+Skopse — skopse.webp
+Eski Sehir — eski-sehir.webp
+Yeni Sehir — yeni-sehir.webp
+Tünek — tunek.webp
+Batak — batan_yaka.webp
+Diadolas — diadolas.webp
+
+Daha onceki görsellerin korundugu yerler: Aras, Nadejda, Paradise, Sirket binalari, bazı arka planlar.
+Diger karakterlerin kimliklerine rastgele yeni bir yüz eklenmedi; yertutucu olarak kalabilirler.
+Sifon: var olan yüksek çözünürlüklü yer alti konseptinden renkleri uyarlanmis görsel.
+Tum dosya adlari ve baglantilarin dogrulamasini kontrol ettik.
+
+KURULUM: ZIP'i ac, ICINDEKI dosyalari repository ANA DIZININE yukle.
+Klasor veya ZIP'i oldugu gibi yukleme. Ana dizinde index.html ve world.json bulunmali.

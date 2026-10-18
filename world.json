@@ -96,7 +96,7 @@
       "type": "characters",
       "tagline": "BATak · 26 YAŞ",
       "summary": "Nil’in sokak çocukluğundan tanıdığı, hızlı öfkelenen ve yeraltı bağlantıları bulunan eski dostu. İki yıl önce kaçmasına yardım etmeye çalıştığı Cen.net araştırmacısının ölümü, şirketle ilgili risklere bakışını değiştirir.",
-      "image": "",
+      "image": "blake.webp",
       "meta": {
         "Yaş": "26",
         "Nil ile tanışma": "Nil 12 · Blake 14",
@@ -286,7 +286,7 @@
       "type": "places",
       "tagline": "SAVAŞ SONRASI MEGAKENT",
       "summary": "Üsküp çevresinde gelişmiş, Onj Nehri’nin ayırdığı Eski Şehir ve Yeni Şehir’den oluşan çok katmanlı kent. Avrupa–Orta Doğu hattındaki büyük merkezlerden biri; tek ayakta kalan şehir değil.",
-      "image": "altin_yaka.webp",
+      "image": "skopse.webp",
       "meta": {
         "Nehir": "Onj",
         "Bölgeler": "Eski Şehir / Yeni Şehir",
@@ -979,7 +979,11 @@
     "tunek": "tunek.webp",
     "sifon": "sifon.webp",
     "gezginler": "gezginler.webp",
-    "balolar": "balolar.webp"
+    "balolar": "balolar.webp",
+    "blake": "blake.webp",
+    "skopse": "skopse.webp",
+    "batak": "batan_yaka.webp",
+    "diadolas": "diadolas.webp"
   },
   "chapters": [
     {
