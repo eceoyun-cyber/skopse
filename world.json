@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-19 · Atlas 3.0",
+  "version": "2026-10-19 · Atlas 3.1 · Mekan Vitrini",
   "title": "SKOPSE",
   "strapline": "Mutant Bir Şehir",
   "intro": "Skopse, Onj Nehri’nin iki kıyısında büyüyen, teknolojinin ve eşitsizliğin aynı sokaklara sığdığı bir kenttir. Yeni Şehir taşkınlardan korunurken Eski Şehir her ekimde yeniden su altında kalır.",
@@ -286,7 +286,7 @@
       "type": "places",
       "tagline": "SAVAŞ SONRASI MEGAKENT",
       "summary": "Üsküp çevresinde gelişmiş, Onj Nehri’nin ayırdığı Eski Şehir ve Yeni Şehir’den oluşan çok katmanlı kent. Avrupa–Orta Doğu hattındaki büyük merkezlerden biri; tek ayakta kalan şehir değil.",
-      "image": "skopse.webp",
+      "image": "vitrin-01-skopse.webp",
       "meta": {
         "Nehir": "Onj",
         "Bölgeler": "Eski Şehir / Yeni Şehir",
@@ -315,7 +315,7 @@
       "type": "places",
       "tagline": "ONJ’UN KARŞI KIYISI · TAŞKINLAR",
       "summary": "Savaş öncesi taş konutlar ve eski okulların yanında göçle gelenlerin dayanıksız mahalleleri bulunur. Elektronik surların yönlendirdiği selin bedelini çoğunlukla yoksullar öder.",
-      "image": "eski-sehir.webp",
+      "image": "vitrin-02-eski-sehir.webp",
       "meta": {
         "Kent dokusu": "Tarihi taş yapılar / yeni mahalleler",
         "Risk": "Yılda iki sel",
@@ -341,7 +341,7 @@
       "type": "places",
       "tagline": "TÜNEK VE KURUMSAL KIYI",
       "summary": "Eğlence yatları, kıyı restoranları ve nehir manzaralı konutları elektronik surlarla korunan ayrıcalıklı kıyı. Refahın kesintiye uğramaması karşı kıyıya aktarılan bir risk anlamına gelir.",
-      "image": "yeni-sehir.webp",
+      "image": "vitrin-04-yeni-sehir.webp",
       "meta": {
         "Kıyı": "Yatlar · restoranlar · yalılar",
         "Koruma": "Elektronik surlar",
@@ -368,7 +368,7 @@
       "type": "places",
       "tagline": "GÖKDELENLERİN EN TEPESİ",
       "summary": "Kırılmaz camların gerisinden karşı kıyıdaki sel felaketini bir manzara gibi gören üst sınıfın kuleleri. Akşamları yardım baloları, bağış ekranları ve özel davetler düzenlenir.",
-      "image": "tunek.webp",
+      "image": "vitrin-03-tunek.webp",
       "meta": {
         "Yer": "Yeni Şehir",
         "Sembol": "En yüksek kuleler",
@@ -395,7 +395,7 @@
       "type": "places",
       "tagline": "ESKİ ŞEHİR · GAYRİRESMİ EKONOMİ",
       "summary": "Yoksul ve ihmal edilmiş Batan Yaka’nın gündelik adı Batak’tır. Dinarın yanı sıra “beceri karşılığı beceri” usulüyle işleyen güven ve karşılıklı borç ilişkileri vardır.",
-      "image": "batan_yaka.webp",
+      "image": "vitrin-07-batak.webp",
       "meta": {
         "Lakabı": "Batak",
         "Ekonomi": "DNR + takas",
@@ -423,7 +423,7 @@
       "type": "places",
       "tagline": "BATak · YERALTI BAĞLANTILARI",
       "summary": "Batak içindeki yeraltı merkezi ve eski altyapı ağları. Sel zamanında tamamlanmamış metro inşaatlarının bazı bölümleri sığınağa dönüşür.",
-      "image": "sifon.webp",
+      "image": "vitrin-05-sifon.webp",
       "meta": {
         "Bağlı olduğu yer": "Batan Yaka / Batak",
         "Öne çıkan": "Eski metro yapıları"
@@ -448,7 +448,7 @@
       "type": "places",
       "tagline": "YENİ ŞEHİR · VARLIKLI TİCARET BÖLGESİ",
       "summary": "Saydam geçitler, süs bitkileri, yürüyen yollar ve birbirine açılan galerilerden oluşan dev alışveriş ve yaşam merkezi. “Yaşamın Merkezi, Yaşamadan Bilemezsiniz!”",
-      "image": "diadolas.webp",
+      "image": "vitrin-06-diadolas.webp",
       "meta": {
         "Konum": "Varlıklı yaka",
         "Özellik": "Saydam geçitler",
@@ -831,6 +831,40 @@
         "batak"
       ],
       "status": "Güncel kanon"
+    },
+    {
+      "id": "onj_nehri",
+      "name": "Onj Nehri",
+      "type": "places",
+      "tagline": "ŞEHRİN İKİ YAKASI",
+      "summary": "Onj Nehri, Eski Şehir ile Yeni Şehir arasındaki sınırdır. Ekim ayının başında ve sonunda taşar. Yeni Şehir kıyısındaki elektronik surlar yükseldiğinde su Eski Şehir tarafına yönelir.",
+      "image": "vitrin-01-skopse.webp",
+      "sections": {
+        "genel": "Nehir yılda iki kez taşar. Yeni Şehir tarafında yatlar, restoranlar ve yalılar elektronik koruma altındadır. Eski Şehir tarafında ise özellikle dayanıksız yapılaşma zarar görür."
+      },
+      "related": [
+        "skopse",
+        "eski_sehir",
+        "yeni_sehir"
+      ],
+      "status": "Yazarın metninden"
+    },
+    {
+      "id": "cennet_merkez",
+      "name": "Cen.net Genel Merkezi",
+      "type": "places",
+      "tagline": "ŞİRKET YERLEŞKESİ",
+      "summary": "Cen.net’in iş ve araştırma yapılarının bulunduğu merkez yerleşke. Şirketin bazı özel personeline ayrılan korumalı konut bölgesi bu merkezin yakınındadır.",
+      "image": "arge.webp",
+      "sections": {
+        "genel": "Clark Cen.net’te çalışmaya başladıktan sonra Nil ile birlikte merkeze yakın, özel personel konutlarına taşınmıştır. Şirketin dijital altyapı üzerindeki güçlü konumu burada da hissedilir."
+      },
+      "related": [
+        "cennet",
+        "nil",
+        "clark"
+      ],
+      "status": "Güncel kanon"
     }
   ],
   "featureGallery": [
@@ -974,16 +1008,16 @@
     "batan_yaka": "batan_yaka.webp",
     "altin_yaka": "altin_yaka.webp",
     "paradise": "paradise.webp",
-    "eski_sehir": "eski-sehir.webp",
-    "yeni_sehir": "yeni-sehir.webp",
-    "tunek": "tunek.webp",
-    "sifon": "sifon.webp",
+    "eski_sehir": "vitrin-02-eski-sehir.webp",
+    "yeni_sehir": "vitrin-04-yeni-sehir.webp",
+    "tunek": "vitrin-03-tunek.webp",
+    "sifon": "vitrin-05-sifon.webp",
     "gezginler": "gezginler.webp",
     "balolar": "balolar.webp",
     "blake": "blake.webp",
-    "skopse": "skopse.webp",
-    "batak": "batan_yaka.webp",
-    "diadolas": "diadolas.webp"
+    "skopse": "vitrin-01-skopse.webp",
+    "batak": "vitrin-07-batak.webp",
+    "diadolas": "vitrin-06-diadolas.webp"
   },
   "chapters": [
     {
@@ -1085,5 +1119,25 @@
       "summary": "Daniil, çipin çıkarılmasının tıbben tehlikeli olduğunu söyler. Nil, kendi bedeni üzerinde söz sahibi olmak için çıkarılmasını seçer ve güçlerinin bir bölümü kalır.",
       "points": []
     }
+  ],
+  "imageFallbacks": {
+    "skopse": "skopse.webp",
+    "eski_sehir": "eski-sehir.webp",
+    "tunek": "tunek.webp",
+    "yeni_sehir": "yeni-sehir.webp",
+    "sifon": "sifon.webp",
+    "diadolas": "diadolas.webp",
+    "batak": "batan_yaka.webp"
+  },
+  "vitrine": [
+    "skopse",
+    "eski_sehir",
+    "tunek",
+    "yeni_sehir",
+    "sifon",
+    "diadolas",
+    "batak",
+    "onj_nehri",
+    "cennet_merkez"
   ]
 }
