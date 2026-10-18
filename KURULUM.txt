@@ -1,0 +1,10 @@
+SKOPSE — Yeni Layout / GitHub Pages
+
+1. Bu ZIP dosyasini BILGISAYARINDA ac.
+2. Icindeki index.html, styles.css, app.js, world.json, .webp resimleri ve favicon.svg dosyalarini GitHub repository'nin ANA DIZININE yukle. ZIP dosyasini tek basina yukleme.
+3. Varsa eski dosyalarin ayni adlilarini guncelle/uzerine yaz.
+4. GitHub -> Settings -> Pages -> main / (root) secili olsun.
+5. https://eceoyun-cyber.github.io/skopse/?v=3 adresini ac.
+
+Not: Dosyalari bilgisayarda file:// ile acarsan world.json tarayici tarafindan engellenebilir. GitHub Pages uzerinde acilir.
+Onceki orijinal harita eski-hikaye-haritasi.html adiyla arsivlenmistir.

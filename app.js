@@ -1,161 +1,35 @@
-/* SKOPSE Dünya Atlası — saf JavaScript. İçeriği düzenlemek için data/world.json dosyasını değiştirin. */
-(() => {
-  'use strict';
-  let world;
-  let byId = new Map();
-  let state = {view:'characters',selected:'nil',subtab:'genel',search:''};
-  const $ = id => document.getElementById(id);
-  const TABS = [['genel','Genel Bilgi'],['gecmis','Geçmiş'],['iliskiler','İlişkiler'],['yetenekler','Yetenekler'],['notlar','Ek Notlar']];
-  const NAV = [['city','ŞEHİR'],['characters','KARAKTERLER'],['places','BÖLGELER'],['factions','TOPLULUKLAR'],['companies','ŞİRKETLER'],['timeline','ZAMAN ÇİZELGESİ'],['notes','NOTLAR']];
-  const typeNames={characters:'Karakterler',places:'Bölgeler',factions:'Topluluklar',companies:'Şirketler',concepts:'Dosyalar'};
-  const escapeHtml = (value) => String(value??'').replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
-  const escAttr=escapeHtml;
-  const initials=name=>String(name||'SK').replace(/[🐼]/gu,'').split(/\s+/).filter(Boolean).slice(0,2).map(s=>s.charAt(0)).join('').toUpperCase();
-  const strip = s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLocaleLowerCase('tr');
-  const imgSource = ent => ent.image || world.images?.[ent.id] || '';
-  const urlFor=(ent)=>`#${ent.type==='places' && ent.id==='skopse'?'city':ent.type}/${encodeURIComponent(ent.id)}`;
-  function image(ent, className='', aria='') {
-    const path=imgSource(ent);
-    return path ? `<img class="${escAttr(className)}" src="${escAttr(path)}" alt="${escAttr(aria||ent.name)}" loading="lazy" onerror="this.hidden=true;this.parentElement.classList.add('image-unavailable')">` : '';
-  }
-  function getViewItems(){
-    if (state.view==='city') return world.entities.filter(x=>['skopse','eski_sehir','yeni_sehir','tunek','sifon','batak','diadolas','paradise'].includes(x.id));
-    if (state.view==='timeline')return [];
-    if (state.view==='notes')return world.entities.filter(x=>x.type==='concepts');
-    return world.entities.filter(x=>x.type===state.view);
-  }
-  function navLabel(view) {return NAV.find(i=>i[0]===view)?.[1]||'DOSYALAR'}
-  function start(){
-    $('version').textContent=world.version;
-    byId=new Map(world.entities.map(e=>[e.id,e]));
-    $('brandButton').addEventListener('click',()=>navigate('city','skopse'));
-    $('topNav').addEventListener('click',e=>{let b=e.target.closest('[data-view]');if(b) navigate(b.dataset.view)});
-    $('railList').addEventListener('click',e=>{let b=e.target.closest('[data-id]');if(b) navigate(b.dataset.view||state.view,b.dataset.id)});
-    $('mainContent').addEventListener('click',e=>{
-      let b=e.target.closest('[data-open]');if(b){const id=b.dataset.open;const ent=byId.get(id);if(ent) navigate(ent.type,id);return}
-      let t=e.target.closest('[data-tab]');if(t){state.subtab=t.dataset.tab;renderFeature();return}
-      let v=e.target.closest('[data-switch]');if(v){navigate(v.dataset.switch);return}
-    });
-    $('menuToggle').addEventListener('click',()=>toggleMenu());
-    $('searchInput').addEventListener('input',e=>{state.search=e.target.value;openSearch();renderSearch()});
-    $('searchInput').addEventListener('focus',()=>{if(state.search)openSearch();renderSearch()});
-    $('searchDialog').addEventListener('click',e=>{
-      if(e.target===$('searchDialog'))closeSearch();
-      const b=e.target.closest('[data-find]');if(b){let ent=byId.get(b.dataset.find);if(ent){closeSearch();state.search='';$('searchInput').value='';navigate(ent.type,ent.id)}}
-    });
-    $('closeSearch').addEventListener('click',closeSearch);
-    document.addEventListener('keydown',e=>{
-      const tag=document.activeElement?.tagName||'';
-      if(e.key==='/' && tag!=='INPUT' && tag!=='TEXTAREA'){e.preventDefault();$('searchInput').focus();openSearch();renderSearch()}
-      if(e.key==='Escape'){$('sidebar').classList.remove('is-open');$('menuToggle').setAttribute('aria-expanded','false');closeSearch()}
-    });
-    window.addEventListener('hashchange',readHash);
-    readHash();
-  }
-  function toggleMenu(){const a=$('sidebar').classList.toggle('is-open');$('menuToggle').setAttribute('aria-expanded',String(a));}
-  function openSearch(){const d=$('searchDialog');if(!d.open){try{d.show()}catch(e){}}}
-  function closeSearch(){const d=$('searchDialog');if(d.open)d.close()}
-  function renderSearch(){
-    const q=strip(state.search.trim());
-    const es=world.entities.filter(x=>!q||strip([x.name,x.tagline,x.summary,...Object.values(x.meta||{})].join(' ')).includes(q)).slice(0,12);
-    $('searchResults').innerHTML=es.length?es.map(ent=>`<button class="search-result" data-find="${escAttr(ent.id)}"><span class="rail-avatar">${image(ent)}${!imgSource(ent)?escapeHtml(initials(ent.name)):''}</span><span><span class="search-result-label">${escapeHtml(ent.name)}</span><span class="search-result-small">${escapeHtml(ent.tagline)}</span></span></button>`).join(''):`<div class="empty-state"><strong>Sonuç bulunamadı</strong>Başka bir kelime dene.</div>`;
-  }
-  function readHash(){
-    const fragment=decodeURIComponent(location.hash.replace(/^#/,''));
-    const [view,id]=fragment.split('/');
-    const valid=NAV.some(item=>item[0]===view);
-    if(valid){state.view=view;state.selected=byId.has(id)?id:defaultId(view)}
-    else {state.view='characters';state.selected='nil'}
-    state.subtab='genel';render();
-  }
-  function defaultId(v){return ({city:'skopse',characters:'nil',places:'eski_sehir',factions:'gezginler',companies:'cennet',notes:'abonelik'})[v]||null}
-  function navigate(view,id){
-    state.view=view;state.selected=id||defaultId(view);state.subtab='genel';
-    const hash=view+(state.selected?'/'+encodeURIComponent(state.selected):'');
-    if(location.hash.slice(1)!==hash)history.pushState(null,'','#'+hash);
-    $('sidebar').classList.remove('is-open');$('menuToggle').setAttribute('aria-expanded','false');
-    render();document.querySelector('.main-stage').scrollTo?.({top:0,behavior:'instant'});window.scrollTo(0,0);
-  }
-  function render(){renderNav();renderRail();renderFeature()}
-  function renderNav(){
-    $('topNav').innerHTML=NAV.map(([id,label])=>`<button class="nav-link" data-view="${id}" ${state.view===id?'aria-current="page"':''}>${escapeHtml(label)}</button>`).join('');
-  }
-  function renderRail(){
-    const items=getViewItems();
-    $('railTitle').textContent=state.view==='city'?'ŞEHİR HARİTASI':state.view==='notes'?'SÖZLÜK & DOSYALAR':navLabel(state.view);
-    $('railCount').textContent=items.length?String(items.length).padStart(2,'0'):'';
-    if(state.view==='timeline'){$('railList').innerHTML='<div class="empty-state"><strong>Zaman çizgisi</strong>Kronolojiyi ana bölümden inceleyebilirsin.</div>';return}
-    const q=strip(state.search);
-    const shown=items.filter(e=>!q||strip(e.name+' '+e.summary).includes(q));
-    $('railList').innerHTML=shown.map(ent=>`<button class="rail-item ${ent.id===state.selected?'is-active':''}" data-id="${escAttr(ent.id)}" data-view="${escAttr(ent.type==='places'&&ent.id==='skopse'?'city':ent.type)}" ${ent.id===state.selected?'aria-current="true"':''}>
-      <span class="rail-avatar">${image(ent)}${!imgSource(ent)?escapeHtml(initials(ent.name)):''}</span>
-      <span class="rail-copy"><span class="rail-name">${escapeHtml(ent.name)}</span><span class="rail-detail">${escapeHtml(ent.tagline)}</span></span>
-      </button>`).join('')||'<div class="empty-state"><strong>Kayıt yok</strong>Başka bir arama yap.</div>';
-  }
-  function renderFeature(){
-    if(state.view==='timeline'){renderTimeline();return}
-    if(state.view==='notes'){renderNotes();return}
-    const ent=byId.get(state.selected)||byId.get(defaultId(state.view));
-    if(!ent){$('mainContent').innerHTML='<div class="empty-state">Bu bölüm henüz hazır değil.</div>';return}
-    const sections=ent.sections||{};const tab=sections[state.subtab]?state.subtab:Object.keys(sections)[0]||'genel';
-    const src=imgSource(ent), fallback=escapeHtml(initials(ent.name));
-    const tabMarkup=TABS.map(([id,label])=>`<button type="button" role="tab" aria-selected="${String(id===tab)}" data-tab="${id}" class="tab-btn">${escapeHtml(label)}</button>`).join('');
-    const body=sections[tab]||'Bu başlıkla ilgili ayrıntılar henüz yazılmadı.';
-    const meta=Object.entries(ent.meta||{}).slice(0,4).map(([k,v])=>`<div class="meta-item"><dt>${escapeHtml(k)}</dt><dd>${escapeHtml(v)}</dd></div>`).join('');
-    const related=(ent.related||[]).map(id=>byId.get(id)).filter(Boolean).slice(0,8);
-    $('mainContent').innerHTML=`<article class="feature">
-      <div class="feature-image ${ent.type==='places'||ent.type==='companies'?'is-city':''}">
-        <div class="fallback-art" aria-hidden="true">${fallback}</div>${image(ent)}
-        <div class="image-tag"><span class="line"></span><strong>SKOPSE · ${escapeHtml(typeNames[ent.type]||'DÜNYA DOSYASI')}</strong><span>${escapeHtml(ent.tagline)}</span></div>
-      </div>
-      <div class="feature-body">
-        <span class="eyebrow">${escapeHtml(ent.tagline)}</span>
-        <h1 class="feature-title">${escapeHtml(ent.name)}</h1>
-        ${ent.quote?`<p class="feature-quote">${escapeHtml(ent.quote)}</p>`:''}
-        <p class="feature-summary">${escapeHtml(ent.summary)}</p>
-        ${meta?`<dl class="meta">${meta}</dl>`:''}
-        <div class="profile-tabs" role="tablist" aria-label="Profil bölümleri">${tabMarkup}</div>
-        <div class="profile-panel" role="tabpanel"><span class="panel-caption">${escapeHtml(TABS.find(t=>t[0]===tab)?.[1]||'Genel bilgi')}</span>${escapeHtml(body)}</div>
-        ${related.length?`<div class="relation-row"><span class="small-label">İLGİLİ DOSYALAR</span>${related.map(x=>`<button class="relation-chip" data-open="${escAttr(x.id)}">${escapeHtml(x.name)} ↗</button>`).join('')}</div>`:''}
-        ${ent.status?`<div class="status-line"><span class="status-dot">◆</span> ${escapeHtml(ent.status)}</div>`:''}
-      </div>
-    </article>${renderLower(ent)}`;
-    // This active sub-tab is re-rendered without changing the top navigation.
-  }
-  function renderLower(active){
-    const ids=active.type==='characters' ? ['eski_sehir','yeni_sehir','tunek','sifon','gezginler','diadolas','paradise'] :
-      active.type==='companies' ? ['cennet','derman','kentel','helion','harman','siper','payda','uzan'] :
-      active.type==='factions' ? ['gezginler','batak','sifon','angels'] :
-      ['eski_sehir','yeni_sehir','tunek','sifon','gezginler','diadolas','paradise'];
-    const cards=ids.map(id=>byId.get(id)).filter(x=>x&&x.id!==active.id);
-    return `<section class="content-lower" aria-label="Dünyayı keşfet">
-     <div class="lower-top"><h2 class="section-title">${active.type==='companies'?'Şirket ağı':'Skopse’nin öteki yüzleri'}</h2><div class="section-sub">Bir dosya seçerek ayrıntılarını incele</div></div>
-     <div class="thumb-grid">${cards.map(ent=>`<button class="thumb-card" data-open="${escAttr(ent.id)}" aria-label="${escAttr(ent.name)} dosyasını aç"><span class="no-image-thumb">${escapeHtml(initials(ent.name))}</span>${image(ent)}<span class="thumb-arrow">↗</span><span class="thumb-content"><span class="thumb-title">${escapeHtml(ent.name)}</span><span class="thumb-sub">${escapeHtml(ent.tagline)}</span></span></button>`).join('')}</div>
-     <div class="atlas-band"><div class="band-card"><div class="band-heading">Birbirine bağlı bir şehir</div><p>${escapeHtml(world.intro)}</p><div class="quicklinks"><button class="quicklink" data-switch="companies">Şirketler ↗</button><button class="quicklink" data-switch="factions">Topluluklar ↗</button><button class="quicklink" data-switch="notes">Sözlük ↗</button></div></div>
-       <div class="band-card"><div class="band-heading">Önceki hikaye haritası</div><p>Eski kart haritası, ayrıntılı arşiv ve önceki taslak notları korunuyor. Güncel atlas ise son kararları esas alıyor.</p><a class="archive-link" href="eski-hikaye-haritasi.html" target="_blank" rel="noopener">Haritayı aç ↗</a></div>
-     </div></section>`;
-  }
-  function renderTimeline(){
-    $('mainContent').innerHTML=`<section class="section-banner"><span class="eyebrow">SKOPSE / KİTAP I</span><h1>Zaman Çizelgesi</h1><p>Şehrin savaş sonrası dönüşümünden Nil’in ilk sorularına uzanan olaylar. Netleşmemiş tarihler ayrıca belirtilmiştir.</p></section><div class="timeline-shell"><div class="timeline-items">${world.timeline.map(t=>`<article class="timeline-item"><span class="timeline-when">${escapeHtml(t.when)}</span><h2>${escapeHtml(t.title)}</h2><p>${escapeHtml(t.body)}</p></article>`).join('')}</div></div>`;
-  }
-  function renderNotes(){
-    const terms=world.glossary.map(t=>`<div class="glossary-term"><strong>${escapeHtml(t.term)}</strong><span>${escapeHtml(t.meaning)}</span></div>`).join('');
-    const notes=world.authorNotes.map(n=>`<article class="note-card"><h2>${escapeHtml(n.title)}</h2><p>${escapeHtml(n.body)}</p></article>`).join('');
-    $('mainContent').innerHTML=`<section class="section-banner"><span class="eyebrow">SKOPSE / YAZAR ARŞİVİ</span><h1>Notlar & Terimler</h1><p>Güncel dünya kurma kararları, açık sorular ve şehrin günlük dili.</p></section>
-      <div class="notes-shell"><h2 class="notes-heading">Sokak sözlüğü</h2><div class="glossary-list">${terms}</div><h2 class="notes-heading">Yazım dosyası</h2><div class="notes-grid">${notes}</div>
-      <a href="eski-hikaye-haritasi.html" target="_blank" rel="noopener" class="archive-link">Eski interaktif haritayı aç ↗</a></div>`;
-  }
-  async function load(){
-    try{
-      const response=await fetch('data/world.json',{cache:'no-store'});
-      if(!response.ok)throw new Error('Veri dosyası bulunamadı ('+response.status+').');
-      world=await response.json();
-      if(!world?.entities?.length)throw new Error('İçerik dosyası boş.');
-      start();
-    }catch(err){
-      $('mainContent').innerHTML=`<section class="error-state"><h2>Atlas verileri açılamadı</h2><p>Siteyi çift tıklayarak <code>file://</code> üzerinden açtıysan tarayıcın JSON dosyasının okunmasına izin vermiyor olabilir. GitHub Pages'te çalışır; bilgisayarında denemek için klasörde <code>python -m http.server 8000</code> komutunu çalıştırıp <code>http://localhost:8000</code> adresine git.</p><p>${escapeHtml(err.message)}</p></section>`;
-      console.error(err);
-    }
-  }
-  load();
+/* SKOPSE Atlas 3.0 — GitHub Pages, root-level world.json, no external dependencies. */
+(()=>{'use strict';
+let world, byId=new Map(), page='anasayfa', selected='nil', tab='genel';
+const $=id=>document.getElementById(id);
+const names={sehir:'Şehir',karakterler:'Karakterler',sirketler:'Şirketler',zaman:'Zaman Çizelgesi',sozluk:'Sözlük',bolumler:'Bölüm Özetleri'};
+const esc=x=>String(x??'').replace(/[&<>"']/g,s=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[s]));
+const norm=s=>String(s??'').toLocaleLowerCase('tr').normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+const imagePath=e=>(e?.image||world.images?.[e?.id]||'').replace(/^assets\//,'');
+const image=(e,cls='',loading='lazy')=>{let src=imagePath(e);return src?`<img class="${cls}" src="${esc(src)}" loading="${loading}" alt="${esc(e.name)}" onerror="this.hidden=true">`:''};
+const link=(pg,id)=>`#${pg}${id?'/'+encodeURIComponent(id):''}`;
+const makeButton=(pg,id,body,cls='')=>`<button class="${cls}" type="button" data-page="${pg}" ${id?`data-id="${esc(id)}"`:''}>${body}</button>`;
+function routeFor(e){return e.type==='characters'?'karakterler':e.type==='companies'?'sirketler':e.type==='places'?'sehir':'sozluk'}
+function nav(pg,id){const url=link(pg,id);if(location.hash!==url)history.pushState(null,'',url);page=pg;selected=id||defaultId(pg);tab='genel';render();window.scrollTo({top:0,behavior:'instant'});$('mainNav').classList.remove('is-open');$('menuToggle').setAttribute('aria-expanded','false')}
+function defaultId(pg){return {karakterler:'nil',sehir:'skopse',sirketler:'cennet'}[pg]||''}
+function parseHash(){let [p,id]=decodeURIComponent(location.hash.replace(/^#/,'' )).split('/');page=Object.keys(names).includes(p)?p:'anasayfa';selected=byId.has(id)?id:defaultId(page);tab='genel';render()}
+function sectionHead(title,sub,num){return `<header class="page-head"><div><div class="eyebrow">SKOPSE / DÜNYA ATLASI</div><h1 class="section-title">${esc(title)}</h1><p>${esc(sub)}</p></div>${num!==undefined?`<span class="count">${String(num).padStart(2,'0')} DOSYA</span>`:''}</header>`}
+function tile(pg,num,title,desc){return `<a class="home-tile" href="${link(pg)}"><span class="tile-n">${num} / 06</span><div class="circle"></div><h3>${esc(title)}</h3><p>${esc(desc)}</p><span class="arr">↗</span></a>`}
+function home(){let nil=byId.get('nil'),city=byId.get('skopse');return `<div class="home-hero"><section class="home-main"><div class="home-city">${image(city,'','eager')}</div><div class="eyebrow">YAZARIN EVREN ATLASI</div><h1 class="title">Skopse</h1><p class="home-sub">Mutant Bir Şehir</p><p class="lead">${esc(world.intro)}</p><button class="ghost-btn" data-page="sehir">ŞEHRİ KEŞFET <span>→</span></button><div class="home-meta"><span>ONJ NEHRİ</span><span>ESKİ ŞEHİR / YENİ ŞEHİR</span><span>TEKNOFEODAL DÜZEN</span></div></section><aside class="home-preview"><a href="#karakterler/nil" class="hero-profile">${image(nil,'','eager')}<div class="profile-overlay"><div class="eyebrow">ANA KARAKTER / 01</div><h2>Nil</h2><p>${esc(nil.summary)}</p><span class="ghost-btn">KARAKTERİ İNCELE →</span></div></a></aside></div><nav class="home-links" aria-label="Atlas bölümleri">${tile('sehir','01','Şehir','Bölgeler, günlük hayat ve Onj taşkınları.')}${tile('karakterler','02','Karakterler','Nil, Clark, Blake ve diğerleri.')}${tile('sirketler','03','Şirketler','Cen.net ve diğer ekonomik güçler.')}${tile('zaman','04','Zaman Çizelgesi','Olayların bilinen sıralaması.')}${tile('sozluk','05','Sözlük','Dinar, holofon, tenayar ve kavramlar.')}${tile('bolumler','06','Bölüm Özetleri','Açılış, taslak bölümler ve final planı.')}</nav>`}
+function rail(ents,heading){return `<aside class="explorer-rail"><h2>${esc(heading)} / ${String(ents.length).padStart(2,'0')}</h2><div class="record-list">${ents.map(e=>makeButton(routeFor(e),e.id,`<span class="rail-thumb">${image(e)}${!imagePath(e)?esc(e.name.slice(0,1)):''}</span><span>${esc(e.name)}<small>${esc(e.tagline||'')}</small></span>`,`record-link ${selected===e.id?'active':''}`)).join('')}</div></aside>`}
+function meta(e){return Object.entries(e.meta||{}).map(([k,v])=>`<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>`).join('')}
+function related(e){const items=(e.related||[]).map(id=>byId.get(id)).filter(Boolean).slice(0,8);return items.length?`<div class="related-row">${items.map(v=>makeButton(routeFor(v),v.id,esc(v.name))).join('')}</div>`:''}
+const tabs=[['genel','Genel Bilgi'],['gecmis','Geçmiş'],['iliskiler','İlişkiler'],['yetenekler','Yetenekler'],['notlar','Ek Notlar']];
+function characterContent(e){let section=(e.sections||{})[tab]||e.summary;return `<div class="portrait-layout"><div class="media-panel">${image(e,'','eager')}<span class="media-tag">KARAKTER DOSYASI · ${esc(e.name).toLocaleUpperCase('tr')}</span></div><div class="details-panel"><div class="eyebrow">${esc(e.tagline)}</div><h2>${esc(e.name)}</h2><p class="summary">${esc(e.summary)}</p><dl class="detail-meta">${meta(e)}</dl><div role="tablist" class="detail-tabs" aria-label="Karakter bilgileri">${tabs.map(([k,v])=>`<button type="button" role="tab" aria-selected="${tab===k}" data-tab="${k}" class="${tab===k?'active':''}">${v.toLocaleUpperCase('tr')}</button>`).join('')}</div><div class="detail-body" role="tabpanel"><p>${esc(section)}</p></div>${related(e)}</div></div>`}
+function cityContent(e){return `<div class="place-layout"><div class="media-panel">${image(e,'','eager')}<span class="media-tag">MEKAN DOSYASI · ${esc(e.name).toLocaleUpperCase('tr')}</span></div><div class="details-panel"><div class="eyebrow">${esc(e.tagline)}</div><h2>${esc(e.name)}</h2><p class="summary">${esc(e.summary)}</p><dl class="detail-meta">${meta(e)}</dl><div class="detail-body"><p>${esc((e.sections||{}).genel||e.summary)}</p></div>${related(e)}</div></div>`}
+function explorer(type){const ents=world.entities.filter(e=>e.type===type), isCh=type==='characters', e=byId.get(selected)?.type===type?byId.get(selected):ents[0];if(e)selected=e.id;return `<div class="atlas-page">${sectionHead(isCh?'Karakterler':'Şehir',isCh?'Skopse hikayesinin karakter dosyaları.':'Skopse’nin semtleri, kurumları ve yaşayan mekanları.',ents.length)}<div class="explorer">${rail(ents,isCh?'KARAKTERLER':'ŞEHİR / MEKANLAR')}<div class="record-feature">${isCh?characterContent(e):cityContent(e)}</div></div></div>`}
+function companies(){const c=world.entities.filter(e=>e.type==='companies');return `<div class="atlas-page">${sectionHead('Şirketler','Abonelik, üretim, kredi ve altyapı üzerinden kurulan ekonomik ilişkiler.',c.length)}<div class="company-layout">${c.map(e=>`<article class="company-card" ${e.id==='cennet'?'data-primary="true"':''}><span class="company-seal" aria-hidden="true">${esc(e.id==='payda'?'🐼':e.name[0])}</span><div><div class="eyebrow">${esc(e.tagline)}</div><h3>${esc(e.name)}</h3><p>${esc(e.summary)}</p><p class="tiny">${esc(e.status||'Dünya notu')}</p></div></article>`).join('')}</div></div>`}
+function timeline(){return `<div class="atlas-page">${sectionHead('Zaman Çizelgesi','Kronoloji kesinleşen kararlar ve henüz planlanan aşamalarla birlikte tutulur.',world.timeline.length)}<div class="timeline">${world.timeline.map(e=>`<article class="timeline-row"><div class="timeline-date">${esc(e.when)}</div><div><h3>${esc(e.title)}</h3><p>${esc(e.body)}</p></div></article>`).join('')}</div></div>`}
+function glossary(){const records=[...(world.glossary||[])];return `<div class="atlas-page">${sectionHead('Sözlük','SKOPSE’de kullanılan teknoloji, ekonomi ve sokak dili terimleri.',records.length)}<div class="glossary">${records.map(v=>`<article class="gloss-entry"><h3>${esc(v.term)}</h3><p>${esc(v.meaning)}</p></article>`).join('')}</div></div>`}
+function chapters(){const records=world.chapters||[];return `<div class="atlas-page">${sectionHead('Bölüm Özetleri','Bölüm başlıkları ve olay planları çalışma notudur; tamamlanmış metin yerine geçmez.',records.length)}<div class="chapters">${records.map(c=>`<article class="chapter"><div class="chapter-top"><span class="chapter-no">${esc(c.number)}</span><div><span class="status">${esc(c.status)}</span><h3>${esc(c.title)}</h3></div></div><p>${esc(c.summary)}</p>${c.points?.length?`<ul>${c.points.map(p=>`<li>${esc(p)}</li>`).join('')}</ul>`:''}</article>`).join('')}</div></div>`}
+function render(){document.title=`${page==='anasayfa'?'Dünya Atlası':names[page]} — SKOPSE`;$('content').innerHTML=page==='anasayfa'?home():page==='sehir'?explorer('places'):page==='karakterler'?explorer('characters'):page==='sirketler'?companies():page==='zaman'?timeline():page==='sozluk'?glossary():chapters();document.querySelectorAll('.primary-nav button').forEach(b=>b.classList.toggle('active',b.dataset.page===page))}
+function search(){let term=norm($('searchInput').value.trim());const entries=[...world.entities.map(e=>({id:e.id,pg:routeFor(e),name:e.name,description:e.summary,group:names[routeFor(e)]||'Sözlük'})),...(world.glossary||[]).map(e=>({pg:'sozluk',name:e.term,description:e.meaning,group:'Sözlük'})),...(world.chapters||[]).map(e=>({pg:'bolumler',name:e.number+' — '+e.title,description:e.summary,group:'Bölüm Özetleri'}))];const matches=entries.filter(e=>norm(e.name+' '+e.description).includes(term)).slice(0,18);$('searchResults').innerHTML=matches.map(e=>`<button class="result-btn" data-page="${e.pg}" ${e.id?`data-id="${esc(e.id)}"`:''}><span>${esc(e.group)}</span><strong>${esc(e.name)}</strong></button>`).join('')||'<p class="muted">Sonuç yok.</p>'}
+function bindings(){document.body.addEventListener('click',ev=>{const b=ev.target.closest('button[data-tab]');if(b){tab=b.dataset.tab;render();return}const p=ev.target.closest('button[data-page]');if(p){nav(p.dataset.page,p.dataset.id);if($('searchDialog').open)$('searchDialog').close();return}});$('menuToggle').addEventListener('click',()=>{let opened=$('mainNav').classList.toggle('is-open');$('menuToggle').setAttribute('aria-expanded',String(opened))});$('searchToggle').addEventListener('click',()=>{$('searchDialog').showModal();$('searchInput').focus();search()});$('searchClose').addEventListener('click',()=>$('searchDialog').close());$('searchInput').addEventListener('input',search);$('searchDialog').addEventListener('click',e=>{if(e.target===$('searchDialog'))e.target.close()});window.addEventListener('hashchange',parseHash);document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA'].includes(document.activeElement?.tagName)){e.preventDefault();$('searchDialog').showModal();$('searchInput').focus();search()}})}
+async function init(){try{let res=await fetch('world.json',{cache:'no-cache'});if(!res.ok)throw Error('world.json: '+res.status);world=await res.json();if(!Array.isArray(world.entities)||!Array.isArray(world.chapters))throw Error('Atlas veri yapısı eksik');byId=new Map(world.entities.map(e=>[e.id,e]));bindings();parseHash()}catch(e){$('content').innerHTML=`<div class="load-error"><h1>Atlas verileri açılamadı.</h1><p>world.json dosyası, index.html ile aynı dizinde bulunmalı.</p><code>${esc(e.message)}</code></div>`}}
+init();
 })();

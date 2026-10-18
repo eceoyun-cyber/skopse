@@ -1,9 +1,9 @@
 {
-  "version": "2026-10-18",
+  "version": "2026-10-19 · Atlas 3.0",
   "title": "SKOPSE",
-  "strapline": "MUTANT BİR ŞEHİR",
-  "intro": "Onj’un iki kıyısında yükselen teknofeodal bir kent. Yılda iki kez suya gömülen sokaklar, gökdelenlerin tepesindeki yardım baloları ve üç gündür evine dönmeyen bir araştırmacı.",
-  "heroQuote": "“Kopan parmağa yara bandı yapıştıranlar ertesi güne kalmadan unutur. Parmak yeniden çıkar, öncekinden daha yamuk yumuk.”",
+  "strapline": "Mutant Bir Şehir",
+  "intro": "Skopse, Onj Nehri’nin iki kıyısında büyüyen, teknolojinin ve eşitsizliğin aynı sokaklara sığdığı bir kenttir. Yeni Şehir taşkınlardan korunurken Eski Şehir her ekimde yeniden su altında kalır.",
+  "heroQuote": "Skopse denilen mutant yaşamına devam eder.",
   "categories": [
     {
       "id": "places",
@@ -38,8 +38,7 @@
       "type": "characters",
       "tagline": "ANA KARAKTER · 24 YAŞ",
       "summary": "Skopse sokaklarında büyüyen Nil, abisi Clark üç gündür eve dönmeyince Cen.net çevresinde cevap aramaya başlar. İnce yapılı, keskin gözlemci, fevri ve esprilidir; kendini bir dövüşçü ya da profesyonel dedektif olarak görmez.",
-      "image": "assets/nil-concept.webp",
-      "quote": "“Clark çoğu şeyden bahsetmez.”",
+      "image": "nil-concept.webp",
       "meta": {
         "Yaş": "24",
         "Yakınları": "Clark, Blake",
@@ -69,7 +68,6 @@
       "tagline": "ARAŞTIRMACI · 38 YAŞ",
       "summary": "Cen.net’in genetik araştırmalarında çalışan, iş yerinde mesafeli ama evde Nil’e sıcak davranan araştırmacı. Melek ve şeytanların varlığını keşfeder; onların teknolojisiyle saklanma amacı taşıyan bir çip geliştirir.",
       "image": "",
-      "quote": "Bazı şeyleri gizlemek için, önce var olduklarını bilmek gerekir.",
       "meta": {
         "Yaş": "38",
         "İş": "Cen.net · araştırma",
@@ -126,10 +124,9 @@
       "type": "characters",
       "tagline": "ESKİ CEN.NET GÜVENLİK UZMANI · 35 YAŞ",
       "summary": "Esmer, geniş omuzlu, gri ceketli. Gözbebekleri belli açılarda mavi ışıkla parlayan güncel model implantlara sahip. Diadolas’ta Nil tarafından takip edilince şirket ajanı sanıp kaçar.",
-      "image": "assets/aras.webp",
-      "quote": "“Clark hiç kardeşinden bahsetmedi.”",
+      "image": "aras.webp",
       "meta": {
-        "Yaş": "35 · açılış taslağı",
+        "Yaş": "35",
         "Aile durumu": "Bekar · yalnız yaşıyor",
         "Eski işi": "Cen.net veri güvenliği",
         "Gözler": "Mavi ışıklı implant"
@@ -184,7 +181,7 @@
       "type": "characters",
       "tagline": "FALCI · GEZGİN TOPLULUKLAR",
       "summary": "Sifon ve Batak çevresinde rastlanan, kader konusunda ısrarcı, kısa ve tekinsiz konuşmalarıyla Nil’in irade anlayışına karşı duran falcı. Doğaüstü bir güç kaynağı olarak etnik kökenine başvurulmaz.",
-      "image": "assets/nadejda.webp",
+      "image": "nadejda.webp",
       "meta": {
         "Rol": "Falcı · yan karakter",
         "Çevre": "Batak / Sifon",
@@ -289,7 +286,7 @@
       "type": "places",
       "tagline": "SAVAŞ SONRASI MEGAKENT",
       "summary": "Üsküp çevresinde gelişmiş, Onj Nehri’nin ayırdığı Eski Şehir ve Yeni Şehir’den oluşan çok katmanlı kent. Avrupa–Orta Doğu hattındaki büyük merkezlerden biri; tek ayakta kalan şehir değil.",
-      "image": "assets/altin_yaka.webp",
+      "image": "altin_yaka.webp",
       "meta": {
         "Nehir": "Onj",
         "Bölgeler": "Eski Şehir / Yeni Şehir",
@@ -318,7 +315,7 @@
       "type": "places",
       "tagline": "ONJ’UN KARŞI KIYISI · TAŞKINLAR",
       "summary": "Savaş öncesi taş konutlar ve eski okulların yanında göçle gelenlerin dayanıksız mahalleleri bulunur. Elektronik surların yönlendirdiği selin bedelini çoğunlukla yoksullar öder.",
-      "image": "assets/eski-sehir.webp",
+      "image": "eski-sehir.webp",
       "meta": {
         "Kent dokusu": "Tarihi taş yapılar / yeni mahalleler",
         "Risk": "Yılda iki sel",
@@ -344,7 +341,7 @@
       "type": "places",
       "tagline": "TÜNEK VE KURUMSAL KIYI",
       "summary": "Eğlence yatları, kıyı restoranları ve nehir manzaralı konutları elektronik surlarla korunan ayrıcalıklı kıyı. Refahın kesintiye uğramaması karşı kıyıya aktarılan bir risk anlamına gelir.",
-      "image": "assets/yeni-sehir.webp",
+      "image": "yeni-sehir.webp",
       "meta": {
         "Kıyı": "Yatlar · restoranlar · yalılar",
         "Koruma": "Elektronik surlar",
@@ -371,7 +368,7 @@
       "type": "places",
       "tagline": "GÖKDELENLERİN EN TEPESİ",
       "summary": "Kırılmaz camların gerisinden karşı kıyıdaki sel felaketini bir manzara gibi gören üst sınıfın kuleleri. Akşamları yardım baloları, bağış ekranları ve özel davetler düzenlenir.",
-      "image": "assets/tunek.webp",
+      "image": "tunek.webp",
       "meta": {
         "Yer": "Yeni Şehir",
         "Sembol": "En yüksek kuleler",
@@ -398,7 +395,7 @@
       "type": "places",
       "tagline": "ESKİ ŞEHİR · GAYRİRESMİ EKONOMİ",
       "summary": "Yoksul ve ihmal edilmiş Batan Yaka’nın gündelik adı Batak’tır. Dinarın yanı sıra “beceri karşılığı beceri” usulüyle işleyen güven ve karşılıklı borç ilişkileri vardır.",
-      "image": "assets/batan_yaka.webp",
+      "image": "batan_yaka.webp",
       "meta": {
         "Lakabı": "Batak",
         "Ekonomi": "DNR + takas",
@@ -426,7 +423,7 @@
       "type": "places",
       "tagline": "BATak · YERALTI BAĞLANTILARI",
       "summary": "Batak içindeki yeraltı merkezi ve eski altyapı ağları. Sel zamanında tamamlanmamış metro inşaatlarının bazı bölümleri sığınağa dönüşür.",
-      "image": "assets/sifon.webp",
+      "image": "sifon.webp",
       "meta": {
         "Bağlı olduğu yer": "Batan Yaka / Batak",
         "Öne çıkan": "Eski metro yapıları"
@@ -451,7 +448,7 @@
       "type": "places",
       "tagline": "YENİ ŞEHİR · VARLIKLI TİCARET BÖLGESİ",
       "summary": "Saydam geçitler, süs bitkileri, yürüyen yollar ve birbirine açılan galerilerden oluşan dev alışveriş ve yaşam merkezi. “Yaşamın Merkezi, Yaşamadan Bilemezsiniz!”",
-      "image": "assets/altin_yaka.webp",
+      "image": "diadolas.webp",
       "meta": {
         "Konum": "Varlıklı yaka",
         "Özellik": "Saydam geçitler",
@@ -477,7 +474,7 @@
       "type": "places",
       "tagline": "CEN.NET · GİZLİ SUNUCULAR",
       "summary": "Nil, Julian ve Blake’in Clark’ın kayboluşuna dair bilgi aramak için sızdığı Cen.net sunucu kompleksi. Kayıt bulamazlar ancak şirketin şeytanlarla bağlantısını fark ederler.",
-      "image": "assets/paradise.webp",
+      "image": "paradise.webp",
       "meta": {
         "İşlev": "Sunucu altyapısı",
         "Sahne": "Sızma / çatışma"
@@ -503,7 +500,7 @@
       "type": "companies",
       "tagline": "ŞEHRİN DİJİTAL OMURGASI",
       "summary": "İletişim, kimlik doğrulama, ağ yazılımları, standartlar ve lisanslar üzerinden diğer şirketlerin bağlı olduğu dev altyapı sağlayıcı. Bütün fiziksel internetin sahibi değildir.",
-      "image": "assets/arge.webp",
+      "image": "arge.webp",
       "meta": {
         "Alan": "Ağ ve yazılım altyapısı",
         "Birim": "Genetik araştırma",
@@ -703,7 +700,7 @@
       "type": "factions",
       "tagline": "FOLKLOR · FAL · HAREKETLİ YAŞAM",
       "summary": "Farklı kökenlerden gelen, zorunlu olarak göçebe olmayan ama sık sık yer değiştiren rengarenk topluluklar. Falcılık, el işi, tamir, müzik ve seyyar ticaretle ilişkilendirilirler.",
-      "image": "assets/gezginler.webp",
+      "image": "gezginler.webp",
       "meta": {
         "Köken": "Farklı kültürler",
         "Yaşam": "Gezgin · yerleşik olmayan dönemler",
@@ -929,6 +926,22 @@
     {
       "term": "Çöpkod",
       "meaning": "Anlamı henüz kesinleşmemiş sokak terimi."
+    },
+    {
+      "term": "Dinar (DNR)",
+      "meaning": "Şehrin kriptografik doğrulamalı ödeme birimi. Payda bu birimin sahibi değildir."
+    },
+    {
+      "term": "Payda Aile",
+      "meaning": "İlk yılları ertelenebilen ancak silinmeyen çocuk yetiştirme kredisi."
+    },
+    {
+      "term": "Beceri karşılığı beceri",
+      "meaning": "Batak’ta Dinar dışında yaygın olan karşılıklı emek ve hizmet değişimi."
+    },
+    {
+      "term": "Onj Nehri",
+      "meaning": "Kuzey ile güneyi ayıran, ekim ayının başında ve sonunda taşan nehir."
     }
   ],
   "authorNotes": [
@@ -951,21 +964,122 @@
   ],
   "legacy": "eski-hikaye-haritasi.html",
   "images": {
-    "aras": "assets/aras.webp",
-    "nil": "assets/nil-concept.webp",
-    "nadejda": "assets/nadejda.webp",
-    "kemal": "assets/kemal.webp",
-    "aziz_kiril": "assets/aziz_kiril.webp",
-    "arge": "assets/arge.webp",
-    "underground": "assets/underground.webp",
-    "batan_yaka": "assets/batan_yaka.webp",
-    "altin_yaka": "assets/altin_yaka.webp",
-    "paradise": "assets/paradise.webp",
-    "eski_sehir": "assets/eski-sehir.webp",
-    "yeni_sehir": "assets/yeni-sehir.webp",
-    "tunek": "assets/tunek.webp",
-    "sifon": "assets/sifon.webp",
-    "gezginler": "assets/gezginler.webp",
-    "balolar": "assets/balolar.webp"
-  }
+    "aras": "aras.webp",
+    "nil": "nil-concept.webp",
+    "nadejda": "nadejda.webp",
+    "kemal": "kemal.webp",
+    "aziz_kiril": "aziz_kiril.webp",
+    "arge": "arge.webp",
+    "underground": "underground.webp",
+    "batan_yaka": "batan_yaka.webp",
+    "altin_yaka": "altin_yaka.webp",
+    "paradise": "paradise.webp",
+    "eski_sehir": "eski-sehir.webp",
+    "yeni_sehir": "yeni-sehir.webp",
+    "tunek": "tunek.webp",
+    "sifon": "sifon.webp",
+    "gezginler": "gezginler.webp",
+    "balolar": "balolar.webp"
+  },
+  "chapters": [
+    {
+      "number": "01",
+      "title": "Başlatma",
+      "status": "Taslak / açılış",
+      "summary": "Nil, üç gündür eve dönmeyen Clark hakkında bilgi ararken Diadolas Yaşam Merkezi’nde Aras Stojanovski’yi takip eder. Takip, kovalamacaya ve ardından yanlış anlaşılmayla başlayan bir yüzleşmeye dönüşür.",
+      "points": [
+        "Skopse sel felaketi ve sınıfsal karşıtlıkla tanıtılır.",
+        "Aras bir hafta önce Cen.net’ten ayrılmıştır.",
+        "Nil, Clark’ın erişim kayıtlarını sildiğini öğrenir."
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Tanılama",
+      "status": "Plan",
+      "summary": "Nil, Clark’la paylaştığı eve döner. Son sarılmalarını hatırlar ve fotoğrafın arkasına gizlenmiş, üzerinde kanatlı piramit sembolü ile 1866 bulunan kartı keşfeder.",
+      "points": [
+        "Kartta Julian’ın adı veya iletişim bilgisi yoktur.",
+        "Nesnenin gizemi bu aşamada doğaüstü olarak açıklanmaz."
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Anormallik",
+      "status": "Plan",
+      "summary": "Nil, kartın sembolünü araştırmak için fiziksel arşivlere gider. Eski fotoğraflarda Cen.net’in bugünkü yüzü Julian’a tıpatıp benzeyen bir adamla karşılaşır.",
+      "points": [
+        "Nil önce şirket komplosu veya fotoğraf manipülasyonu gibi açıklamalara yönelir."
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Kimlik Doğrulama",
+      "status": "Plan",
+      "summary": "Angels tarikatıyla temas ve davet sürecinin ilerlemesi planlanıyor.",
+      "points": [
+        "Julian’ın Nil’i içeri almak konusundaki tutumu değişir."
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Güvenlik İhlali",
+      "status": "Plan",
+      "summary": "Tarikatın geleneksel sınavları ve Nil’in ilk doğrudan doğaüstü kanıtla karşılaşması için planlanan bölüm.",
+      "points": [
+        "NEXARIEL, Nil’in Clark’ın kardeşi olduğunu bilir, fakat çipten habersizdir."
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Bağlantı Kuruldu",
+      "status": "Plan",
+      "summary": "Nil, Blake ve Julian arasındaki iş birliğinin güçlendiği bölüm için çalışma başlığı.",
+      "points": []
+    },
+    {
+      "number": "07",
+      "title": "Gizli Ağ",
+      "status": "Plan",
+      "summary": "Cen.net’in kapalı sistemleri ve Clark’ın bıraktığı izlerin araştırılması için çalışma başlığı.",
+      "points": []
+    },
+    {
+      "number": "08",
+      "title": "Yetki Yükseltme",
+      "status": "Plan",
+      "summary": "Paradise’a erişim hazırlıkları için çalışma başlığı.",
+      "points": []
+    },
+    {
+      "number": "09",
+      "title": "Sızma",
+      "status": "Plan",
+      "summary": "Nil, Julian ve Blake Cen.net’in Paradise sunucularına sızar. Clark’ın kayıtlarını bulamazlar, ancak şirketin şeytanlarla ilişkisini öğrenirler.",
+      "points": [
+        "Muhafızlarla çatışmada Nil’in güçleri ilk kez belirginleşir."
+      ]
+    },
+    {
+      "number": "10",
+      "title": "Sistem Hatası",
+      "status": "Plan",
+      "summary": "Paradise olaylarından sonraki sonuçlar ve meleklerden yardım arayışı için çalışma başlığı.",
+      "points": []
+    },
+    {
+      "number": "11",
+      "title": "Kontrolün Ele Geçirilmesi",
+      "status": "Plan",
+      "summary": "NEXARIEL’in çipi fark etmesi ve güven ilişkisinin bozulması etrafında planlanan bölüm.",
+      "points": []
+    },
+    {
+      "number": "12",
+      "title": "Sistemden Çıkış",
+      "status": "Plan / final",
+      "summary": "Daniil, çipin çıkarılmasının tıbben tehlikeli olduğunu söyler. Nil, kendi bedeni üzerinde söz sahibi olmak için çıkarılmasını seçer ve güçlerinin bir bölümü kalır.",
+      "points": []
+    }
+  ]
 }
