@@ -1,4 +1,4 @@
-/* SKOPSE Atlas 3.1 — GitHub Pages, root-level world.json, no external dependencies. */
+/* SKOPSE Atlas 3.2 — GitHub Pages, root-level world.json, no external dependencies. */
 (()=>{'use strict';
 let world, byId=new Map(), page='anasayfa', selected='nil', tab='genel', slide=0;
 const $=id=>document.getElementById(id);
@@ -22,8 +22,8 @@ if(start<0||end<0)return old;
 const ids=(world.vitrine||[]).filter(id=>byId.get(id)?.type==='places');
 if(!ids.length)return old;
 slide=((slide%ids.length)+ids.length)%ids.length;
-const p=byId.get(ids[slide]), fallback=world.imageFallbacks?.[p.id]||({onj_nehri:'skopse.webp',cennet_merkez:'arge.webp'})[p.id]||'';
-const picture=`<img src='${esc(imagePath(p))}' data-fallback='${esc(fallback)}' loading='eager' alt='${esc(p.name)}'>`;
+const p=byId.get(ids[slide]);
+const picture=`<img src='${esc(imagePath(p))}' loading='eager' alt='${esc(p.name)}'>`;
 const card=`<aside class='home-preview' aria-label='Skopse mekan vitrini'><div class='hero-place'><div class='hero-place-top'><span class='eyebrow'>MEKAN VİTRİNİ</span><span class='carousel-count'>${String(slide+1).padStart(2,'0')} / ${String(ids.length).padStart(2,'0')}</span></div><div class='hero-place-art'>${picture}</div><div class='hero-place-caption'><h2>${esc(p.name)}</h2><p>${esc(p.summary)}</p><div class='hero-place-actions'><button class='carousel-arrow' type='button' data-slide='-1' aria-label='Önceki mekan'>←</button><button class='carousel-arrow' type='button' data-slide='1' aria-label='Sonraki mekan'>→</button><button class='ghost-btn place-visit' type='button' data-page='sehir' data-id='${esc(p.id)}'>MEKANI İNCELE →</button></div></div></div></aside>`;
 return old.slice(0,start)+card+old.slice(end+'</aside>'.length);
 }

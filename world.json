@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-19 · Atlas 3.1 · Mekan Vitrini",
+  "version": "2026-10-19 · Atlas 3.2 · Onaylı Mekan Görselleri",
   "title": "SKOPSE",
   "strapline": "Mutant Bir Şehir",
   "intro": "Skopse, Onj Nehri’nin iki kıyısında büyüyen, teknolojinin ve eşitsizliğin aynı sokaklara sığdığı bir kenttir. Yeni Şehir taşkınlardan korunurken Eski Şehir her ekimde yeniden su altında kalır.",
@@ -855,7 +855,7 @@
       "type": "places",
       "tagline": "ŞİRKET YERLEŞKESİ",
       "summary": "Cen.net’in iş ve araştırma yapılarının bulunduğu merkez yerleşke. Şirketin bazı özel personeline ayrılan korumalı konut bölgesi bu merkezin yakınındadır.",
-      "image": "arge.webp",
+      "image": "vitrin-03-tunek.webp",
       "sections": {
         "genel": "Clark Cen.net’te çalışmaya başladıktan sonra Nil ile birlikte merkeze yakın, özel personel konutlarına taşınmıştır. Şirketin dijital altyapı üzerindeki güçlü konumu burada da hissedilir."
       },
@@ -1017,7 +1017,9 @@
     "blake": "blake.webp",
     "skopse": "vitrin-01-skopse.webp",
     "batak": "vitrin-07-batak.webp",
-    "diadolas": "vitrin-06-diadolas.webp"
+    "diadolas": "vitrin-06-diadolas.webp",
+    "cennet_merkez": "vitrin-03-tunek.webp",
+    "onj_nehri": "vitrin-01-skopse.webp"
   },
   "chapters": [
     {
@@ -1120,15 +1122,7 @@
       "points": []
     }
   ],
-  "imageFallbacks": {
-    "skopse": "skopse.webp",
-    "eski_sehir": "eski-sehir.webp",
-    "tunek": "tunek.webp",
-    "yeni_sehir": "yeni-sehir.webp",
-    "sifon": "sifon.webp",
-    "diadolas": "diadolas.webp",
-    "batak": "batan_yaka.webp"
-  },
+  "imageFallbacks": {},
   "vitrine": [
     "skopse",
     "eski_sehir",
