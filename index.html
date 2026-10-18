@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#0b0c0d">
+  <meta name="description" content="SKOPSE dünyası: karakterler, bölgeler, şirketler ve olay örgüsü için interaktif roman atlası.">
+  <title>SKOPSE · Dünya Atlası</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">İçeriğe geç</a>
+  <header class="topbar">
+    <button class="brand" id="brandButton" aria-label="Skopse ana sayfa">
+      <span class="brand-name">SKOPSE</span><span class="brand-sub">DÜNYA ATLASI</span>
+    </button>
+    <nav class="main-nav" id="topNav" aria-label="Ana menü"></nav>
+    <div class="tools">
+      <label class="search-wrap">
+        <span class="search-icon" aria-hidden="true">⌕</span>
+        <input id="searchInput" type="search" autocomplete="off" placeholder="Skopse'de ara..." aria-label="Tüm atlas içinde ara">
+        <kbd>/</kbd>
+      </label>
+      <button class="menu-trigger" id="menuToggle" aria-expanded="false" aria-controls="sidebar" aria-label="Listeyi aç">☰</button>
+    </div>
+  </header>
+  <div class="ambient-layer" aria-hidden="true"></div>
+  <div class="layout">
+    <aside class="sidebar" id="sidebar" aria-label="İçerik listesi">
+      <div class="sidebar-heading"><span id="railTitle">KARAKTER DOSYALARI</span><span id="railCount"></span></div>
+      <div class="rail-list" id="railList"></div>
+      <div class="sidebar-bottom">
+        <span class="sidebar-bullet">◆</span> <span>SKOPSE / KİTAP I</span>
+        <a href="eski-hikaye-haritasi.html" target="_blank" rel="noopener" class="legacy-link">Eski hikaye haritası <span aria-hidden="true">↗</span></a>
+      </div>
+    </aside>
+    <main class="main-stage" id="main">
+      <div id="mainContent" aria-live="polite"></div>
+      <footer class="site-footer"><span>SKOPSE <span class="footer-divider">/</span> Bir roman evreni</span><span>Güncellenebilir dünya atlası · <span id="version"></span></span></footer>
+    </main>
+  </div>
+  <dialog class="search-dialog" id="searchDialog" aria-label="Arama sonuçları"><div class="search-dialog-inner"><div class="search-dialog-header"><span>ARŞİV ARAMASI</span><button id="closeSearch" aria-label="Aramayı kapat">✕</button></div><div class="search-results" id="searchResults"></div></div></dialog>
+  <script src="app.js" defer></script>
+</body>
+</html>
