@@ -1,58 +1,16 @@
-# SKOPSE — Dünya Atlası
+# SKOPSE — GitHub Pages sorunsuz kurulum
 
-SKOPSE roman evreni için statik bir dünya atlası. Tamamı **HTML, CSS, JavaScript ve JSON** ile hazırlandı. Derleme, sunucu tarafı program veya ücretli barındırma gerektirmez. GitHub Pages'te çalışır.
+Bu ZIP içindeki `index.html` dosyası tüm veri, CSS, JavaScript ve görselleri içerir. `data/world.json`, `app.js`, `styles.css` veya `assets/` yüklemek gerekmez.
 
-## Hemen yayınla
+## Yayınlama
 
-1. GitHub'da `skopse-atlas` adında yeni bir **repository** aç.
-2. Bu klasörün **içindeki** `index.html`, `app.js`, `styles.css`, `data/`, `assets/` ve `eski-hikaye-haritasi.html` dosyalarını repoya yükle. (Klasörü tek üst klasör olarak yükleme, `index.html` kökte kalsın.)
-3. Repository içinde **Settings → Pages → Build and deployment → Deploy from a branch** seç.
-4. **Branch: `main`**, klasör: **`/(root)`** ve **Save** seç.
-5. Site genellikle `https://KULLANICI-ADIN.github.io/skopse-atlas/` üzerinden açılır.
+1. GitHub'da `eceoyun-cyber/skopse` repository sayfasını aç.
+2. `index.html` dosyasını repository kök dizinine (`main` dalına) yükle. Var olan `index.html` üzerine yazılacak.
+3. İstersen `eski-hikaye-haritasi.html` dosyasını da köke yükle; arşiv bağlantısı için gerekir.
+4. Settings → Pages → Build and deployment → Deploy from a branch → `main` + `/(root)` → Save.
+5. https://eceoyun-cyber.github.io/skopse/?v=2 sayfasını aç; Ctrl+F5 ile yenile.
+6. Sayfa altında `BAĞIMSIZ HTML · DÜZELTME 02` yazdığını doğrula.
 
-`README.md` ve kaynak dosyalar GitHub'da da düzenlenebilir.
+**Eğer aynı 404 hatasını görürsen:** GitHub Pages halen eski bir index.html yayınlıyor demektir. Repository ana sayfasından index.html dosyasını aç, arama yap: `BAĞIMSIZ HTML`. Bulamıyorsan dosya yanlış dala veya klasöre yüklenmiştir. Bulabiliyorsan Pages bölümündeki yayınlama dalını ve kök klasörünü kontrol et. Actions sekmesinde GitHub Pages dağıtımının başarıyla tamamlandığından emin ol.
 
-## İçerik nasıl değiştirilir?
-
-Bütün güncel bilgiler **`data/world.json`** içindedir. Bunun için kod yazman gerekmiyor: dosyayı metin editöründe veya GitHub'da açıp değiştirebilirsin.
-
-- `entities`: karakterler, yerler, şirketler, topluluklar ve dünya dosyaları.
-- `timeline`: zaman çizelgesindeki olaylar.
-- `glossary`: sokak sözlüğü.
-- `authorNotes`: yazım notları.
-- `featureGallery`: vitrinde gösterilmesi planlanan görseller. (Şimdiki sürümde galeriler içerik türüne göre düzenlenmiştir.)
-- Yeni bir görsel için resmi `assets/` klasörüne koy ve ilgili kaydın `image` alanına `assets/resim.webp` yaz.
-
-JSON formatında tüm değerler çift tırnak içinde olmalı, son öğeden sonra virgül bırakılmamalıdır.
-
-## Kullanım
-
-- Üst menüden şehir, karakterler, bölgeler, topluluklar, şirketler, zaman çizelgesi ve notlara geç.
-- Sol taraftan kişi veya mekan seç.
-- Sağdaki **Genel Bilgi / Geçmiş / İlişkiler / Yetenekler / Ek Notlar** sekmelerini kullan.
-- İlgili dosya etiketlerine tıkla; doğrudan bağlantı açılır.
-- Arama alanında isim veya anahtar kelime ara, kısayol olarak `/` tuşunu kullan.
-- `eski-hikaye-haritasi.html` bağlantısıyla önceki interaktif haritayı aç.
-
-## Yerelde önizleme
-
-GitHub'a yüklemeden önce terminalde bu klasörde:
-
-```bash
-python -m http.server 8000
-```
-
-Sonra tarayıcıda `http://localhost:8000` aç. `index.html` dosyasını doğrudan çift tıklamak bazı tarayıcılarda JSON erişimini engeller.
-
-## Görseller hakkında
-
-- Önceki HTML'de dosyanın içinde gömülü olan görüntüler yerel `assets/` klasörüne çıkarıldı. Aras'ın özgün portresi, Nadejda ve bazı mekan resimleri bunlar arasında.
-- Nil'in bu sürümdeki görseli, sevilen ilk tasarım konseptinden alınan bir taslak portredir. Nihai karakter görünümü yerine geçmek zorunda değil.
-- Eski haritada uzaktaki görsel sitelerine bağlı fotoğraflar vardı. Bunların bazıları geçici/korumalı URL olduğundan yeni atlasın *ana sayfasına zorunlu uzaktan görsel bağımlılığı eklenmedi*. Portresi eksik karakterler stilize monogramla gösterilir. Kendi seçtiğin görseli `assets/` içine eklemek en kalıcı yöntemdir.
-- Eski harita bir **taslak arşivi** olarak korunur; arşivdeki eski karakter yaşları ve meslekleri güncel kanon olarak okunmamalıdır.
-
-## Önemli not
-
-Kaynak görsellerin bir kısmı üçüncü taraf görüntülerinden veya önceki tasarım çalışmalarından geliyor. Sitenin **herkese açık** yayınlanması düşünülüyorsa görsel hakları kontrol edilmeli veya kullanım izni bulunan kendi görsellerin kullanılmalıdır.
-
-Üretilen site, görsel ve metin içerikleri `data/world.json` ve `assets/` üzerinde değiştirilerek genişletilebilir.
+Bu sürüm tek dosya olduğu için `index.html` üzerine çift tıklayarak bilgisayarda da çalışır. Önceki harita bağlantısı için ayrıca `eski-hikaye-haritasi.html` gerekir.
