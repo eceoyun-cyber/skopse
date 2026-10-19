@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-19 · Atlas 3.2 · Onaylı Mekan Görselleri",
+  "version": "2026-10-19 · Atlas 3.3 · Onaylı Karakter Portreleri",
   "title": "SKOPSE",
   "strapline": "Mutant Bir Şehir",
   "intro": "Skopse, Onj Nehri’nin iki kıyısında büyüyen, teknolojinin ve eşitsizliğin aynı sokaklara sığdığı bir kenttir. Yeni Şehir taşkınlardan korunurken Eski Şehir her ekimde yeniden su altında kalır.",
@@ -37,19 +37,20 @@
       "name": "Nil Clayton",
       "type": "characters",
       "tagline": "ANA KARAKTER · 24 YAŞ",
-      "summary": "Skopse sokaklarında büyüyen Nil, abisi Clark üç gündür eve dönmeyince Cen.net çevresinde cevap aramaya başlar. İnce yapılı, keskin gözlemci, fevri ve esprilidir; kendini bir dövüşçü ya da profesyonel dedektif olarak görmez.",
-      "image": "nil-concept.webp",
+      "summary": "Skopse sokaklarında büyüyen Nil, abisi Clark üç gündür eve dönmeyince Cen.net çevresinde cevap aramaya başlar. İnce yapılı, keskin gözlemci, fevri ve esprilidir. İyi bir dövüşçü olmayabilir ama yetenekli bir araştırmacıdır.",
+      "image": "portre-nil.webp",
       "meta": {
         "Yaş": "24",
         "Yakınları": "Clark, Blake",
         "İmplant": "Sol ön kol · erişim",
-        "Yaşadığı yer": "Cen.net personel konutları"
+        "Yaşadığı yer": "Cen.net personel konutları",
+        "Görünüm": "Siyah kısa küt saç, beyaz ten, orta boy ve normal kilo; uzun kot ceketler giyer."
       },
       "sections": {
         "genel": "Nil, Clark ile aynı evde yaşayan 24 yaşında bir genç kadındır. Üç gündür haber alınamayan abisini bulmak için şirket kayıtlarını inceler, Aras Stojanovski’nin peşine düşer ve giderek kendi hayatının dışında tutulmuş bir gerçeğe yaklaşır.",
         "gecmis": "Nil 12 yaşındayken Clark (26) onu sokaklardan alıp yanına getirmiştir. Blake ile sokak yıllarından tanışır. Çocukluk deneyimleri ona geçitleri, insan ilişkilerini ve Batak’ın gayriresmi ekonomisini okumayı öğretmiştir.",
         "iliskiler": "Clark onun abisi ve en güvendiği kişidir. Blake çocukluğundan beri tanıdığı, gerektiğinde birlikte risk alabildiği eski dostudur. Aras ile tanışmaları güvensizlik ve fiziksel bir arbede üzerinden gerçekleşir.",
-        "yetenekler": "Sol ön kolundaki sıradan erişim implantını kullanarak ağlara ve terminallere bağlanabilir. Hızlı düşünür, şehirde kestirmeler bulur ve insanların davranışlarını gözler; fiziksel olarak güçlü değildir ve her sisteme kolayca sızamaz.",
+        "yetenekler": "Nil, sol ön kolunun iç tarafındaki erişim implantı aracılığıyla yerel ağlara ve terminallere bağlanabilir; kablolarını gerektiğinde gizler. Başarılı bir araştırmacıdır: verileri ilişkilendirir, insanları gözlemler, şehirde kestirmeler bulur ve iz sürer. Fiziksel olarak güçlü bir dövüşçü değildir; sistemlere erişimi her zaman kolay değildir.",
         "notlar": "Clark, Nil’in haberi ve rızası olmadan sırtına ayrı bir gizleme çipi yerleştirmiştir. Nil açılışta bundan habersizdir. Çip, sonradan duygusal stresle belirginleşen dönüşüme yol açar; finalde kendi bedeniyle ilgili kararı Nil verir."
       },
       "related": [
@@ -67,12 +68,13 @@
       "type": "characters",
       "tagline": "ARAŞTIRMACI · 38 YAŞ",
       "summary": "Cen.net’in genetik araştırmalarında çalışan, iş yerinde mesafeli ama evde Nil’e sıcak davranan araştırmacı. Melek ve şeytanların varlığını keşfeder; onların teknolojisiyle saklanma amacı taşıyan bir çip geliştirir.",
-      "image": "",
+      "image": "portre-clark.webp",
       "meta": {
         "Yaş": "38",
         "İş": "Cen.net · araştırma",
         "Nil ile ilişkisi": "Abisi",
-        "Durum": "Üç gündür evde yok"
+        "Durum": "Üç gündür evde yok",
+        "Görünüm": "Uzun boylu, ince yapılı, Nil'den daha açık tenli; kısa düz siyah saçlı, yorgun yüzlü, akıllı gözlüklü; soğuk ve kuşkucu bakışlar, resmi kurumsal giyim."
       },
       "sections": {
         "genel": "İş ve ev hayatını birbirinden titizlikle ayırır. Güçlü teknik becerilerine rağmen hiçbir dijital altyapıya koşulsuz güvenmez; önemli ayrıntıları bazen fiziksel kayıtlarda tutar.",
@@ -91,21 +93,52 @@
       "status": "Güncel kanon"
     },
     {
+      "id": "julian",
+      "name": "Julian Junes",
+      "type": "characters",
+      "tagline": "NEPHILIM · YAKLAŞIK 200 YAŞ",
+      "summary": "Melek annesi cezalandırılmış, insan babası öldürülmüş bir Nephilim. Cen.net’in reklam yüzü olarak tanınır; eski fotoğraflarda aynı yüzle görünmesi Nil’in arşiv araştırmasına yol açar.",
+      "image": "portre-julian.webp",
+      "meta": {
+        "Yaş": "Yaklaşık 200",
+        "Köken": "Melek anne · insan baba",
+        "Kamu rolü": "Cen.net reklam yüzü",
+        "İç çatışma": "İtaat → direniş",
+        "Görünüm": "Açık platin saç, altın tonlu gözlükler, açık renk lüks ceket ve ince takılar."
+      },
+      "sections": {
+        "genel": "Tarikatın ve melek hiyerarşisinin gerçekliğini bilen Julian, çok uzun süre karşı çıkmaya cesaret edememiştir. Nil ile tanışması onu pasif uyumdan isyana iter.",
+        "gecmis": "Annesi Nephilim doğurduğu için cezalandırılmış, bilinmeyen bir yerde hapsedilmiştir. Babası melekler tarafından öldürülmüştür.",
+        "iliskiler": "Clark’ı tarikat adına gözlemiştir. Nil’in araştırmaları sırasında onu başlangıçta dışarıda tutmak ister, sonra tarikat davetine aracılık eder.",
+        "yetenekler": "Nephilim kökenine bağlı güçleri vardır ve Paradise baskınında bunları kullanır.",
+        "notlar": "Julian’ın annesinin bulunduğu yer ve akıbeti ikinci kitap için açık bırakılabilir."
+      },
+      "related": [
+        "nil",
+        "clark",
+        "nexariel",
+        "angels",
+        "paradise"
+      ],
+      "status": "Güncel kanon"
+    },
+    {
       "id": "blake",
       "name": "Blake",
       "type": "characters",
       "tagline": "BATak · 26 YAŞ",
-      "summary": "Nil’in sokak çocukluğundan tanıdığı, hızlı öfkelenen ve yeraltı bağlantıları bulunan eski dostu. İki yıl önce kaçmasına yardım etmeye çalıştığı Cen.net araştırmacısının ölümü, şirketle ilgili risklere bakışını değiştirir.",
-      "image": "blake.webp",
+      "summary": "Nil’in sokak çocukluğundan tanıdığı, hızlı öfkelenen ve yeraltı bağlantıları bulunan eski dostu. İki yıl önce kaçmasına yardım etmeye çalıştığı Cen.net araştırmacısı Vesna'nın ölümü, şirketle ilgili risklere bakışını değiştirir.",
+      "image": "portre-blake.webp",
       "meta": {
         "Yaş": "26",
         "Nil ile tanışma": "Nil 12 · Blake 14",
         "Bölge": "Batak / Sifon",
-        "Geçmiş": "Araştırmacı vakası"
+        "Geçmiş": "Vesna vakası",
+        "Portre": "Koyu kapüşon, yüz maskesi, siyah dağınık saç ve açık mavi gözler."
       },
       "sections": {
         "genel": "İnatçı, hareketli ve çatışmaya açık; buna rağmen Nil’in şehirdeki yeteneklerinin farkında. Yardım ederken kendi sınırlarını koyabilir.",
-        "gecmis": "İki yıl önce Cen.net’ten kaçmak isteyen bir kadın araştırmacı Blake’e başvurdu. Blake önce reddetti; mekana baskın düzenlenince yardım etmeyi kabul etti. Kadın öldürüldü, Nil ise Blake’in dijital izlerini temizledi. Cinayet çözülemedi.",
+        "gecmis": "İki yıl önce Cen.net’ten kaçmak isteyen Vesna Blake’e başvurdu. Blake önce reddetti; mekana baskın düzenlenince yardım etmeyi kabul etti. Kadın öldürüldü, Nil ise Blake’in dijital izlerini temizledi. Cinayet çözülemedi.",
         "iliskiler": "Nil ile yıllardır bağlantısını tamamen koparmamıştır. Geçmişteki başarısız kaçış, Nil’i korumak isterken onun kararlarını engelleme riskini doğurur.",
         "yetenekler": "Batak’ın gayriresmi geçişlerini, aracılık ağlarını ve iş karşılığı hizmet ilişkilerini tanır. Her meseleyi dövüşle çözemez; güvenin bir bedeli olduğunu bilir.",
         "notlar": "Ölen araştırmacının adı, araştırma alanı ve ölüm koşulları henüz kesinleştirilmedi. Clark’ın ana komplosuyla zorunlu olarak bağlantılı değildir."
@@ -114,7 +147,34 @@
         "nil",
         "batak",
         "sifon",
-        "cennet"
+        "cennet",
+        "vesna"
+      ],
+      "status": "Güncel kanon"
+    },
+    {
+      "id": "nexariel",
+      "name": "NEXARIEL",
+      "type": "characters",
+      "tagline": "MELEK · TARİKATIN ÜSTÜNDEKİ GÜÇ",
+      "summary": "Nil’in Clark’ın kardeşi olduğunu bilir; ancak ilk davet anında sırtındaki gizleme çipinden habersizdir.",
+      "image": "",
+      "meta": {
+        "Tür": "Melek",
+        "İlişki": "Angels tarikatı",
+        "İlk kanıt": "Nil’in ritüel sonrası karşılaşması"
+      },
+      "sections": {
+        "genel": "Nil’in tarikat davetini onaylar çünkü Clark’ın araştırmalarına ilişkin bilgi edinmek ister.",
+        "gecmis": "Clark’ın melek ve şeytanları keşfetmesi üzerine çalışmalarını durdurmasını istemiştir.",
+        "iliskiler": "Julian’ın uzun süre karşı çıkamadığı hiyerarşik otoritedir; Nil’e yaklaşımı çıkar odaklıdır.",
+        "yetenekler": "Melek doğası ve tarikat üzerindeki gücü.",
+        "notlar": "Paradise sonrasında Nil’in çipini fark etmesi, ilerideki ihanetin zeminini kurar."
+      },
+      "related": [
+        "nil",
+        "julian",
+        "angels"
       ],
       "status": "Güncel kanon"
     },
@@ -124,7 +184,7 @@
       "type": "characters",
       "tagline": "ESKİ CEN.NET GÜVENLİK UZMANI · 35 YAŞ",
       "summary": "Esmer, geniş omuzlu, gri ceketli. Gözbebekleri belli açılarda mavi ışıkla parlayan güncel model implantlara sahip. Diadolas’ta Nil tarafından takip edilince şirket ajanı sanıp kaçar.",
-      "image": "aras.webp",
+      "image": "",
       "meta": {
         "Yaş": "35",
         "Aile durumu": "Bekar · yalnız yaşıyor",
@@ -145,88 +205,6 @@
         "cennet"
       ],
       "status": "Güncel açılış taslağı"
-    },
-    {
-      "id": "julian",
-      "name": "Julian Junes",
-      "type": "characters",
-      "tagline": "NEPHILIM · YAKLAŞIK 200 YAŞ",
-      "summary": "Melek annesi cezalandırılmış, insan babası öldürülmüş bir Nephilim. Cen.net’in reklam yüzü olarak tanınır; eski fotoğraflarda aynı yüzle görünmesi Nil’in arşiv araştırmasına yol açar.",
-      "image": "",
-      "meta": {
-        "Yaş": "Yaklaşık 200",
-        "Köken": "Melek anne · insan baba",
-        "Kamu rolü": "Cen.net reklam yüzü",
-        "İç çatışma": "İtaat → direniş"
-      },
-      "sections": {
-        "genel": "Tarikatın ve melek hiyerarşisinin gerçekliğini bilen Julian, çok uzun süre karşı çıkmaya cesaret edememiştir. Nil ile tanışması onu pasif uyumdan isyana iter.",
-        "gecmis": "Annesi Nephilim doğurduğu için cezalandırılmış, bilinmeyen bir yerde hapsedilmiştir. Babası melekler tarafından öldürülmüştür.",
-        "iliskiler": "Clark’ı tarikat adına gözlemiştir. Nil’in araştırmaları sırasında onu başlangıçta dışarıda tutmak ister, sonra tarikat davetine aracılık eder.",
-        "yetenekler": "Nephilim kökenine bağlı güçleri vardır ve Paradise baskınında bunları kullanır.",
-        "notlar": "Julian’ın annesinin bulunduğu yer ve akıbeti ikinci kitap için açık bırakılabilir."
-      },
-      "related": [
-        "nil",
-        "clark",
-        "nexariel",
-        "angels",
-        "paradise"
-      ],
-      "status": "Güncel kanon"
-    },
-    {
-      "id": "nadejda",
-      "name": "Nadejda",
-      "type": "characters",
-      "tagline": "FALCI · GEZGİN TOPLULUKLAR",
-      "summary": "Sifon ve Batak çevresinde rastlanan, kader konusunda ısrarcı, kısa ve tekinsiz konuşmalarıyla Nil’in irade anlayışına karşı duran falcı. Doğaüstü bir güç kaynağı olarak etnik kökenine başvurulmaz.",
-      "image": "nadejda.webp",
-      "meta": {
-        "Rol": "Falcı · yan karakter",
-        "Çevre": "Batak / Sifon",
-        "Ton": "Kaderci, uğursuzluk habercisi",
-        "İddia": "Kesin kehanet yok"
-      },
-      "sections": {
-        "genel": "Görünüşte büyülü bir şehir folklorunun parçasıdır; sahneleri gerçek büyü kanıtlamaz.",
-        "gecmis": "Kendi geçmişi ve hareketliliğinin ayrıntıları açık bırakıldı.",
-        "iliskiler": "Blake’in mekanının çevresinde görülebilir; Nil’in “kader değil seçim” tavrına karşıt ses oluşturur.",
-        "yetenekler": "İnsan okuma, gözlem, falcılık ve sözlü gelenekler. Kesin geleceği bildiği kabul edilmez.",
-        "notlar": "Gezgin topluluklar tek bir etnik gruba veya tek bir yaşam biçimine indirgenmez."
-      },
-      "related": [
-        "blake",
-        "batak",
-        "gezginler"
-      ],
-      "status": "Güncel kanon"
-    },
-    {
-      "id": "daniil",
-      "name": "Daniil",
-      "type": "characters",
-      "tagline": "HEKİM · DESTEK KARAKTER",
-      "summary": "Çipin Nil’in sinir sistemine nasıl bağlandığını değerlendiren doktor. Finalde çıkarılmasının tıbben tehlikeli olduğunu açıkça bildirir.",
-      "image": "",
-      "meta": {
-        "Meslek": "Doktor",
-        "Kilidi açan karar": "Çipin çıkarılması",
-        "Konum": "İlişkiler netleşecek"
-      },
-      "sections": {
-        "genel": "Nil’in karşı karşıya olduğu fiziksel riskler konusunda bilgili, dönüştürücü teknolojiyi sıradan bir aksesuar gibi görmeyen bir hekim.",
-        "gecmis": "Geçmişinin ve Cen.net ile bağlantılarının ayrıntıları açık.",
-        "iliskiler": "Nil’in bedeniyle ilgili son kararı kendisinin vermesi gerektiği gerilimini görünür kılar.",
-        "yetenekler": "Tıbbi değerlendirme ve çip çıkarılmasının risklerini açıklama.",
-        "notlar": "Çip çıkarıldıktan sonra Nil’in güçlerinin kalıcı bir kısmı kalır."
-      },
-      "related": [
-        "nil",
-        "gizleme_cipi",
-        "derman"
-      ],
-      "status": "Açık ayrıntılar"
     },
     {
       "id": "hamlet",
@@ -255,28 +233,103 @@
       "status": "Açık tasarım"
     },
     {
-      "id": "nexariel",
-      "name": "NEXARIEL",
+      "id": "daniil",
+      "name": "Daniil",
       "type": "characters",
-      "tagline": "MELEK · TARİKATIN ÜSTÜNDEKİ GÜÇ",
-      "summary": "Nil’in Clark’ın kardeşi olduğunu bilir; ancak ilk davet anında sırtındaki gizleme çipinden habersizdir.",
+      "tagline": "HEKİM · DESTEK KARAKTER",
+      "summary": "Çipin Nil’in sinir sistemine nasıl bağlandığını değerlendiren doktor. Finalde çıkarılmasının tıbben tehlikeli olduğunu açıkça bildirir.",
       "image": "",
       "meta": {
-        "Tür": "Melek",
-        "İlişki": "Angels tarikatı",
-        "İlk kanıt": "Nil’in ritüel sonrası karşılaşması"
+        "Meslek": "Doktor",
+        "Kilidi açan karar": "Çipin çıkarılması",
+        "Konum": "İlişkiler netleşecek"
       },
       "sections": {
-        "genel": "Nil’in tarikat davetini onaylar çünkü Clark’ın araştırmalarına ilişkin bilgi edinmek ister.",
-        "gecmis": "Clark’ın melek ve şeytanları keşfetmesi üzerine çalışmalarını durdurmasını istemiştir.",
-        "iliskiler": "Julian’ın uzun süre karşı çıkamadığı hiyerarşik otoritedir; Nil’e yaklaşımı çıkar odaklıdır.",
-        "yetenekler": "Melek doğası ve tarikat üzerindeki gücü.",
-        "notlar": "Paradise sonrasında Nil’in çipini fark etmesi, ilerideki ihanetin zeminini kurar."
+        "genel": "Nil’in karşı karşıya olduğu fiziksel riskler konusunda bilgili, dönüştürücü teknolojiyi sıradan bir aksesuar gibi görmeyen bir hekim.",
+        "gecmis": "Geçmişinin ve Cen.net ile bağlantılarının ayrıntıları açık.",
+        "iliskiler": "Nil’in bedeniyle ilgili son kararı kendisinin vermesi gerektiği gerilimini görünür kılar.",
+        "yetenekler": "Tıbbi değerlendirme ve çip çıkarılmasının risklerini açıklama.",
+        "notlar": "Çip çıkarıldıktan sonra Nil’in güçlerinin kalıcı bir kısmı kalır."
       },
       "related": [
         "nil",
-        "julian",
-        "angels"
+        "gizleme_cipi",
+        "derman"
+      ],
+      "status": "Açık ayrıntılar"
+    },
+    {
+      "id": "77",
+      "name": "77",
+      "type": "characters",
+      "tagline": "CEN.NET CEO'SU · KOD ADI",
+      "summary": "Cen.net'in en üst düzey yöneticisi. 77 onun kod adıdır; gerçek adı, geçmişi, yaşı, görünüşü ve kişisel özellikleri henüz belirlenmedi.",
+      "image": "",
+      "meta": {
+        "Görev": "Cen.net CEO'su",
+        "Kod adı": "77",
+        "Gerçek adı": "Henüz bilinmiyor"
+      },
+      "sections": {
+        "genel": "77, Cen.net CEO'su için kullanılan kod adıdır. Henüz gerçek ismi ve kimliği açıklanmadı.",
+        "gecmis": "Henüz belirlenmedi.",
+        "iliskiler": "Cen.net'in üst yönetimindeki konumu biliniyor; diğer karakterlerle kişisel ilişkileri henüz belirlenmedi.",
+        "notlar": "Portre ve fiziksel özellikler henüz seçilmedi."
+      },
+      "related": [
+        "cennet"
+      ],
+      "status": "Kod adı kesin · Ayrıntılar açık"
+    },
+    {
+      "id": "vesna",
+      "name": "Vesna",
+      "type": "characters",
+      "tagline": "ESKİ CEN.NET ARAŞTIRMACISI",
+      "summary": "İki yıl önce Cen.net'ten kaçmak için Blake'ten yardım isteyen kadın araştırmacı. Blake başlangıçta bunu reddeder, ancak mekanına baskın yapılınca olaya dahil olur. Vesna öldürülür; Nil yalnızca Blake'in dijital izlerini temizler. Cinayet çözülemez.",
+      "image": "",
+      "meta": {
+        "Soyadı": "Henüz belirlenmedi",
+        "Eski işi": "Cen.net araştırmacısı",
+        "Durum": "İki yıl önce öldürüldü"
+      },
+      "sections": {
+        "genel": "Vesna, Cen.net'ten ayrılmaya çalışırken Blake'ten yardım isteyen araştırmacıdır. Ölümü Blake'in şirkete yönelik tutumunu etkiler.",
+        "gecmis": "Blake başlangıçta yardım etmeyi reddeder. Mekanına baskın yapılınca olaya karışır. Vesna öldürülür; Nil Blake'in dijital izlerini temizler.",
+        "iliskiler": "Blake ve Nil, Vesna'nın ölümünden etkilenen iki kişidir.",
+        "notlar": "Soyadı, araştırma konusu ve ölümünün ayrıntıları henüz belirlenmedi. Ana komployla doğrudan bağlantı kurulmuş değildir."
+      },
+      "related": [
+        "blake",
+        "nil",
+        "cennet"
+      ],
+      "status": "İsim kesin · Ayrıntılar açık"
+    },
+    {
+      "id": "nadejda",
+      "name": "Nadejda",
+      "type": "characters",
+      "tagline": "FALCI · GEZGİN TOPLULUKLAR",
+      "summary": "Sifon ve Batak çevresinde rastlanan, kader konusunda ısrarcı, kısa ve tekinsiz konuşmalarıyla Nil’in irade anlayışına karşı duran falcı. Doğaüstü bir güç kaynağı olarak etnik kökenine başvurulmaz.",
+      "image": "nadejda.webp",
+      "meta": {
+        "Rol": "Falcı · yan karakter",
+        "Çevre": "Batak / Sifon",
+        "Ton": "Kaderci, uğursuzluk habercisi",
+        "İddia": "Kesin kehanet yok"
+      },
+      "sections": {
+        "genel": "Görünüşte büyülü bir şehir folklorunun parçasıdır; sahneleri gerçek büyü kanıtlamaz.",
+        "gecmis": "Kendi geçmişi ve hareketliliğinin ayrıntıları açık bırakıldı.",
+        "iliskiler": "Blake’in mekanının çevresinde görülebilir; Nil’in “kader değil seçim” tavrına karşıt ses oluşturur.",
+        "yetenekler": "İnsan okuma, gözlem, falcılık ve sözlü gelenekler. Kesin geleceği bildiği kabul edilmez.",
+        "notlar": "Gezgin topluluklar tek bir etnik gruba veya tek bir yaşam biçimine indirgenmez."
+      },
+      "related": [
+        "blake",
+        "batak",
+        "gezginler"
       ],
       "status": "Güncel kanon"
     },
@@ -889,8 +942,8 @@
     },
     {
       "when": "2 yıl önce",
-      "title": "Blake’in araştırmacı vakası",
-      "body": "Cen.net’ten kaçmaya çalışan kadın araştırmacı öldürülür. Nil Blake’in dijital izlerini siler."
+      "title": "Blake’in Vesna vakası",
+      "body": "Cen.net’ten kaçmaya çalışan Vesna öldürülür. Nil Blake’in dijital izlerini siler."
     },
     {
       "when": "Yaklaşık 1 ay önce",
@@ -998,8 +1051,7 @@
   ],
   "legacy": "eski-hikaye-haritasi.html",
   "images": {
-    "aras": "aras.webp",
-    "nil": "nil-concept.webp",
+    "nil": "portre-nil.webp",
     "nadejda": "nadejda.webp",
     "kemal": "kemal.webp",
     "aziz_kiril": "aziz_kiril.webp",
@@ -1014,12 +1066,14 @@
     "sifon": "vitrin-05-sifon.webp",
     "gezginler": "gezginler.webp",
     "balolar": "balolar.webp",
-    "blake": "blake.webp",
+    "blake": "portre-blake.webp",
     "skopse": "vitrin-01-skopse.webp",
     "batak": "vitrin-07-batak.webp",
     "diadolas": "vitrin-06-diadolas.webp",
     "cennet_merkez": "vitrin-03-tunek.webp",
-    "onj_nehri": "vitrin-01-skopse.webp"
+    "onj_nehri": "vitrin-01-skopse.webp",
+    "clark": "portre-clark.webp",
+    "julian": "portre-julian.webp"
   },
   "chapters": [
     {

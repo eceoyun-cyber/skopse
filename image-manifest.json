@@ -1,10 +1,11 @@
 {
+  "77": {
+    "path": null,
+    "status": "Portre şimdilik boş"
+  },
   "aras": {
-    "path": "assets/aras.webp",
-    "dimensions": [
-      688,
-      930
-    ]
+    "path": null,
+    "status": "Portre şimdilik boş"
   },
   "skopse": {
     "external": "https://i.pinimg.com/736x/09/12/83/091283eeb31306267cc53b79f207940d.jpg"
@@ -22,14 +23,28 @@
     "external": "https://static.wikia.nocookie.net/supreme-being/images/f/f9/YHWH_%28AS%29.jpg/revision/latest/scale-to-width-down/296?cb=20130915050621"
   },
   "nil": {
-    "path": "assets/nil-concept.webp",
-    "caption": "Konsept tasarımdan çıkarılan karakter illüstrasyonu"
+    "path": "portre-nil.webp",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "caption": "Yazarın seçtiği resmi Nil portresi"
   },
   "julian": {
-    "external": "https://i.pinimg.com/736x/1a/3e/7a/1a3e7a977048733eaf0c1bcc2da7b252.jpg"
+    "path": "portre-julian.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "caption": "Yazarın seçtiği resmi Julian portresi"
   },
   "blake": {
-    "external": "https://media.discordapp.net/attachments/924588663394938901/925084825776431114/main-qimg-4f7f51d30a743c24a45693e81d8dcc6f.png?ex=6acb2521&is=6ac9d3a1&hm=51c7f345b48147ce2e805c5a7f56145900f7fd3d90dbea4736e4eaa01252ef75&=&format=webp&quality=lossless"
+    "path": "portre-blake.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "caption": "Yazarın seçtiği resmi Blake portresi"
   },
   "drdaniil": {
     "external": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS524-o7n0r-1x4_6Fd5Fh08ydEYUmCNLSmJqZ6M0lE13l2Tay9PKrtHNen&s=10"
@@ -41,7 +56,12 @@
     "external": "https://i.pinimg.com/736x/20/d6/a5/20d6a5b35127fe369082a17b32151178.jpg"
   },
   "clark": {
-    "external": "https://i.pinimg.com/1200x/9d/8e/09/9d8e090a48f77ca4ff5496669914d864.jpg"
+    "path": "portre-clark.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "caption": "Yazarın seçtiği resmi Clark portresi"
   },
   "nadejda": {
     "path": "assets/nadejda.webp",
@@ -116,5 +136,9 @@
   },
   "balolar": {
     "path": "assets/balolar.webp"
+  },
+  "vesna": {
+    "path": null,
+    "status": "Portre şimdilik boş"
   }
 }
