@@ -70,3 +70,22 @@ main{max-width:var(--wide);margin:0 auto;min-height:calc(100vh - 160px)}.loading
 .hero-place-art img{object-fit:contain}
 #homeBrand:focus-visible,.search-button:focus-visible,.record-link:focus-visible,.home-tile:focus-visible,.ghost-btn:focus-visible{outline:3px solid var(--teal);outline-offset:3px}
 @media(max-width:620px){.hero-place{height:480px;min-height:480px;max-height:480px}.record-link small{font-size:12px}.primary-nav button{text-align:left}}
+/* Atlas 3.6 — bütün karakter portreleri 1024×1536, değişmeyen dikey çerçeve */
+.portrait-layout .media-panel{
+  height:680px;
+  min-height:0;
+  max-height:680px;
+  align-self:start;
+}
+.portrait-layout .media-panel img{
+  width:100%;
+  height:100%;
+  object-fit:contain;
+  object-position:center center;
+}
+@media(max-width:900px){
+  .portrait-layout .media-panel{height:590px;max-height:590px;}
+}
+@media(max-width:620px){
+  .portrait-layout .media-panel{height:clamp(390px,74vh,640px);max-height:640px;}
+}

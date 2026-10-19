@@ -29,10 +29,10 @@
   "nil": {
     "path": "portre-nil.webp",
     "dimensions": [
-      1122,
-      1402
+      1024,
+      1536
     ],
-    "caption": "Yazarın seçtiği resmi Nil portresi"
+    "caption": "Yazarın seçtiği Nil portresi; kırpılmadan 1024 × 1536 piksel çerçeveye uyarlandı"
   },
   "julian": {
     "path": "portre-julian.webp",
