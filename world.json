@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-19 · Atlas 3.3 · Onaylı Karakter Portreleri",
+  "version": "2026-10-19 · Atlas 3.4 · Mekan ve Düzen Güncellemesi",
   "title": "SKOPSE",
   "strapline": "Mutant Bir Şehir",
   "intro": "Skopse, Onj Nehri’nin iki kıyısında büyüyen, teknolojinin ve eşitsizliğin aynı sokaklara sığdığı bir kenttir. Yeni Şehir taşkınlardan korunurken Eski Şehir her ekimde yeniden su altında kalır.",
@@ -60,7 +60,8 @@
         "diadolas",
         "batak"
       ],
-      "status": "Güncel kanon"
+      "status": "Güncel kanon",
+      "shortLabel": "Ana karakter"
     },
     {
       "id": "clark",
@@ -90,7 +91,8 @@
         "julian",
         "gizleme_cipi"
       ],
-      "status": "Güncel kanon"
+      "status": "Güncel kanon",
+      "shortLabel": "Cen.net araştırmacısı"
     },
     {
       "id": "julian",
@@ -120,7 +122,8 @@
         "angels",
         "paradise"
       ],
-      "status": "Güncel kanon"
+      "status": "Güncel kanon",
+      "shortLabel": "Nephilim"
     },
     {
       "id": "blake",
@@ -138,10 +141,10 @@
       },
       "sections": {
         "genel": "İnatçı, hareketli ve çatışmaya açık; buna rağmen Nil’in şehirdeki yeteneklerinin farkında. Yardım ederken kendi sınırlarını koyabilir.",
-        "gecmis": "İki yıl önce Cen.net’ten kaçmak isteyen Vesna Blake’e başvurdu. Blake önce reddetti; mekana baskın düzenlenince yardım etmeyi kabul etti. Kadın öldürüldü, Nil ise Blake’in dijital izlerini temizledi. Cinayet çözülemedi.",
+        "gecmis": "İki yıl önce Cen.net’ten kaçmak isteyen Vesna Blake’e başvurdu. Blake önce reddetti; mekana baskın düzenlenince yardım etmeyi kabul etti. Vesna öldürüldü, Nil ise Blake’in dijital izlerini temizledi. Cinayet çözülemedi.",
         "iliskiler": "Nil ile yıllardır bağlantısını tamamen koparmamıştır. Geçmişteki başarısız kaçış, Nil’i korumak isterken onun kararlarını engelleme riskini doğurur.",
         "yetenekler": "Batak’ın gayriresmi geçişlerini, aracılık ağlarını ve iş karşılığı hizmet ilişkilerini tanır. Her meseleyi dövüşle çözemez; güvenin bir bedeli olduğunu bilir.",
-        "notlar": "Ölen araştırmacının adı, araştırma alanı ve ölüm koşulları henüz kesinleştirilmedi. Clark’ın ana komplosuyla zorunlu olarak bağlantılı değildir."
+        "notlar": "Vesna'nın adı kesinleşti. Soyadı, araştırma alanı ve ölümünün ayrıntıları henüz belirlenmedi; Clark'ın ana komplosuyla doğrudan bağlantısı kesin değildir."
       },
       "related": [
         "nil",
@@ -150,7 +153,8 @@
         "cennet",
         "vesna"
       ],
-      "status": "Güncel kanon"
+      "status": "Güncel kanon",
+      "shortLabel": "Yeraltı bağlantıları"
     },
     {
       "id": "nexariel",
@@ -176,7 +180,8 @@
         "julian",
         "angels"
       ],
-      "status": "Güncel kanon"
+      "status": "Güncel kanon",
+      "shortLabel": "Melek"
     },
     {
       "id": "aras",
@@ -204,7 +209,8 @@
         "diadolas",
         "cennet"
       ],
-      "status": "Güncel açılış taslağı"
+      "status": "Güncel açılış taslağı",
+      "shortLabel": "Eski güvenlik uzmanı"
     },
     {
       "id": "hamlet",
@@ -230,7 +236,8 @@
         "clark",
         "gizleme_cipi"
       ],
-      "status": "Açık tasarım"
+      "status": "Açık tasarım",
+      "shortLabel": "Sinirsel yapay zeka"
     },
     {
       "id": "daniil",
@@ -256,7 +263,8 @@
         "gizleme_cipi",
         "derman"
       ],
-      "status": "Açık ayrıntılar"
+      "status": "Açık ayrıntılar",
+      "shortLabel": "Hekim"
     },
     {
       "id": "77",
@@ -279,7 +287,8 @@
       "related": [
         "cennet"
       ],
-      "status": "Kod adı kesin · Ayrıntılar açık"
+      "status": "Kod adı kesin · Ayrıntılar açık",
+      "shortLabel": "Cen.net CEO'su"
     },
     {
       "id": "vesna",
@@ -304,7 +313,8 @@
         "nil",
         "cennet"
       ],
-      "status": "İsim kesin · Ayrıntılar açık"
+      "status": "İsim kesin · Ayrıntılar açık",
+      "shortLabel": "Cen.net araştırmacısı"
     },
     {
       "id": "nadejda",
@@ -331,7 +341,8 @@
         "batak",
         "gezginler"
       ],
-      "status": "Güncel kanon"
+      "status": "Güncel kanon",
+      "shortLabel": "Falcı"
     },
     {
       "id": "skopse",
@@ -360,7 +371,8 @@
         "tunek",
         "batak"
       ],
-      "status": "Güncel şehir"
+      "status": "Güncel şehir",
+      "shortLabel": "Savaş sonrası megakent"
     },
     {
       "id": "eski_sehir",
@@ -386,7 +398,8 @@
         "yeni_sehir",
         "sifon"
       ],
-      "status": "Açılış metni"
+      "status": "Açılış metni",
+      "shortLabel": "Tarihi kıyı"
     },
     {
       "id": "yeni_sehir",
@@ -413,7 +426,8 @@
         "diadolas",
         "cennet"
       ],
-      "status": "Güncel şehir"
+      "status": "Güncel şehir",
+      "shortLabel": "Korunaklı kıyı"
     },
     {
       "id": "tunek",
@@ -440,7 +454,8 @@
         "derman",
         "harman"
       ],
-      "status": "Açılış metni"
+      "status": "Açılış metni",
+      "shortLabel": "En yüksek kuleler"
     },
     {
       "id": "batak",
@@ -468,7 +483,8 @@
         "sifon",
         "gezginler"
       ],
-      "status": "Güncel kanon"
+      "status": "Güncel kanon",
+      "shortLabel": "Gayriresmi ekonomi"
     },
     {
       "id": "sifon",
@@ -493,7 +509,8 @@
         "gezginler",
         "nadejda"
       ],
-      "status": "Güncel kanon"
+      "status": "Güncel kanon",
+      "shortLabel": "Yeraltı bağlantıları"
     },
     {
       "id": "diadolas",
@@ -519,33 +536,40 @@
         "aras",
         "yeni_sehir"
       ],
-      "status": "Güncel açılış"
+      "status": "Güncel açılış",
+      "shortLabel": "Lüks yaşam merkezi"
     },
     {
       "id": "paradise",
-      "name": "Paradise",
+      "name": "Paradise / Cen.net Ağacı",
       "type": "places",
-      "tagline": "CEN.NET · GİZLİ SUNUCULAR",
-      "summary": "Nil, Julian ve Blake’in Clark’ın kayboluşuna dair bilgi aramak için sızdığı Cen.net sunucu kompleksi. Kayıt bulamazlar ancak şirketin şeytanlarla bağlantısını fark ederler.",
-      "image": "paradise.webp",
+      "tagline": "CEN.NET GENEL MERKEZİ · PARADISE",
+      "summary": "Paradise, Cen.net'in genel merkezidir; Cen.net Ağacı adıyla da bilinir. Şirketin yönetim, araştırma ve yüksek güvenlikli sunucu altyapısını barındırır. Clark ve Nil'in yaşadığı korumalı personel konutları merkez yerleşkesinin yakınındadır.",
+      "image": "vitrin-03-tunek.webp",
       "meta": {
         "İşlev": "Sunucu altyapısı",
-        "Sahne": "Sızma / çatışma"
+        "Sahne": "Paradise sızması",
+        "Diğer adları": "Cen.net Ağacı · Cen.net Genel Merkezi",
+        "Yerleşke": "Yönetim, araştırma ve sunucular",
+        "Konutlar": "Özel personel konutları yakınında"
       },
       "sections": {
-        "genel": "Sızma muhafızlar tarafından fark edilir. Nil’in güçleri ilk kez açıkça belirir; Julian da kendi güçlerini kullanır.",
-        "gecmis": "Cen.net’in kapalı altyapı alanlarından biri.",
-        "iliskiler": "Nil, Julian, Blake ve Cen.net’in şeytani ilişkisi.",
-        "yetenekler": "Yüksek güvenlikli sistemler, fiziksel ve dijital bariyerler.",
-        "notlar": "Burada Clark’a dair kayıt bulunmaz."
+        "genel": "Paradise, Cen.net'in genel merkezi ve Cen.net Ağacı olarak da bilinen merkez yerleşkesidir. Şirketin iş ve araştırma bölümleriyle kapalı sunucu altyapısı burada bulunur. Clark Cen.net'in araştırma bölümüne geçince Nil ile birlikte bu yerleşkenin yakınındaki korumalı personel konutlarına taşınmıştır.",
+        "gecmis": "Cen.net savaş sonrası dijital altyapı üzerindeki etkisini büyüttü. Paradise, şirketin yüksek güvenlikli merkezi olarak bu yapının parçasıdır.",
+        "iliskiler": "Nil, Julian ve Blake Clark'a dair izler aramak için buradaki sunuculara sızar. Clark'ın kayıtlarına ulaşamazlar, fakat şirketin şeytanlarla bağlantısını fark ederler.",
+        "yetenekler": "Korumalı araştırma tesisleri, sunucular, erişim kontrolü ve fiziksel-dijital güvenlik katmanları; sızma sırasında muhafızlar devreye girer. Nil'in güçleri ilk kez belirginleşir, Julian da güçlerini kullanır.",
+        "notlar": "Paradise ve Cen.net Genel Merkezi aynı mekandır, iki ayrı yer değildir. 'Cen.net Ağacı' alternatif adıdır; Paradise sunucuları bu merkezin parçasıdır. Şimdiki kapak görseli, seçilen Tünek stilinden geçici bir görseldir."
       },
       "related": [
+        "cennet",
         "nil",
+        "clark",
         "julian",
         "blake",
-        "cennet"
+        "77"
       ],
-      "status": "Kitap I"
+      "status": "Güncel kanon",
+      "shortLabel": "Cen.net genel merkezi"
     },
     {
       "id": "cennet",
@@ -557,12 +581,12 @@
       "meta": {
         "Alan": "Ağ ve yazılım altyapısı",
         "Birim": "Genetik araştırma",
-        "İlişki": "Paradise"
+        "Merkez": "Paradise / Cen.net Ağacı"
       },
       "sections": {
         "genel": "Cen.net, Skopse’de bir işletim sistemi veya ağ standardı gibi her yerde hissedilir. Müşteri kimliği ve kurumsal erişim sistemleri, diğer şirketlerin hizmetlerini de etkiler.",
-        "gecmis": "Clark bu şirketin araştırma biriminde çalışır. Aras eski veri güvenliği uzmanıdır.",
-        "iliskiler": "Paradise ve şeytanlarla bağı; diğer kurumlarla ekonomik karşılıklı bağımlılık.",
+        "gecmis": "Clark bu şirketin araştırma biriminde çalışır. Aras eski veri güvenliği uzmanıdır. Cen.net merkezine yakın korumalı konutlarda Clark ve Nil yaşar.",
+        "iliskiler": "Merkez yerleşkesi Paradise (Cen.net Ağacı), sunucu altyapısı ve şeytanlarla ilişkisine dair izler; diğer kurumlarla ekonomik karşılıklı bağımlılık.",
         "yetenekler": "Kimlik ve ağ lisansları, erişim günlüğü, temel yazılımlar.",
         "notlar": "Cen.net Nil’in Clark’ın kardeşi olduğunu bilir ama onun sırtındaki çipi bilmez; becerilerini küçümser."
       },
@@ -570,7 +594,8 @@
         "clark",
         "aras",
         "paradise",
-        "nil"
+        "nil",
+        "77"
       ],
       "status": "Güncel kanon"
     },
@@ -900,24 +925,8 @@
         "eski_sehir",
         "yeni_sehir"
       ],
-      "status": "Yazarın metninden"
-    },
-    {
-      "id": "cennet_merkez",
-      "name": "Cen.net Genel Merkezi",
-      "type": "places",
-      "tagline": "ŞİRKET YERLEŞKESİ",
-      "summary": "Cen.net’in iş ve araştırma yapılarının bulunduğu merkez yerleşke. Şirketin bazı özel personeline ayrılan korumalı konut bölgesi bu merkezin yakınındadır.",
-      "image": "vitrin-03-tunek.webp",
-      "sections": {
-        "genel": "Clark Cen.net’te çalışmaya başladıktan sonra Nil ile birlikte merkeze yakın, özel personel konutlarına taşınmıştır. Şirketin dijital altyapı üzerindeki güçlü konumu burada da hissedilir."
-      },
-      "related": [
-        "cennet",
-        "nil",
-        "clark"
-      ],
-      "status": "Güncel kanon"
+      "status": "Yazarın metninden",
+      "shortLabel": "İki yakayı ayırır"
     }
   ],
   "featureGallery": [
@@ -936,9 +945,19 @@
       "body": "Göçler, şirket ağları ve ayrıcalıklı altyapılar kentin çehresini değiştirir."
     },
     {
+      "when": "Her yıl · ekim başı ve sonu",
+      "title": "Onj'un iki taşkını",
+      "body": "Yeni Şehir'deki elektronik surlar kıyıdaki yatları, konutları ve restoranları korurken suyun etkisini Eski Şehir'e yönlendirir. Tarihi sağlam yapılar sığınak olur; bazı insanlar yarım kalmış metro tünellerine geçer."
+    },
+    {
       "when": "12 yıl önce",
       "title": "Clark, Nil’i yanına alır",
       "body": "Nil 12, Clark 26 yaşındadır. Ortak hayatları böyle başlar."
+    },
+    {
+      "when": "Yıllar önce · tarih açık",
+      "title": "Cen.net yerleşkesine taşınma",
+      "body": "Clark, Cen.net'in araştırma bölümüne girdikten sonra Nil ile beraber Paradise / Cen.net Ağacı yakınındaki korumalı personel konutlarına taşınır."
     },
     {
       "when": "2 yıl önce",
@@ -1029,6 +1048,26 @@
     {
       "term": "Onj Nehri",
       "meaning": "Kuzey ile güneyi ayıran, ekim ayının başında ve sonunda taşan nehir."
+    },
+    {
+      "term": "Paradise / Cen.net Ağacı",
+      "meaning": "Cen.net'in genel merkezi. Yüksek güvenlikli sunucular, araştırma alanları ve yönetim bu yerleşkededir; özel personel konutları yakınındadır."
+    },
+    {
+      "term": "Angels Tarikatı",
+      "meaning": "Melek hiyerarşisiyle ilişkili, eski ritüelleri ve gizli giriş sınavları bulunan topluluk."
+    },
+    {
+      "term": "Gezgin Topluluklar",
+      "meaning": "Skopse'de farklı kökenlerden gelen; yer değiştiren veya dönemsel yerleşik yaşayan, ticaret, tamir, sanat ve bilgi alışverişiyle var olan topluluklar."
+    },
+    {
+      "term": "Gizleme Çipi",
+      "meaning": "Clark'ın melek ve şeytanların tespitinden saklanmak için geliştirdiği, Nil'e habersizce yerleştirdiği ve beklenmedik dönüşüme neden olan çip."
+    },
+    {
+      "term": "Abonelik Düzeni",
+      "meaning": "Konut, güvenlik, kimlik, sağlık ve implant işlevlerine kalıcı sahiplik yerine koşullu abonelik yoluyla erişilen teknofeodal sistem."
     }
   ],
   "authorNotes": [
@@ -1046,7 +1085,11 @@
     },
     {
       "title": "Açık sorular",
-      "body": "Aras’ın görevden ayrılış tarihinin sorguya göre günleri; araştırmacı kadının adı ve vakası; tarikat sınavları; Hamlet’in son biçimi; Paradise kaçışı; Julian’ın annesi."
+      "body": "Aras'ın sorgulanma ve işten ayrılış günleri; Vesna'nın araştırma alanı ve ölüm koşulları; tarikat sınavları; Hamlet'in son biçimi; Paradise'dan kaçış; Julian'ın annesi."
+    },
+    {
+      "title": "Paradise ve Cen.net Ağacı",
+      "body": "Paradise, Cen.net'in genel merkezinin alternatif adıdır. Cen.net Ağacı da aynı yapıyı anlatır. Sunucu altyapısı, araştırma alanları ve şirket yerleşkesi tek mekan dosyasında tutulur."
     }
   ],
   "legacy": "eski-hikaye-haritasi.html",
@@ -1059,7 +1102,7 @@
     "underground": "underground.webp",
     "batan_yaka": "batan_yaka.webp",
     "altin_yaka": "altin_yaka.webp",
-    "paradise": "paradise.webp",
+    "paradise": "vitrin-03-tunek.webp",
     "eski_sehir": "vitrin-02-eski-sehir.webp",
     "yeni_sehir": "vitrin-04-yeni-sehir.webp",
     "tunek": "vitrin-03-tunek.webp",
@@ -1070,7 +1113,6 @@
     "skopse": "vitrin-01-skopse.webp",
     "batak": "vitrin-07-batak.webp",
     "diadolas": "vitrin-06-diadolas.webp",
-    "cennet_merkez": "vitrin-03-tunek.webp",
     "onj_nehri": "vitrin-01-skopse.webp",
     "clark": "portre-clark.webp",
     "julian": "portre-julian.webp"
@@ -1186,6 +1228,6 @@
     "diadolas",
     "batak",
     "onj_nehri",
-    "cennet_merkez"
+    "paradise"
   ]
 }

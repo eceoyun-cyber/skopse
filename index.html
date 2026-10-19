@@ -7,8 +7,8 @@
   <meta name="description" content="SKOPSE evreni için karakterler, şehir, şirketler, sözlük, zaman çizelgesi ve bölüm özetlerini içeren yazar atlası.">
   <title>SKOPSE — Dünya Atlası</title>
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="styles.css?v=33">
-  <script src="app.js?v=33" defer></script>
+  <link rel="stylesheet" href="styles.css?v=34">
+  <script src="app.js?v=34" defer></script>
 </head>
 <body>
   <a class="skip" href="#content">İçeriğe geç</a>
@@ -23,10 +23,11 @@
       <button type="button" data-page="sozluk">SÖZLÜK</button>
       <button type="button" data-page="bolumler">BÖLÜM ÖZETLERİ</button>
     </nav>
-    <div class="header-actions"><button class="search-button" type="button" id="searchToggle" aria-label="Arama aç">⌕</button><button class="mobile-menu" id="menuToggle" aria-label="Menüyü aç" aria-expanded="false">☰</button></div>
+    <div class="header-actions"><button class="search-button" type="button" id="searchToggle" aria-label="Arama alanını aç" aria-expanded="false" aria-controls="headerSearch">⌕</button><button class="mobile-menu" id="menuToggle" aria-label="Menüyü aç" aria-expanded="false">☰</button></div>
+    <div id="headerSearch" class="header-search" role="search" hidden><div class="search-input-row"><label class="sr" for="searchInput">Atlas içinde ara</label><input id="searchInput" type="search" placeholder="Atlas içinde ara…" autocomplete="off" aria-controls="searchResults"><button type="button" id="searchClose" aria-label="Aramayı kapat">✕</button></div><div id="searchResults" class="search-results" aria-live="polite"></div></div>
   </header>
   <main id="content" tabindex="-1" aria-live="polite"><div class="loading">SKOPSE atlası hazırlanıyor…</div></main>
-  <dialog id="searchDialog" class="search-dialog" aria-labelledby="searchTitle"><div class="search-inner"><div class="search-head"><h2 id="searchTitle">ATLAS ARAMASI</h2><button type="button" id="searchClose" aria-label="Kapat">✕</button></div><label class="sr" for="searchInput">Aranacak sözcük</label><input id="searchInput" type="search" placeholder="Karakter, mekan, şirket veya kavram ara…" autocomplete="off"><div id="searchResults" class="search-results"></div></div></dialog>
+
   <footer class="site-foot"><span>SKOPSE · DÜNYA ATLASI</span><span>YAZARIN ÇALIŞMA ARŞİVİ</span><a href="eski-hikaye-haritasi.html">ESKİ HİKAYE HARİTASI ↗</a></footer>
 </body>
 </html>
