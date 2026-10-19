@@ -4,8 +4,12 @@
     "status": "Portre şimdilik boş"
   },
   "aras": {
-    "path": null,
-    "status": "Portre şimdilik boş"
+    "path": "portre-aras.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "caption": "Aras için yeni SKOPSE temalı portre"
   },
   "skopse": {
     "external": "https://i.pinimg.com/736x/09/12/83/091283eeb31306267cc53b79f207940d.jpg"
@@ -64,11 +68,12 @@
     "caption": "Yazarın seçtiği resmi Clark portresi"
   },
   "nadejda": {
-    "path": "assets/nadejda.webp",
+    "path": "portre-nadejda.webp",
     "dimensions": [
-      880,
-      1100
-    ]
+      1024,
+      1536
+    ],
+    "caption": "Nadejda için yeni SKOPSE temalı portre"
   },
   "kemal": {
     "path": "assets/kemal.webp",
@@ -113,11 +118,12 @@
     ]
   },
   "paradise": {
-    "path": "assets/paradise.webp",
+    "path": "vitrin-08-paradise.webp",
     "dimensions": [
-      1120,
-      630
-    ]
+      1448,
+      1086
+    ],
+    "caption": "Skopse'nin en yüksek binası: Paradise / Cen.net Ağacı"
   },
   "eski_sehir": {
     "path": "assets/eski-sehir.webp"
@@ -138,7 +144,11 @@
     "path": "assets/balolar.webp"
   },
   "vesna": {
-    "path": null,
-    "status": "Portre şimdilik boş"
+    "path": "portre-vesna.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "caption": "Vesna için yeni SKOPSE temalı portre"
   }
 }

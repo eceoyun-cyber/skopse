@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-19 · Atlas 3.4 · Mekan ve Düzen Güncellemesi",
+  "version": "2026-10-19 · Atlas 3.5 · Paradise ve Karakter Portreleri",
   "title": "SKOPSE",
   "strapline": "Mutant Bir Şehir",
   "intro": "Skopse, Onj Nehri’nin iki kıyısında büyüyen, teknolojinin ve eşitsizliğin aynı sokaklara sığdığı bir kenttir. Yeni Şehir taşkınlardan korunurken Eski Şehir her ekimde yeniden su altında kalır.",
@@ -189,7 +189,7 @@
       "type": "characters",
       "tagline": "ESKİ CEN.NET GÜVENLİK UZMANI · 35 YAŞ",
       "summary": "Esmer, geniş omuzlu, gri ceketli. Gözbebekleri belli açılarda mavi ışıkla parlayan güncel model implantlara sahip. Diadolas’ta Nil tarafından takip edilince şirket ajanı sanıp kaçar.",
-      "image": "",
+      "image": "portre-aras.webp",
       "meta": {
         "Yaş": "35",
         "Aile durumu": "Bekar · yalnız yaşıyor",
@@ -296,7 +296,7 @@
       "type": "characters",
       "tagline": "ESKİ CEN.NET ARAŞTIRMACISI",
       "summary": "İki yıl önce Cen.net'ten kaçmak için Blake'ten yardım isteyen kadın araştırmacı. Blake başlangıçta bunu reddeder, ancak mekanına baskın yapılınca olaya dahil olur. Vesna öldürülür; Nil yalnızca Blake'in dijital izlerini temizler. Cinayet çözülemez.",
-      "image": "",
+      "image": "portre-vesna.webp",
       "meta": {
         "Soyadı": "Henüz belirlenmedi",
         "Eski işi": "Cen.net araştırmacısı",
@@ -322,7 +322,7 @@
       "type": "characters",
       "tagline": "FALCI · GEZGİN TOPLULUKLAR",
       "summary": "Sifon ve Batak çevresinde rastlanan, kader konusunda ısrarcı, kısa ve tekinsiz konuşmalarıyla Nil’in irade anlayışına karşı duran falcı. Doğaüstü bir güç kaynağı olarak etnik kökenine başvurulmaz.",
-      "image": "nadejda.webp",
+      "image": "portre-nadejda.webp",
       "meta": {
         "Rol": "Falcı · yan karakter",
         "Çevre": "Batak / Sifon",
@@ -544,21 +544,22 @@
       "name": "Paradise / Cen.net Ağacı",
       "type": "places",
       "tagline": "CEN.NET GENEL MERKEZİ · PARADISE",
-      "summary": "Paradise, Cen.net'in genel merkezidir; Cen.net Ağacı adıyla da bilinir. Şirketin yönetim, araştırma ve yüksek güvenlikli sunucu altyapısını barındırır. Clark ve Nil'in yaşadığı korumalı personel konutları merkez yerleşkesinin yakınındadır.",
-      "image": "vitrin-03-tunek.webp",
+      "summary": "Paradise, Cen.net Ağacı olarak da bilinen Cen.net genel merkezidir. Skopse'nin en yüksek binası, şirketin yönetim, araştırma ve yüksek güvenlikli sunucu altyapısını bir araya getirir. Clark ile Nil'in yaşadığı korumalı personel konutları yakındadır.",
+      "image": "vitrin-08-paradise.webp",
       "meta": {
         "İşlev": "Sunucu altyapısı",
         "Sahne": "Paradise sızması",
         "Diğer adları": "Cen.net Ağacı · Cen.net Genel Merkezi",
         "Yerleşke": "Yönetim, araştırma ve sunucular",
-        "Konutlar": "Özel personel konutları yakınında"
+        "Konutlar": "Özel personel konutları yakınında",
+        "Yükseklik": "Skopse'nin en yüksek binası"
       },
       "sections": {
-        "genel": "Paradise, Cen.net'in genel merkezi ve Cen.net Ağacı olarak da bilinen merkez yerleşkesidir. Şirketin iş ve araştırma bölümleriyle kapalı sunucu altyapısı burada bulunur. Clark Cen.net'in araştırma bölümüne geçince Nil ile birlikte bu yerleşkenin yakınındaki korumalı personel konutlarına taşınmıştır.",
+        "genel": "Paradise / Cen.net Ağacı, Skopse'nin en yüksek binası ve Cen.net'in genel merkezidir. Şirketin yönetim, araştırma ve kapalı sunucu bölümleri aynı merkez yerleşkesinde bulunur. Clark, Cen.net'te çalışmaya başladıktan sonra Nil ile yakınındaki özel personel konutlarına taşınmıştır.",
         "gecmis": "Cen.net savaş sonrası dijital altyapı üzerindeki etkisini büyüttü. Paradise, şirketin yüksek güvenlikli merkezi olarak bu yapının parçasıdır.",
         "iliskiler": "Nil, Julian ve Blake Clark'a dair izler aramak için buradaki sunuculara sızar. Clark'ın kayıtlarına ulaşamazlar, fakat şirketin şeytanlarla bağlantısını fark ederler.",
         "yetenekler": "Korumalı araştırma tesisleri, sunucular, erişim kontrolü ve fiziksel-dijital güvenlik katmanları; sızma sırasında muhafızlar devreye girer. Nil'in güçleri ilk kez belirginleşir, Julian da güçlerini kullanır.",
-        "notlar": "Paradise ve Cen.net Genel Merkezi aynı mekandır, iki ayrı yer değildir. 'Cen.net Ağacı' alternatif adıdır; Paradise sunucuları bu merkezin parçasıdır. Şimdiki kapak görseli, seçilen Tünek stilinden geçici bir görseldir."
+        "notlar": "Paradise, Cen.net Genel Merkezi ve Cen.net Ağacı aynı yapıyı ifade eder; sunucu bölümleri ayrı bir bina adı değildir. Skopse'nin en yüksek binası olması Tünek'in kentteki yüksek kuleler bölgesi olduğu gerçeğini değiştirmez."
       },
       "related": [
         "cennet",
@@ -581,7 +582,7 @@
       "meta": {
         "Alan": "Ağ ve yazılım altyapısı",
         "Birim": "Genetik araştırma",
-        "Merkez": "Paradise / Cen.net Ağacı"
+        "Merkez": "Paradise / Cen.net Ağacı · Skopse'nin en yüksek binası"
       },
       "sections": {
         "genel": "Cen.net, Skopse’de bir işletim sistemi veya ağ standardı gibi her yerde hissedilir. Müşteri kimliği ve kurumsal erişim sistemleri, diğer şirketlerin hizmetlerini de etkiler.",
@@ -673,14 +674,14 @@
       },
       "sections": {
         "genel": "Emek yoğun üretim ve paketleme ağlarıyla düşük gelirli iş gücüne dayanabilir.",
-        "notlar": "İsim çalışma adı."
+        "notlar": "Harman adı kesinleşti; gıda üretimi, dağıtımı ve afet besin kredileri için kullanılır."
       },
       "related": [
         "tunek",
         "payda",
         "batak"
       ],
-      "status": "İsim geçici"
+      "status": "Ad kesin"
     },
     {
       "id": "siper",
@@ -694,13 +695,13 @@
       },
       "sections": {
         "genel": "Konut girişinden iş yerlerine kadar özel güvenlik hizmetleri.",
-        "notlar": "İsim çalışma adı."
+        "notlar": "Siper şirketinin adı kesinleşti."
       },
       "related": [
         "cennet",
         "yeni_sehir"
       ],
-      "status": "İsim geçici"
+      "status": "Ad kesin"
     },
     {
       "id": "payda",
@@ -717,7 +718,7 @@
       "sections": {
         "genel": "Ödeme ağları ve kredi aracılığı sağlar fakat Dinarın sahibi değildir. İlerleyen yıllarda faiz ve hizmet ücretleri birikerek aileleri iş, abonelik ve konuta bağlayabilir.",
         "gecmis": "Savaş sonrası nüfus ihtiyacı üst sınıfa teşvik, yoksullara borç olarak yansır.",
-        "notlar": "“Zenginlere çocuk yetiştirmeleri için destek veriliyor; yoksullara ise çocuk yetiştirmek için borç veriliyor.”"
+        "notlar": "Nüfus teşviklerinin sınıfsal eşitsizliği: üst sınıfa destek sağlanırken yoksul aileler Payda Aile üzerinden uzun süreli çocuk yetiştirme borçlarıyla karşılaşır."
       },
       "related": [
         "harman",
@@ -1014,8 +1015,8 @@
       "meaning": "İmplant veya sinirsel bağlantı taşımayan kişi."
     },
     {
-      "term": "Kör",
-      "meaning": "Biyometrik gözetimden saklanan veya saklanabilen kişi."
+      "term": "Körü",
+      "meaning": "Biyometrik gözetimden saklanan veya saklanabilen kişi için kullanılan sokak sözü. Anlam ayrıntıları geliştirme aşamasındadır."
     },
     {
       "term": "Yankı",
@@ -1051,7 +1052,7 @@
     },
     {
       "term": "Paradise / Cen.net Ağacı",
-      "meaning": "Cen.net'in genel merkezi. Yüksek güvenlikli sunucular, araştırma alanları ve yönetim bu yerleşkededir; özel personel konutları yakınındadır."
+      "meaning": "Cen.net'in genel merkezi ve Skopse'nin en yüksek binası. Yönetim, araştırma ve yüksek güvenlikli sunucu altyapısı burada bulunur; özel personel konutları yakınındadır."
     },
     {
       "term": "Angels Tarikatı",
@@ -1090,19 +1091,23 @@
     {
       "title": "Paradise ve Cen.net Ağacı",
       "body": "Paradise, Cen.net'in genel merkezinin alternatif adıdır. Cen.net Ağacı da aynı yapıyı anlatır. Sunucu altyapısı, araştırma alanları ve şirket yerleşkesi tek mekan dosyasında tutulur."
+    },
+    {
+      "title": "Siper ve Harman adları",
+      "body": "Siper güvenlik şirketi ve Harman gıda şirketi için adlar kesinleşmiştir. Kentel'in adı ise şimdilik çalışma adıdır."
     }
   ],
   "legacy": "eski-hikaye-haritasi.html",
   "images": {
     "nil": "portre-nil.webp",
-    "nadejda": "nadejda.webp",
+    "nadejda": "portre-nadejda.webp",
     "kemal": "kemal.webp",
     "aziz_kiril": "aziz_kiril.webp",
     "arge": "arge.webp",
     "underground": "underground.webp",
     "batan_yaka": "batan_yaka.webp",
     "altin_yaka": "altin_yaka.webp",
-    "paradise": "vitrin-03-tunek.webp",
+    "paradise": "vitrin-08-paradise.webp",
     "eski_sehir": "vitrin-02-eski-sehir.webp",
     "yeni_sehir": "vitrin-04-yeni-sehir.webp",
     "tunek": "vitrin-03-tunek.webp",
@@ -1115,7 +1120,9 @@
     "diadolas": "vitrin-06-diadolas.webp",
     "onj_nehri": "vitrin-01-skopse.webp",
     "clark": "portre-clark.webp",
-    "julian": "portre-julian.webp"
+    "julian": "portre-julian.webp",
+    "aras": "portre-aras.webp",
+    "vesna": "portre-vesna.webp"
   },
   "chapters": [
     {
@@ -1184,14 +1191,14 @@
       "number": "08",
       "title": "Yetki Yükseltme",
       "status": "Plan",
-      "summary": "Paradise’a erişim hazırlıkları için çalışma başlığı.",
+      "summary": "Cen.net'in en yüksek binası olan Paradise / Cen.net Ağacı'ndaki korumalı sistemlere erişim hazırlıkları için çalışma başlığı.",
       "points": []
     },
     {
       "number": "09",
       "title": "Sızma",
       "status": "Plan",
-      "summary": "Nil, Julian ve Blake Cen.net’in Paradise sunucularına sızar. Clark’ın kayıtlarını bulamazlar, ancak şirketin şeytanlarla ilişkisini öğrenirler.",
+      "summary": "Nil, Julian ve Blake, Cen.net'in Paradise (Cen.net Ağacı) genel merkezindeki sunuculara sızar. Clark'ın kayıtlarını bulamazlar ancak şirketin şeytanlarla ilişkisini öğrenirler.",
       "points": [
         "Muhafızlarla çatışmada Nil’in güçleri ilk kez belirginleşir."
       ]
