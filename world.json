@@ -1,5 +1,5 @@
 {
-  "version": "3.9",
+  "version": "4.0",
   "title": "SKOPSE",
   "strapline": "Mutant Bir Şehir",
   "intro": "Skopse, Onj Nehri’nin iki kıyısında büyüyen, teknolojinin ve eşitsizliğin aynı sokaklara sığdığı bir kenttir. Yeni Şehir taşkınlardan korunurken Eski Şehir her ekimde yeniden su altında kalır.",
@@ -1346,6 +1346,72 @@
         "Aras şirketin onu gönderdiğini sanarak kaçar. Nil otoparkta önünü keser; bayıltıp/etkisizleştirip tenha ağaçlık bölgede kelepçeler ve sakin biçimde konuşur, sonunda bırakır.",
         "Aras yaklaşık bir ay önce Clark'ın özel yazılımla erişim loglarını sildiğini görmüştür; işten çıkarılma yaklaşık bir hafta öncedir.",
         "YAZAR SIRRI: Cen.net, Nil'in soruşturmasını fark eder ve Aras'ı öldürür; Nil bunu bölümde öğrenmez."
+      ],
+      "scenes": [
+        {
+          "id": "01.01",
+          "title": "Onj taşkını: iki şehir",
+          "characters": [
+            "Nil Clayton"
+          ],
+          "location": "Skopse / Onj kıyıları",
+          "atmosphere": "İronik, toplumsal eşitsizliği öne çıkaran panoramik anlatım; sürekli yağmur ve neon yok.",
+          "events": [
+            "Ekim sonunda taşkın; Yeni Şehir koruma duvarları, Eski Şehir'e yönelen sel.",
+            "Kentteki teknofeodal sınıf ayrımı tanıtılır.",
+            "Odak, üç gündür dönmeyen Clark'ı arayan Nil'e yaklaşır."
+          ]
+        },
+        {
+          "id": "01.02",
+          "title": "Clark'ın izleri ve Aras",
+          "characters": [
+            "Nil Clayton",
+            "Clark Clayton (adı geçen)",
+            "Aras Stojanovski"
+          ],
+          "location": "Açık dijital kayıtlar ve Diadolas'a giden güzergâh",
+          "atmosphere": "Sessiz ve metodik soruşturma.",
+          "events": [
+            "Nil Clark'ın daha önce adını andığı Aras'ın yaklaşık bir hafta önce işinden edildiğini bulur.",
+            "Aras'ın herkese açık paylaşımlarından Diadolas Yaşam Merkezi'nde olduğunu çıkarır."
+          ]
+        },
+        {
+          "id": "01.03",
+          "title": "Diadolas kovalamacası",
+          "characters": [
+            "Nil Clayton",
+            "Aras Stojanovski"
+          ],
+          "location": "Diadolas Yaşam Merkezi, otopark",
+          "atmosphere": "Yeni Şehir'in güvenli yüzeyi altında hızlanan gerilim.",
+          "events": [
+            "Nil 'Aras Stojanovski?' ve 'Clark Clayton hakkında birkaç sorum var' diye yaklaşır.",
+            "Aras onu şirketin yolladığını sanıp kaçar; Nil otoparkta önünü kesip etkisiz hâle getirir."
+          ],
+          "dialogue": [
+            "Nil: 'Aras Stojanovski?'",
+            "Aras: 'Tanışıyor muyuz?'",
+            "Nil: 'Clark Clayton hakkında birkaç sorum var.'"
+          ]
+        },
+        {
+          "id": "01.04",
+          "title": "Tenha yerde sorgu",
+          "characters": [
+            "Nil Clayton",
+            "Aras Stojanovski"
+          ],
+          "location": "Diadolas yakınındaki gözlerden uzak ağaçlıklı nokta",
+          "atmosphere": "Sakin ancak zorlayıcı sorgu.",
+          "events": [
+            "Nil Aras'ı kameralardan uzağa götürür, kelepçeler.",
+            "Aras bir ay önce Clark'ın erişim loglarını sildiğini gördüğünü; bildirdikten sonra işinden olduğunu anlatır.",
+            "Nil onu serbest bırakır."
+          ],
+          "authorSecret": "Cen.net Nil'in soruşturmasını fark eder ve Aras'ı öldürtür; Nil henüz bilmez."
+        }
       ]
     },
     {
@@ -1359,6 +1425,50 @@
         "Clark'ın fiziksel kitapları arasında William Shakespeare'in Hamlet'i vardır; 12. bölümde Hamlet ve Ophelia adlarının kaynağına dönüşecek erken ipucu.",
         "Vietnam gezisinden Nil ve Clark'ın birlikte fotoğrafı bulunur; evde sınırlı sayıda gerçek basılı fotoğraf vardır.",
         "1866 depremi, yeniden inşa ve eski seçkin çevrelerin arşiv izleri araştırılır; dijital kaynakların çarpıtılabilmesi fiziksel arşive yöneltir."
+      ],
+      "scenes": [
+        {
+          "id": "02.01",
+          "title": "Clark'ın boş evi",
+          "characters": [
+            "Nil Clayton",
+            "Clark Clayton (anı)"
+          ],
+          "location": "Nil ile Clark'ın Yeni Şehir'de paylaştığı ev",
+          "atmosphere": "Yokluğun ve somut anıların melankolisi.",
+          "events": [
+            "Nil son sarılmalarını hatırlar; Clark'ın CD'leri, kitapları, 3–4 basılı fotoğrafını inceler.",
+            "Birlikte çıktıkları Vietnam gezisi fotoğrafını bulur."
+          ]
+        },
+        {
+          "id": "02.02",
+          "title": "1866 kartı",
+          "characters": [
+            "Nil Clayton"
+          ],
+          "location": "Clark'ın evinde fotoğraf rafı",
+          "atmosphere": "Nesne merkezli tarihî bilmece.",
+          "events": [
+            "Nil'in çektiği Clark fotoğrafının arkasında kanatlı piramitli 1866 kartı vardır.",
+            "Kartın Nil'e özellikle bırakıldığı kesin değildir.",
+            "Clark'ın Shakespeare'den Hamlet kitabı görünür: 12. bölüm için gizli isim ipucu."
+          ]
+        },
+        {
+          "id": "02.03",
+          "title": "Fiziksel Skopse tarihi",
+          "characters": [
+            "Nil Clayton"
+          ],
+          "location": "Ev; dijital kaynaklar ve Skopse Tarihi kitabı",
+          "atmosphere": "AI ile kirlenmiş dijital tarih karşısında dark-academia kaynak araştırması.",
+          "events": [
+            "Nil çevrim içi bilgilerde yüzeysellik/yanlışlık görür.",
+            "Fiziksel kitapta 1866 depremi, Yeni Şehir'in inşası, kapalı topluluklar ve üniversite kökenleri hakkında daha fazla ayrıntı bulur.",
+            "Kanatlı piramidin anlamı henüz bilinmez."
+          ]
+        }
       ]
     },
     {
@@ -1371,6 +1481,41 @@
         "Julian'ın aynı yüzü iki yüzyıla yayılan fotoğraflarda saptanır; Nil bunu önce aile benzerliği olarak yorumlar.",
         "Julian'ın Nephilim yüzü başkaları için kusursuz ama hatırlanması/ayırt edilmesi zor bir yüze sahiptir; Nil'in istisnasında Hamlet'in gizli etkisi vardır, Nil ve Julian bilmez.",
         "1866 ve kanatlı piramit konusunda henüz çözümlenmemiş sır korunur."
+      ],
+      "scenes": [
+        {
+          "id": "03.01",
+          "title": "Üniversite arşivine erişim",
+          "characters": [
+            "Nil Clayton",
+            "Üniversite hocası (adı açık)"
+          ],
+          "location": "Üniversite, fiziksel arşiv",
+          "atmosphere": "Elit bilgi erişimi ve sessiz araştırma.",
+          "events": [
+            "Nil daha önce kayıp kızını aramasına yardım ettiği hocadan arşiv erişimi alır.",
+            "1866 sembolü ve tarihsel kayıtları inceler."
+          ],
+          "open": [
+            "Profesörün adı ve arşivin tam yerleşimi belirlenmedi."
+          ]
+        },
+        {
+          "id": "03.02",
+          "title": "İki yüz yıllık yüz",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes (fotoğraflarda)"
+          ],
+          "location": "Üniversitenin tarihî fotoğraf ve belge arşivi",
+          "atmosphere": "Normal görünen tarihin altında tekinsiz tekrar.",
+          "events": [
+            "Julian'a benzeyen yüz birbirinden uzak dönem fotoğraflarında aynıdır.",
+            "Kanatlı piramit simgesi de tekrar görünür.",
+            "Nil biyolojik soy/ata benzerliği varsayar, doğaüstünü henüz bilmez."
+          ],
+          "authorSecret": "Julian gerçekten aynı kişi; Nil'in onu tanıyabilmesinin görünmez sebebi Hamlet'tir."
+        }
       ]
     },
     {
@@ -1384,6 +1529,55 @@
         "Julian, fotoğraflardaki kişinin kendisi olduğunu Nil'den saklar; Nil'in kartını görünce daha ciddi konuşur.",
         "Clark'ın tarikat sınavlarını geçmiş ama katılmayı reddetmiş olduğu söylenir. Melekler Nil'in Clark'ı aradığını bilir ve erişim vermeye isteklidir.",
         "Julian gizli bir kafede Angels kabul sürecini önerir, Nil kabul eder."
+      ],
+      "scenes": [
+        {
+          "id": "04.01",
+          "title": "Julian'ın davetine sızma",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "Davet konukları"
+          ],
+          "location": "Şık davet / gala alanı",
+          "atmosphere": "Şöhret, göz alıcı zarafet ve sosyal tedirginlik.",
+          "events": [
+            "Nil sahte davetli kimliğiyle içeri girer.",
+            "Julian'a ailesini ve tarihî fotoğrafları sorar; Julian savuşturur.",
+            "Julian'ın ruh hâliyle kötüleşen hava ilerideki güçlerine ipucu verir."
+          ]
+        },
+        {
+          "id": "04.02",
+          "title": "Otel süiti önünde kart",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes"
+          ],
+          "location": "Julian'ın oteli; özel kat",
+          "atmosphere": "Eşik, kuşku, tehditkâr olmayan ısrar.",
+          "events": [
+            "Nil otelinde yeniden yaklaşır, 1866 kanatlı piramit kartını gösterir ve Clark'ın kaybolduğunu söyler.",
+            "Julian konuşmayı kabul eder."
+          ]
+        },
+        {
+          "id": "04.03",
+          "title": "Gizli kafede tarikat teklifi",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes"
+          ],
+          "location": "Tenha / gizli kafe",
+          "atmosphere": "İhtiyatlı bilgi alışverişi.",
+          "events": [
+            "Julian Clark'ın kadim Angels sınavlarını geçtiğini ama üyeliği kabul etmediğini anlatır.",
+            "Nil, abisini bulabilmek için sınavlara girmeyi kabul eder."
+          ],
+          "open": [
+            "Kafenin tam adı açık."
+          ]
+        }
       ]
     },
     {
@@ -1402,6 +1596,100 @@
         "NEXARIEL 'Clark bize geldi' der ancak gerçekte Clark'a melekler ulaşmıştır (bilinçli eksik anlatım). Clark araştırmayı bırakmayı reddetmiş, düşüneceğini söyleyip ayrılmıştır.",
         "Julian Clark'ı izlemiş ve Cen.net CEO'suyla görüşmeye çağrıldığını öğrenmiştir; binaya girip girmediği o aşamada bilinmez. NEXARIEL CEO'nun şeytani geçmişini gösterir, Nil kuşkucudur.",
         "NEXARIEL Nil'e Clark'ı aramayı bırakıp insan hayatını yaşamasını söyler; Nil reddeder. Julian şeytanların araştırmayı ele geçirmesinin tehlikesini gerekçe göstererek yardım izni alır."
+      ],
+      "scenes": [
+        {
+          "id": "05.01",
+          "title": "Kaderine Güven",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes"
+          ],
+          "location": "Yoğun trafikli yol",
+          "atmosphere": "Çok tehlikeli ama törensel soğuklukta sınav.",
+          "events": [
+            "Tarikatın tüm adaylara aynı uyguladığı ilk geleneksel sınav.",
+            "Nil zihninde 'Şimdi. Koş.' duyar ve trafiği kıl payı aşar.",
+            "Julian gerçekten korkar, kurtulduğunda rahatlar."
+          ],
+          "dialogue": [
+            "Hamlet'in sesi: 'Şimdi. Koş.'"
+          ]
+        },
+        {
+          "id": "05.02",
+          "title": "Yedi İsim",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes"
+          ],
+          "location": "Eski Şehir'de terk edilmiş adliye salonu",
+          "atmosphere": "Yargının soğukluğu, etik tereddüt.",
+          "events": [
+            "Yedi ağır suçluya ait dosyalardan birinin gerçek affı/sebepsiz salıverilmesi istenir.",
+            "Yedi günah: kibir/tahliye reddi; açgözlülük/sahte ilaç; şehvet/nöral manipülasyon; haset/ölümcül sabotaj; oburluk/kamu suyunu ve enerjisini çalma; gazap/sivillere saldırı; tembellik/hastane yaşam desteği ihmali.",
+            "Nil sadece dosyalardan hüküm vermeyi reddeder, üstler sonuç söylemeden devam ettirir."
+          ]
+        },
+        {
+          "id": "05.03",
+          "title": "Günah Çıkarma",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "Vesna (anı)",
+            "Blake (adı geçer)"
+          ],
+          "location": "Tarihî kiliseye bağlı botanik sera",
+          "atmosphere": "Canlı bitkiler arasında mahrem, ağır itiraf.",
+          "events": [
+            "Yalnız Nil ve Julian vardır.",
+            "Nil Vesna cinayeti dosyasındaki dijital kanıtları kendisi/Blake'i korumak için sildiğini ve Blake'e yalan söylediğini itiraf eder.",
+            "Julian etkilenir, kendi ailesine kısmen değinir fakat kökenini açmaz; Nil geçer."
+          ],
+          "open": [
+            "İkili uyuyakaldı mı? Karar yok."
+          ]
+        },
+        {
+          "id": "05.04",
+          "title": "Gizli yeraltı merkezine iniş",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes"
+          ],
+          "location": "Tarihî kilisenin gizli geçidi; Angels yeraltı merkezi",
+          "atmosphere": "Antik taş dokudan kablo ve ekranlarla dolu ileri teknolojiye geçiş.",
+          "events": [
+            "Nil ile Julian seranın bulunduğu eski kiliseden merkeze iner.",
+            "Cen.net cennetinin gökdeleniyle gerçek meleklerin yeraltında olması karşıtlık oluşturur."
+          ]
+        },
+        {
+          "id": "05.05",
+          "title": "NEXARIEL'in uyarısı ve Julian'ın izni",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "NEXARIEL",
+            "Clark (anlatılan)",
+            "Aurelian (arşivde)"
+          ],
+          "location": "Ekranlı-kablolu Angels merkezi",
+          "atmosphere": "Görkemli, soğuk ilahi otorite; teknolojik beden gönüllü seçilmiştir.",
+          "events": [
+            "NEXARIEL 'Hoş geldin, çocuğum' diyerek meleksi kimliğini açar.",
+            "Clark'ın çalışmalarını durdurmasını istediklerini eksik bilgiyle anlatır; aslında Clark'a ulaşan meleklerdi.",
+            "Julian Clark'ın CEO'yla görüşmeye çağrıldığını söyler; görüşmenin gerçekleştiği henüz doğrulanmamıştır.",
+            "NEXARIEL eski kayıtlarda CEO'nun şeytani doğasını gösterir, Nil şüphe duyar.",
+            "NEXARIEL Nil'in arayışı bırakmasını ister, Nil reddeder.",
+            "Julian araştırmanın şeytanlara geçmesi tehlikesiyle yardım izni alır."
+          ],
+          "dialogue": [
+            "NEXARIEL: 'Hoş geldin, çocuğum.'"
+          ],
+          "authorSecret": "NEXARIEL Nil'in sırtındaki Hamlet çipinden habersizdir."
+        }
       ]
     },
     {
@@ -1418,6 +1706,111 @@
         "Cen.net özel kuvvetleri Sifon'a saldırır; hedefin kim olduğu o anda açık değil. Blake adamlarına emir vererek savunmayı sürdürmelerini sağlar.",
         "Julian Blake'e güvenmediğinden güçlerini baskında göstermez. Nil-Julian motosikletle, Blake kendi aracıyla lüks villa bölgesine kaçar.",
         "Villa geçmişte Cen.net'ten önce melekler adına ayrı tapu isimlerine alınmış yazlık evlerdendir; Yeni Şehir çeperinde lüks konut ve havuz vardır, kırsalda değildir."
+      ],
+      "scenes": [
+        {
+          "id": "06.01",
+          "title": "Blake'i seçmek",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "Blake (adı geçen)"
+          ],
+          "location": "Yeni Şehir'deki görüşme (tam nokta açık)",
+          "atmosphere": "Hesaplı iş birliği ve geçmişteki suçluluk.",
+          "events": [
+            "Sadece dijital yetenekler Cennet Ağacı'na girmeye yetmeyecektir.",
+            "Nil eski dostu Blake'in fiziksel, stratejik ve Cen.net bilgisi yüzünden yanına alınmasını ister."
+          ]
+        },
+        {
+          "id": "06.02",
+          "title": "Sifon girişinde tutulmak",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "Sifon adamları"
+          ],
+          "location": "Batak çevresi; yeraltı Sifon'a iniş",
+          "atmosphere": "Dışarıdan gelenlere kuşkulu, zengin konuklara sert.",
+          "events": [
+            "İkili Julian'ın motosikletiyle gelir.",
+            "Ellerine bağ konup Sifon kulübüne götürülürler."
+          ]
+        },
+        {
+          "id": "06.03",
+          "title": "Eski dostların karşılaşması",
+          "characters": [
+            "Nil Clayton",
+            "Blake",
+            "Julian Junes"
+          ],
+          "location": "Sifon yeraltı kulübü",
+          "atmosphere": "Bıçaklı tehdit ile çocukluk tanışıklığı mizahı yan yana.",
+          "events": [
+            "Blake Nil'i tanır, üste eğilip alay eder.",
+            "Nil paniğe kapılmadan eski dost gibi cevap verir.",
+            "Blake ellerini çözdürür ve konuşmayı başlatır; Julian kirli kıyafetleriyle hoşnutsuzdur."
+          ],
+          "dialogue": [
+            "Blake: 'Kimleri görüyorum?'",
+            "Nil: 'Hah ya, uzun zaman oldu.'"
+          ]
+        },
+        {
+          "id": "06.04",
+          "title": "Blake'e Vesna itirafı",
+          "characters": [
+            "Nil Clayton",
+            "Blake",
+            "Julian Junes (dışarıda)"
+          ],
+          "location": "Sifon'da özel konuşma alanı",
+          "atmosphere": "Kırgınlık ve dürüstlük, melodramatik değil.",
+          "events": [
+            "Nil Julian'ın uzaklaşmasını ister, iki yıldır sakladığı kanıt silme gerçeğini itiraf eder.",
+            "Blake zaten sezmiştir, Nil hazır olana kadar beklemiştir.",
+            "Blake iki yıldır Cen.net'e karşı güvenlik analizleri, sabotaj ve sızma girişimleri yaptığını açıklar."
+          ],
+          "dialogue": [
+            "Blake: 'Zaten tahmin ediyordum. Hazır olmanı bekliyordum; ama ben boş durmadım.'"
+          ]
+        },
+        {
+          "id": "06.05",
+          "title": "Cen.net'in Sifon baskını",
+          "characters": [
+            "Nil Clayton",
+            "Blake",
+            "Julian Junes",
+            "Cen.net özel kuvvetleri",
+            "Blake'in insanları"
+          ],
+          "location": "Sifon ve çıkış tünelleri",
+          "atmosphere": "Kaos, ancak Blake'in örgütlü savunması; hedef belirsiz.",
+          "events": [
+            "Cen.net özel güçleri gelir; kimi aradıkları bilinmez.",
+            "Blake savunmayı adamlarına bırakarak kaçışı yönetir.",
+            "Julian güçlerini Blake'e göstermez.",
+            "Nil ve Julian motosikletle; Blake kendi aracıyla Yeni Şehir çeperindeki gizli villaya gider."
+          ]
+        },
+        {
+          "id": "06.06",
+          "title": "Villaya varış",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "Blake"
+          ],
+          "location": "Eski Angels bağlantılı varlıklı konut bölgesi; havuzlu villa",
+          "atmosphere": "Lüks, izole ama kırsal olmayan sığınak.",
+          "events": [
+            "Julian Cen.net'ten önce farklı melek üyeleri adına tapulanmış villayı önermiştir.",
+            "Üçlü güvenlik baskınından sonra yeniden örgütlenir."
+          ]
+        }
       ]
     },
     {
