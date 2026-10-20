@@ -81,42 +81,42 @@
     "caption": "Nadejda için yeni SKOPSE temalı portre"
   },
   "kemal": {
-    "path": "assets/kemal.webp",
+    "path": "kemal.webp",
     "dimensions": [
       880,
       1100
     ]
   },
   "aziz_kiril": {
-    "path": "assets/aziz_kiril.webp",
+    "path": "aziz_kiril.webp",
     "dimensions": [
       1120,
       630
     ]
   },
   "arge": {
-    "path": "assets/arge.webp",
+    "path": "arge.webp",
     "dimensions": [
       1120,
       630
     ]
   },
   "underground": {
-    "path": "assets/underground.webp",
+    "path": "underground.webp",
     "dimensions": [
       1120,
       630
     ]
   },
   "batan_yaka": {
-    "path": "assets/batan_yaka.webp",
+    "path": "batan_yaka.webp",
     "dimensions": [
       1120,
       630
     ]
   },
   "altin_yaka": {
-    "path": "assets/altin_yaka.webp",
+    "path": "altin_yaka.webp",
     "dimensions": [
       1120,
       630
@@ -143,10 +143,10 @@
     "path": "SIFON_KESIN.webp"
   },
   "gezginler": {
-    "path": "assets/gezginler.webp"
+    "path": "gezginler.webp"
   },
   "balolar": {
-    "path": "assets/balolar.webp"
+    "path": "balolar.webp"
   },
   "vesna": {
     "path": "VESNA_KESIN.webp",

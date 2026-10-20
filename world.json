@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-20 · Atlas 3.7 · Seçilen Görseller KESIN",
+  "version": "2026-10-20 · Atlas 3.8 · Karakter ve kurgu kanonu güncellendi",
   "title": "SKOPSE",
   "strapline": "Mutant Bir Şehir",
   "intro": "Skopse, Onj Nehri’nin iki kıyısında büyüyen, teknolojinin ve eşitsizliğin aynı sokaklara sığdığı bir kenttir. Yeni Şehir taşkınlardan korunurken Eski Şehir her ekimde yeniden su altında kalır.",
@@ -37,7 +37,7 @@
       "name": "Nil Clayton",
       "type": "characters",
       "tagline": "ANA KARAKTER · 24 YAŞ",
-      "summary": "Skopse sokaklarında büyüyen Nil, abisi Clark üç gündür eve dönmeyince Cen.net çevresinde cevap aramaya başlar. İnce yapılı, keskin gözlemci, fevri ve esprilidir. İyi bir dövüşçü olmayabilir ama yetenekli bir araştırmacıdır.",
+      "summary": "Skopse sokaklarında büyüyen 24 yaşındaki Nil, abisi Clark üç gündür dönmeyince Cen.net çevresinde iz sürer. Dikkatli, gözlemci, temkinli ve esprilidir; öfkeli, düşüncesiz veya aceleci biri değildir.",
       "image": "NIL_KESIN.webp",
       "meta": {
         "Yaş": "24",
@@ -47,18 +47,20 @@
         "Görünüm": "Siyah kısa küt saç, beyaz ten, orta boy ve normal kilo; uzun kot ceketler giyer."
       },
       "sections": {
-        "genel": "Nil, Clark ile aynı evde yaşayan 24 yaşında bir genç kadındır. Üç gündür haber alınamayan abisini bulmak için şirket kayıtlarını inceler, Aras Stojanovski’nin peşine düşer ve giderek kendi hayatının dışında tutulmuş bir gerçeğe yaklaşır.",
+        "genel": "Nil, Clark ile aynı evde yaşayan 24 yaşında genç bir kadındır. Clark kaybolunca şirket kayıtlarını araştırır ve Aras'ın peşine düşer. İnsanları ve küçük tutarsızlıkları dikkatle gözler; kolay güvenmese de akıl yürütmeyi öfkenin önüne koyar. Clark’ın kayboluşu hafif bir terk edilme korkusuna dokunur fakat kişiliğinin tümünü belirlemez.",
         "gecmis": "Nil 12 yaşındayken Clark (26) onu sokaklardan alıp yanına getirmiştir. Blake ile sokak yıllarından tanışır. Çocukluk deneyimleri ona geçitleri, insan ilişkilerini ve Batak’ın gayriresmi ekonomisini okumayı öğretmiştir.",
         "iliskiler": "Clark onun abisi ve en güvendiği kişidir. Blake çocukluğundan beri tanıdığı, gerektiğinde birlikte risk alabildiği eski dostudur. Aras ile tanışmaları güvensizlik ve fiziksel bir arbede üzerinden gerçekleşir.",
-        "yetenekler": "Nil, sol ön kolunun iç tarafındaki erişim implantı aracılığıyla yerel ağlara ve terminallere bağlanabilir; kablolarını gerektiğinde gizler. Başarılı bir araştırmacıdır: verileri ilişkilendirir, insanları gözlemler, şehirde kestirmeler bulur ve iz sürer. Fiziksel olarak güçlü bir dövüşçü değildir; sistemlere erişimi her zaman kolay değildir.",
-        "notlar": "Clark, Nil’in haberi ve rızası olmadan sırtına ayrı bir gizleme çipi yerleştirmiştir. Nil açılışta bundan habersizdir. Çip, sonradan duygusal stresle belirginleşen dönüşüme yol açar; finalde kendi bedeniyle ilgili kararı Nil verir."
+        "yetenekler": "Sol ön kolundaki sıradan erişim implantıyla yerel ağlara ve terminallere bağlanabilir; gözlemci ve iyi bir araştırmacıdır, dövüş ustası değildir. Clark'ın sırtına yerleştirdiği ayrı çip zaman içinde beklenmedik ilahi potansiyeli açığa çıkarır. Gelişen gücünün ayırt edici yönü ilahi olanla dijital ağ ve sinirsel arayüzleri birleştirebilmesi; melek veya şeytan kalıbına sığmayan üçüncü bir varoluş olasılığıdır. Kullanım sınırları henüz kesin değildir.",
+        "notlar": "İnsanlara kolay güvenmez; terk edilme kaygısı hafif, kendi hayatı üzerindeki kontrol hassasiyeti çok hafiftir. Öfkeli veya düşünmeden hareket eden biri olarak yazılmamalı. Clark sırtına izinsiz gizleme çipi yerleştirmiştir; Nil açılışta çipten habersizdir. Paradise olayları sonrasında melekler çipi fark edip Nil’i hapseder. Finalde riskleri bilerek çıkartılmasını seçer; bazı güçleri kalır."
       },
       "related": [
         "clark",
         "blake",
         "aras",
         "diadolas",
-        "batak"
+        "batak",
+        "gizleme_cipi",
+        "nexariel"
       ],
       "status": "Güncel kanon",
       "shortLabel": "Ana karakter"
@@ -68,31 +70,64 @@
       "name": "Clark Clayton",
       "type": "characters",
       "tagline": "ARAŞTIRMACI · 38 YAŞ",
-      "summary": "Cen.net’in genetik araştırmalarında çalışan, iş yerinde mesafeli ama evde Nil’e sıcak davranan araştırmacı. Melek ve şeytanların varlığını keşfeder; onların teknolojisiyle saklanma amacı taşıyan bir çip geliştirir.",
+      "summary": "Cen.net'in araştırmacısı ve Nil'in abisi. Melek ve şeytanlardan sakınmak üzere geliştirdiği çipin insanın içindeki ilahi potansiyeli açığa çıkarabileceğini fark eder, ilk deneyi kendi üzerinde yapar ve sonuçların gecikmeli ortaya çıktığını öğrenir.",
       "image": "CLARK_KESIN.webp",
       "meta": {
         "Yaş": "38",
         "İş": "Cen.net · araştırma",
         "Nil ile ilişkisi": "Abisi",
         "Durum": "Üç gündür evde yok",
-        "Görünüm": "Uzun boylu, ince yapılı, Nil'den daha açık tenli; kısa düz siyah saçlı, yorgun yüzlü, akıllı gözlüklü; soğuk ve kuşkucu bakışlar, resmi kurumsal giyim."
+        "Görünüm": "Uzun boylu, ince yapılı, Nil'den daha açık tenli; kısa düz siyah saçlı, yorgun yüzlü, akıllı gözlüklü; soğuk ve kuşkucu bakışlar, resmi kurumsal giyim.",
+        "Gizli hedef": "Nil ve kendisi için dönüşümün şifasını bulmak"
       },
       "sections": {
-        "genel": "İş ve ev hayatını birbirinden titizlikle ayırır. Güçlü teknik becerilerine rağmen hiçbir dijital altyapıya koşulsuz güvenmez; önemli ayrıntıları bazen fiziksel kayıtlarda tutar.",
-        "gecmis": "Nil 12 yaşındayken 26 yaşındaki Clark onu yanına almıştır. Yıllar sonra Cen.net’in özel araştırma bölümünde göreve başlayınca birlikte kurumsal konutların bulunduğu güvenlikli siteye taşınırlar.",
-        "iliskiler": "Nil’e karşı sevgi dolu, korumacıdır; ancak ona danışmadan sırtına çip yerleştirmesi büyük bir güven ve beden özerkliği ihlalidir. Julian tarafından uzaktan gözlenir; Aras onun güvenlik kayıtlarıyla oynadığını görmüştür.",
-        "yetenekler": "Şirketin yazılım mimarisini, güvenlik zayıflıklarını ve genetik deney süreçlerini çok iyi bilir. Çipin ilk amacı melek ve şeytanların tespitinden saklanmaktır; dönüşüm amaçlanmamıştır.",
-        "notlar": "Clark çipi yerleştirdikten sonra kendi isteğiyle ortadan kaybolur. Ne kaçırılma sahnesi ne de özel bir kaybolma günü vardır. Suçluluk ve pişmanlık, onun şeytani yöndeki ilk dönüşümünü tetikler."
+        "genel": "Clark çipin ilahi potansiyeli uyandırabileceğini keşfedince ilk deneyi kendi üzerinde yapar; etkiler zamanla ortaya çıkar. Melekler ve şeytanlar çalışmalarından haberdar olur. Melekler ısrarla aralarına katılmasını ister ancak tarikatlarına güvenmez. Şeytanların daha da tehlikeli olacağını bilerek Nil’i korumak amacıyla kaybolur. Kayboluşunun gerçek hedefi, geliştirdiği teknolojinin dönüşüm etkilerini geri çevirecek bir tedavi bulmaktır.",
+        "gecmis": "Nil 12, Clark 26 yaşındayken onu yanına almıştır. Cen.net'in özel araştırma bölümünde çalışırken doğaüstü varlıkları ve onların teknolojilerini araştırır; gizlenme amaçlı çipi geliştirir. Çipin insandaki ilahi potansiyeli ortaya çıkarabildiğini fark ederek ilk önce kendi üzerinde dener. Sonuç için zaman gerektiğinden ilk denemenin gerçek etkisini hemen göremez. Meleklerin katılma baskısını reddeder, şeytanların araştırmayı öğrenmesi üzerine Nil’e de çipi rızası olmadan, yakalanırsa korunması umuduyla yerleştirir ve kendi isteğiyle ortadan kaybolur.",
+        "iliskiler": "Nil'i korumaya çalışması, onun bedenine habersiz müdahale etmesinin ahlaki ağırlığını ortadan kaldırmaz. Kaçtıktan sonra kendisinde şeytani güçler belirince ve Nil’e ne yaptığının sonuçlarını kavrayınca yoğun suçluluk yaşar, çare bulmadan yüzleşemez. Old money çevresinden insan bir hayırsever olan Bella'dan gizli araştırması için destek alır. Birbirlerine ihtiyaç duyarlar, fakat tam güvenmezler. Julian Clark'ı tarikat adına izlemiştir.",
+        "yetenekler": "Genetik araştırma, ağ güvenliği ve sinirsel teknolojide uzmandır. Başlangıç amacı melek ve şeytanların tespitinden saklanmaktır; daha sonra ilahi potansiyelin çiple uyanabileceğini anlar. Kaçışından sonra deneyin kendisinde şeytani yönde güçler ortaya çıkardığını gözlemler; buna çare arar.",
+        "notlar": "Clark kaçırılmadı; kaybolması kendi kararı. Dönüşümünün ilk gözlemi kaçıştan sonradır, suçluluk duygusunun bunu başlatmış olduğu kesin değildir. Bella'dan başta Nil'in çipini, ilerleyen dönemde kendi şeytani dönüşümünü ve ilahi potansiyelin köklü soylara özgü olmadığını gösteren bulguları saklar. Bella'nın gizli ideolojisinin tüm kapsamını bilmez; tedavi arayışı ile Bella'nın seçkin insan projesi birbirinden farklı amaçlardır."
       },
       "related": [
         "nil",
         "aras",
         "cennet",
         "julian",
-        "gizleme_cipi"
+        "gizleme_cipi",
+        "bella"
       ],
       "status": "Güncel kanon",
       "shortLabel": "Cen.net araştırmacısı"
+    },
+    {
+      "id": "bella",
+      "name": "Bella",
+      "type": "characters",
+      "tagline": "KÖKLÜ AİLE · GİZEMLİ HAYIRSEVER",
+      "summary": "Melek veya şeytan olmayan, eski ve varlıklı bir aileden gelen insan. İnsanların ilahi varlıklardan üstün olabileceğine inanır; Clark'ın şifa araştırmasını desteklerken seçilmiş bir insan aristokrasisi yaratmayı hedefler.",
+      "image": "",
+      "meta": {
+        "Tür": "İnsan",
+        "Toplumsal konum": "Old money · köklü aile",
+        "İdeoloji": "İnsan üstünlüğü / Überhumanizm (çalışma terimi)",
+        "Hedef": "Seçkin yeni insan aristokrasisi",
+        "Ad": "Bella (soyadı açıklanmıyor)",
+        "Geçmiş": "Yazar sırrı · romanda açıklanmayacak"
+      },
+      "sections": {
+        "genel": "Bella, insanların meleklerle ve şeytanlarla yarışacak, hatta onları aşacak bir potansiyele sahip olduğuna inanır. Ancak bu güçleri tüm insanlara dağıtmayı reddeder; yeni bir üstün insan aristokrasisi için seçici, hiyerarşik bir sistem tasarlar. İnsanların özgürleşmesini savunurken kimin bu gücü hak ettiğine kendisinin karar vermesini doğal görür.",
+        "gecmis": "Eski para sahibi köklü bir aileden gelir. Ailesinin melekler ve şeytanlar hakkındaki bilgileri nereden öğrendiği, aile geçmişi ve diğer hikâyelerle/alternatif evrenlerle ilgili arka planı bilinçli olarak açıklanmıyor. Yazarın ayrı kurgu bütününe ait olan bu sırın ayrıntıları SKOPSE atlasında üretilmeyecek.",
+        "iliskiler": "Clark'a araştırmaları sırasında laboratuvar, güvenlik ve kaynak sunar; görünürde hiçbir karşılık istemez. Clark'ın şifa arayışıyla Bella'nın seçilmiş insanları dönüştürecek bir teknoloji geliştirme hedefi örtüşmez. Bella gerçek planının kapsamını Clark'tan gizler, Clark da ondan bazı sonuçları saklar.",
+        "yetenekler": "Kuşaklar boyu birikmiş aile kaynakları ve seçkin çevreler üzerinden araştırma desteği ve koruma sağlayabilir. Aday seçiminde zekâ, biyolojik uyumluluk ve iradeyi değerlendiriyormuş gibi tarafsız bir sistem savunur; köklü ailelere fiilen ayrıcalık tanıyarak sınıfsal önyargısını bilimsellik kisvesiyle sürdürür.",
+        "notlar": "Görünürde karşılıksız yardım + seçkinler için daha güvenli, ilahi potansiyeli uyandıran yeni çip hedefi birlikte seçildi; bu anlaşmanın ayrıntıları henüz geliştirilebilir. Clark başlangıçta Nil'deki çipi saklar, sonrasında kendi şeytani dönüşümünü ve gücün soydan bağımsız olabildiğine ilişkin bulguları da gizler. Bella'nın aile geçmişi kasıtlı yazar sırrıdır; isim dışındaki kimlik ayrıntıları uydurulmayacak."
+      },
+      "related": [
+        "clark",
+        "nil",
+        "gizleme_cipi",
+        "akademik_elitizm"
+      ],
+      "status": "Güncel karakter · arka plan yazar sırrı",
+      "shortLabel": "İnsan üstünlüğü savunucusu"
     },
     {
       "id": "julian",
@@ -161,19 +196,21 @@
       "name": "NEXARIEL",
       "type": "characters",
       "tagline": "MELEK · TARİKATIN ÜSTÜNDEKİ GÜÇ",
-      "summary": "Nil’in Clark’ın kardeşi olduğunu bilir; ancak ilk davet anında sırtındaki gizleme çipinden habersizdir.",
+      "summary": "Melek hiyerarşisinin güçlü figürü. Şeytanlara karşı savaşta daha fazla veri, gözetim ve kontrol için kendi isteğiyle ekranlara ve kablolara bağlı bir varoluş seçmiştir; Nil'in çipini ilk buluşmada bilmez.",
       "image": "NEXARIEL_KESIN.webp",
       "meta": {
         "Tür": "Melek",
         "İlişki": "Angels tarikatı",
-        "İlk kanıt": "Nil’in ritüel sonrası karşılaşması"
+        "İlk kanıt": "Nil’in ritüel sonrası karşılaşması",
+        "Beden ve ağ": "Ekranlar, çok sayıda kablo ve bağlı gözlem altyapısı",
+        "Dönüşüm tercihi": "Kendi iradesiyle · şeytanlarla savaş için"
       },
       "sections": {
-        "genel": "Nil’in tarikat davetini onaylar çünkü Clark’ın araştırmalarına ilişkin bilgi edinmek ister.",
-        "gecmis": "Clark’ın melek ve şeytanları keşfetmesi üzerine çalışmalarını durdurmasını istemiştir.",
-        "iliskiler": "Julian’ın uzun süre karşı çıkamadığı hiyerarşik otoritedir; Nil’e yaklaşımı çıkar odaklıdır.",
-        "yetenekler": "Melek doğası ve tarikat üzerindeki gücü.",
-        "notlar": "Paradise sonrasında Nil’in çipini fark etmesi, ilerideki ihanetin zeminini kurar."
+        "genel": "NEXARIEL, şeytanlara karşı savaşında gözetim, veri ve kontrol kapasitesini büyütmek için kendi isteğiyle ekranlı ve kablolu bir sisteme bağlanmış melektir. Bu bir zorunlu tutsaklık değil, seçilmiş bir dönüşümdür. Nil'in tarikat davetini Clark'ın araştırmalarından bilgi alabileceği için onaylar; başlangıçta Nil'in gizleme çipini bilmez.",
+        "gecmis": "Clark melek ve şeytanları keşfettikten sonra araştırmasını bırakması için ona baskı yapılmıştır. NEXARIEL, savaşta üstünlük sağlamak amacıyla kendi bedensel biçimini ağlarla bütünleştirmeyi seçmiştir. Kabloları, ekranları ve eriştiği bilgiler onun gözetim anlayışının uzantılarıdır.",
+        "iliskiler": "Julian'ın uzun süre karşı çıkamadığı otoritedir. Nil'in Clark'ın kardeşi olduğunu bilir ama ilk karşılaşmalarında çipten habersizdir. Paradise olayları sonrasında Nil'in dönüşümü ve çipi görünür olunca tarikatın yaklaşımı yardım vaadinden tutsaklığa döner.",
+        "yetenekler": "Melek doğasının yanında ekranlara ve çok sayıda kabloya bağlanmış ağ üzerinden geniş bilgi ve gözetim kapasitesi vardır. Bu ağ sınırsız veya kusursuz bilgi sağlamaz: ilk görüşmede Nil'in çipini saptayamaz.",
+        "notlar": "Seçilmiş NEXARIEL_KESIN.webp korunur: androjen, ekranlar ve kablolarla bütünleşmiş form. Bağlılığı gönüllüdür. Melekler Nil'i hem çipi incelemek/ele geçirmek hem de kontrolsüz potansiyelinden korktukları için hapseder. Esaretten kaçış biçimi henüz kesinleşmedi."
       },
       "related": [
         "nil",
@@ -282,7 +319,7 @@
         "genel": "77, Cen.net CEO'su için kullanılan kod adıdır. Henüz gerçek ismi ve kimliği açıklanmadı.",
         "gecmis": "Henüz belirlenmedi.",
         "iliskiler": "Cen.net'in üst yönetimindeki konumu biliniyor; diğer karakterlerle kişisel ilişkileri henüz belirlenmedi.",
-        "notlar": "Portre ve fiziksel özellikler henüz seçilmedi."
+        "notlar": "Portre ve fiziksel özellikler henüz seçilmedi. 77’nin gerçek kimliği ve doğaüstü kökeni güncel kanonda açıklanmış değildir; eski arşivdeki şeytan iddiası otomatik olarak kesinleştirilmez."
       },
       "related": [
         "cennet"
@@ -362,14 +399,15 @@
         "gecmis": "Üçüncü Dünya Savaşı’ndan sonra göçlerle büyümüş; farklı dilleri, kökenleri ve sınıfları aynı kıyılarda toplamıştır.",
         "iliskiler": "Şehrin sistemleri Cen.net’in yazılım standartlarına, diğer büyük şirketlerin enerji, sağlık, gıda ve kredi hizmetlerine bağımlıdır.",
         "yetenekler": "Şehir yılda iki kez, ekim başı ve sonunda Onj taşkınları yaşar. Yeni Şehir’in elektronik surları akıntıyı Eski Şehir’e yönlendirir.",
-        "notlar": "“Skopse denilen mutant yaşamına devam eder.” Açılışın ana kent imgesi."
+        "notlar": "“Skopse denilen mutant yaşamına devam eder.” Açılışın ana kent imgesi. Köklü ailelerin akademik/kültürel prestiji ve yeni şirket zenginlerinin ekonomik gücü arasındaki sınıf çatışması ilerleyen bölümlerde belirginleşir."
       },
       "related": [
         "eski_sehir",
         "yeni_sehir",
         "onJ",
         "tunek",
-        "batak"
+        "batak",
+        "akademik_elitizm"
       ],
       "status": "Güncel şehir",
       "shortLabel": "Savaş sonrası megakent"
@@ -446,7 +484,7 @@
         "gecmis": "Yeni kentin zenginlik simgelerinden biridir.",
         "iliskiler": "Derman sağlık paketleri ve Harman besin kredileri balolarda yardım kalemleri olarak gösterilir.",
         "yetenekler": "Üst katlardan geniş nehir manzarası, özel korumalar, kapalı sosyal alanlar.",
-        "notlar": "“Tünek” tüm zengin semtlerin genel adı değildir."
+        "notlar": "“Tünek” tüm zengin semtlerin genel adı değildir. Tünek'in zenginleri homojen değildir: eski aileler ve yeni kurumsal elit arasında statü rekabeti bulunabilir."
       },
       "related": [
         "yeni_sehir",
@@ -559,7 +597,7 @@
         "gecmis": "Cen.net savaş sonrası dijital altyapı üzerindeki etkisini büyüttü. Paradise, şirketin yüksek güvenlikli merkezi olarak bu yapının parçasıdır.",
         "iliskiler": "Nil, Julian ve Blake Clark'a dair izler aramak için buradaki sunuculara sızar. Clark'ın kayıtlarına ulaşamazlar, fakat şirketin şeytanlarla bağlantısını fark ederler.",
         "yetenekler": "Korumalı araştırma tesisleri, sunucular, erişim kontrolü ve fiziksel-dijital güvenlik katmanları; sızma sırasında muhafızlar devreye girer. Nil'in güçleri ilk kez belirginleşir, Julian da güçlerini kullanır.",
-        "notlar": "Paradise, Cen.net Genel Merkezi ve Cen.net Ağacı aynı yapıyı ifade eder; sunucu bölümleri ayrı bir bina adı değildir. Skopse'nin en yüksek binası olması Tünek'in kentteki yüksek kuleler bölgesi olduğu gerçeğini değiştirmez."
+        "notlar": "Paradise, Cen.net Genel Merkezi ve Cen.net Ağacı aynı yapıyı ifade eder; sunucu bölümleri ayrı bir bina adı değildir. Skopse'nin en yüksek binası olması Tünek'in kentteki yüksek kuleler bölgesi olduğu gerçeğini değiştirmez. Paradise sonrasında tarikat, Nil'in çipini fark eder; onu hem incelemek/ele geçirmek hem de güçlerinden korktuğu için hapseder."
       },
       "related": [
         "cennet",
@@ -589,7 +627,7 @@
         "gecmis": "Clark bu şirketin araştırma biriminde çalışır. Aras eski veri güvenliği uzmanıdır. Cen.net merkezine yakın korumalı konutlarda Clark ve Nil yaşar.",
         "iliskiler": "Merkez yerleşkesi Paradise (Cen.net Ağacı), sunucu altyapısı ve şeytanlarla ilişkisine dair izler; diğer kurumlarla ekonomik karşılıklı bağımlılık.",
         "yetenekler": "Kimlik ve ağ lisansları, erişim günlüğü, temel yazılımlar.",
-        "notlar": "Cen.net Nil’in Clark’ın kardeşi olduğunu bilir ama onun sırtındaki çipi bilmez; becerilerini küçümser."
+        "notlar": "Cen.net Nil’in Clark’ın kardeşi olduğunu bilir ama onun sırtındaki çipi bilmez; becerilerini küçümser. Nil açılışta Clark'ın kaybolmasında Cen.net'in parmağı olduğuna inanır. Paradise sunucularındaki sızma şirketin şeytanlarla ilişkisini açığa çıkarır; final aşamasında Cen.net / 77 ile melekler farklı nedenlerle Nil'in peşine düşer."
       },
       "related": [
         "clark",
@@ -753,23 +791,26 @@
       "name": "Angels Tarikatı",
       "type": "factions",
       "tagline": "GİZLİ GELENEK · RİTÜELLER",
-      "summary": "Clark’a araştırmasını günah sayarak durdurmasını söyleyen gizli tarikat. Nil, eski ritüellerden oluşan giriş sınavlarını geçtikten sonra NEXARIEL ile tanışır.",
+      "summary": "Melek hiyerarşisiyle bağlı gizli tarikat. Bütün adaylara uygulanan kadim kabul sınavları bulunur; adaydan yoğun trafikte kaderine güvenerek karşıya geçmesinin istenmesi kararlaştırılmış örneklerden biridir.",
       "image": "",
       "meta": {
         "Bağ": "Melek hiyerarşisi",
         "Giriş": "Eski ritüeller",
-        "Sembol": "Kanatlı piramit / 1866"
+        "Sembol": "Kanatlı piramit / 1866",
+        "Kabul sınavı (kesin)": "Yoğun trafikte kaderine güvenerek karşıya geçme",
+        "Sınav sistemi": "Her adaya aynı geleneksel sınavlar"
       },
       "sections": {
-        "genel": "Nil doğaüstü bir kanıt görmeden önce örgütü Cen.net komplosu sanır.",
-        "gecmis": "Julian Clark’ı izlemekle görevlendirilmiştir. Nil’in daveti Clark’ın araştırmaları hakkında bilgi edinmek için onaylanır.",
-        "iliskiler": "NEXARIEL otoriteyi, Julian itaat/direniş gerilimini temsil eder.",
-        "notlar": "Sınavların örneklerinden biri yoğun trafikte “kaderine bırak” diyerek koşmaktır; diğerleri açık."
+        "genel": "Nil tarikatla ilk tanıştığında olanları kurumsal bir komplonun parçası olarak yorumlar; gerçek doğaüstü kanıt NEXARIEL ile yüzleşmesine kadar gecikir. Tarikatın köklü ritüelleri ve gizli bilgi birikimi vardır; bu, tarikatın bütün eski zengin ailelerce kontrol edildiği anlamına gelmez.",
+        "gecmis": "Melekler Clark'ın araştırmalarından haberdar olup onu ısrarla kendi saflarına katmak ister; Clark güvenmez. Julian, Clark'ı tarikat adına gözetler. Nil'in daveti Clark hakkında bilgi edinmek amacıyla onaylanır.",
+        "iliskiler": "NEXARIEL hiyerarşik otoritedir. Tarikat Nil'e önce bilgi ve yardım ihtimali sunar, ancak Paradise sonrası çipini keşfedince onu hapseder. Cen.net ve melekler olayların son aşamasında ayrı nedenlerle Nil'in peşine düşer.",
+        "notlar": "KESİN KABUL SINAVI KARARLARI: Aynı geleneksel sınavlar tüm adaylara uygulanır. Bunlardan birinde adaydan yoğun trafikte kaderine güvenerek karşıdan karşıya geçmesi beklenir. Diğer sınavların içeriği, sayısı, başarısızlık koşulları ve sonuçları HENÜZ KESİN DEĞİL. Nihai esaretin gerekçesi iki yönlüdür: çipin incelenmesi/ele geçirilmesi ve Nil’in kontrol edilemeyen dönüşümünden korku."
       },
       "related": [
         "nil",
         "julian",
-        "nexariel"
+        "nexariel",
+        "gizleme_cipi"
       ],
       "status": "Kitap I"
     },
@@ -804,23 +845,27 @@
       "name": "Gizleme Çipi",
       "type": "concepts",
       "tagline": "CLARK’IN TASARIMI",
-      "summary": "Melek ve şeytanların tespitinden saklanmak için üretilen çip, Nil’e sırtından ve rızası olmadan yerleştirilir. Dönüştürücü etkisi başta hesaplanmamıştır.",
+      "summary": "Clark'ın önce melek ve şeytanların tespitinden saklanmak için geliştirdiği, ardından insanın içindeki ilahi potansiyeli açığa çıkarabildiğini keşfettiği çip. Clark önce kendi üzerinde dener, sonra Nil'in sırtına rızası olmadan yerleştirir.",
       "image": "",
       "meta": {
         "İlk amaç": "Gizlenmek",
         "Yer": "Nil’in sırtı",
-        "Yan etki": "Yavaş dönüşüm"
+        "Yan etki": "Yavaş dönüşüm",
+        "Keşfedilen etki": "İlahi potansiyeli uyandırma",
+        "İlk deney": "Clark'ın kendisi"
       },
       "sections": {
-        "genel": "Çip, kullanıcının duygu durumu ve iç dünyasına bağlı karmaşık dönüşümler tetikler. Basit iyi-kötü ayrımı değildir.",
-        "gecmis": "Clark çipi koruma amacıyla yerleştirir ve ortadan kaybolur.",
-        "iliskiler": "Nil finalde tıbbi riski bilerek çıkarılmasını seçer.",
-        "notlar": "Çip çıkarıldıktan sonra güçlerin bir kısmı Nil’de kalır."
+        "genel": "Gizlenme teknolojisi olarak geliştirilmiş olsa da insanın içindeki ilahi potansiyeli uyandırabilir. Tepkilerin ortaya çıkması zaman alır; dönüşüm kişinin iç dünyasıyla ilişkili olabilir. Clark'ın kaçtıktan sonra kendisinde şeytani güçler gözlemlemesi ve Nil'in teknolojiyle doğaüstü güçlerini birleştirmesi, mekanizmanın henüz tam anlaşılmadığını gösterir.",
+        "gecmis": "Clark olası dönüşümü keşfedince önce kendisinde dener. Melekler ve şeytanlar araştırmayı öğrenirken, şeytanların tehdidinden Nil'i korumak ve kendi yakalanma olasılığına karşı ona bir güvence bırakmak isteyerek çipi Nil'e habersizce yerleştirir; ardından kaybolur.",
+        "iliskiler": "Clark dönüşümü geri çevirecek tedaviyi arar; Bella teknolojinin seçilmiş insanlarda daha güvenli kullanılmasını hedefler. Paradise sonrasında melekler Nil'in çipini fark eder, incelemek veya almak ve kontrol edemedikleri gücü sınırlamak için onu hapseder.",
+        "notlar": "Nil'in potansiyeli dijital/sinirsel altyapı üzerinden de ifade bulur; melek/şeytan ikiliğine sığmayabilecek bir üçüncü varoluş biçimi söz konusudur. Güçlerin sınırları, değişim yönünün tersine çevrilip çevrilemeyeceği ve şifanın imkânı henüz kesinleşmedi. Finalde çip çıkarılır, güçlerin bir kısmı kalır."
       },
       "related": [
         "nil",
         "clark",
-        "hamlet"
+        "hamlet",
+        "bella",
+        "nexariel"
       ],
       "status": "Güncel kanon"
     },
@@ -928,6 +973,34 @@
       ],
       "status": "Yazarın metninden",
       "shortLabel": "İki yakayı ayırır"
+    },
+    {
+      "id": "akademik_elitizm",
+      "name": "Eski Para ve Akademik Elitizm",
+      "type": "concepts",
+      "tagline": "KÜLTÜREL SERMAYE · TEKNOFEODAL SINIF",
+      "summary": "Skopse'nin köklü aileleri, servetleri yanında soyadları, kültür kurumları, tarihsel prestij ve akademik çevreler üzerinden de güç taşır. Şirket yöneticileri ve yeni zenginlerle aralarındaki toplumsal gerilim, salt para farkından doğmaz.",
+      "image": "",
+      "meta": {
+        "Karşıtlık": "Eski para / yeni para",
+        "Araçlar": "Eğitim · arşiv · akademik prestij",
+        "Romandaki kullanım": "Başta arka plan, ileride görünür"
+      },
+      "sections": {
+        "genel": "Geleneksel ailelerin üyeleri, çok zengin bir Cen.net yöneticisini bile 'maaşlı çalışan' görerek kendilerinden aşağı sayabilir. Yeni sermaye ise eski aristokrasiyi mirasa ve imtiyaza dayanmakla küçümseyebilir. Ekonomik güç, siyasi nüfuz ve kültürel meşruiyet farklı ellerde bulunabilir.",
+        "gecmis": "Savaş sonrası şirketleşme yeni zenginler üretirken, bazı köklü aileler tarihî bağlantılarını, özel koleksiyonlarını ve kurumlar üzerindeki kültürel prestijlerini koruyabilmiştir. Her eski aile eğitimli veya erdemli değildir; her yeni zengin cahil veya hedonist değildir.",
+        "iliskiler": "Eski aileler kültür, eğitim ve arşiv çevrelerine etki edebilir; şirketler bunların altyapısı, lisansları ve finansmanında güçlüdür. Bella, bu sınıfsal dünyanın keskin ve insan üstünlüğünü savunan bir örneğidir.",
+        "notlar": "DARK ACADEMIA YAKLAŞIMI: Öncelik teknofeodal akademik elitizmdedir (C). Nil'in 1866 sembolünü fiziksel belgelerde araştırdığı erken bölümlerde unutulmuş arşivler/kütüphaneler (A) küçük dozlarda kullanılır. Eski-yeni para çatışmasının kapsamlı siyasi ve sosyal yüzü romanın daha ilerleyen bölümünde ortaya çıkar. Tarikatı otomatik olarak eski para ailelerinin örgütü ilan etme."
+      },
+      "related": [
+        "skopse",
+        "tunek",
+        "diadolas",
+        "bella",
+        "cennet"
+      ],
+      "status": "Dünya tasarımı · seçilen yaklaşım",
+      "shortLabel": "Kültürel aristokrasi"
     }
   ],
   "featureGallery": [
@@ -966,9 +1039,19 @@
       "body": "Cen.net’ten kaçmaya çalışan Vesna öldürülür. Nil Blake’in dijital izlerini siler."
     },
     {
+      "when": "Açılıştan önce · tarih henüz açık",
+      "title": "Clark ilk çip denemesini kendisinde yapar",
+      "body": "Gizlenme amaçlı araştırmasında insanın ilahi potansiyelinin uyanabileceğini fark eder. İlk çipi kendisinde dener; etkilerin görünmesi zaman alır. Bu olayın Aras vakasıyla kesin zaman ilişkisi belirsizdir."
+    },
+    {
       "when": "Yaklaşık 1 ay önce",
       "title": "Aras gizli kayıt silme işlemini görür",
       "body": "Clark’ın erişim loglarını özel bir programla sildiğine tanıklık eder."
+    },
+    {
+      "when": "Açılıştan önce · zaman ayrıntısı açık",
+      "title": "Melekler ve şeytanlar araştırmadan haberdar olur",
+      "body": "Melekler Clark'ı ısrarla kendilerine katmak ister; Clark tarikata güvenmediği için reddeder. Şeytanların bilgilenmesi Nil için daha büyük tehlike yaratır."
     },
     {
       "when": "Açılıştan önceki hafta",
@@ -978,7 +1061,12 @@
     {
       "when": "3 gün önce",
       "title": "Clark eve dönmez",
-      "body": "Önceden Nil’e olağan dışı bir sarılma sırasında gizleme çipini yerleştirmiştir."
+      "body": "Clark, yakalanma ihtimaline karşı Nil'i korumak umuduyla, onun rızası olmadan sırtına çip yerleştirmiştir. Ardından kendi isteğiyle kaybolur; amacı çipin doğurduğu değişime şifa bulmaktır. Nil gerçek nedeni ve çipi bilmez."
+    },
+    {
+      "when": "Clark'ın kayboluşundan sonra · gün açık",
+      "title": "Şeytani güçler ve Bella'nın gizli yardımı",
+      "body": "Clark kaçış sürecinde kendi bedeninde şeytani güçlerin belirdiğini anlar. Suçluluk ve Nil'e yüzleşme korkusuyla şifa araştırmasını sürdürür. İnsan olan Bella'dan kaynak ve koruma alır; ikisi birbirinden bilgi saklar. Bella'yla ilk temasın tam tarihi kesinleşmedi."
     },
     {
       "when": "Bölüm 1",
@@ -991,9 +1079,19 @@
       "body": "Nil evde saklı kartı bulur; sembollerin ve Julian’ın yüzyıllar arası fotoğraflarının izini fiziksel arşivde sürer."
     },
     {
+      "when": "İlerleyen bölümler · Paradise sonrası",
+      "title": "NEXARIEL çipi öğrenir; Nil hapsedilir",
+      "body": "Paradise sızmasından sonra melekler Nil'in çipini fark eder. Hem çipi incelemek veya ele geçirmek hem de Nil'in öngörülemez güçlerinden korktukları için onu hapsederler. Kaçışın ayrıntıları açık."
+    },
+    {
       "when": "İlerleyen bölümler",
       "title": "Paradise ve dönüşüm",
       "body": "Nil, Julian ve Blake sunuculara sızar; doğaüstünün ve Nil’deki değişimin izleri görünür olur."
+    },
+    {
+      "when": "Kitap I sonu",
+      "title": "İki farklı güç Nil'in peşine düşer",
+      "body": "Nil artık hem Cen.net / 77 hem melekler tarafından aranır. Her iki tarafın çipe ve Nil'e ilişkin çıkarları farklıdır; son çatışmanın operasyonel ayrıntıları açık."
     },
     {
       "when": "Final",
@@ -1056,7 +1154,7 @@
     },
     {
       "term": "Angels Tarikatı",
-      "meaning": "Melek hiyerarşisiyle ilişkili, eski ritüelleri ve gizli giriş sınavları bulunan topluluk."
+      "meaning": "Melek hiyerarşisiyle bağlı gizli topluluk. Her adaya aynı geleneksel kabul sınavlarını uygular; örneklerden biri yoğun trafikte kaderine güvenmektir."
     },
     {
       "term": "Gezgin Topluluklar",
@@ -1064,11 +1162,27 @@
     },
     {
       "term": "Gizleme Çipi",
-      "meaning": "Clark'ın melek ve şeytanların tespitinden saklanmak için geliştirdiği, Nil'e habersizce yerleştirdiği ve beklenmedik dönüşüme neden olan çip."
+      "meaning": "Clark'ın önce melek ve şeytanların tespitinden sakınmak için geliştirdiği, daha sonra insanda ilahi potansiyeli uyandırabildiğini keşfettiği çip. Önce kendisi üzerinde, ardından Nil'in rızası dışında Nil üzerinde kullanır."
     },
     {
       "term": "Abonelik Düzeni",
       "meaning": "Konut, güvenlik, kimlik, sağlık ve implant işlevlerine kalıcı sahiplik yerine koşullu abonelik yoluyla erişilen teknofeodal sistem."
+    },
+    {
+      "term": "İlahi potansiyel",
+      "meaning": "İnsanların içinde bulunabilen; Clark'ın çipiyle uyanabilen ve klasik melek/şeytan kategorileriyle birebir örtüşmeyen güç imkânı. Temel kurallar hâlâ açık."
+    },
+    {
+      "term": "Akademik elitizm",
+      "meaning": "Skopse'de eski ailelerin eğitim, kültürel miras ve prestij üzerinden yeni şirket servetlerinden ayrı bir hiyerarşi kurması; daha sonraki bölümlerde görünür."
+    },
+    {
+      "term": "Überhumanizm (çalışma terimi)",
+      "meaning": "Bella'nın melek ve şeytanlardan üstün olabilecek insan potansiyelini savunan, ancak güçleri herkese değil seçilmiş bir aristokrasiye ayıran yaklaşımı. Adı henüz kesinleşmedi."
+    },
+    {
+      "term": "Tarikatın kabul sınavları",
+      "meaning": "Bütün adaylara uygulanan geleneksel ritüeller; kararlaştırılmış örnek yoğun trafikte kadere güvenerek karşıya geçmek. Başka sınavlar açık."
     }
   ],
   "authorNotes": [
@@ -1086,7 +1200,7 @@
     },
     {
       "title": "Açık sorular",
-      "body": "Aras'ın sorgulanma ve işten ayrılış günleri; Vesna'nın araştırma alanı ve ölüm koşulları; tarikat sınavları; Hamlet'in son biçimi; Paradise'dan kaçış; Julian'ın annesi."
+      "body": "Aras'ın sorgulanma ve işten ayrılış günleri; Vesna'nın araştırma alanı ve ölüm koşulları; kalan tarikat sınavları ve sonuçları; Hamlet'in son biçimi; Paradise'dan kaçış; Julian'ın annesi; 1866'nın tam anlamı; dönüşüm gücünün sınırları ve şifanın imkânı; Nil'in meleklerden kaçış biçimi; Bella'nın gizli aile geçmişi (yazar sırrı); 77'nin gerçek kimliği; son kovalamacanın ayrıntıları. Açık konuları kendiliğinden kesinleştirme."
     },
     {
       "title": "Paradise ve Cen.net Ağacı",
@@ -1095,6 +1209,34 @@
     {
       "title": "Siper ve Harman adları",
       "body": "Siper güvenlik şirketi ve Harman gıda şirketi için adlar kesinleşmiştir. Kentel'in adı ise şimdilik çalışma adıdır."
+    },
+    {
+      "title": "Clark’ın kayboluşu ve şifa arayışı",
+      "body": "Clark melek/şeytan tespitinden sakınmak için geliştirdiği çipin insandaki ilahi potansiyeli uyandırabildiğini fark edince önce kendi üzerinde dener. Etkiler gecikmelidir. Meleklerin saflarına katılma baskısını reddeder; şeytanların tehdit oluşturacağını bilerek, yakalanırsa Nil korunabilsin diye ona rızası olmadan çip yerleştirir ve kendi iradesiyle kaybolur. Kaçışından sonra kendisinde şeytani güçler ortaya çıkar. Nil'e yaptığını fark ettiğinde suçluluk duyar; çözüm bulmadan yüzleşemez. Kayıp kalmasının temel nedeni dönüşümü geri çevirecek şifayı bulmaktır. Suçluluğun dönüşümü başlattığı kesin değildir."
+    },
+    {
+      "title": "Bella · insan üstünlüğü ve gizli ortaklık",
+      "body": "Bella kadın, insandır; old money kökenlidir. İnsanların ilahi potansiyelinin melekleri/şeytanları aşabileceğine inanır; fakat bunu herkese dağıtmaz. Zekâ, biyolojik uyumluluk, irade gibi ölçütleri öne sürerek eski aileleri kayıran sözde bilimsel bir seçkin aristokrasisi ister. Clark'a görünürde karşılıksız kaynak sağlar; arka planda seçilmiş adaylara uygulanacak yeni çip hedefler. İkisi de birbirinden sır saklar: Clark önce Nil'in çipini, sonra kendi şeytani değişimini ve potansiyelin soydan bağımsız olduğuna dair bulguları gizler. Bella'nın ailesinin bilgi kaynağı ve daha geniş evren bağlantıları açıklanmaz; bunlar yazar sırrıdır."
+    },
+    {
+      "title": "Nil’in mizacı ve ilahi potansiyeli",
+      "body": "Nil dikkatli, düşünerek hareket eden, iyi gözlem yapan ve esprili biridir; ani öfke patlamaları, düşüncesizlik veya sürekli fevrilik onun ana kişilik özelliği olamaz. İnsanlara temkinli yaklaşması baskın, terk edilme kaygısı hafif, kontrol hassasiyeti çok hafiftir. İleride ilahi güçleri dijital/sinirsel altyapıyla birleşir ve melek/şeytan ikilisinden farklı bir varoluşa yönelir. Bunun kesin biyolojik sınırları açık."
+    },
+    {
+      "title": "Tarikat sınavları · kesin kararlar",
+      "body": "Bütün adaylara aynı eski, geleneksel kabul sınavları uygulanır. Kesinleşen örnek: adaya yoğun trafikte kaderine güvenerek karşıya geçmesi söylenir. Sınavların toplam sayısı, diğer sınavların içeriği, geçme koşulları ve adayların akıbeti henüz açık. Nil ilk doğrudan doğaüstü kanıtı sınavlardan sonra NEXARIEL ile karşılaştığında görür. 'Metnin otoritesi' ve 'sessiz tanıklık' önceki yaratıcı önerilerdir; onaylanmış sınav olarak alınmaz."
+    },
+    {
+      "title": "Antagonistlerin aşamalı yapısı",
+      "body": "Aşama 1: Nil, Clark'ın kaybında Cen.net'i suçlar; şirkete ve kayıtlara sızmaya çalışır. Aşama 2: Yardım umduğu meleklerin, Paradise sonrasında çipi fark edince onu incelemek/ele geçirmek ve öngörülemez gücünden korktukları için hapsetmesi. Aşama 3: Son bölümde hem Cen.net / 77 hem de melekler farklı çıkarlarla Nil'in peşindedir. Nihai antagonizm tek kişilik değil, katmanlıdır."
+    },
+    {
+      "title": "NEXARIEL’in seçtiği ağ bedeni",
+      "body": "NEXARIEL şeytanlara karşı savaşta daha çok veri toplamak, gözetlemek ve kontrol sağlamak için ekranlarla ve çok sayıda kabloyla bütünleşmiş formunu kendi iradesiyle seçmiştir. Hapsedilmiş, istemeden bağlanmış bir varlık olarak tasvir edilmemeli. İlk tanışmada Nil'in çipini bilmez; Paradise olayları sonrası fark eder. NEXARIEL_KESIN.webp seçilmiş görseldir."
+    },
+    {
+      "title": "Eski para · akademik elitizm · anlatı dozajı",
+      "body": "Cyberpunk üst sınıfını yalnızca hedonistik şirket elitleri olarak göstermiyoruz. Köklü aileler, kültürel ve akademik kökenleri nedeniyle yeni zenginleri ve çok yüksek maaşlı yöneticileri hâlâ aşağı görebilir. Eğitim bir sınıfsal şifredir; gerçek akademik yetkinlik aile prestijiyle özdeş değildir. Bu C yaklaşımı ilerleyen bölümlerde görünür olur. İlk araştırma ve 1866 için A türü fiziksel arşiv/kütüphane sahneleri sınırlı dozda kullanılabilir. Tarikatın zorunlu olarak bir akademik cemiyet veya eski aile örgütü olması kesin değildir."
     }
   ],
   "legacy": "eski-hikaye-haritasi.html",
@@ -1134,7 +1276,9 @@
       "points": [
         "Skopse sel felaketi ve sınıfsal karşıtlıkla tanıtılır.",
         "Aras bir hafta önce Cen.net’ten ayrılmıştır.",
-        "Nil, Clark’ın erişim kayıtlarını sildiğini öğrenir."
+        "Nil, Clark’ın erişim kayıtlarını sildiğini öğrenir.",
+        "Nil sakin, gözlemci ve dikkatli davranır; ani öfke veya düşüncesiz kahramanlık onun temel mizacı değildir.",
+        "Nil'in çıkış varsayımı Clark'ın kaybında Cen.net'in rolü olduğudur; doğaüstünü henüz bilmez."
       ]
     },
     {
@@ -1144,86 +1288,112 @@
       "summary": "Nil, Clark’la paylaştığı eve döner. Son sarılmalarını hatırlar ve fotoğrafın arkasına gizlenmiş, üzerinde kanatlı piramit sembolü ile 1866 bulunan kartı keşfeder.",
       "points": [
         "Kartta Julian’ın adı veya iletişim bilgisi yoktur.",
-        "Nesnenin gizemi bu aşamada doğaüstü olarak açıklanmaz."
+        "Nesnenin gizemi bu aşamada doğaüstü olarak açıklanmaz.",
+        "Clark çipi koruma amacıyla Nil'e habersizce yerleştirmiştir; Nil bu gerçeği henüz öğrenmez.",
+        "1866 ibaresinin tam tarihsel anlamı henüz kesinleşmedi."
       ]
     },
     {
       "number": "03",
       "title": "Anormallik",
       "status": "Plan",
-      "summary": "Nil, kartın sembolünü araştırmak için fiziksel arşivlere gider. Eski fotoğraflarda Cen.net’in bugünkü yüzü Julian’a tıpatıp benzeyen bir adamla karşılaşır.",
+      "summary": "Nil, 1866 sembolünü araştırmak için fiziksel arşivlere ve eski akademik kayıtlara başvurur. Aynı yüzle yüzyıllar arayla görüntülenmiş Julian izini bulur; doğaüstü bir açıklama yapmak yerine belge ve şirket komplosu ihtimallerini inceler.",
       "points": [
-        "Nil önce şirket komplosu veya fotoğraf manipülasyonu gibi açıklamalara yönelir."
+        "Nil önce şirket komplosu veya fotoğraf manipülasyonu gibi açıklamalara yönelir.",
+        "Eski kütüphane/arşiv atmosferi dark academia'nın küçük bir erken izi olarak kullanılır; köklü ailelerin sınıfsal gücü bu bölümde uzun uzadıya açıklanmaz."
       ]
     },
     {
       "number": "04",
       "title": "Kimlik Doğrulama",
       "status": "Plan",
-      "summary": "Angels tarikatıyla temas ve davet sürecinin ilerlemesi planlanıyor.",
+      "summary": "Nil'in Cen.net merkezli araştırması onu Julian'ın aracılık ettiği Angels tarikatına ve eski ritüellerle başlayan kabul sürecine taşır. Nil henüz gerçek bir doğaüstü olay görmediğinden olup biteni kurumsal ilişkiler ve sırlar üzerinden anlamaya çalışır.",
       "points": [
-        "Julian’ın Nil’i içeri almak konusundaki tutumu değişir."
+        "Julian’ın Nil’i içeri almak konusundaki tutumu değişir.",
+        "Tarikat, Clark'ın araştırmalarını öğrenmek istediği için daveti kabul eder; NEXARIEL Nil'in Clark'ın kardeşi olduğunu bilir ama çipi bilmez."
       ]
     },
     {
       "number": "05",
       "title": "Güvenlik İhlali",
       "status": "Plan",
-      "summary": "Tarikatın geleneksel sınavları ve Nil’in ilk doğrudan doğaüstü kanıtla karşılaşması için planlanan bölüm.",
+      "summary": "Nil, Angels tarikatının bütün adaylara uyguladığı geleneksel sınavlarla yüzleşir. Bunlardan biri yoğun trafikte kaderine güvenerek karşıya geçmesini istemektir. Sınavların ardından NEXARIEL ile karşılaşması, Nil'in ilk doğrudan doğaüstü kanıtına dönüşür.",
       "points": [
-        "NEXARIEL, Nil’in Clark’ın kardeşi olduğunu bilir, fakat çipten habersizdir."
+        "NEXARIEL, Nil’in Clark’ın kardeşi olduğunu bilir, fakat çipten habersizdir.",
+        "Sınavlar tüm adaylar için aynıdır; diğer sınavların biçimi ve sayısı henüz kesinleşmedi.",
+        "NEXARIEL'in ağ/kablo formu gönüllü bir seçimdir; çipi henüz fark etmez."
       ]
     },
     {
       "number": "06",
       "title": "Bağlantı Kuruldu",
       "status": "Plan",
-      "summary": "Nil, Blake ve Julian arasındaki iş birliğinin güçlendiği bölüm için çalışma başlığı.",
-      "points": []
+      "summary": "Nil, Blake ve Julian arasındaki ihtiyatlı iş birliği gelişir. Nil, meleklerin ve Cen.net'in Clark hakkındaki sözlerini karşılaştırırken tam güven yerine kanıt aramayı seçer; grup Paradise'a uzanan araştırmayı birlikte sürdürebilecek konuma gelir.",
+      "points": [
+        "İş birliğinin nasıl kurulduğu, karşılıklı güvenin hangi olayda kırıldığı ve sahne sırası henüz açık.",
+        "Julian'ın melek otoritesine karşı çıkmakta zorlanması ve Nil'in temkinli mizacı korunur."
+      ]
     },
     {
       "number": "07",
       "title": "Gizli Ağ",
       "status": "Plan",
-      "summary": "Cen.net’in kapalı sistemleri ve Clark’ın bıraktığı izlerin araştırılması için çalışma başlığı.",
-      "points": []
+      "summary": "Grup, Cen.net'in kapalı sistemlerinde Clark'ın silinmiş izlerini ve çip araştırmasının bağlarını arar. Kurumsal komplo şüphesi sürerken olayın sıradan bir kayıp dosyasından büyük olduğu hissedilir; ancak asıl cevaplar henüz ellerinde değildir.",
+      "points": [
+        "Clark aslında hayattadır ve bir tedavi araştırmaktadır; Nil bunu bu aşamada mutlaka öğrenmek zorunda değildir.",
+        "Bella'nın kimliği, Clark ile gizli iş birliği ve ailesinin geçmişi okuyucuya bu bölümde açıklanmak zorunda değildir."
+      ]
     },
     {
       "number": "08",
       "title": "Yetki Yükseltme",
       "status": "Plan",
-      "summary": "Cen.net'in en yüksek binası olan Paradise / Cen.net Ağacı'ndaki korumalı sistemlere erişim hazırlıkları için çalışma başlığı.",
-      "points": []
+      "summary": "Nil, Blake ve Julian, Paradise / Cen.net Ağacı'nın güvenlikli sunucu altyapısına girebilmek için kaynak ve erişim planı oluşturur. Sahnenin ayrıntıları hâlâ taslak; operasyonun amacı Clark'a ilişkin kayıtlara ulaşmaktır.",
+      "points": [
+        "Paradise, Cen.net genel merkezinin diğer adıdır; ayrı bir sunucu binası değildir."
+      ]
     },
     {
       "number": "09",
       "title": "Sızma",
       "status": "Plan",
-      "summary": "Nil, Julian ve Blake, Cen.net'in Paradise (Cen.net Ağacı) genel merkezindeki sunuculara sızar. Clark'ın kayıtlarını bulamazlar ancak şirketin şeytanlarla ilişkisini öğrenirler.",
+      "summary": "Nil, Julian ve Blake Paradise / Cen.net Ağacı sunucularına sızar. Clark'ın kayıtlarına ulaşamazlar; Cen.net'in şeytanlarla ilişkisine dair kanıtlarla karşılaşırlar. Muhafızlarla çatışmada Nil'in ilahi potansiyeli, teknoloji ve sinirsel arayüzlerle birleşen alışılmadık bir biçimde belirginleşir.",
       "points": [
-        "Muhafızlarla çatışmada Nil’in güçleri ilk kez belirginleşir."
+        "Muhafızlarla çatışmada Nil’in güçleri ilk kez belirginleşir.",
+        "Nil'in gücü yalnızca meleksi veya şeytani bir dönüşüme indirgenmez; üçüncü bir varoluş ihtimali açılır.",
+        "Julian da güçlerini kullanır; sızmadan kaçışın ayrıntıları netleştirilecek."
       ]
     },
     {
       "number": "10",
       "title": "Sistem Hatası",
       "status": "Plan",
-      "summary": "Paradise olaylarından sonraki sonuçlar ve meleklerden yardım arayışı için çalışma başlığı.",
-      "points": []
+      "summary": "Paradise'da öğrendiklerinden sonra Nil cevap ve yardım arayışını meleklerle sürdürür. Ancak melekler onun artan gücünü ve gizleme çipini fark edince başlangıçtaki yardım ilişkisi tehlikeli bir kontrol arzusuna dönüşür.",
+      "points": [
+        "NEXARIEL Nil'in çipini ilk görüşmede değil, Paradise sonrasında öğrenir.",
+        "Tarikatın Nil'i hapsetme kararı hem çipi ele geçirme hem de ondan korkma nedenlerini taşır."
+      ]
     },
     {
       "number": "11",
       "title": "Kontrolün Ele Geçirilmesi",
       "status": "Plan",
-      "summary": "NEXARIEL’in çipi fark etmesi ve güven ilişkisinin bozulması etrafında planlanan bölüm.",
-      "points": []
+      "summary": "Melekler Nil'i hapseder: amaçları çipi incelemek veya ele geçirmek, aynı zamanda melek/şeytan kalıplarını aşabilen gücünü denetim altında tutmaktır. NEXARIEL'in gözetim ve kontrol ideolojisi, Nil'in bedensel özerkliğiyle çatışır.",
+      "points": [
+        "Nil'in esaretten nasıl çıktığı henüz kesinleşmedi.",
+        "NEXARIEL veri ve kontrol için gönüllü olarak ekran/kablo sistemine bağlanmıştır.",
+        "Bu aşamanın ardından Cen.net / 77 ile melekler Nil'in peşine düşer."
+      ]
     },
     {
       "number": "12",
       "title": "Sistemden Çıkış",
       "status": "Plan / final",
-      "summary": "Daniil, çipin çıkarılmasının tıbben tehlikeli olduğunu söyler. Nil, kendi bedeni üzerinde söz sahibi olmak için çıkarılmasını seçer ve güçlerinin bir bölümü kalır.",
-      "points": []
+      "summary": "Hem Cen.net / 77 hem de meleklerin hedefinde olan Nil, dönüşümün kaderi üzerinde kendi kararını vermek zorunda kalır. Doktor Daniil çipin çıkarılmasının büyük tıbbi risk taşıdığını açıklar; Nil buna rağmen çıkartılmasını seçer. Güçlerinin bir kısmı kalır; artık ne basit bir insan ne de klasik melek/şeytan tanımına sığması kesinleşmiştir.",
+      "points": [
+        "Nil'in kararındaki beden özerkliği önemlidir; onu düşüncesizce risk alan öfkeli biri gibi yazma.",
+        "İki grubun takibi ve kaçış sahnelerinin ayrıntıları henüz açık."
+      ]
     }
   ],
   "imageFallbacks": {},
