@@ -1,5 +1,5 @@
 {
-  "version": "4.0",
+  "version": "4.1",
   "title": "SKOPSE",
   "strapline": "Mutant Bir Şehir",
   "intro": "Skopse, Onj Nehri’nin iki kıyısında büyüyen, teknolojinin ve eşitsizliğin aynı sokaklara sığdığı bir kenttir. Yeni Şehir taşkınlardan korunurken Eski Şehir her ekimde yeniden su altında kalır.",
@@ -1086,7 +1086,7 @@
         "gizleme_cipi"
       ],
       "status": "KESİN ÇERÇEVE / ayrıntılar kısmen açık",
-      "shortLabel": "İLK PROTOTİP · KARDEŞ BİLİNÇ"
+      "shortLabel": "İlk prototip, kardeş bilinç"
     },
     {
       "id": "kemal",
@@ -1113,7 +1113,7 @@
         "batak"
       ],
       "status": "KESİN ÇERÇEVE / ayrıntılar kısmen açık",
-      "shortLabel": "SİFON · GENÇ SOKAK ÇOCUĞU"
+      "shortLabel": "Blake'in genç dostu"
     },
     {
       "id": "ozel_guvenlik_sefi",
@@ -1141,7 +1141,7 @@
         "blake"
       ],
       "status": "KESİN ÇERÇEVE / ayrıntılar kısmen açık",
-      "shortLabel": "ŞEYTAN · AURELIAN'IN YAKIN KORUMASI"
+      "shortLabel": "Aurelian'ın koruması"
     },
     {
       "id": "sanat_hamisi",
@@ -1167,7 +1167,7 @@
         "paradise"
       ],
       "status": "KESİN ÇERÇEVE / ayrıntılar kısmen açık",
-      "shortLabel": "ULUSLARARASI SANAT ÇEVRESİ · ADI AÇIK"
+      "shortLabel": "Balo kimliği taklit ediliyor"
     },
     {
       "id": "sanat_hamisi_hizmetcisi",
@@ -1192,7 +1192,7 @@
         "nil"
       ],
       "status": "KESİN ÇERÇEVE / ayrıntılar kısmen açık",
-      "shortLabel": "DAVETİYE ARACISI · ADI AÇIK"
+      "shortLabel": "Davetiye aracısı"
     },
     {
       "id": "universite_hocasi",
@@ -1217,7 +1217,7 @@
         "universite_arsiv"
       ],
       "status": "KESİN ÇERÇEVE / ayrıntılar kısmen açık",
-      "shortLabel": "ARŞİV BAĞLANTISI · ADI AÇIK"
+      "shortLabel": "Arşive erişim sağlar"
     },
     {
       "id": "clark_evi",
@@ -1225,11 +1225,11 @@
       "type": "places",
       "tagline": "YENİ ŞEHİR · PERSONEL KONUTU",
       "summary": "Nil ile Clark'ın yaşadığı, Paradise/Cen.net yerleşkesine yakın korumalı personel konutu. Clark'ın fiziksel kitapları, CD'leri ve az sayıdaki basılı fotoğrafı burada.",
-      "image": "",
+      "image": "MEKAN_NIL_CLARK_EVI_KESIN.webp",
       "meta": {
         "Atmosfer": "Sıcak yaşanmışlık ve ansızın boşalmış ev; gizli şirket tehdidi",
         "Bölümler": "02, 07",
-        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+        "Görsel": "Seçilmiş görsel · MEKAN_NIL_CLARK_EVI_KESIN.webp"
       },
       "sections": {
         "genel": "Nil ile Clark'ın yaşadığı, Paradise/Cen.net yerleşkesine yakın korumalı personel konutu. Clark'ın fiziksel kitapları, CD'leri ve az sayıdaki basılı fotoğrafı burada.",
@@ -1245,7 +1245,7 @@
         "paradise"
       ],
       "status": "KESİN MEKÂN ÇERÇEVESİ",
-      "shortLabel": "YENİ ŞEHİR · PERSONEL KONUTU"
+      "shortLabel": "Clark'ın kitaplarla dolu evi"
     },
     {
       "id": "universite_arsiv",
@@ -1253,11 +1253,11 @@
       "type": "places",
       "tagline": "ARŞİV · AKADEMİK ELİTİZM",
       "summary": "Nil'in geçmişte kayıp kızını aramasına yardım ettiği hocadan erişim aldığı, 1866 kayıtlarını ve Julian'ın iki yüzyıla yayılan fotoğraflarını incelediği fiziksel arşiv.",
-      "image": "",
+      "image": "MEKAN_UNIVERSITE_TARIH_ARSIVI_KESIN.webp",
       "meta": {
         "Atmosfer": "Sessizlik, nadir kaynaklara ayrıcalıklı erişim, dark academia",
         "Bölümler": "03",
-        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+        "Görsel": "Seçilmiş görsel · MEKAN_UNIVERSITE_TARIH_ARSIVI_KESIN.webp"
       },
       "sections": {
         "genel": "Nil'in geçmişte kayıp kızını aramasına yardım ettiği hocadan erişim aldığı, 1866 kayıtlarını ve Julian'ın iki yüzyıla yayılan fotoğraflarını incelediği fiziksel arşiv.",
@@ -1273,7 +1273,7 @@
         "akademik_elitizm"
       ],
       "status": "KESİN MEKÂN ÇERÇEVESİ",
-      "shortLabel": "ARŞİV · AKADEMİK ELİTİZM"
+      "shortLabel": "Tarihî belge koleksiyonu"
     },
     {
       "id": "gizli_kafe",
@@ -1281,11 +1281,11 @@
       "type": "places",
       "tagline": "GÖRÜŞME · ADI AÇIK",
       "summary": "Julian'ın Clark ve Angels üyeliği hakkında Nil'le konuştuğu tenha kafe.",
-      "image": "",
+      "image": "MEKAN_JULIAN_GIZLI_KAFE_KESIN.webp",
       "meta": {
         "Atmosfer": "Sakin konuşma, saklanan bilgiler ve güvenin dikkatli kuruluşu",
         "Bölümler": "04",
-        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+        "Görsel": "Seçilmiş görsel · MEKAN_JULIAN_GIZLI_KAFE_KESIN.webp"
       },
       "sections": {
         "genel": "Julian'ın Clark ve Angels üyeliği hakkında Nil'le konuştuğu tenha kafe.",
@@ -1300,7 +1300,7 @@
         "angels"
       ],
       "status": "KESİN MEKÂN ÇERÇEVESİ",
-      "shortLabel": "GÖRÜŞME · ADI AÇIK"
+      "shortLabel": "Gizli buluşma noktası"
     },
     {
       "id": "eski_adliye",
@@ -1308,11 +1308,11 @@
       "type": "places",
       "tagline": "ESKİ ŞEHİR · SINAV MEKÂNI",
       "summary": "Tarikatın ikinci geleneksel kabul sınavı Yedi İsim'in yapıldığı, terk edilmiş mahkeme salonu.",
-      "image": "",
+      "image": "MEKAN_TERK_EDILMIS_ADLIYE_KESIN.webp",
       "meta": {
         "Atmosfer": "Soğuk taş, boş yargı koltukları, etik ağırlık",
         "Bölümler": "05",
-        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+        "Görsel": "Seçilmiş görsel · MEKAN_TERK_EDILMIS_ADLIYE_KESIN.webp"
       },
       "sections": {
         "genel": "Tarikatın ikinci geleneksel kabul sınavı Yedi İsim'in yapıldığı, terk edilmiş mahkeme salonu.",
@@ -1328,7 +1328,7 @@
         "julian"
       ],
       "status": "KESİN MEKÂN ÇERÇEVESİ",
-      "shortLabel": "ESKİ ŞEHİR · SINAV MEKÂNI"
+      "shortLabel": "Terk edilmiş mahkeme"
     },
     {
       "id": "angels_kilise",
@@ -1336,11 +1336,11 @@
       "type": "places",
       "tagline": "ESKİ ŞEHİR · TARİKATIN YÜZEY GİRİŞİ",
       "summary": "Eski kilise binası; botanik seradan gizli geçişle NEXARIEL'in yeraltı yüksek teknoloji merkezine, oradan da eski demir hücreli hapishaneye ulaşılır.",
-      "image": "",
+      "image": "MEKAN_ANGELS_TARIHI_KILISE_KESIN.webp",
       "meta": {
         "Atmosfer": "Dini mimari, antik taş, saklanan ileri teknoloji ve ahlaki otorite",
         "Bölümler": "05, 10–11",
-        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+        "Görsel": "Seçilmiş görsel · MEKAN_ANGELS_TARIHI_KILISE_KESIN.webp"
       },
       "sections": {
         "genel": "Eski kilise binası; botanik seradan gizli geçişle NEXARIEL'in yeraltı yüksek teknoloji merkezine, oradan da eski demir hücreli hapishaneye ulaşılır.",
@@ -1358,7 +1358,7 @@
         "angels_zindan"
       ],
       "status": "KESİN MEKÂN ÇERÇEVESİ",
-      "shortLabel": "ESKİ ŞEHİR · TARİKATIN YÜZEY GİRİŞİ"
+      "shortLabel": "Tarihî tarikat kilisesi"
     },
     {
       "id": "sera",
@@ -1366,11 +1366,11 @@
       "type": "places",
       "tagline": "KİLİSE EKİ · GÜNAH ÇIKARMA",
       "summary": "Tarihî kiliseye bağlı botanik sera. Nil ve Julian'ın tek başlarına bulunduğu üçüncü geleneksel sınav mekânı.",
-      "image": "",
+      "image": "MEKAN_KILISE_BOTANIK_SERA_KESIN.webp",
       "meta": {
         "Atmosfer": "Bitki ve tarihî dini doku, içten itiraf ve mahremiyet",
         "Bölümler": "05",
-        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+        "Görsel": "Seçilmiş görsel · MEKAN_KILISE_BOTANIK_SERA_KESIN.webp"
       },
       "sections": {
         "genel": "Tarihî kiliseye bağlı botanik sera. Nil ve Julian'ın tek başlarına bulunduğu üçüncü geleneksel sınav mekânı.",
@@ -1386,7 +1386,7 @@
         "angels"
       ],
       "status": "KESİN MEKÂN ÇERÇEVESİ",
-      "shortLabel": "KİLİSE EKİ · GÜNAH ÇIKARMA"
+      "shortLabel": "Kilise içindeki sera"
     },
     {
       "id": "angels_yeralti",
@@ -1394,11 +1394,11 @@
       "type": "places",
       "tagline": "MELEK MERKEZİ · YÜKSEK TEKNOLOJİ",
       "summary": "Eski kilisenin çok altında yer alan, ekranlar ve kablolarla iç içe dev merkez. NEXARIEL gönüllü olarak kendini veri ve kontrol ağına bağlamıştır.",
-      "image": "",
+      "image": "MEKAN_NEXARIEL_YERALTI_MERKEZI_KESIN.webp",
       "meta": {
         "Atmosfer": "İlahi heybet + kablo/ekran ağı; Cen.net'in göğe yükselen binasına ironik karşıtlık",
         "Bölümler": "05, 10–11",
-        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+        "Görsel": "Seçilmiş görsel · MEKAN_NEXARIEL_YERALTI_MERKEZI_KESIN.webp"
       },
       "sections": {
         "genel": "Eski kilisenin çok altında yer alan, ekranlar ve kablolarla iç içe dev merkez. NEXARIEL gönüllü olarak kendini veri ve kontrol ağına bağlamıştır.",
@@ -1415,7 +1415,7 @@
         "julian"
       ],
       "status": "KESİN MEKÂN ÇERÇEVESİ",
-      "shortLabel": "MELEK MERKEZİ · YÜKSEK TEKNOLOJİ"
+      "shortLabel": "Meleklerin gizli merkezi"
     },
     {
       "id": "angels_zindan",
@@ -1423,11 +1423,11 @@
       "type": "places",
       "tagline": "YERALTI · DEMİR PARMAKLIKLAR",
       "summary": "İleri teknoloji merkezinin içinde/yanında bulunan, ayrı fakat sesin ulaşabildiği eski taş duvarlı, klasik demir parmaklıklı hücreler.",
-      "image": "",
+      "image": "MEKAN_ANGELS_TAS_ZINDANI_KESIN.webp",
       "meta": {
         "Atmosfer": "Arkaik sertlik, yalnızlık ve yakın hücreler arasında konuşma",
         "Bölümler": "11",
-        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+        "Görsel": "Seçilmiş görsel · MEKAN_ANGELS_TAS_ZINDANI_KESIN.webp"
       },
       "sections": {
         "genel": "İleri teknoloji merkezinin içinde/yanında bulunan, ayrı fakat sesin ulaşabildiği eski taş duvarlı, klasik demir parmaklıklı hücreler.",
@@ -1443,7 +1443,7 @@
         "blake"
       ],
       "status": "KESİN MEKÂN ÇERÇEVESİ",
-      "shortLabel": "YERALTI · DEMİR PARMAKLIKLAR"
+      "shortLabel": "Demir parmaklıklı zindan"
     },
     {
       "id": "villa",
@@ -1451,11 +1451,11 @@
       "type": "places",
       "tagline": "YENİ ŞEHİR ÇEPERİ · HAVUZLU KONUT",
       "summary": "Julian'ın bulduğu, Cen.net'ten önce farklı Angels üyeleri adına satın alınmış lüks yazlık konut. Üçlünün Aralık boyunca sızma planını yaptığı sığınak.",
-      "image": "",
+      "image": "MEKAN_GIZLI_ANGELS_VILLASI_KESIN.webp",
       "meta": {
         "Atmosfer": "Kentli, varlıklı, izole, havuzlu ve dışarıdan huzurlu; kırsal kulübe DEĞİL",
         "Bölümler": "06–08",
-        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+        "Görsel": "Seçilmiş görsel · MEKAN_GIZLI_ANGELS_VILLASI_KESIN.webp"
       },
       "sections": {
         "genel": "Julian'ın bulduğu, Cen.net'ten önce farklı Angels üyeleri adına satın alınmış lüks yazlık konut. Üçlünün Aralık boyunca sızma planını yaptığı sığınak.",
@@ -1472,7 +1472,7 @@
         "angels"
       ],
       "status": "KESİN MEKÂN ÇERÇEVESİ",
-      "shortLabel": "YENİ ŞEHİR ÇEPERİ · HAVUZLU KONUT"
+      "shortLabel": "Havuzlu gizli sığınak"
     },
     {
       "id": "paradise_99",
@@ -1480,11 +1480,11 @@
       "type": "places",
       "tagline": "YILBAŞI BALOSU · CEO'NUN SANAT KOLEKSİYONU",
       "summary": "Aurelian'ın nadir sanat eserleriyle dolu özel koleksiyon katı; 31 Aralık'ta maskeli ve gösterişli Cen.net davetine açılır.",
-      "image": "",
+      "image": "MEKAN_CENNET_AGACI_99_KAT_KESIN.webp",
       "meta": {
         "Atmosfer": "Eski aristokratik zevk, lüks, maskeler, ihtişam ve gizli tehdit",
         "Bölümler": "07–09",
-        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+        "Görsel": "Seçilmiş görsel · MEKAN_CENNET_AGACI_99_KAT_KESIN.webp"
       },
       "sections": {
         "genel": "Aurelian'ın nadir sanat eserleriyle dolu özel koleksiyon katı; 31 Aralık'ta maskeli ve gösterişli Cen.net davetine açılır.",
@@ -1502,7 +1502,7 @@
         "ozel_guvenlik_sefi"
       ],
       "status": "KESİN MEKÂN ÇERÇEVESİ",
-      "shortLabel": "YILBAŞI BALOSU · CEO'NUN SANAT KOLEKSİYONU"
+      "shortLabel": "CEO'nun sanat koleksiyonu"
     },
     {
       "id": "paradise_100",
@@ -1533,7 +1533,7 @@
         "blake"
       ],
       "status": "KESİN MEKÂN ÇERÇEVESİ",
-      "shortLabel": "CEO'NUN OFİSİ · ŞEYTANLA YÜZLEŞME"
+      "shortLabel": "CEO'nun özel ofisi"
     },
     {
       "id": "daniil_muayene",
@@ -1562,7 +1562,7 @@
         "blake"
       ],
       "status": "KESİN MEKÂN ÇERÇEVESİ",
-      "shortLabel": "TIBBİ İNCELEME · AMELİYAT"
+      "shortLabel": "Daniil'in muayenehanesi"
     }
   ],
   "featureGallery": [
@@ -1883,7 +1883,17 @@
     "julian": "JULIAN_KESIN.webp",
     "aras": "ARAS_KESIN.webp",
     "vesna": "VESNA_KESIN.webp",
-    "nexariel": "NEXARIEL_KESIN.webp"
+    "nexariel": "NEXARIEL_KESIN.webp",
+    "clark_evi": "MEKAN_NIL_CLARK_EVI_KESIN.webp",
+    "universite_arsiv": "MEKAN_UNIVERSITE_TARIH_ARSIVI_KESIN.webp",
+    "gizli_kafe": "MEKAN_JULIAN_GIZLI_KAFE_KESIN.webp",
+    "eski_adliye": "MEKAN_TERK_EDILMIS_ADLIYE_KESIN.webp",
+    "angels_kilise": "MEKAN_ANGELS_TARIHI_KILISE_KESIN.webp",
+    "sera": "MEKAN_KILISE_BOTANIK_SERA_KESIN.webp",
+    "angels_yeralti": "MEKAN_NEXARIEL_YERALTI_MERKEZI_KESIN.webp",
+    "angels_zindan": "MEKAN_ANGELS_TAS_ZINDANI_KESIN.webp",
+    "villa": "MEKAN_GIZLI_ANGELS_VILLASI_KESIN.webp",
+    "paradise_99": "MEKAN_CENNET_AGACI_99_KAT_KESIN.webp"
   },
   "chapters": [
     {
