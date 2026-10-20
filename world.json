@@ -1,5 +1,5 @@
 {
-  "version": "4.1",
+  "version": "4.2",
   "title": "SKOPSE",
   "strapline": "Mutant Bir Şehir",
   "intro": "Skopse, Onj Nehri’nin iki kıyısında büyüyen, teknolojinin ve eşitsizliğin aynı sokaklara sığdığı bir kenttir. Yeni Şehir taşkınlardan korunurken Eski Şehir her ekimde yeniden su altında kalır.",
@@ -1510,11 +1510,11 @@
       "type": "places",
       "tagline": "CEO'NUN OFİSİ · ŞEYTANLA YÜZLEŞME",
       "summary": "Gökdelenin en üstündeki geniş, neredeyse boş oda: az eşya, bir antika masa, masadaki bilgisayar ve Skopse'ye bakan dev panoramik camlar.",
-      "image": "",
+      "image": "MEKAN_CENNET_AGACI_100_KAT_KESIN.webp",
       "meta": {
         "Atmosfer": "99. katın lüksünün aksine soğuk minimalizm; sakin tehdit ve açık yükseklik",
         "Bölümler": "07, 09",
-        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+        "Görsel": "Seçilmiş görsel · MEKAN_CENNET_AGACI_100_KAT_KESIN.webp"
       },
       "sections": {
         "genel": "Gökdelenin en üstündeki geniş, neredeyse boş oda: az eşya, bir antika masa, masadaki bilgisayar ve Skopse'ye bakan dev panoramik camlar.",
@@ -1539,20 +1539,20 @@
       "id": "daniil_muayene",
       "name": "Doktor Daniil'in Muayenehanesi",
       "type": "places",
-      "tagline": "TIBBİ İNCELEME · AMELİYAT",
-      "summary": "Nil'in gizli Hamlet çipinin tespit edildiği, sinir sistemine bütünleşme riskinin belirlendiği ve çıkarma işleminin son anda durdurulduğu tıbbi ortam.",
-      "image": "",
+      "tagline": "ESKİ / UNDERGROUND KLİNİK · GİZLİ MUAYENE",
+      "summary": "Doktor Daniil'in yıpranmış, gözlerden uzak yeraltı kliniği: eski taş ve sıvası dökülmüş duvarlar, dar merdivenler, eski ameliyat masası ve tamir edilmiş tıbbi ekranlarla çalışan bir muayene alanı. Nil'in çipi burada bulunur; çıkarma işlemi son anda durdurulur.",
+      "image": "MEKAN_DANIIL_KLINIGI_KESIN.webp",
       "meta": {
-        "Atmosfer": "Klinik somutluk, mahremiyet, geri döndürülemez kararın ağırlığı",
+        "Atmosfer": "Eski, underground, gölgeli ve yıpranmış; mat erik/mor tonları, soluk pembe ve turkuaz ışık, kullanılmış medikal cihazlar.",
         "Bölümler": "12",
-        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+        "Görsel": "Seçilmiş görsel · MEKAN_DANIIL_KLINIGI_KESIN.webp"
       },
       "sections": {
-        "genel": "Nil'in gizli Hamlet çipinin tespit edildiği, sinir sistemine bütünleşme riskinin belirlendiği ve çıkarma işleminin son anda durdurulduğu tıbbi ortam.",
+        "genel": "Doktor Daniil'in yıpranmış, gözlerden uzak yeraltı kliniği: eski taş ve sıvası dökülmüş duvarlar, dar merdivenler, eski ameliyat masası ve tamir edilmiş tıbbi ekranlarla çalışan bir muayene alanı. Nil'in çipi burada bulunur; çıkarma işlemi son anda durdurulur.",
         "gecmis": "Köken/önceki tarih yalnız mevcut kanondaki ölçüde belirlenmiştir.",
         "iliskiler": "Bağlantılı atlas kayıtları: daniil, nil, hamlet, julian, blake.",
         "yetenekler": "Daniil çipi saptar ve hayati riskin altını çizer; Hamlet 'Dur! Ölmek istemiyorum!' diye seslenir, Nil ameliyatı durdurur.",
-        "notlar": "Eski taslaklarda 'merdiven altı muayenehanesi' geçti; güncel sahnelerde kesin bina adı/konumu sabitlenmedi."
+        "notlar": "Temiz, steril, gösterişli yüksek teknoloji hastanesi DEĞİL; yeraltına gizlenmiş, düşük bütçeli ama iş görebilen eski klinik. Tam adres açık. 12. bölümde çip çıkarılmaz."
       },
       "related": [
         "daniil",
@@ -1893,7 +1893,9 @@
     "angels_yeralti": "MEKAN_NEXARIEL_YERALTI_MERKEZI_KESIN.webp",
     "angels_zindan": "MEKAN_ANGELS_TAS_ZINDANI_KESIN.webp",
     "villa": "MEKAN_GIZLI_ANGELS_VILLASI_KESIN.webp",
-    "paradise_99": "MEKAN_CENNET_AGACI_99_KAT_KESIN.webp"
+    "paradise_99": "MEKAN_CENNET_AGACI_99_KAT_KESIN.webp",
+    "paradise_100": "MEKAN_CENNET_AGACI_100_KAT_KESIN.webp",
+    "daniil_muayene": "MEKAN_DANIIL_KLINIGI_KESIN.webp"
   },
   "chapters": [
     {
