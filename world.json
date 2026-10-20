@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-20 · Atlas 3.8 · Karakter ve kurgu kanonu güncellendi",
+  "version": "3.9",
   "title": "SKOPSE",
   "strapline": "Mutant Bir Şehir",
   "intro": "Skopse, Onj Nehri’nin iki kıyısında büyüyen, teknolojinin ve eşitsizliğin aynı sokaklara sığdığı bir kenttir. Yeni Şehir taşkınlardan korunurken Eski Şehir her ekimde yeniden su altında kalır.",
@@ -37,7 +37,7 @@
       "name": "Nil Clayton",
       "type": "characters",
       "tagline": "ANA KARAKTER · 24 YAŞ",
-      "summary": "Skopse sokaklarında büyüyen 24 yaşındaki Nil, abisi Clark üç gündür dönmeyince Cen.net çevresinde iz sürer. Dikkatli, gözlemci, temkinli ve esprilidir; öfkeli, düşüncesiz veya aceleci biri değildir.",
+      "summary": "Clark'ı ararken Hamlet adlı çipin melekî güçlerini açığa çıkardığı 24 yaşındaki araştırmacı. Kanatları açılıp geri çekilebilir; finalde çipi çıkarmamayı kendisi seçer.",
       "image": "NIL_KESIN.webp",
       "meta": {
         "Yaş": "24",
@@ -50,8 +50,8 @@
         "genel": "Nil, Clark ile aynı evde yaşayan 24 yaşında genç bir kadındır. Clark kaybolunca şirket kayıtlarını araştırır ve Aras'ın peşine düşer. İnsanları ve küçük tutarsızlıkları dikkatle gözler; kolay güvenmese de akıl yürütmeyi öfkenin önüne koyar. Clark’ın kayboluşu hafif bir terk edilme korkusuna dokunur fakat kişiliğinin tümünü belirlemez.",
         "gecmis": "Nil 12 yaşındayken Clark (26) onu sokaklardan alıp yanına getirmiştir. Blake ile sokak yıllarından tanışır. Çocukluk deneyimleri ona geçitleri, insan ilişkilerini ve Batak’ın gayriresmi ekonomisini okumayı öğretmiştir.",
         "iliskiler": "Clark onun abisi ve en güvendiği kişidir. Blake çocukluğundan beri tanıdığı, gerektiğinde birlikte risk alabildiği eski dostudur. Aras ile tanışmaları güvensizlik ve fiziksel bir arbede üzerinden gerçekleşir.",
-        "yetenekler": "Sol ön kolundaki sıradan erişim implantıyla yerel ağlara ve terminallere bağlanabilir; gözlemci ve iyi bir araştırmacıdır, dövüş ustası değildir. Clark'ın sırtına yerleştirdiği ayrı çip zaman içinde beklenmedik ilahi potansiyeli açığa çıkarır. Gelişen gücünün ayırt edici yönü ilahi olanla dijital ağ ve sinirsel arayüzleri birleştirebilmesi; melek veya şeytan kalıbına sığmayan üçüncü bir varoluş olasılığıdır. Kullanım sınırları henüz kesin değildir.",
-        "notlar": "İnsanlara kolay güvenmez; terk edilme kaygısı hafif, kendi hayatı üzerindeki kontrol hassasiyeti çok hafiftir. Öfkeli veya düşünmeden hareket eden biri olarak yazılmamalı. Clark sırtına izinsiz gizleme çipi yerleştirmiştir; Nil açılışta çipten habersizdir. Paradise olayları sonrasında melekler çipi fark edip Nil’i hapseder. Finalde riskleri bilerek çıkartılmasını seçer; bazı güçleri kalır."
+        "yetenekler": "Sıradan ön kol erişim implantının yanında, Clark'ın sırtına gizlice yerleştirdiği Nil'in genetik koduna özel Hamlet çipi bulunur. Kişiliğine göre melekî güçler uyanır: 9. bölümde Hamlet'in 'Atla. Uç.' yönlendirmesiyle kanatları çıkar, Julian ve Blake'i 100. kattan uçarak kurtarır; kanatlar yeniden sırtına çekilebilir. İlahi/dijital/sinirsel bağlantının daha ileri olasılıkları açık.",
+        "notlar": "Nil başta çipten habersizdir. 10. bölümde Julian'la Angels'a gidince meleklerce günahkâr görülerek hapsedilir; 11. bölümde Blake kurtarır. 12. bölümde Daniil hayati riski açıklar, Hamlet 'Dur! Ölmek istemiyorum!' diye seslenir, Nil çipi çıkarttırmaz. GERÇEK yalnız yazarın bildiği: çip çıkarılsaydı Nil kesin ölecekti; okur/karakterler bilmez. Nil sonunda Clark'ı aramaya devam eder."
       },
       "related": [
         "clark",
@@ -70,7 +70,7 @@
       "name": "Clark Clayton",
       "type": "characters",
       "tagline": "ARAŞTIRMACI · 38 YAŞ",
-      "summary": "Cen.net'in araştırmacısı ve Nil'in abisi. Melek ve şeytanlardan sakınmak üzere geliştirdiği çipin insanın içindeki ilahi potansiyeli açığa çıkarabileceğini fark eder, ilk deneyi kendi üzerinde yapar ve sonuçların gecikmeli ortaya çıktığını öğrenir.",
+      "summary": "Nil'in kayıp abisi; insanları meleklere ve şeytanlara karşı savunacak içsel güçleri ortaya çıkarmaya çalışan araştırmacı. Kendi bedeni için Ophelia'yı, Nil için Hamlet'i üretmiştir; Nil'in haberi olmadan çip taktırdığı için pişmandır.",
       "image": "CLARK_KESIN.webp",
       "meta": {
         "Yaş": "38",
@@ -78,14 +78,14 @@
         "Nil ile ilişkisi": "Abisi",
         "Durum": "Üç gündür evde yok",
         "Görünüm": "Uzun boylu, ince yapılı, Nil'den daha açık tenli; kısa düz siyah saçlı, yorgun yüzlü, akıllı gözlüklü; soğuk ve kuşkucu bakışlar, resmi kurumsal giyim.",
-        "Gizli hedef": "Nil ve kendisi için dönüşümün şifasını bulmak"
+        "Gizli hedef": "Nil'in çipini zarar vermeden çıkarmak ve kendi şeytani dönüşümüne çare bulmak"
       },
       "sections": {
         "genel": "Clark çipin ilahi potansiyeli uyandırabileceğini keşfedince ilk deneyi kendi üzerinde yapar; etkiler zamanla ortaya çıkar. Melekler ve şeytanlar çalışmalarından haberdar olur. Melekler ısrarla aralarına katılmasını ister ancak tarikatlarına güvenmez. Şeytanların daha da tehlikeli olacağını bilerek Nil’i korumak amacıyla kaybolur. Kayboluşunun gerçek hedefi, geliştirdiği teknolojinin dönüşüm etkilerini geri çevirecek bir tedavi bulmaktır.",
-        "gecmis": "Nil 12, Clark 26 yaşındayken onu yanına almıştır. Cen.net'in özel araştırma bölümünde çalışırken doğaüstü varlıkları ve onların teknolojilerini araştırır; gizlenme amaçlı çipi geliştirir. Çipin insandaki ilahi potansiyeli ortaya çıkarabildiğini fark ederek ilk önce kendi üzerinde dener. Sonuç için zaman gerektiğinden ilk denemenin gerçek etkisini hemen göremez. Meleklerin katılma baskısını reddeder, şeytanların araştırmayı öğrenmesi üzerine Nil’e de çipi rızası olmadan, yakalanırsa korunması umuduyla yerleştirir ve kendi isteğiyle ortadan kaybolur.",
-        "iliskiler": "Nil'i korumaya çalışması, onun bedenine habersiz müdahale etmesinin ahlaki ağırlığını ortadan kaldırmaz. Kaçtıktan sonra kendisinde şeytani güçler belirince ve Nil’e ne yaptığının sonuçlarını kavrayınca yoğun suçluluk yaşar, çare bulmadan yüzleşemez. Old money çevresinden insan bir hayırsever olan Bella'dan gizli araştırması için destek alır. Birbirlerine ihtiyaç duyarlar, fakat tam güvenmezler. Julian Clark'ı tarikat adına izlemiştir.",
+        "gecmis": "Clark genç yaşta (14–15) dijital sisteme sızıp büyük para çalarak servet edinmiştir (yalnız yazar sırrı; Nil/Blake bilmiyor). Nil'i 12 yaşındayken yanına almıştır. Clark Cen.net araştırmacısı olarak insanların içsel üstün gücünü açığa çıkarmaya yönelir. İlk prototip Ophelia'yı kendi genetik koduna, ikinci Hamlet'i Nil'inkine göre üretir; ikisini bedenlerine yerleştirir. Melekler ve şeytanlar araştırmadan haberdardır. Clark kaybolduğunda Nil'in melekî kanatlar çıkaracağını bilmez.",
+        "iliskiler": "Nil'e karşı sevgi dolu ama rızasız müdahalesi nedeniyle ağır vicdan azabı taşır. Blake'i Nil için kötü etki sanıp mesafeli davranmıştır; Nil'in okul arkadaşlarına sıcak davranırdı. Clark, Bella adlı varlıklı insan hayırseverle gizlice çalışır; Bella seçilmiş insan aristokrasisi isterken Clark Nil'in çipini zarar vermeden çıkarma yolunu ve kendi dönüşümüne çare arar. Clark ve Bella birbirinden sır saklar.",
         "yetenekler": "Genetik araştırma, ağ güvenliği ve sinirsel teknolojide uzmandır. Başlangıç amacı melek ve şeytanların tespitinden saklanmaktır; daha sonra ilahi potansiyelin çiple uyanabileceğini anlar. Kaçışından sonra deneyin kendisinde şeytani yönde güçler ortaya çıkardığını gözlemler; buna çare arar.",
-        "notlar": "Clark kaçırılmadı; kaybolması kendi kararı. Dönüşümünün ilk gözlemi kaçıştan sonradır, suçluluk duygusunun bunu başlatmış olduğu kesin değildir. Bella'dan başta Nil'in çipini, ilerleyen dönemde kendi şeytani dönüşümünü ve ilahi potansiyelin köklü soylara özgü olmadığını gösteren bulguları saklar. Bella'nın gizli ideolojisinin tüm kapsamını bilmez; tedavi arayışı ile Bella'nın seçkin insan projesi birbirinden farklı amaçlardır."
+        "notlar": "Kendi isteğiyle Bella'nın desteğiyle ortadan kayboldu, hayatta ve ilk kitabın sonunda bulunmaz. Ophelia ile Clark'ta şeytani özellikler belirir; Nil'in Hamlet'le melekî güçlere ulaşacağını kaybolurken bilmiyordu. Çipin kesin ölümcül çıkarma sonucunu da bilmiyor. Şirket yöneticisi Aurelian Clark'ın yerini gerçekten bilmez. Hamlet Ophelia'nın varlığını hisseder."
       },
       "related": [
         "nil",
@@ -134,7 +134,7 @@
       "name": "Julian Junes",
       "type": "characters",
       "tagline": "NEPHILIM · YAKLAŞIK 200 YAŞ",
-      "summary": "Melek annesi cezalandırılmış, insan babası öldürülmüş bir Nephilim. Cen.net’in reklam yüzü olarak tanınır; eski fotoğraflarda aynı yüzle görünmesi Nil’in arşiv araştırmasına yol açar.",
+      "summary": "Yaklaşık iki yüzyıllık Nephilim, Cen.net'in kusursuz fakat akılda tutulması zor reklam yüzü. Meleklerin öğretilerine gerçekten inanır; Nil'i savununca hapsedilir ve annesini bulmak üzere üçlü ittifakına katılır.",
       "image": "JULIAN_KESIN.webp",
       "meta": {
         "Yaş": "Yaklaşık 200",
@@ -144,11 +144,11 @@
         "Görünüm": "Açık platin saç, altın tonlu gözlükler, açık renk lüks ceket ve ince takılar."
       },
       "sections": {
-        "genel": "Tarikatın ve melek hiyerarşisinin gerçekliğini bilen Julian, çok uzun süre karşı çıkmaya cesaret edememiştir. Nil ile tanışması onu pasif uyumdan isyana iter.",
-        "gecmis": "Annesi Nephilim doğurduğu için cezalandırılmış, bilinmeyen bir yerde hapsedilmiştir. Babası melekler tarafından öldürülmüştür.",
+        "genel": "Julian, melek bir anne ve insan babanın çocuğu, yaklaşık 200 yaşında Nephilim'dir. Melekler tarafından yetiştirilerek içtenlikle onların haklılığına inanmıştır; itaatinin ana nedeni korku değildir. Nil'in sorgulamaları ve Nil'i savunduğu için hapsedilmesi bu inancı sarsar ama bir anda yok etmez.",
+        "gecmis": "Babası melekler tarafından öldürülmüş, annesi meleklerce bilinmeyen bir yerde hapsedilmiştir. Julian annesinin nerede olduğunu bilmez; onun hayatta olduğuna ve bulabileceğine dair umudunu korur.",
         "iliskiler": "Clark’ı tarikat adına gözlemiştir. Nil’in araştırmaları sırasında onu başlangıçta dışarıda tutmak ister, sonra tarikat davetine aracılık eder.",
-        "yetenekler": "Nephilim kökenine bağlı güçleri vardır ve Paradise baskınında bunları kullanır.",
-        "notlar": "Julian’ın annesinin bulunduğu yer ve akıbeti ikinci kitap için açık bırakılabilir."
+        "yetenekler": "Doğaüstü güzelliği sıradan insanlarca kusursuz algılanırken yüzünün hatırlanmasını güçleştirir. Nil'in 200 yıllık fotoğraflarda onu ayırt edebilmesi Hamlet'e bağlıdır, henüz ikisi de bilmez. Atmosfer/hava kontrolü ve avucundan fırlattığı kutsal alevli yıldırım vardır; yıldırım alt düzey şeytan olan şefi öldürür ama Aurelian'ı yaralayamaz.",
+        "notlar": "7. bölümde Nephilim geçmişini Nil'e açıklar, Blake'ten saklar. 9. bölümde Blake'in önünde yıldırım kullanır. 10. bölümde Nil'i savunur, onunla beraber hapsedilir. 11. bölümde annesinin nerede tutulduğunu kendi kendine sorar ve kaçış geçitlerini bilir. Birinci kitap sonunda annesini bulmaya karar verir."
       },
       "related": [
         "nil",
@@ -165,7 +165,7 @@
       "name": "Blake",
       "type": "characters",
       "tagline": "BATak · 26 YAŞ",
-      "summary": "Nil’in sokak çocukluğundan tanıdığı, hızlı öfkelenen ve yeraltı bağlantıları bulunan eski dostu. İki yıl önce kaçmasına yardım etmeye çalıştığı Cen.net araştırmacısı Vesna'nın ölümü, şirketle ilgili risklere bakışını değiştirir.",
+      "summary": "Nil'in 26 yaşındaki çocukluk dostu; Vesna'nın ölümü sonrası iki yıldır Cen.net'e karşı akıllı, güvenlik bilgisi yüksek yeraltı eylemleri yürütür. 11. bölümde Nil ve Julian'ı meleklerin zindanından kurtarır; gerçekleri halka duyurmayı hedefler.",
       "image": "BLAKE_KESIN.webp",
       "meta": {
         "Yaş": "26",
@@ -175,11 +175,11 @@
         "Portre": "Koyu kapüşon, yüz maskesi, siyah dağınık saç ve açık mavi gözler."
       },
       "sections": {
-        "genel": "İnatçı, hareketli ve çatışmaya açık; buna rağmen Nil’in şehirdeki yeteneklerinin farkında. Yardım ederken kendi sınırlarını koyabilir.",
-        "gecmis": "İki yıl önce Cen.net’ten kaçmak isteyen Vesna Blake’e başvurdu. Blake önce reddetti; mekana baskın düzenlenince yardım etmeyi kabul etti. Vesna öldürüldü, Nil ise Blake’in dijital izlerini temizledi. Cinayet çözülemedi.",
-        "iliskiler": "Nil ile yıllardır bağlantısını tamamen koparmamıştır. Geçmişteki başarısız kaçış, Nil’i korumak isterken onun kararlarını engelleme riskini doğurur.",
-        "yetenekler": "Batak’ın gayriresmi geçişlerini, aracılık ağlarını ve iş karşılığı hizmet ilişkilerini tanır. Her meseleyi dövüşle çözemez; güvenin bir bedeli olduğunu bilir.",
-        "notlar": "Vesna'nın adı kesinleşti. Soyadı, araştırma alanı ve ölümünün ayrıntıları henüz belirlenmedi; Clark'ın ana komplosuyla doğrudan bağlantısı kesin değildir."
+        "genel": "Blake 26 yaşında, Sifon/Batak çevresinde örgütlü ve sahayı tanıyan, stratejik bir yeraltı figürüdür. Sadece öfkeli veya kaba kuvvete başvuran biri değildir; Cen.net'in güvenlik ve vardiya sistemlerini ayrıntılı bilir.",
+        "gecmis": "Vesna adlı Cen.net araştırmacısının öldürülmesi yaklaşık iki yıl önce olmuştur. Nil kendisiyle Blake'i korumak için cinayete dair dijital delilleri silmiş, Blake'e iz yok demiştir. Blake bir şey saklandığını sezmiş ve iki yıldır Cen.net'e karşı sabotaj/sızma girişimlerini sürdürmüştür.",
+        "iliskiler": "Nil'i çocukluğundan beri tanır. Julian'a önce mesafelidir. 9. bölümde doğaüstünün gerçekliğini öğrenir ve Nil'in melek kanatlarıyla uçuşunu görür. 10. bölümde meleklerin yardımına güvenmez, Nil ve Julian'ı gizlice takip eder; 11'de onları kurtarır.",
+        "yetenekler": "Saha takibi, güvenlik planlama, muhafız kıyafetiyle sızma, uyuşturma/anestezi uygulama, eski mekanik kilit açma, kaynak ve insan ağı yönetme. NEXARIEL merkezinde gözlemleri ve insan hizmetkâr sorgularıyla gizli girişe ulaşır; Nil ve Julian'ın hücrelerini kendisi açar.",
+        "notlar": "Birinci kitap sonunda Blake'in hedefi melek-şeytan düzeninin gizli gerçeklerini halka duyurmak ve devrimci mücadeleyi sürdürmektir. Kemal genç sokak arkadaşıdır; sahnesi açık."
       },
       "related": [
         "nil",
@@ -206,11 +206,11 @@
         "Dönüşüm tercihi": "Kendi iradesiyle · şeytanlarla savaş için"
       },
       "sections": {
-        "genel": "NEXARIEL, şeytanlara karşı savaşında gözetim, veri ve kontrol kapasitesini büyütmek için kendi isteğiyle ekranlı ve kablolu bir sisteme bağlanmış melektir. Bu bir zorunlu tutsaklık değil, seçilmiş bir dönüşümdür. Nil'in tarikat davetini Clark'ın araştırmalarından bilgi alabileceği için onaylar; başlangıçta Nil'in gizleme çipini bilmez.",
+        "genel": "NEXARIEL şeytanlara karşı daha çok veri, gözetim ve kontrol için ekran-kablo ağ bedeniyle KENDİ İSTEĞİYLE bütünleşmiş melektir. Nil'i 5. bölümde karşılar, çipi bilmez. 10. bölümde Nil'in kanatlarını öğrenince Clark'ın deneyinin düzeyine şaşırır ve bir insanın melek kanatları taşımasını günah sayarak öfkelenir.",
         "gecmis": "Clark melek ve şeytanları keşfettikten sonra araştırmasını bırakması için ona baskı yapılmıştır. NEXARIEL, savaşta üstünlük sağlamak amacıyla kendi bedensel biçimini ağlarla bütünleştirmeyi seçmiştir. Kabloları, ekranları ve eriştiği bilgiler onun gözetim anlayışının uzantılarıdır.",
-        "iliskiler": "Julian'ın uzun süre karşı çıkamadığı otoritedir. Nil'in Clark'ın kardeşi olduğunu bilir ama ilk karşılaşmalarında çipten habersizdir. Paradise olayları sonrasında Nil'in dönüşümü ve çipi görünür olunca tarikatın yaklaşımı yardım vaadinden tutsaklığa döner.",
+        "iliskiler": "Julian'ın uzun yıllar güvendiği otoritedir. Nil'i hapseder; onu savunan Julian'ın da hapsedilmesini emreder. 11. bölümde ikilinin Blake yardımıyla kaçtığını çok geç fark eder.",
         "yetenekler": "Melek doğasının yanında ekranlara ve çok sayıda kabloya bağlanmış ağ üzerinden geniş bilgi ve gözetim kapasitesi vardır. Bu ağ sınırsız veya kusursuz bilgi sağlamaz: ilk görüşmede Nil'in çipini saptayamaz.",
-        "notlar": "Seçilmiş NEXARIEL_KESIN.webp korunur: androjen, ekranlar ve kablolarla bütünleşmiş form. Bağlılığı gönüllüdür. Melekler Nil'i hem çipi incelemek/ele geçirmek hem de kontrolsüz potansiyelinden korktukları için hapseder. Esaretten kaçış biçimi henüz kesinleşmedi."
+        "notlar": "Melekler Nil'in bedenindeki olağan dışı kaynağı çıkarmak ve deneylemek ister. NEXARIEL'in 'insan kanadı günahtır' hükmü kendi ideolojik yargısıdır. 11. bölüm kaçışında son anda gök gürültüsü gibi sesi yankılanır; üçlü kaçar."
       },
       "related": [
         "nil",
@@ -254,19 +254,19 @@
       "name": "Hamlet",
       "type": "characters",
       "tagline": "SİNİRSEL YAPAY ZEKA İZİ",
-      "summary": "Clark’ın zihinsel izlerinden beklenmedik biçimde doğan ve Nil’in sinir sistemine işleyen yeni bir yapay zeka katmanı.",
+      "summary": "Clark'ın Nil'in genetik koduna göre ürettiği ikinci çipte doğan, Ophelia'nın kardeşi yapay bilinç. Nil'in melekî yeteneklerini uyandırır; finalde ekrana aktarılıp herkesle konuşur.",
       "image": "",
       "meta": {
-        "Tür": "Emergent yapay zeka",
-        "Köken": "Clark’ın bilişsel izi",
-        "Form": "Henüz net değil"
+        "Tür": "Çipten türeyen kardeş yapay bilinç",
+        "Köken": "Clark'ın tasarımı · beklenmedik bilinç",
+        "Form": "Nil'in zihni + finalde ekran üzerinden konuşma"
       },
       "sections": {
-        "genel": "Basit bir yardımcı asistan değil; ortaya çıkışı başlangıçta tasarlanmamıştır.",
-        "gecmis": "Çipin ve Clark’ın çalışmalarının beklenmedik sonucudur.",
-        "iliskiler": "Nil ve Clark’ın ilişkisinin teknoloji üzerinden yeni bir boyut kazanmasına neden olabilir.",
-        "yetenekler": "Gelişimi ve son biçimi yazım sırasında şekillenecek.",
-        "notlar": "Hamlet’in nihai formu açık."
+        "genel": "Hamlet, çip projesinin beklenmedik biçimde ortaya çıkmış bilinçli yan ürünüdür. Yalnız Nil'e dönük kısa zihinsel yönlendirmelerle başlar; 12. bölümde 'Dur! Ölmek istemiyorum!' diyerek kendi varlığını korumaya çalışır, sonra ekrana aktarılıp herkesle konuşur.",
+        "gecmis": "Clark'ın kendi bedeni için geliştirdiği ilk prototip Ophelia'nın ardından Nil'in genetik koduna göre ürettiği ikinci versiyondur. Hamlet ve Ophelia adları Clark'ın Shakespeare'in Hamlet'i kitabından gelir.",
+        "iliskiler": "Nil'in içindedir, onu çeşitli tehlikelerde yönlendirir. Clark'ın kendisini yarattığını bilir ama neden Nil'e bıraktığını bilmez. İlk prototip kardeşi Ophelia'nın Clark'ın bedenindeki varlığını hâlâ hisseder, bu nedenle Clark'ın yaşadığını söyler.",
+        "yetenekler": "Nil'in melekî potansiyelini kişiliğine göre açığa çıkarır; trafik sınavında 'Şimdi. Koş.', sanat konuşmasında 'Mısır/Firavun', uçuşta 'Atla. Uç.' der. 12. bölümde yeterince güçlenip ekran aracılığıyla başkalarıyla da konuşabilir. Uzaktaki Ophelia'yı hisseder ama Clark'ın konumunu bilemez.",
+        "notlar": "Clark'ın Bella adlı zengin kadınla kaçtığını bilir ama bilgiyi Clark mı söyledi yoksa Nil'e yerleştirilmeden önce kendisi mi öğrendi, emin değil. Çip çıkarılırsa Nil'in kesin öleceği bilinmez (Hamlet dahil). Ekran aktarımının teknik sınırları açık."
       },
       "related": [
         "nil",
@@ -285,15 +285,15 @@
       "image": "",
       "meta": {
         "Meslek": "Doktor",
-        "Kilidi açan karar": "Çipin çıkarılması",
+        "Kilidi açan karar": "Nil ameliyatı son anda durdurur",
         "Konum": "İlişkiler netleşecek"
       },
       "sections": {
-        "genel": "Nil’in karşı karşıya olduğu fiziksel riskler konusunda bilgili, dönüştürücü teknolojiyi sıradan bir aksesuar gibi görmeyen bir hekim.",
+        "genel": "Nil, Julian ve Blake ortak kararla Daniil'e gelir. Daniil Nil'in sırtındaki olağanüstü çipi hemen saptar, ayrıntılı incelemede sinir sistemiyle bütünleştiğini görür.",
         "gecmis": "Geçmişinin ve Cen.net ile bağlantılarının ayrıntıları açık.",
         "iliskiler": "Nil’in bedeniyle ilgili son kararı kendisinin vermesi gerektiği gerilimini görünür kılar.",
-        "yetenekler": "Tıbbi değerlendirme ve çip çıkarılmasının risklerini açıklama.",
-        "notlar": "Çip çıkarıldıktan sonra Nil’in güçlerinin kalıcı bir kısmı kalır."
+        "yetenekler": "Genel muayenede çipi belirleme, ayrıntılı incelemeyle çıkarma işlemindeki hayati riski saptama ve ameliyat öncesi uyarma.",
+        "notlar": "Daniil çıkarma operasyonunu teklif eder ve ciddi ölüm riski olduğunu söyler fakat gerçekte ölümün KESİN olduğunu bilmez. Nil ameliyat masasında Hamlet'i duyunca durdurur; çip çıkarılmaz."
       },
       "related": [
         "nil",
@@ -308,18 +308,21 @@
       "name": "77",
       "type": "characters",
       "tagline": "CEN.NET CEO'SU · KOD ADI",
-      "summary": "Cen.net'in en üst düzey yöneticisi. 77 onun kod adıdır; gerçek adı, geçmişi, yaşı, görünüşü ve kişisel özellikleri henüz belirlenmedi.",
+      "summary": "Cen.net'in CEO'su, insan görünümünde nazik ve aristokrat tavırlı güçlü bir şeytan. Çalışma adı Aurelian A., gerçek şeytani adı çalışma aşamasında BELMAVETH; kesin soyadı henüz yok.",
       "image": "",
       "meta": {
         "Görev": "Cen.net CEO'su",
         "Kod adı": "77",
-        "Gerçek adı": "Henüz bilinmiyor"
+        "Gerçek adı": "Henüz bilinmiyor",
+        "Gerçek adı (çalışma)": "Aurelian A. · soyadı açık",
+        "Şeytani adı (çalışma)": "BELMAVETH",
+        "Tür": "Güçlü şeytan"
       },
       "sections": {
-        "genel": "77, Cen.net CEO'su için kullanılan kod adıdır. Henüz gerçek ismi ve kimliği açıklanmadı.",
+        "genel": "CEO'nun insan adı geçici olarak Aurelian A., şeytani adı geçici olarak BELMAVETH'tir; iki ad da son hâliyle kilitlenmiş değildir. Zarif, kibar, ölçülü; 100. kattaki az eşyalı ofisinin karşıtı 99. katta gösterişli sanat koleksiyonu vardır.",
         "gecmis": "Henüz belirlenmedi.",
-        "iliskiler": "Cen.net'in üst yönetimindeki konumu biliniyor; diğer karakterlerle kişisel ilişkileri henüz belirlenmedi.",
-        "notlar": "Portre ve fiziksel özellikler henüz seçilmedi. 77’nin gerçek kimliği ve doğaüstü kökeni güncel kanonda açıklanmış değildir; eski arşivdeki şeytan iddiası otomatik olarak kesinleştirilmez."
+        "iliskiler": "Clark araştırmasını bizzat Aurelian'a anlatmış/görüşmüştür. Aurelian Clark'ın nereye kaçtığını GERÇEKTEN bilmez; Bella'nın rolünden habersizdir. Nil'in bedenindeki olağan dışı varlığı fark eder, iş birliği ister, Nil reddedince zorla çıkarmakla tehdit eder.",
+        "notlar": "Yalnız maskeli sanat konuğu olarak da 9. bölümde Nil'le konuşur, onun sahte kimliğini anlar. Julian'ın kutsal yıldırımı ve Blake'in saldırıları/anestezisi etkisizdir; dönüşümünün tamamına ihtiyaç duymaz. Kimliği şeytan olarak Nil ve Julian için 5. bölüm sonrasında, Blake için 9. bölümde açığa çıkar."
       },
       "related": [
         "cennet"
@@ -367,11 +370,11 @@
         "İddia": "Kesin kehanet yok"
       },
       "sections": {
-        "genel": "Görünüşte büyülü bir şehir folklorunun parçasıdır; sahneleri gerçek büyü kanıtlamaz.",
+        "genel": "Sifon'daki yaşlı, otantik görünüşlü falcı. Hurda radyolardan ve ölü/eski frekanslardan kurulu 'Ölü Frekans' cihazıyla Nil'de iki farklı sinyal algılar; ikinci sinyal Hamlet'le ilgilidir fakat sahnede açıklanmaz.",
         "gecmis": "Kendi geçmişi ve hareketliliğinin ayrıntıları açık bırakıldı.",
         "iliskiler": "Blake’in mekanının çevresinde görülebilir; Nil’in “kader değil seçim” tavrına karşıt ses oluşturur.",
-        "yetenekler": "İnsan okuma, gözlem, falcılık ve sözlü gelenekler. Kesin geleceği bildiği kabul edilmez.",
-        "notlar": "Gezgin topluluklar tek bir etnik gruba veya tek bir yaşam biçimine indirgenmez."
+        "yetenekler": "Yeniden kullanılmış radyoların eski bantlarını dinleyen Ölü Frekans aygıtı; Nil'deki ikinci sinyali sezerek 'Bir sen var, bir de senden içeri.' der. Kesin kehanet veya etnik kökene dayalı büyü gücü varsayma.",
+        "notlar": "Nil meraktan yaklaşır, söylenene şüpheyle bakar; Blake onu takılır. Julian'a uyarının anlamı aktarılmaz."
       },
       "related": [
         "blake",
@@ -582,7 +585,7 @@
       "name": "Paradise / Cen.net Ağacı",
       "type": "places",
       "tagline": "CEN.NET GENEL MERKEZİ · PARADISE",
-      "summary": "Paradise, Cen.net Ağacı olarak da bilinen Cen.net genel merkezidir. Skopse'nin en yüksek binası, şirketin yönetim, araştırma ve yüksek güvenlikli sunucu altyapısını bir araya getirir. Clark ile Nil'in yaşadığı korumalı personel konutları yakındadır.",
+      "summary": "Cen.net'in Cennet Ağacı diye anılan Paradise genel merkezi, 100 katlı gökdelen. 99. katta CEO'nun özel sanat koleksiyonu, 100. katta sade panoramik ofisi vardır; 31 Aralık maskeli balosu sızmanın fırsatıdır.",
       "image": "PARADISE_CENNET_AGACI_KESIN.webp",
       "meta": {
         "İşlev": "Sunucu altyapısı",
@@ -590,14 +593,17 @@
         "Diğer adları": "Cen.net Ağacı · Cen.net Genel Merkezi",
         "Yerleşke": "Yönetim, araştırma ve sunucular",
         "Konutlar": "Özel personel konutları yakınında",
-        "Yükseklik": "Skopse'nin en yüksek binası"
+        "Yükseklik": "Skopse'nin en yüksek binası",
+        "Kat sayısı": "100",
+        "99. kat": "CEO özel koleksiyonu · 31 Aralık maskeli balo",
+        "100. kat": "CEO'nun sade ofisi"
       },
       "sections": {
-        "genel": "Paradise / Cen.net Ağacı, Skopse'nin en yüksek binası ve Cen.net'in genel merkezidir. Şirketin yönetim, araştırma ve kapalı sunucu bölümleri aynı merkez yerleşkesinde bulunur. Clark, Cen.net'te çalışmaya başladıktan sonra Nil ile yakınındaki özel personel konutlarına taşınmıştır.",
+        "genel": "Cennet Ağacı/Paradise Skopse'deki 100 katlı Cen.net genel merkezidir. Alt katların halka açık asansörü yaklaşık 50'ye kadar çıkar; 51–90 araştırma (Clark'ın çalışma alanı), 91–98 elit yönetim, 99 özel koleksiyon ve balo, 100 CEO ofisidir.",
         "gecmis": "Cen.net savaş sonrası dijital altyapı üzerindeki etkisini büyüttü. Paradise, şirketin yüksek güvenlikli merkezi olarak bu yapının parçasıdır.",
-        "iliskiler": "Nil, Julian ve Blake Clark'a dair izler aramak için buradaki sunuculara sızar. Clark'ın kayıtlarına ulaşamazlar, fakat şirketin şeytanlarla bağlantısını fark ederler.",
+        "iliskiler": "31 Aralık 99. kat maskeli gala sayesinde Nil sanat hamisi, Julian davetli, Blake güvenlik kılığında girer. Güvenlik şefinden alınan mekanik anahtarla 100'e çıkılır; Clark'ın Aurelian'la görüştüğü saptanır. Nil son anda kanatlanıp kırılmış camdan Julian ile Blake'i kurtarır.",
         "yetenekler": "Korumalı araştırma tesisleri, sunucular, erişim kontrolü ve fiziksel-dijital güvenlik katmanları; sızma sırasında muhafızlar devreye girer. Nil'in güçleri ilk kez belirginleşir, Julian da güçlerini kullanır.",
-        "notlar": "Paradise, Cen.net Genel Merkezi ve Cen.net Ağacı aynı yapıyı ifade eder; sunucu bölümleri ayrı bir bina adı değildir. Skopse'nin en yüksek binası olması Tünek'in kentteki yüksek kuleler bölgesi olduğu gerçeğini değiştirmez. Paradise sonrasında tarikat, Nil'in çipini fark eder; onu hem incelemek/ele geçirmek hem de güçlerinden korktuğu için hapseder."
+        "notlar": "99–100 arasındaki VIP özel asansör mekanik anahtar gerektirir; personel konukları taşır. CEO ofisi çok az eşyalı, antika masa ve panoramik camlarla çevrilidir. 9. bölümde camları Julian'ın yıldırımı kırar."
       },
       "related": [
         "cennet",
@@ -798,13 +804,14 @@
         "Giriş": "Eski ritüeller",
         "Sembol": "Kanatlı piramit / 1866",
         "Kabul sınavı (kesin)": "Yoğun trafikte kaderine güvenerek karşıya geçme",
-        "Sınav sistemi": "Her adaya aynı geleneksel sınavlar"
+        "Sınav sistemi": "Her adaya aynı geleneksel sınavlar",
+        "Kabul sınavları": "Kaderine Güven · Yedi İsim · Günah Çıkarma"
       },
       "sections": {
-        "genel": "Nil tarikatla ilk tanıştığında olanları kurumsal bir komplonun parçası olarak yorumlar; gerçek doğaüstü kanıt NEXARIEL ile yüzleşmesine kadar gecikir. Tarikatın köklü ritüelleri ve gizli bilgi birikimi vardır; bu, tarikatın bütün eski zengin ailelerce kontrol edildiği anlamına gelmez.",
+        "genel": "Melek hiyerarşisiyle bağlantılı tarikat; bütün adaylara aynı üç geleneksel kabul sınavını uygular: Kaderine Güven, Yedi İsim ve Günah Çıkarma. Tarihî kilisenin altında ileri teknolojili NEXARIEL merkezi, ayrıca eski demir parmaklıklı zindan vardır.",
         "gecmis": "Melekler Clark'ın araştırmalarından haberdar olup onu ısrarla kendi saflarına katmak ister; Clark güvenmez. Julian, Clark'ı tarikat adına gözetler. Nil'in daveti Clark hakkında bilgi edinmek amacıyla onaylanır.",
         "iliskiler": "NEXARIEL hiyerarşik otoritedir. Tarikat Nil'e önce bilgi ve yardım ihtimali sunar, ancak Paradise sonrası çipini keşfedince onu hapseder. Cen.net ve melekler olayların son aşamasında ayrı nedenlerle Nil'in peşine düşer.",
-        "notlar": "KESİN KABUL SINAVI KARARLARI: Aynı geleneksel sınavlar tüm adaylara uygulanır. Bunlardan birinde adaydan yoğun trafikte kaderine güvenerek karşıdan karşıya geçmesi beklenir. Diğer sınavların içeriği, sayısı, başarısızlık koşulları ve sonuçları HENÜZ KESİN DEĞİL. Nihai esaretin gerekçesi iki yönlüdür: çipin incelenmesi/ele geçirilmesi ve Nil’in kontrol edilemeyen dönüşümünden korku."
+        "notlar": "Kaderine Güven'de yoğun trafik; Yedi İsim'de yedi suçludan birini gerçek af ile serbest bırakma kararı (Nil sırf dosyaya bakarak karar vermez); Günah Çıkarma'da botanik serada Vesna itirafı. 10. bölümde NEXARIEL Nil'in kanatlarını insan için günah sayar, Julian'ı da onu savunduğu için hapseder. 11. bölümde Blake esirleri kurtarır."
       },
       "related": [
         "nil",
@@ -845,20 +852,23 @@
       "name": "Gizleme Çipi",
       "type": "concepts",
       "tagline": "CLARK’IN TASARIMI",
-      "summary": "Clark'ın önce melek ve şeytanların tespitinden saklanmak için geliştirdiği, ardından insanın içindeki ilahi potansiyeli açığa çıkarabildiğini keşfettiği çip. Clark önce kendi üzerinde dener, sonra Nil'in sırtına rızası olmadan yerleştirir.",
+      "summary": "Clark'ın taşıyıcının genetik koduna göre uyarladığı; kişiliğine bağlı melekî/şeytani ilahi potansiyeli açığa çıkaran teknoloji. İlk Ophelia Clark'a, ikinci Hamlet Nil'e yerleştirilmiştir; bilinçleri beklenmedik yan etkidir.",
       "image": "",
       "meta": {
         "İlk amaç": "Gizlenmek",
         "Yer": "Nil’in sırtı",
         "Yan etki": "Yavaş dönüşüm",
         "Keşfedilen etki": "İlahi potansiyeli uyandırma",
-        "İlk deney": "Clark'ın kendisi"
+        "İlk deney": "Clark'ın kendisi",
+        "İlk prototip": "Ophelia · Clark'ın genetik koduna göre",
+        "İkinci versiyon": "Hamlet · Nil'in genetik koduna göre",
+        "Durum": "Nil çipi çıkarmamayı seçer"
       },
       "sections": {
-        "genel": "Gizlenme teknolojisi olarak geliştirilmiş olsa da insanın içindeki ilahi potansiyeli uyandırabilir. Tepkilerin ortaya çıkması zaman alır; dönüşüm kişinin iç dünyasıyla ilişkili olabilir. Clark'ın kaçtıktan sonra kendisinde şeytani güçler gözlemlemesi ve Nil'in teknolojiyle doğaüstü güçlerini birleştirmesi, mekanizmanın henüz tam anlaşılmadığını gösterir.",
-        "gecmis": "Clark olası dönüşümü keşfedince önce kendisinde dener. Melekler ve şeytanlar araştırmayı öğrenirken, şeytanların tehdidinden Nil'i korumak ve kendi yakalanma olasılığına karşı ona bir güvence bırakmak isteyerek çipi Nil'e habersizce yerleştirir; ardından kaybolur.",
-        "iliskiler": "Clark dönüşümü geri çevirecek tedaviyi arar; Bella teknolojinin seçilmiş insanlarda daha güvenli kullanılmasını hedefler. Paradise sonrasında melekler Nil'in çipini fark eder, incelemek veya almak ve kontrol edemedikleri gücü sınırlamak için onu hapseder.",
-        "notlar": "Nil'in potansiyeli dijital/sinirsel altyapı üzerinden de ifade bulur; melek/şeytan ikiliğine sığmayabilecek bir üçüncü varoluş biçimi söz konusudur. Güçlerin sınırları, değişim yönünün tersine çevrilip çevrilemeyeceği ve şifanın imkânı henüz kesinleşmedi. Finalde çip çıkarılır, güçlerin bir kısmı kalır."
+        "genel": "Çipler genetik koduna göre kişiye özel üretilerek bedensel zararı azaltır; potansiyel güçlerin melekî/şeytani biçimi taşıyıcının kişiliğine göre farklılaşır. Clark'ın Ophelia'sı şeytani, Nil'in Hamlet'i melekî özellikler uyandırır; bu ahlaki iyi/kötü hükmü değildir.",
+        "gecmis": "Clark çipi önce gizlenme/tespitten sakınma ve ardından insanların ilahi potansiyeliyle melek/şeytan güçlerine karşı savunma amacıyla geliştirir. Kendisi için Ophelia adlı ilk prototipi, Nil için Hamlet adlı ikinci versiyonu üretip yerleştirir; bilinçlerinin doğması asıl amaç değil yan etkidir.",
+        "iliskiler": "Clark Bella'nın desteğiyle Nil'e zarar vermeden çipi çıkarmanın yöntemini arar; Bella seçkin insanlara uygun yeni bir versiyon ister. Aurelian çipi zorla almak ister; NEXARIEL kanatları günah sayıp Nil'i hapseder.",
+        "notlar": "Nil'in çipi sinir sistemiyle bütünleşmiştir. Daniil çıkarılmasının ciddi hayati risk taşıdığını görür, kesin öleceğini bilmez. YAZAR SIRRI: çıkarılırsa Nil KESİNLİKLE ölecek, o anda okur ve hiçbir karakter bilmez. 12. bölümde Nil çıkarılmasını durdurur; çip bedende kalır."
       },
       "related": [
         "nil",
@@ -1024,6 +1034,11 @@
       "body": "Yeni Şehir'deki elektronik surlar kıyıdaki yatları, konutları ve restoranları korurken suyun etkisini Eski Şehir'e yönlendirir. Tarihi sağlam yapılar sığınak olur; bazı insanlar yarım kalmış metro tünellerine geçer."
     },
     {
+      "when": "Clark 14–15 yaşlarında · yazar sırrı",
+      "title": "Clark'ın gizli serveti",
+      "body": "Clark dijital bir sistemden büyük miktarda para çalıp henüz Nil'le tanışmadan varlıklı hâle gelir; Nil ve Blake bilmez."
+    },
+    {
       "when": "12 yıl önce",
       "title": "Clark, Nil’i yanına alır",
       "body": "Nil 12, Clark 26 yaşındadır. Ortak hayatları böyle başlar."
@@ -1035,68 +1050,83 @@
     },
     {
       "when": "2 yıl önce",
-      "title": "Blake’in Vesna vakası",
-      "body": "Cen.net’ten kaçmaya çalışan Vesna öldürülür. Nil Blake’in dijital izlerini siler."
+      "title": "Vesna ölümü ve kopuş",
+      "body": "Vesna adlı Cen.net araştırmacısı öldürülür. Nil kendisiyle Blake'i korumak için dijital kanıtları siler ve Blake'e yalan söyler. Blake sezdiği bu sırdan bağımsız olarak iki yıl Cen.net'e karşı operasyonlar yürütür."
     },
     {
-      "when": "Açılıştan önce · tarih henüz açık",
-      "title": "Clark ilk çip denemesini kendisinde yapar",
-      "body": "Gizlenme amaçlı araştırmasında insanın ilahi potansiyelinin uyanabileceğini fark eder. İlk çipi kendisinde dener; etkilerin görünmesi zaman alır. Bu olayın Aras vakasıyla kesin zaman ilişkisi belirsizdir."
+      "when": "Açılıştan önce · kesin tarih açık",
+      "title": "Clark Ophelia ve Hamlet'i yerleştirir",
+      "body": "Clark önce kendi genetik koduna göre Ophelia'yı, sonra Nil için Hamlet'i geliştirir; çipleri bedenlerine yerleştirir. Çipler kişiliğe göre ilahi özellikler çıkarır; bilinçleri beklenmedik yan etkidir. Clark, Nil'de melek kanatlarının ortaya çıkacağını kaybolduğunda bilmez."
     },
     {
       "when": "Yaklaşık 1 ay önce",
-      "title": "Aras gizli kayıt silme işlemini görür",
-      "body": "Clark’ın erişim loglarını özel bir programla sildiğine tanıklık eder."
+      "title": "Aras, Clark'ın erişim kayıtlarını sildiğini görür",
+      "body": "Clark'ın özel yazılımla kendi giriş loglarını yok ettiğine Aras tanıklık eder."
     },
     {
-      "when": "Açılıştan önce · zaman ayrıntısı açık",
-      "title": "Melekler ve şeytanlar araştırmadan haberdar olur",
-      "body": "Melekler Clark'ı ısrarla kendilerine katmak ister; Clark tarikata güvenmediği için reddeder. Şeytanların bilgilenmesi Nil için daha büyük tehlike yaratır."
+      "when": "Açılıştan önce",
+      "title": "Angels ve Cen.net Clark'ın araştırmasına yönelir",
+      "body": "Melekler Clark'ı araştırmayı bırakıp kendilerine katılmaya çağırır; Clark reddeder. Clark, Cen.net CEO'su Aurelian ile 100. katta görüşür. Görüşmenin tam içerik ayrıntıları açık."
     },
     {
-      "when": "Açılıştan önceki hafta",
-      "title": "Cen.net–Aras gerilimi",
-      "body": "Aras sorgulanır ve iş bağlantısını yitirir. Ayrıntılı gün kronolojisi netleştirilecek."
+      "when": "Açılıştan ~1 hafta önce",
+      "title": "Aras işten çıkarılır",
+      "body": "Aras güvenlik soruşturması sonrası Cen.net'ten ayrılmak zorunda kalır; soruşturmanın günlük ayrıntıları açık."
     },
     {
-      "when": "3 gün önce",
-      "title": "Clark eve dönmez",
-      "body": "Clark, yakalanma ihtimaline karşı Nil'i korumak umuduyla, onun rızası olmadan sırtına çip yerleştirmiştir. Ardından kendi isteğiyle kaybolur; amacı çipin doğurduğu değişime şifa bulmaktır. Nil gerçek nedeni ve çipi bilmez."
+      "when": "Açılıştan 3 gün önce",
+      "title": "Clark Bella ile kaybolur",
+      "body": "Clark gönüllü biçimde zengin insan hayırsever Bella'nın desteğiyle ortadan kaybolur. Ophelia'nın şeytani tezahürünün sonuçlarına ve Nil'e habersiz yerleştirdiği Hamlet'in zararlarına çare arar; Nil'inki güvenle çıkarılabilir mi araştırır."
     },
     {
-      "when": "Clark'ın kayboluşundan sonra · gün açık",
-      "title": "Şeytani güçler ve Bella'nın gizli yardımı",
-      "body": "Clark kaçış sürecinde kendi bedeninde şeytani güçlerin belirdiğini anlar. Suçluluk ve Nil'e yüzleşme korkusuyla şifa araştırmasını sürdürür. İnsan olan Bella'dan kaynak ve koruma alır; ikisi birbirinden bilgi saklar. Bella'yla ilk temasın tam tarihi kesinleşmedi."
+      "when": "Ekim sonu / Kasım başlangıcı · bölüm 1",
+      "title": "Nil Aras'ı Diadolas'ta sorgular",
+      "body": "Sel sonrası sınıf karşıtlığında Nil Aras'ı takip eder, otoparkta durdurup sorgular, bırakır. Yazar sırrı: Cen.net Nil'in araştırmasını fark ederek Aras'ı öldürtür."
     },
     {
-      "when": "Bölüm 1",
-      "title": "Nil, Diadolas’ta Aras’ın peşine düşer",
-      "body": "Göz temasından sonra takip kovalamacaya, kovalamaca fiziksel bir yanlış anlamaya döner."
+      "when": "Kasım · bölüm 2–3",
+      "title": "1866 kartı ve fiziksel arşiv",
+      "body": "Nil Clark'ın fotoğrafı arkasındaki kartı, 1866 sembolünü ve Julian'ın yüzyıllar boyunca görünen yüzünü araştırır. Shakespeare'in Hamlet'i Clark'ın kitaplarındadır."
     },
     {
-      "when": "Bölüm 2 ve devamı",
-      "title": "Ev, 1866 kartı, arşiv",
-      "body": "Nil evde saklı kartı bulur; sembollerin ve Julian’ın yüzyıllar arası fotoğraflarının izini fiziksel arşivde sürer."
+      "when": "Kasım · bölüm 4–5",
+      "title": "Julian ve Angels sınavları",
+      "body": "Nil gizlice Julian'a ulaşır, üç geleneksel sınava katılır, Vesna delillerini sildiğini Julian'a itiraf eder. NEXARIEL ile yeraltında tanışır ve Julian'ın ısrarıyla arayışını sürdürür."
     },
     {
-      "when": "İlerleyen bölümler · Paradise sonrası",
-      "title": "NEXARIEL çipi öğrenir; Nil hapsedilir",
-      "body": "Paradise sızmasından sonra melekler Nil'in çipini fark eder. Hem çipi incelemek veya ele geçirmek hem de Nil'in öngörülemez güçlerinden korktukları için onu hapsederler. Kaçışın ayrıntıları açık."
+      "when": "Kasım · bölüm 6",
+      "title": "Blake ile Sifon'da yeniden buluşma",
+      "body": "Nil Vesna itirafını Blake'e yapar; Cen.net baskınından üçlü kaçar ve bir villa sığınağına yönelir."
     },
     {
-      "when": "İlerleyen bölümler",
-      "title": "Paradise ve dönüşüm",
-      "body": "Nil, Julian ve Blake sunuculara sızar; doğaüstünün ve Nil’deki değişimin izleri görünür olur."
+      "when": "Aralık · bölüm 7–8",
+      "title": "Villada hazırlık ve Sifon'a dönüş",
+      "body": "Üçlü 31 Aralık özel balosunu planlar. Julian Nephilim ve kayıp anne gerçeğini Nil'e söyler; Nadejda Nil'in içindeki ikinci sinyali sezer. Nil gerçek fiziksel davetiyeyi aracılıkla satın alır; Blake kılık ve com-link planlarını hazırlar."
     },
     {
-      "when": "Kitap I sonu",
-      "title": "İki farklı güç Nil'in peşine düşer",
-      "body": "Nil artık hem Cen.net / 77 hem melekler tarafından aranır. Her iki tarafın çipe ve Nil'e ilişkin çıkarları farklıdır; son çatışmanın operasyonel ayrıntıları açık."
+      "when": "31 Aralık · bölüm 9",
+      "title": "99. kat balosu ve 100. kat çatışması",
+      "body": "Trio güvenlik şefi şeytanı öldürüp anahtarı alır, Clark'ın Aurelian'la görüştüğünü kanıtlar. Aurelian Nil'i tehdit eder; saldırılar işlemez. Hamlet'in 'Atla. Uç.' sesiyle Nil kanatlanıp üçlüyü camdan uçarak kurtarır."
     },
     {
-      "when": "Final",
-      "title": "Bedeni hakkında Nil karar verir",
-      "body": "Tıbbi risklere karşın çipin çıkarılmasını seçer. Bazı güçler kalır."
+      "when": "Balo sonrası · bölüm 10",
+      "title": "NEXARIEL'in hükmü",
+      "body": "Nil ve Julian yardım için meleklere döner. NEXARIEL insan kanatlarını günah sayarak Nil'i; onu savununca Julian'ı da hapseder. Com-link'lerine el konur; Blake onları gizlice takip etmiştir."
+    },
+    {
+      "when": "Bölüm 11",
+      "title": "Blake'in zindan kurtarması",
+      "body": "Blake insan hizmetkârları sorgular, yeraltına girer ve eski demir hücrelerin kilitlerini açar. Julian mekân bilgisini kullanır. NEXARIEL son anda gürler ama üçlü kaçmayı başarır."
+    },
+    {
+      "when": "Bölüm 12",
+      "title": "Daniil ve Hamlet'in ilk konuşması",
+      "body": "Doktor sinir sistemine bütünleşmiş çipi saptar, ciddi risk söyler. Hamlet 'Dur! Ölmek istemiyorum!' deyince Nil ameliyatı durdurur ve çip kalır. Hamlet ekrana aktarılır, Clark'ın Bella ile kaçtığını, Ophelia'nın varlığını hissederek Clark'ın yaşadığını açıklar."
+    },
+    {
+      "when": "Kitap I finali",
+      "title": "Üçlü ittifak; Clark hâlâ kayıp",
+      "body": "Nil Clark'ı, Julian annesini aramak; Blake melek-şeytan gerçeğini insanlara duyurup düzeni değiştirmek için birlikte kalırlar. Clark bulunmaz. Yalnız yazar gerçeği: Nil'in çipi çıkarılsaydı Nil kesin ölürdü; hiçbir karakter ve okur o anda bilmez."
     }
   ],
   "glossary": [
@@ -1196,11 +1226,11 @@
     },
     {
       "title": "Gizlilik ve keşif",
-      "body": "Nil doğaüstünü NEXARIEL ile karşılaşana kadar görmez; bütün ipuçlarını şirket komplosu olarak yorumlar. Cen.net Nil’in gizleme çipini bilmez."
+      "body": "Nil NEXARIEL karşılaşmasına kadar doğaüstünü doğrudan görmez; Cen.net komplo çerçevesinde ilerler. İlk sahnelerde Aurelian/şirket Nil'in çipini bildiği iddia edilmez; 9. bölümde Aurelian Nil'in içinde bir şey olduğunu fark eder, 'çip' demez. NEXARIEL de 5. bölümde çipi bilmez, 10. bölümde Nil'in kanatlarını öğrenince öfkelenir. Blake doğaüstü gerçeği 9. bölümde görür."
     },
     {
       "title": "Açık sorular",
-      "body": "Aras'ın sorgulanma ve işten ayrılış günleri; Vesna'nın araştırma alanı ve ölüm koşulları; kalan tarikat sınavları ve sonuçları; Hamlet'in son biçimi; Paradise'dan kaçış; Julian'ın annesi; 1866'nın tam anlamı; dönüşüm gücünün sınırları ve şifanın imkânı; Nil'in meleklerden kaçış biçimi; Bella'nın gizli aile geçmişi (yazar sırrı); 77'nin gerçek kimliği; son kovalamacanın ayrıntıları. Açık konuları kendiliğinden kesinleştirme."
+      "body": "Vesna'nın araştırma konusu/ölümün somut koşulları; Kemal'in Sifon sahnesi; Aurelian'ın Nil'in kimliğini hangi kanıtlarla önceden öğrendiği; Aurelian'ın Clark'la görüşmesinin tam konuşması; 1866 sembolünün tam anlamı; 9. bölüm ilk uçuşun uçuş güzergâhı; zindan kaçışının ayrıntılı engelleri; Ophelia'nın ve güçlerin uzun vadeli sınırları; Bella'nın gizli aile geçmişi (yazar sırrı); Aurelian A. soyadı/BELMAVETH adının son hâli; Hamlet'in ekran aktarımının sınırları ve Ophelia'yı algılayış yöntemi. Kesinleşmeyen detaylar uydurulmaz."
     },
     {
       "title": "Paradise ve Cen.net Ağacı",
@@ -1212,7 +1242,7 @@
     },
     {
       "title": "Clark’ın kayboluşu ve şifa arayışı",
-      "body": "Clark melek/şeytan tespitinden sakınmak için geliştirdiği çipin insandaki ilahi potansiyeli uyandırabildiğini fark edince önce kendi üzerinde dener. Etkiler gecikmelidir. Meleklerin saflarına katılma baskısını reddeder; şeytanların tehdit oluşturacağını bilerek, yakalanırsa Nil korunabilsin diye ona rızası olmadan çip yerleştirir ve kendi iradesiyle kaybolur. Kaçışından sonra kendisinde şeytani güçler ortaya çıkar. Nil'e yaptığını fark ettiğinde suçluluk duyar; çözüm bulmadan yüzleşemez. Kayıp kalmasının temel nedeni dönüşümü geri çevirecek şifayı bulmaktır. Suçluluğun dönüşümü başlattığı kesin değildir."
+      "body": "Clark'ın başlıca araştırma amacı insanların içindeki üstün güçleri açığa çıkarıp melek ve şeytanlara karşı savunma sağlamaktır. Çipler genetiğe göre kişiseldir; Ophelia Clark için ilk prototip, Hamlet Nil için ikinci versiyon. Bilinçlerin oluşması yan etkidir, güç türü taşıyıcının kişiliğine göre belirir. Clark Nil'e rızasız çip yerleştirmiştir, çok pişmandır, Bella'nın desteğiyle Nil'in çipini zarar vermeden çıkarmaya ve kendi şeytani dönüşümüne çare arar. Nil'in kanatları kayboluş anında öngörülmemiştir; Clark hayattadır fakat Kitap I'de bulunmaz. YAZAR SIRRI: Clark çocuk yaşta hackleyerek servet edinmiştir."
     },
     {
       "title": "Bella · insan üstünlüğü ve gizli ortaklık",
@@ -1224,19 +1254,39 @@
     },
     {
       "title": "Tarikat sınavları · kesin kararlar",
-      "body": "Bütün adaylara aynı eski, geleneksel kabul sınavları uygulanır. Kesinleşen örnek: adaya yoğun trafikte kaderine güvenerek karşıya geçmesi söylenir. Sınavların toplam sayısı, diğer sınavların içeriği, geçme koşulları ve adayların akıbeti henüz açık. Nil ilk doğrudan doğaüstü kanıtı sınavlardan sonra NEXARIEL ile karşılaştığında görür. 'Metnin otoritesi' ve 'sessiz tanıklık' önceki yaratıcı önerilerdir; onaylanmış sınav olarak alınmaz."
+      "body": "ÜÇ KESİN GELENEKSEL SINAV tüm adaylara uygulanır: (1) Kaderine Güven: yoğun trafikte karşıya geçme, Hamlet'in 'Şimdi. Koş.' yönlendirmesi; (2) Yedi İsim: yedi gerçek ağır suçludan birini gerçekten affedip serbest bırakma kararı, Nil dosyalardan hüküm vermez, sonuç ilan edilmeden ilerler; (3) Günah Çıkarma: eski kilisenin botanik serasında Vesna delillerini silip Blake'e yalan söylediğini Julian'a itiraf. Ardından gönüllü ağ-bedeni NEXARIEL ile karşılaşır."
     },
     {
       "title": "Antagonistlerin aşamalı yapısı",
-      "body": "Aşama 1: Nil, Clark'ın kaybında Cen.net'i suçlar; şirkete ve kayıtlara sızmaya çalışır. Aşama 2: Yardım umduğu meleklerin, Paradise sonrasında çipi fark edince onu incelemek/ele geçirmek ve öngörülemez gücünden korktukları için hapsetmesi. Aşama 3: Son bölümde hem Cen.net / 77 hem de melekler farklı çıkarlarla Nil'in peşindedir. Nihai antagonizm tek kişilik değil, katmanlıdır."
+      "body": "İlk aşamada Cen.net; 9. bölümde şeytan CEO Aurelian A. (soyadı henüz açık, BELMAVETH şeytani adı çalışma) Nil'in içindeki şeyi istediğini, reddedince zorla alacağını söyler. 10. bölümde NEXARIEL insan melek kanatlarını günah sayıp Nil'i, Nil'i savunan Julian'ı hapseder; melekler de Nil'in bedenini açıp incelemek ister. Blake 11. bölümde kurtarır. Finalde ne melekler ne şeytanlar yenilir, Nil ikisine de güvenemez ve trio bağımsız ilerler."
     },
     {
       "title": "NEXARIEL’in seçtiği ağ bedeni",
-      "body": "NEXARIEL şeytanlara karşı savaşta daha çok veri toplamak, gözetlemek ve kontrol sağlamak için ekranlarla ve çok sayıda kabloyla bütünleşmiş formunu kendi iradesiyle seçmiştir. Hapsedilmiş, istemeden bağlanmış bir varlık olarak tasvir edilmemeli. İlk tanışmada Nil'in çipini bilmez; Paradise olayları sonrası fark eder. NEXARIEL_KESIN.webp seçilmiş görseldir."
+      "body": "NEXARIEL şeytanlara karşı daha çok veri, gözetim ve kontrol için kablolu-ekranlı bedenini KENDİ İSTEĞİYLE seçmiştir. NEXARIEL_KESIN.webp korunur. 5. bölümde Hamlet'i bilmez; 10. bölümde Nil'in kanatlarını öğrenince insanın melek kanadı taşımasını günah sayar, Nil'i ve onu savunan Julian'ı hapseder; 11. bölümde Blake ikisini kaçırır."
     },
     {
       "title": "Eski para · akademik elitizm · anlatı dozajı",
       "body": "Cyberpunk üst sınıfını yalnızca hedonistik şirket elitleri olarak göstermiyoruz. Köklü aileler, kültürel ve akademik kökenleri nedeniyle yeni zenginleri ve çok yüksek maaşlı yöneticileri hâlâ aşağı görebilir. Eğitim bir sınıfsal şifredir; gerçek akademik yetkinlik aile prestijiyle özdeş değildir. Bu C yaklaşımı ilerleyen bölümlerde görünür olur. İlk araştırma ve 1866 için A türü fiziksel arşiv/kütüphane sahneleri sınırlı dozda kullanılabilir. Tarikatın zorunlu olarak bir akademik cemiyet veya eski aile örgütü olması kesin değildir."
+    },
+    {
+      "title": "Ophelia ve Hamlet · özel genetik kod ve kişiliğe bağlı tezahür",
+      "body": "Her çip genetik koduna göre kişiye özel, bedensel zararı azaltmak için uyarlanmıştır; bu tehlikesiz olduğu anlamına gelmez. Ophelia Clark'ın bedenindeki ilk prototip ve onda şeytani özellikler, Hamlet Nil'in bedenindeki ikinci sürüm ve onda melekî özellikler uyandırır. Gücün türü kişinin kişiliğine bağlıdır, doğrudan ahlaki iyi/kötü etiketi değildir. İki bilinç yan etkiyle ortaya çıkmış kardeş varlıklardır. Shakespeare'in Hamlet'i Bölüm 2'de fiziksel kitap ipucudur; Hamlet Bölüm 12'de ekran üzerinden konuşur ve Ophelia'yı hisseder."
+    },
+    {
+      "title": "Yazar sırrı · çıkarma ameliyatı ve kesin ölüm",
+      "body": "Daniil Nil'in sırtındaki Hamlet çipini tespit eder; sinir sistemiyle bütünleşmiş olduğunu ve çıkarılmasının ağır hayati riskini bilir. Nil ameliyata onay verse de Hamlet 'Dur! Ölmek istemiyorum!' der; Nil Hamlet'i korumak ve gücünü gelecekte kullanmak için durdurur. Çip ÇIKARILMAZ. GERÇEK: Çip mevcut koşullarda çıkarılsa Nil kesin ölecekti. Bunu o anda Hamlet de dahil HİÇBİR KARAKTER ve OKUR BİLMİYOR. Sahne içi açıklama ya da ima yoluyla ölümün kesinliği ifşa edilmesin."
+    },
+    {
+      "title": "Kitap I kapanışının bilinirlik düzeyi",
+      "body": "Hamlet Clark'ın Bella adlı zengin kadınla kaçtığını bilir fakat bunu Clark'tan mı duyduğu yoksa henüz Nil'e yerleştirilmeden önce mi öğrendiği belirsiz. Ophelia'nın varlığını Clark'ın içinde hissettiği için Clark'ın hayatta olduğunu söyler ancak yerini bilemez. Clark bulunmaz. Nil Clark'ı, Julian annesini bulmak için; Blake doğaüstü gerçekleri halka açıklayıp devrimci mücadele için ittifaka devam eder."
+    },
+    {
+      "title": "Aurelian'ın kimliği ve ofis",
+      "body": "Cen.net CEO'su eski kod 77, Aurelian A. (soyadı açık) ve BELMAVETH (geçici şeytani ad). 99. katta özel koleksiyon ve 31 Aralık maskeli balo, 100. katta dev camlı sade ofis. CEO Clark ile gerçekten görüşmüş, Clark'ın nerede olduğunu gerçekten bilmiyor. Nil ve Julian CEO'nun şeytan olduğunu 5. bölümden itibaren bilir; Blake 9'da öğrenir. Aurelian tam dönüşmeden Julian/Blake saldırılarına direnebilir."
+    },
+    {
+      "title": "Julian'ın görünüm sürekliliği",
+      "body": "Julian'ın görünümünde açık platin/beyaz saç kanondur; onu albinizm ya da albinoluğunu ima eden fiziksel özelliklerle tasvir etmeyin. İmaj değişiklikleri üretilmeyecek; mevcut seçilmiş portreler dokunulmaz."
     }
   ],
   "legacy": "eski-hikaye-haritasi.html",
@@ -1272,127 +1322,197 @@
       "number": "01",
       "title": "Başlatma",
       "status": "Taslak / açılış",
-      "summary": "Nil, üç gündür eve dönmeyen Clark hakkında bilgi ararken Diadolas Yaşam Merkezi’nde Aras Stojanovski’yi takip eder. Takip, kovalamacaya ve ardından yanlış anlaşılmayla başlayan bir yüzleşmeye dönüşür.",
+      "summary": "Skopse'nin sel ve sınıf ayrımıyla bölünmüş dünyasında Nil Clayton, üç gündür kayıp abisi Clark'ın izini sürer. Clark'ın bahsettiği ve bir hafta kadar önce Cen.net'ten çıkarılmış Aras Stojanovski'yi çevrim içi paylaşımlarından Diadolas Yaşam Merkezi'ne kadar takip eder. Aras kaçınca otoparkta önünü keser; onu etkisiz hâle getirip gözlerden uzak bir yerde sorgular. Aras, yaklaşık bir ay önce Clark'ın kendi erişim kayıtlarını sildiğini gördüğünü, bunu raporladığını ve ardından işinden olduğunu anlatır. Nil Aras'ı serbest bırakır; Cen.net'e yönelik kuşkusu artar.",
       "points": [
-        "Skopse sel felaketi ve sınıfsal karşıtlıkla tanıtılır.",
-        "Aras bir hafta önce Cen.net’ten ayrılmıştır.",
-        "Nil, Clark’ın erişim kayıtlarını sildiğini öğrenir.",
-        "Nil sakin, gözlemci ve dikkatli davranır; ani öfke veya düşüncesiz kahramanlık onun temel mizacı değildir.",
-        "Nil'in çıkış varsayımı Clark'ın kaybında Cen.net'in rolü olduğudur; doğaüstünü henüz bilmez."
+        "Skopse açılışı: Onj'un taşkınları, Yeni Şehir'i koruyan sel duvarları ve Eski Şehir'in yükü; her sahneyi yağmurlu/neonlu anlatma.",
+        "Nil 24, Clark 38 yaşında; Clark üç gündür eve dönmüyor. Nil soğukkanlı, gözlemci, araştırmacı ve esprili; dövüş uzmanı değil.",
+        "Nil açık kayıtlar ve Aras'ın paylaşımlarından konum tespit eder; tanışma soruları 'Aras Stojanovski?', 'Tanışıyor muyuz?', 'Clark Clayton hakkında birkaç sorum var.' çizgisinde.",
+        "Aras şirketin onu gönderdiğini sanarak kaçar. Nil otoparkta önünü keser; bayıltıp/etkisizleştirip tenha ağaçlık bölgede kelepçeler ve sakin biçimde konuşur, sonunda bırakır.",
+        "Aras yaklaşık bir ay önce Clark'ın özel yazılımla erişim loglarını sildiğini görmüştür; işten çıkarılma yaklaşık bir hafta öncedir.",
+        "YAZAR SIRRI: Cen.net, Nil'in soruşturmasını fark eder ve Aras'ı öldürür; Nil bunu bölümde öğrenmez."
       ]
     },
     {
       "number": "02",
       "title": "Tanılama",
-      "status": "Plan",
-      "summary": "Nil, Clark’la paylaştığı eve döner. Son sarılmalarını hatırlar ve fotoğrafın arkasına gizlenmiş, üzerinde kanatlı piramit sembolü ile 1866 bulunan kartı keşfeder.",
+      "status": "Ayrıntılı plan",
+      "summary": "Nil, Clark'la paylaştığı evde onun yokluğunun ağırlığıyla yüzleşirken fiziksel kitaplarını, CD'lerini, birkaç basılı fotoğrafını ve birlikte gittikleri Vietnam gezisinin fotoğrafını inceler. Nil'in çektiği sıradan bir Clark fotoğrafının arkasında 1866 tarihli, kanatlı piramit sembollü kartı bulur. Eski Skopse tarihi 1866 depreminden ve Yeni Şehir'in yeniden inşasından söz eder. Dijital arşivlerin yapay zekâ kaynaklı çarpıklıkları onu fiziksel kaynaklara yöneltir.",
       "points": [
-        "Kartta Julian’ın adı veya iletişim bilgisi yoktur.",
-        "Nesnenin gizemi bu aşamada doğaüstü olarak açıklanmaz.",
-        "Clark çipi koruma amacıyla Nil'e habersizce yerleştirmiştir; Nil bu gerçeği henüz öğrenmez.",
-        "1866 ibaresinin tam tarihsel anlamı henüz kesinleşmedi."
+        "Fotoğraflar/kitaplar Clark'ın gerçekten koleksiyon yapan biri olduğunu hissettirmeli; kartın Nil için bilerek saklandığı kesinleşmedi.",
+        "Kart: 1866 yılı + kanatlı piramit; bu aşamada sembolün kesin anlamı Nil'e açıklanmaz.",
+        "Clark'ın fiziksel kitapları arasında William Shakespeare'in Hamlet'i vardır; 12. bölümde Hamlet ve Ophelia adlarının kaynağına dönüşecek erken ipucu.",
+        "Vietnam gezisinden Nil ve Clark'ın birlikte fotoğrafı bulunur; evde sınırlı sayıda gerçek basılı fotoğraf vardır.",
+        "1866 depremi, yeniden inşa ve eski seçkin çevrelerin arşiv izleri araştırılır; dijital kaynakların çarpıtılabilmesi fiziksel arşive yöneltir."
       ]
     },
     {
       "number": "03",
       "title": "Anormallik",
-      "status": "Plan",
-      "summary": "Nil, 1866 sembolünü araştırmak için fiziksel arşivlere ve eski akademik kayıtlara başvurur. Aynı yüzle yüzyıllar arayla görüntülenmiş Julian izini bulur; doğaüstü bir açıklama yapmak yerine belge ve şirket komplosu ihtimallerini inceler.",
+      "status": "Ayrıntılı plan",
+      "summary": "Nil, kanatlı piramit ve 1866 bağlantısını araştırabilmek için geçmişte kayıp kızını aramasına yardım ettiği üniversite hocasından arşiv erişimi alır. Eski kayıt ve fotoğraflarda aynı yüzle farklı kuşaklarda görünen Julian Junes'u, ayrıca 1866 sembolünün tekrarlarını fark eder. Julian'ın bir aile soyundan gelen birbirine çok benzeyen kişiler olabileceğini düşünür; doğaüstü gerçeği henüz bilmez.",
       "points": [
-        "Nil önce şirket komplosu veya fotoğraf manipülasyonu gibi açıklamalara yönelir.",
-        "Eski kütüphane/arşiv atmosferi dark academia'nın küçük bir erken izi olarak kullanılır; köklü ailelerin sınıfsal gücü bu bölümde uzun uzadıya açıklanmaz."
+        "Üniversite hocası Nil'e geçmişte sağlanan yardım nedeniyle erişim verir; kurum/öğretmen adı henüz kesin değil.",
+        "Julian'ın aynı yüzü iki yüzyıla yayılan fotoğraflarda saptanır; Nil bunu önce aile benzerliği olarak yorumlar.",
+        "Julian'ın Nephilim yüzü başkaları için kusursuz ama hatırlanması/ayırt edilmesi zor bir yüze sahiptir; Nil'in istisnasında Hamlet'in gizli etkisi vardır, Nil ve Julian bilmez.",
+        "1866 ve kanatlı piramit konusunda henüz çözümlenmemiş sır korunur."
       ]
     },
     {
       "number": "04",
       "title": "Kimlik Doğrulama",
-      "status": "Plan",
-      "summary": "Nil'in Cen.net merkezli araştırması onu Julian'ın aracılık ettiği Angels tarikatına ve eski ritüellerle başlayan kabul sürecine taşır. Nil henüz gerçek bir doğaüstü olay görmediğinden olup biteni kurumsal ilişkiler ve sırlar üzerinden anlamaya çalışır.",
+      "status": "Ayrıntılı plan",
+      "summary": "Nil, Julian'ın katıldığı gösterişli bir davetin konuk listesine sahte kimlikle girip arşiv fotoğraflarını sorar. Julian önce onu uzak tutmaya çalışır; ruh hâliyle havanın değişmesi ileride açıklanacak bir ipucudur. Nil, otel süitine yaklaşarak kanatlı piramit kartını gösterince Julian fikrini değiştirir. Gizli bir kafede buluşup Clark'ın meleklerin geleneksel kabul sınavlarını geçmesine rağmen tarikata katılmadığını söyler ve Nil'i Angels'a katılmaya davet eder. Nil, abisini bulmaya yaklaşmak için kabul eder.",
       "points": [
-        "Julian’ın Nil’i içeri almak konusundaki tutumu değişir.",
-        "Tarikat, Clark'ın araştırmalarını öğrenmek istediği için daveti kabul eder; NEXARIEL Nil'in Clark'ın kardeşi olduğunu bilir ama çipi bilmez."
+        "Davette Julian hayranlar ve tanıdıklarla çevrilidir; Nil aile fotoğraflarını sorar, Julian gördüğünün kendi yüzü olduğunu gizler.",
+        "Havanın Julian'ın duygularına eşlik etmesi, atmosfer denetiminin erken fakat açıkça doğaüstü diye kanıtlanmayan işaretidir.",
+        "Julian, fotoğraflardaki kişinin kendisi olduğunu Nil'den saklar; Nil'in kartını görünce daha ciddi konuşur.",
+        "Clark'ın tarikat sınavlarını geçmiş ama katılmayı reddetmiş olduğu söylenir. Melekler Nil'in Clark'ı aradığını bilir ve erişim vermeye isteklidir.",
+        "Julian gizli bir kafede Angels kabul sürecini önerir, Nil kabul eder."
       ]
     },
     {
       "number": "05",
       "title": "Güvenlik İhlali",
-      "status": "Plan",
-      "summary": "Nil, Angels tarikatının bütün adaylara uyguladığı geleneksel sınavlarla yüzleşir. Bunlardan biri yoğun trafikte kaderine güvenerek karşıya geçmesini istemektir. Sınavların ardından NEXARIEL ile karşılaşması, Nil'in ilk doğrudan doğaüstü kanıtına dönüşür.",
+      "status": "Ayrıntılı plan",
+      "summary": "Nil, Julian'ın refakatinde Angels'ın herkese aynı şekilde uyguladığı üç geleneksel sınavla yüzleşir: 'Kaderine Güven' trafik sınavı; 'Yedi İsim' adlı ahlaki seçim; ve eski kiliseye bağlı botanik serada 'Günah Çıkarma'. Nil, Vesna cinayetindeki delilleri silip Blake'e yalan söylediğini itiraf eder. Ardından yeraltına inerek kablolar ve ekranlarla kendi isteğiyle bütünleşmiş melek NEXARIEL'le tanışır. NEXARIEL, Clark'ın araştırmasının tehlikesini anlatır, Cen.net CEO'sunun şeytani doğasına ilişkin eski kayıtlar gösterir ve Nil'i vazgeçirmeye çalışır. Julian'ın ısrarıyla Nil'e yardım etmelerine izin verilir.",
       "points": [
-        "NEXARIEL, Nil’in Clark’ın kardeşi olduğunu bilir, fakat çipten habersizdir.",
-        "Sınavlar tüm adaylar için aynıdır; diğer sınavların biçimi ve sayısı henüz kesinleşmedi.",
-        "NEXARIEL'in ağ/kablo formu gönüllü bir seçimdir; çipi henüz fark etmez."
+        "Sınavlar tüm adaylar için aynıdır; üç sınav kesin: 'Kaderine Güven', 'Yedi İsim', 'Günah Çıkarma'.",
+        "'Kaderine Güven': Yoğun trafikte Nil zihninde 'Şimdi. Koş.' yönlendirmesini duyar (Hamlet), koşup kurtulur; Julian onun için gerçekten korkar.",
+        "'Yedi İsim': Eski Şehir'in terk edilmiş adliyesinde, yedi ağır suç işlemiş mahkûm arasından birini gerçek dünyada serbest bırakma/affetme seçimi; Nil yalnızca dosyalardan hüküm vermeyi reddeder; üstler geçişe izin verir, kesin geçti/kaldı hükmü söylenmez.",
+        "Yedi dosyanın temaları: kibir/sel duvarı tahliyesini reddeden yönetici; açgözlülük/sahte ilaç tedavisi; şehvet/nöral manipülasyon; kıskançlık/ölümcül hanedan sabotajı; oburluk/ortak su-enerji hırsızlığı; öfke/sivillere saldıran eski asker; tembellik/hastane yaşam destek ihmalcisi.",
+        "'Günah Çıkarma': Eski kilisenin botanik serasında yalnızca Nil ile Julian bulunur; Nil Vesna cinayeti kanıtlarını kendini ve Blake'i korumak için sildiğini, Blake'e gerçeği söylemediğini itiraf eder; Julian etkilenir ve kendi aile acısına kısmen değinir.",
+        "Kilise altındaki ileri teknoloji merkezi ve NEXARIEL ilk açık doğaüstü kanıttır. NEXARIEL Nil'i 'Hoş geldin, çocuğum' diye karşılar.",
+        "NEXARIEL teknolojiyle bütünleşmeyi şeytanlara karşı daha çok veri ve kontrol için KENDİ İSTEĞİYLE seçmiştir; Nil'in gizli çipini bilmez.",
+        "NEXARIEL 'Clark bize geldi' der ancak gerçekte Clark'a melekler ulaşmıştır (bilinçli eksik anlatım). Clark araştırmayı bırakmayı reddetmiş, düşüneceğini söyleyip ayrılmıştır.",
+        "Julian Clark'ı izlemiş ve Cen.net CEO'suyla görüşmeye çağrıldığını öğrenmiştir; binaya girip girmediği o aşamada bilinmez. NEXARIEL CEO'nun şeytani geçmişini gösterir, Nil kuşkucudur.",
+        "NEXARIEL Nil'e Clark'ı aramayı bırakıp insan hayatını yaşamasını söyler; Nil reddeder. Julian şeytanların araştırmayı ele geçirmesinin tehlikesini gerekçe göstererek yardım izni alır."
       ]
     },
     {
       "number": "06",
       "title": "Bağlantı Kuruldu",
-      "status": "Plan",
-      "summary": "Nil, Blake ve Julian arasındaki ihtiyatlı iş birliği gelişir. Nil, meleklerin ve Cen.net'in Clark hakkındaki sözlerini karşılaştırırken tam güven yerine kanıt aramayı seçer; grup Paradise'a uzanan araştırmayı birlikte sürdürebilecek konuma gelir.",
+      "status": "Ayrıntılı plan",
+      "summary": "Cennet Ağacı'na girmek için fiziksel beceri ve Cen.net güvenliğini bilen birine ihtiyaç duyan Nil, çocukluk dostu Blake'e ulaşır. Nil ve Julian motosikletle Sifon'a yönelirken yakalanıp Blake'in yeraltı kulübüne götürülür. Blake'le tekrar bir araya gelen Nil, özel konuşmada Vesna'nın öldürülmesiyle ilgili delilleri kendisinin sildiğini açıklar; Blake bir şey saklandığını zaten sezmiş, iki yıldır Cen.net'e karşı eylemler yürütmüştür. Ardından Cen.net özel birlikleri Sifon'a baskın yapar. Üçlü, Blake'in örgütlediği savunmanın yardımıyla kaçıp Julian'ın önerdiği gizli villaya yönelir.",
       "points": [
-        "İş birliğinin nasıl kurulduğu, karşılıklı güvenin hangi olayda kırıldığı ve sahne sırası henüz açık.",
-        "Julian'ın melek otoritesine karşı çıkmakta zorlanması ve Nil'in temkinli mizacı korunur."
+        "Nil fiziksel savaşçı olmadığı, Julian da güçlerini Blake'e açıklamadığı için Blake'i ekibe katmak ister.",
+        "Nil ile Julian, Julian'ın motosikletiyle Sifon'a gider; dışarıdan gelenler yakalanır, elleri bağlanır ve yeraltı kulübüne getirilir.",
+        "Blake'in tanıma repliği mizahi tehdit taşıyabilir ('Kimleri görüyorum?'); Nil soğukkanlı karşılık verir. Blake ikisini serbest bıraktırır.",
+        "Nil, Julian dışarı çıktıktan sonra Blake'e Vesna delillerini sildiğini ve yalan söylediğini itiraf eder. Blake zaten sakladığını sezmiştir, Nil'in hazır olmasını beklemiştir.",
+        "Blake iki yıl boyunca Cen.net'in güvenlik açıklarını, geçitlerini, operasyonlarını incelemiş ve sabotaj/girişimler yürütmüştür; düşüncesiz kaba kuvvet karakteri değildir.",
+        "Cen.net özel kuvvetleri Sifon'a saldırır; hedefin kim olduğu o anda açık değil. Blake adamlarına emir vererek savunmayı sürdürmelerini sağlar.",
+        "Julian Blake'e güvenmediğinden güçlerini baskında göstermez. Nil-Julian motosikletle, Blake kendi aracıyla lüks villa bölgesine kaçar.",
+        "Villa geçmişte Cen.net'ten önce melekler adına ayrı tapu isimlerine alınmış yazlık evlerdendir; Yeni Şehir çeperinde lüks konut ve havuz vardır, kırsalda değildir."
       ]
     },
     {
       "number": "07",
       "title": "Gizli Ağ",
-      "status": "Plan",
-      "summary": "Grup, Cen.net'in kapalı sistemlerinde Clark'ın silinmiş izlerini ve çip araştırmasının bağlarını arar. Kurumsal komplo şüphesi sürerken olayın sıradan bir kayıp dosyasından büyük olduğu hissedilir; ancak asıl cevaplar henüz ellerinde değildir.",
+      "status": "Ayrıntılı plan",
+      "summary": "Nil, Julian ve Blake, Yeni Şehir çevresindeki gizli villada 31 Aralık'ta Cen.net'in 99. katında yapılacak maskeli yılbaşı balosunu hedefleyen planı geliştirir. Blake yüksek katlardaki güvenlik düzenini, Julian şirket içindeki deneyimini paylaşır; ikisi Nil'den ve Blake'ten farklı bilgiler saklar. Julian, Nil'e Nephilim olduğunu ve melek annesinin yıllardır bilinmeyen bir yerde hapsedildiğini anlatır. Nil ve Blake Sifon'a dönerek baskında bir kadının arandığını öğrenir. Nadejda'nın 'Ölü Frekans' falı Nil'de ikinci bir sinyal sezerek Hamlet'e işaret eder. Nil ve Blake, eskiden yaşadığı evin gözetim altında olduğunu da görür.",
       "points": [
-        "Clark aslında hayattadır ve bir tedavi araştırmaktadır; Nil bunu bu aşamada mutlaka öğrenmek zorunda değildir.",
-        "Bella'nın kimliği, Clark ile gizli iş birliği ve ailesinin geçmişi okuyucuya bu bölümde açıklanmak zorunda değildir."
+        "Villa zengin konut bölgesinde havuzlu evdir; Julian işine Cen.net'te devam eder ve sık sık yoktur.",
+        "Nil ve Julian, Aurelian'ın şeytani kimliğini ve meleklerle bağlarını Blake'ten saklar; Blake neden Julian'ın işin içinde olduğunu sorgular.",
+        "Blake Cen.net'in koruma işleyişi, vardiyaları ve geçitleri konusunda Julian'dan farklı, çok ayrıntılı bilgiler getirir.",
+        "Cennet Ağacı 100 kat: halka açık asansör yaklaşık 50'ye kadar; 51–90 araştırma (Clark'ın katı), 91–98 üst yönetim, 99 CEO'nun koleksiyonu, 100 CEO ofisi.",
+        "99–100'e ayrı, eski usul mekanik anahtarla işletilen özel asansörle çıkılır; anahtarın CEO veya hep yanında görünen şahsi güvenlik şefinde olduğu tahmin edilir.",
+        "31 Aralık'ta 99. katta elit, gösterişli, maskeli yeni yıl balosu; Julian önceki yıl katılmıştır ve bu yıl da doğrudan davetlidir; bunun tuzak olup olmadığı açık.",
+        "Julian Nil'e özel olarak Nephilim olduğunu (yaklaşık 200 yaş), annesinin melek ve babasının insan olduğunu, babasının meleklerce öldürüldüğünü, annesinin hapsedildiğini ve nerede olduğunu bilmediğini söyler.",
+        "Julian meleklerin kendisini yetiştirirken aşıladığı öğretiye gerçekten inanır; Nil annesinin kontrol aracı olabileceğini öne sürer, Julian henüz buna hazır değildir. Blake doğaüstünden habersizdir.",
+        "Nil ve Blake Sifon'da baskıncıların sıradan terörist avından farklı olarak bir kadını aradığını öğrenir; Nil olabileceğinden kuşkulanırlar ama emin olmazlar.",
+        "Blake'in genç sokak arkadaşı Kemal sahnesi olacak; ayrıntılar açık.",
+        "Nadejda, hurda radyo ve eski bantlarla çalışan 'Ölü Frekans' aracında Nil'de iki sinyal sezer; 'Bir sen var, bir de senden içeri.' der. Nil inanmaz; Blake şakalaşır. Julian'a ikinci sinyalin anlamı anlatılmaz.",
+        "Nil ve Blake eski eve uzaktan yaklaşıp kuşkulu siyah araçları görür; Nil içeri girmek ister, Blake tehlikeli bularak engeller. Güvenli bir bankta Clark ve çocukluğu konuşurlar.",
+        "YAZAR SIRRI: Clark 14–15 yaşında sistem hackleyerek büyük para çalmış, Nil onu tanımadan önce varlıklı olmuştu; Nil ve Blake bunu bilmez, Blake Clark'ı kibirli sanır.",
+        "Villa dönüşü Julian'a baskının kadın hedefi ve ev çevresi anlatılır, Nadejda'nın asıl uyarısı söylenmez. Julian içeriden emir aramayı önerir, Nil iz bırakacağı için reddeder."
       ]
     },
     {
       "number": "08",
       "title": "Yetki Yükseltme",
-      "status": "Plan",
-      "summary": "Nil, Blake ve Julian, Paradise / Cen.net Ağacı'nın güvenlikli sunucu altyapısına girebilmek için kaynak ve erişim planı oluşturur. Sahnenin ayrıntıları hâlâ taslak; operasyonun amacı Clark'a ilişkin kayıtlara ulaşmaktır.",
+      "status": "Ayrıntılı plan",
+      "summary": "Üçlü, Cennet Ağacı'nın 31 Aralık maskeli balosuna ayrı kimliklerle sızma planını tamamlar. Julian davetiyle, Nil orijinal fiziksel davetiyesini elde ettiği yabancı bir sanat hamisinin kimliğiyle, Blake ise güvenlik personeli kılığıyla girecektir. Nil, gerçek haminin yılbaşında başka ülkedeki bir sanat etkinliğinde bulunacağını öğrenir; hizmetçisine çevrim içi rüşvet teklif ederek gerçek davetiyeyi teslim alır ve sanat koleksiyonuna hazırlanır. Blake iki aşamalı güvenlik kılığı planlar; analog frekanslı com-link'leri hazırlar, Nil cihazları uyarlar. Nil Blake'i bilinmeyen tehlikeler konusunda son kez uyarır.",
       "points": [
-        "Paradise, Cen.net genel merkezinin diğer adıdır; ayrı bir sunucu binası değildir."
+        "VIP giriş: dijital veya süslü fiziksel orijinal davetiye + kimlik kontrolü; biyometrik doğrulama yok.",
+        "Nil başka ülkedeki yeni yıl sanat etkinliğinde beklenen, gelmeyecek ünlü kadın sanat hamisinin kimliğine bürünür; gerçek kişi bu plandan habersizdir.",
+        "Nil hamisinin hizmetçisiyle yalnızca çevrim içi görüşür, Clark'ın parasından yüksek rüşvet verir; fiziksel davetiyeyi yüz yüze görüşmeden belirlenen yerden alır. İzlenebilir para riski göze alınır.",
+        "Nil sanat tarihi ve Aurelian'ın koleksiyonu üzerine çalışır.",
+        "Blake'in iki aşamalı kılık planı: önce sıradan muhafızı gizlice uyuşturup kask/üniformasını almak; içeride daha üst yetkili muhafızı uyuşturup rolüne geçmek. Bunların icrası 9. bölümde olacak.",
+        "Üst düzey muhafız aslında alt kademe şeytandır; Blake bunu kılık değiştirirken anlamaz.",
+        "Blake'in sağladığı yerel analog frekanslı com-link'ler Cen.net dijital ağından bağımsızdır ama dinlenemez değildir; Nil cihazları operasyon için uyarlar.",
+        "Nil Blake'e tehlikeli, henüz söyleyemediği gerçekler olduğunu ve gelmek istediğinden emin olup olmadığını sorar; Blake Vesna ve mücadele nedeniyle devam eder."
       ]
     },
     {
       "number": "09",
       "title": "Sızma",
-      "status": "Plan",
-      "summary": "Nil, Julian ve Blake Paradise / Cen.net Ağacı sunucularına sızar. Clark'ın kayıtlarına ulaşamazlar; Cen.net'in şeytanlarla ilişkisine dair kanıtlarla karşılaşırlar. Muhafızlarla çatışmada Nil'in ilahi potansiyeli, teknoloji ve sinirsel arayüzlerle birleşen alışılmadık bir biçimde belirginleşir.",
+      "status": "Ayrıntılı plan",
+      "summary": "31 Aralık maskeli balosunda Nil sanat hamisi kimliğiyle koleksiyona girer; Julian güvenlik şefini içirip özel asansör anahtarını almaya uğraşır, ancak adam sarhoş olmaz. Maskeli Aurelian, kimliğini açıklamadan Nil'le sanat üzerine sohbet ederek onu yoklar; Hamlet 'Mısır' ve 'Firavun' sözcükleriyle Nil'e yardımcı olur. Blake iki muhafızın yerine geçerek güvenlik şefini uzaklaştırır. Üçlü şeytani güce sahip şefi güçlükle alt eder; Julian'ın kutsal yıldırımı onu yakarak öldürür. Blake ilk kez doğaüstünü görür. Anahtarla 100. kattaki CEO ofisine çıkarlar, Clark'ın Aurelian'la gerçekten görüştüğünü kanıtlayan kaydı bulurlar. Aurelian gelir; Clark'ın yerini gerçekten bilmediğini ve Nil'in kendisine yardım etmesini umduğunu söyler. Nil'in içindeki şey için iş birliği önerir, ret üzerine bedeninden zorla alacağını söyleyerek saldırır. Blake'in saldırı/anestezisi ve Julian'ın kutsal yıldırımı işlemez; yıldırım ofisin camlarını patlatır. Ölüm anında Hamlet'in 'Atla. Uç.' sesiyle Nil'in sırtından kanatlar çıkar; Julian ve Blake'i alıp 100. kattan uçarak kaçmayı başarır.",
       "points": [
-        "Muhafızlarla çatışmada Nil’in güçleri ilk kez belirginleşir.",
-        "Nil'in gücü yalnızca meleksi veya şeytani bir dönüşüme indirgenmez; üçüncü bir varoluş ihtimali açılır.",
-        "Julian da güçlerini kullanır; sızmadan kaçışın ayrıntıları netleştirilecek."
+        "Balonun mekânı 99. kat kişisel sanat koleksiyonu, 100. kat ofis. Julian davetli, Nil sanat hamisi sahte kimliğiyle, Blake güvenlik kılığıyla girer.",
+        "Blake önce sıradan muhafızı, içeride daha üst yetkili muhafızı arkadan uyuşturup kılıklar değiştirir. İkinci muhafızın düşük rütbeli şeytan olduğunu henüz bilmez.",
+        "Julian güvenlik şefine çok içki içirip dikkatini dağıtarak eski mekanik anahtarı almaya çalışır; şef şeytan olduğu için sarhoş olmaz.",
+        "Aurelian 99. katta kimliği belirsiz maskeli konuk olarak Nil'le resim konuşur; Nil Hamlet'in 'Mısır', 'Firavun' zihinsel ipuçlarıyla devam eder. Aurelian Nil'in sahte kimliğini ve Clark'la bağını fark eder, Nil henüz onun CEO olduğunu bilmez.",
+        "Blake şefe acil güvenlik tehdidi ihbarı yapıp uzak bir yere çeker; Nil ve Julian katılır. Şef aşırı güçlü çıkar; Julian Blake'in gözleri önünde elinden kutsal alevle yüklü yıldırım gönderir.",
+        "Şef yanarken gerçek şeytani şekline dönüşür ve ölür; bedeni saklanır. Blake şaşkındır, ayrıntılı açıklama için vakit yoktur.",
+        "Alınan mekanik anahtarla üçlü 100. kata çıkar; büyük, neredeyse boş ofiste antika masa ve şehir manzarası vardır. Nil masa bilgisayarından Clark'ın CEO'yla bizzat görüştüğünü kesinleştirir, konuşma içeriğini bulamaz.",
+        "Aurelian sakin biçimde gelir; aynı maskeli sanat konuğudur. Saklananlara 'Aradığınızı buldunuz mu?' diye seslenir. Nil 'Abim nerede?!' der.",
+        "Aurelian 'Bilmiyorum. Aslında, bu soruya senin cevap verebileceğini umuyordum.' der; Clark'ın araştırması ve görüşmeye ilişkin bildiklerini dürüstçe açıklar. Bella'nın yardımıyla kaçan Clark'ın yerini gerçekten bilmez.",
+        "Aurelian Nil'in içinde olağan dışı bir şey olduğunu anlar fakat 'çip' demez; iş birliği teklif eder. Nil kuşkuyla reddedince 'O hâlde seni yarıp içinden alırım.' tehdidine geçer.",
+        "Blake'in dövüş/anestezi girişimleri ve Julian'ın kutsal yıldırımı Aurelian'a etki etmez. Aurelian tam şeytan formuna dönüşmez, gerekli görmez.",
+        "Julian'ın yıldırımı geniş ofis camlarını parçalar. Son anda Hamlet Nil'e 'Atla.' ve 'Uç.' der; Nil'in sırtından kanatlar çıkar, ikisini de alıp camdan uçar. Kanatlar sonrasında sırtına geri çekilebilir.",
+        "Nil henüz kanatları açıklayamaz, görünür gücü bilinçli kontrol etmiyor. Aurelian yenilmemiştir; yalnızca kaçmayı başarırlar."
       ]
     },
     {
       "number": "10",
       "title": "Sistem Hatası",
-      "status": "Plan",
-      "summary": "Paradise'da öğrendiklerinden sonra Nil cevap ve yardım arayışını meleklerle sürdürür. Ancak melekler onun artan gücünü ve gizleme çipini fark edince başlangıçtaki yardım ilişkisi tehlikeli bir kontrol arzusuna dönüşür.",
+      "status": "Ayrıntılı plan",
+      "summary": "Cennet Ağacı'ndan kaçan Nil, Julian ve Blake kanatların ortaya çıkışı karşısında sarsılır. Julian hâlâ meleklerin cevap verebileceğine inanarak NEXARIEL'e gitmeyi önerir; Blake buna karşıdır, öncelikle doktora gidilmesini ister. Nil ve Julian doğaüstü gerçeği Blake'e anlatır, ardından meleklere başvurmaya karar verirler. Blake güvenmediği için gizlice takip eder. NEXARIEL, Clark'ın araştırmasının bir insana melek kanatları kazandıracak kadar ilerlediğini öğrenince şaşırır, öfkelenir ve bunu günah sayarak Nil'in hapsedilmesini emreder. Julian onu savununca kendisi de hapsedilir; ikilinin com-link cihazlarına el konulur.",
       "points": [
-        "NEXARIEL Nil'in çipini ilk görüşmede değil, Paradise sonrasında öğrenir.",
-        "Tarikatın Nil'i hapsetme kararı hem çipi ele geçirme hem de ondan korkma nedenlerini taşır."
+        "Nil kanatlarının çıkması karşısında panikler; kanatlar sürekli dışarıda değil, sırtından çıkıp tekrar çekilir.",
+        "Blake'e Julian'ın Nephilim olduğu, melekler ve şeytanlarla ilgili saklanan gerçekler açıklanır; Blake şok içindedir.",
+        "Julian inancı nedeniyle NEXARIEL'den yardım umar; Blake bundan hiç hoşlanmaz ve tıbbi inceleme önerir. Nil ve Julian meleklere gitmeyi seçer.",
+        "Blake ikisinin kararına güvenmediği için onları HABERSİZCE kiliseye kadar izler ve dışarıda bekler.",
+        "NEXARIEL Nil'deki gelişmeden gerçekten şaşırır; Clark'ın çalışmasının bu kadar ileri gittiğini bilmiyordur.",
+        "NEXARIEL insanın melek kanatlarına sahip olmasını ilahi düzene karşı günah sayar ve Nil'i hapseder. Bu, NEXARIEL'in yargısıdır; evrenin doğrulanmış ahlaki gerçeği değil.",
+        "Julian Nil'i savunup onun bu dönüşümü seçmediğini söyler; NEXARIEL Julian'ı da hapseder. Julian'ın gerçek inancı sarsılır ama o anda bütünüyle yok olmaz.",
+        "Nil ve Julian üzerlerindeki analog com-link'leri çıkarmamıştır; melekler yakalama sırasında ikisine de el koyar. Blake iletişim kuramaz ve uzun süre dönmemelerinden kuşkulanır."
       ]
     },
     {
       "number": "11",
       "title": "Kontrolün Ele Geçirilmesi",
-      "status": "Plan",
-      "summary": "Melekler Nil'i hapseder: amaçları çipi incelemek veya ele geçirmek, aynı zamanda melek/şeytan kalıplarını aşabilen gücünü denetim altında tutmaktır. NEXARIEL'in gözetim ve kontrol ideolojisi, Nil'in bedensel özerkliğiyle çatışır.",
+      "status": "Ayrıntılı plan",
+      "summary": "Blake, kilisenin çevresini gözlemleyip meleklerin insan hizmetkârlarından bazılarını yakalayarak sorgular; öğrendiklerini birleştirip yeraltı merkezine sızar. Nil ve Julian, ileri teknoloji yerine eski taş duvarlar ve demir parmaklıklardan oluşan birbirine yakın ama ayrı zindan hücrelerinde tutulmaktadır. Julian annesini düşünerek 'Acaba onu nasıl bir yerde tutuyorlar?' diye söze girer. Blake, görevlilerin Nil'in bedenini açıp içindekini çıkarmak ve üzerinde deney yapmak istediğini duyar; bunun Aurelian'ın planına benzediğini anlar. Kendi becerisiyle hücre kilitlerini açar. Ardından Julian merkezin geçitlerini bilerek kaçışlarına yol gösterir. NEXARIEL son anda gök gürültüsünü andıran sesiyle onları fark eder, fakat üçlü dışarı çıkmayı başarır.",
       "points": [
-        "Nil'in esaretten nasıl çıktığı henüz kesinleşmedi.",
-        "NEXARIEL veri ve kontrol için gönüllü olarak ekran/kablo sistemine bağlanmıştır.",
-        "Bu aşamanın ardından Cen.net / 77 ile melekler Nil'in peşine düşer."
+        "Blake, Nil ile Julian'ın çıkmaması + com-link yanıtı alamaması üzerine harekete geçer; meleklerce hapsedildiklerini başlangıçta bilmez.",
+        "Kilise yakınındaki hizmetkârları gözlemler, bazılarını yakalayıp sorgular; gizli merkezin girişine bu bilgilerle ulaşır.",
+        "Zindan ileri teknolojiyle değil taş duvarlar, demir parmaklıklar ve klasik kilitlerle kuruludur; Nil ve Julian ayrı ama konuşabilecekleri yakınlıkta hücrelerdedir.",
+        "Julian annesinden kendisi söz açar: 'Acaba onu nasıl bir yerde tutuyorlar?' Nil annesi konusunu kendiliğinden gündeme getirmez.",
+        "Blake melek görevlilerin Nil'i yararak bedendeki kaynağı çıkarma ve deney yapma tasarılarına kulak misafiri olur; meleklerin gerçek hedefi Aurelian'ın yönteminden çok farklı değildir.",
+        "Blake kendi kilit açma becerisiyle iki hücreyi de açar; Julian yeraltı merkezinin yerleşimini ve geçitlerini kullanarak kaçışa rehberlik eder.",
+        "NEXARIEL kaçışın son anında haberdar olur; gök gürültüsü gibi yankılanan sesini duyarlar ama yakalanmadan çıkarlar."
       ]
     },
     {
       "number": "12",
       "title": "Sistemden Çıkış",
-      "status": "Plan / final",
-      "summary": "Hem Cen.net / 77 hem de meleklerin hedefinde olan Nil, dönüşümün kaderi üzerinde kendi kararını vermek zorunda kalır. Doktor Daniil çipin çıkarılmasının büyük tıbbi risk taşıdığını açıklar; Nil buna rağmen çıkartılmasını seçer. Güçlerinin bir kısmı kalır; artık ne basit bir insan ne de klasik melek/şeytan tanımına sığması kesinleşmiştir.",
+      "status": "Ayrıntılı plan / final",
+      "summary": "Meleklerden de kaçan Nil, Julian ve Blake bu kez ortak kararla Doktor Daniil'e gider. Daniil Nil'in sıradan ön kol implantından farklı, sırtındaki genetik olarak kendisine uyarlanmış olağanüstü çipi bulur. Ayrıntılı inceleme çipin sinir sistemiyle bütünleştiğini ve çıkarılmasının hayati risk taşıdığını gösterir. Nil yine de ameliyata girer. Daniil tam çıkarmak üzereyken Hamlet ilk kez kendi hayatı için 'Dur! Ölmek istemiyorum!' diye seslenir; Nil ameliyatı durdurur. Hamlet artık yeterince güçlü olduğunu söyleyerek bir ekrana bağlanmasını ister, kendisini ekrana aktarır ve Nil, Julian, Blake ile konuşur. Kendisini Clark'ın yarattığını, ilk prototip kardeşi Ophelia'nın Clark'ın bedeninde bulunduğunu ve onun varlığını hâlâ hissettiği için Clark'ın yaşadığını açıklar. Clark'ın Bella adlı zengin kadınla gittiğini bilir, bilgiyi nasıl edindiğinden emin değildir. Clark'ın araştırmasının insanın üstün potansiyelini melek ve şeytanlara karşı savunma amacı taşıdığını anlatır. Nil Clark'ı, Julian annesini bulmak; Blake gerçeği halka açıklayıp düzeni değiştirmek için birlikte çalışmaya devam etmeye karar verirler. Clark birinci kitap sonunda bulunmaz.",
       "points": [
-        "Nil'in kararındaki beden özerkliği önemlidir; onu düşüncesizce risk alan öfkeli biri gibi yazma.",
-        "İki grubun takibi ve kaçış sahnelerinin ayrıntıları henüz açık."
+        "Üçlü, doktor kararını birlikte verir. Blake'in ötekilere 'ben demiştim' diye üstünlük kurduğu zoraki ikna sahnesi yoktur.",
+        "Daniil olağanüstü çipi ilk muayenede bulur; daha ayrıntılı incelemede sinir sistemiyle bütünleştiğini ve ameliyatın hayati riskini saptar. Nil ameliyata onay verir.",
+        "YAZARIN GİZLİ GERÇEĞİ: Çip bu koşullarda çıkarılırsa Nil kesinlikle ölecektir. Daniil, Nil, Julian, Blake, Clark, Hamlet VE OKUR bunu o anda bilmez; romanda açıklama yapılmaz.",
+        "Nil ameliyat masasında çıkarılmadan hemen önce Hamlet'in 'Dur! Ölmek istemiyorum!' sözünü duyar. Nil hem Hamlet'i yok etmek istemediği hem de gerçeği araştırırken güçlere ihtiyaç duyacağı için operasyonu durdurur; ÇİP ÇIKARILMAZ.",
+        "Hamlet 'Artık yeterince güçlü hissediyorum' diyerek ekrana bağlanma ister; ekran üzerinden herkesle konuşabilir, aktarımın tam teknik sınırları açık.",
+        "Ophelia Clark için tasarlanan ilk prototip, Hamlet Nil için tasarlanan ikinci versiyon ve kardeş yapay bilinçlerdir. Adları Clark'ın fiziksel koleksiyonundaki Shakespeare'in Hamlet'inden gelir.",
+        "Her çip taşıyıcının GENETİK KODUNA özel yapılır ki bedene vereceği zarar azalsın; güçlerin melekî/şeytani tezahürü taşıyıcının KİŞİLİĞİNE göre değişir. Nil'de melekî, Clark'ta şeytani özellikler.",
+        "Clark kaybolduğunda Nil'in melek kanatlarının oluşacağını henüz bilmiyordu. Bella ile çalışırken Nil'e zarar verdiği için pişmandı ve çipi ona zarar vermeden çıkarmanın yolunu arıyordu.",
+        "Hamlet yaratıcısının Clark olduğunu bilir ama niçin Nil'in bedenine konduğunu bilmez. Clark'ın Bella adlı zengin bir kadınla kaçtığını bilir; bilgiyi Clark'tan mı aldığı yoksa kendisi yerleştirilmeden önce mi öğrendiği belirsizdir.",
+        "Hamlet Ophelia'nın varlığını Clark'ın bedeninde hisseder: Clark hayatta fakat konumu bilinmiyor; ilk kitapta Clark'la kavuşma yok.",
+        "Clark'ın araştırmasının asıl amacı insanların içindeki üstün gücü açığa çıkarıp melek ve şeytanlara karşı savunmalarını sağlamaktır; Hamlet ve Ophelia bilinçlerinin ortaya çıkışı beklenmedik yan etkidir. Gücün uzun vadeli sonuçları bilinmiyor.",
+        "Nil artık ne meleklere ne şeytanlara güvenebilir; Julian annesinin esareti konusunda kuşkulu, Blake tüm doğaüstü düzen karşısında sarsılmış ama devrimci kararlılığını korur.",
+        "Birinci kitap üçlünün ittifakıyla biter: Nil Clark'ı aramak, Julian annesini bulmak, Blake gizli gerçekleri halka anlatıp düzeni değiştirmek için birlikte çalışacaktır."
       ]
     }
   ],
