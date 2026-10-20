@@ -11,7 +11,21 @@ const image=(e,cls='',loading='lazy')=>{let src=imagePath(e);return src?`<img cl
 const link=(pg,id)=>`#${pg}${id?'/'+encodeURIComponent(id):''}`;
 const makeButton=(pg,id,body,cls='')=>`<button class="${cls}" type="button" data-page="${pg}" ${id?`data-id="${esc(id)}"`:''}>${body}</button>`;
 function routeFor(e){return e.type==='characters'?'karakterler':e.type==='companies'?'sirketler':e.type==='places'?'sehir':'sozluk'}
-function nav(pg,id){const url=link(pg,id);if(location.hash!==url)history.pushState(null,'',url);page=pg;selected=id||defaultId(pg);tab='genel';render();window.scrollTo({top:0,behavior:'auto'});$('mainNav').classList.remove('is-open');$('menuToggle').setAttribute('aria-expanded','false')}
+function nav(pg,id){
+  const previous=page,url=link(pg,id);
+  if(location.hash!==url)history.pushState(null,'',url);
+  page=pg;selected=id||defaultId(pg);tab='genel';
+  render();window.scrollTo({top:0,behavior:'auto'});
+  $('mainNav').classList.remove('is-open');
+  $('menuToggle').setAttribute('aria-expanded','false');
+  $('menuToggle').setAttribute('aria-label','Menüyü aç');
+  if(previous!==page)$('content').focus({preventScroll:true});
+  else if(page==='karakterler'||page==='sehir'){
+    const active=document.querySelector('.record-link.active');
+    active?.focus({preventScroll:true});
+    if(window.matchMedia('(max-width:900px)').matches)active?.scrollIntoView({block:'nearest',inline:'nearest'});
+  }
+}
 function defaultId(pg){return {karakterler:'nil',sehir:'skopse',sirketler:'cennet'}[pg]||''}
 function parseHash(){let [p,id]=decodeURIComponent(location.hash.replace(/^#/,'' )).split('/');page=Object.keys(names).includes(p)?p:'anasayfa';selected=byId.has(id==='cennet_merkez'?'paradise':id)?(id==='cennet_merkez'?'paradise':id):defaultId(page);tab='genel';render()}
 function sectionHead(title,sub,num){return `<header class="page-head"><div><div class="eyebrow">SKOPSE / DÜNYA ATLASI</div><h1 class="section-title">${esc(title)}</h1><p>${esc(sub)}</p></div>${num!==undefined?`<span class="count">${String(num).padStart(2,'0')} DOSYA</span>`:''}</header>`}
@@ -140,7 +154,9 @@ function chapters(){
      ${c.points?.length?`<details class="chapter-points"><summary>Bu bölümün genel kanon kararları (${c.points.length})</summary>${list(c.points)}</details>`:''}
    </article>`).join('')}</div></div>`;
 }
-function render(){document.title=`${page==='anasayfa'?'Dünya Atlası':names[page]} — SKOPSE`;$('content').innerHTML=page==='anasayfa'?home():page==='sehir'?explorer('places'):page==='karakterler'?explorer('characters'):page==='sirketler'?companies():page==='zaman'?timeline():page==='sozluk'?glossary():chapters();document.querySelectorAll('.primary-nav button').forEach(b=>{const active=b.dataset.page===page;b.classList.toggle('active',active);if(active)b.setAttribute('aria-current','page');else b.removeAttribute('aria-current')})}
+function render(){document.title=`${page==='anasayfa'?'Dünya Atlası':names[page]} — SKOPSE`;$('content').innerHTML=page==='anasayfa'?home():page==='sehir'?explorer('places'):page==='karakterler'?explorer('characters'):page==='sirketler'?companies():page==='zaman'?timeline():page==='sozluk'?glossary():chapters();document.querySelectorAll('.primary-nav button').forEach(b=>{const active=b.dataset.page===page;b.classList.toggle('active',active);if(active)b.setAttribute('aria-current','page');else b.removeAttribute('aria-current')});
+  $('viewStatus').textContent=(names[page]||'Ana Sayfa')+(byId.get(selected)?' — '+byId.get(selected).name:'')+' açıldı.';
+}
 function openSearch(){
   const panel=$('headerSearch');if(!panel)return;
   panel.hidden=false;
@@ -214,9 +230,13 @@ function bindings(){
     }
     if(!$('headerSearch').hidden&&!ev.target.closest('#headerSearch,#searchToggle'))closeSearch();
   });
-  $('menuToggle').addEventListener('click',()=>{let opened=$('mainNav').classList.toggle('is-open');$('menuToggle').setAttribute('aria-expanded',String(opened));});
+  $('menuToggle').addEventListener('click',()=>{
+    const opened=$('mainNav').classList.toggle('is-open');
+    $('menuToggle').setAttribute('aria-expanded',String(opened));
+    $('menuToggle').setAttribute('aria-label',opened?'Menüyü kapat':'Menüyü aç');
+  });
   $('searchToggle').addEventListener('click',()=>{$('headerSearch').hidden?openSearch():closeSearch();});
-  $('searchClose').addEventListener('click',closeSearch);
+  $('searchClose').addEventListener('click',()=>{closeSearch();$('searchToggle').focus();});
   $('searchInput').addEventListener('input',search);
   $('searchInput').addEventListener('keydown',e=>{if(e.key==='Enter'){const first=$('searchResults').querySelector('button[data-page]');if(first){e.preventDefault();first.click();}}});
   document.body.addEventListener('toggle',ev=>{
@@ -238,7 +258,13 @@ function bindings(){
   window.addEventListener('popstate',parseHash);
   $('homeBrand').addEventListener('click',e=>{e.preventDefault();closeSearch();nav('anasayfa');});
   document.addEventListener('keydown',e=>{
-    if(e.key==='Escape'&&!$('headerSearch').hidden){e.preventDefault();closeSearch();$('searchToggle').focus();}
+    if(e.key==='Escape'&&!$('headerSearch').hidden){e.preventDefault();closeSearch();$('searchToggle').focus();return;}
+    if(e.key==='Escape'&&$('mainNav').classList.contains('is-open')){
+      $('mainNav').classList.remove('is-open');
+      $('menuToggle').setAttribute('aria-expanded','false');
+      $('menuToggle').setAttribute('aria-label','Menüyü aç');
+      $('menuToggle').focus();return;
+    }
     if(e.key==='/'&&!['INPUT','TEXTAREA'].includes(document.activeElement?.tagName)){e.preventDefault();openSearch();}
   });
 }
