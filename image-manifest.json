@@ -81,11 +81,12 @@
     "caption": "Nadejda için yeni SKOPSE temalı portre"
   },
   "kemal": {
-    "path": "kemal.webp",
+    "path": "KEMAL_KESIN.webp",
     "dimensions": [
-      880,
-      1100
-    ]
+      1024,
+      1536
+    ],
+    "caption": "Sifon'da Blake'in tanıdığı genç sokak karakteri; koyu cyberpunk portre."
   },
   "aziz_kiril": {
     "path": "aziz_kiril.webp",
@@ -269,5 +270,37 @@
       1536
     ],
     "caption": "20 Ekim'de yazar tarafından seçilen, siyah saçlı aristokratik Bella portresi."
+  },
+  "ozel_guvenlik_sefi": {
+    "path": "CENNET_OZEL_GUVENLIK_SEFI_KESIN.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "caption": "Cen.net'in şeytani özel güvenlik şefi; sert ve kurumsal portre."
+  },
+  "sanat_hamisi": {
+    "path": "SANAT_HAMISI_KESIN.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "caption": "Nil'in galada kimliğine büründüğü tanınmış sanat hamisi; aristokratik portre."
+  },
+  "sanat_hamisi_hizmetcisi": {
+    "path": "SANAT_HAMISI_HIZMETCISI_KESIN.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "caption": "Sanat hamisinin hizmetçisi ve orijinal davetiyenin aracısı."
+  },
+  "universite_hocasi": {
+    "path": "UNIVERSITE_HOCASI_KESIN.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "caption": "Nil'e tarih arşivini açan üniversite hocası; akademik portre."
   }
 }
