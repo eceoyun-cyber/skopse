@@ -114,7 +114,7 @@
       "type": "characters",
       "tagline": "KÖKLÜ AİLE · GİZEMLİ HAYIRSEVER",
       "summary": "Melek veya şeytan olmayan, eski ve varlıklı bir aileden gelen insan. İnsanların ilahi varlıklardan üstün olabileceğine inanır; Clark'ın şifa araştırmasını desteklerken seçilmiş bir insan aristokrasisi yaratmayı hedefler.",
-      "image": "",
+      "image": "BELLA_KESIN.webp",
       "meta": {
         "Tür": "İnsan",
         "Toplumsal konum": "Old money · köklü aile",
@@ -123,7 +123,7 @@
         "Ad": "Bella (soyadı açıklanmıyor)",
         "Geçmiş": "Yazar sırrı · romanda açıklanmayacak",
         "Görünüm (karar)": "Siyah saçlı, aristokratik duruşlu, 30'larında görünen kadın",
-        "Portre": "Sohbette bir örnek seçildi; depo dosya/bağlantısı doğrulanmadığı için görsel ataması değiştirilmedi."
+        "Portre": "Seçilen orijinal görsel, BELLA_KESIN.webp"
       },
       "sections": {
         "genel": "Bella, insanların meleklerle ve şeytanlarla yarışacak, hatta onları aşacak bir potansiyele sahip olduğuna inanır. Ancak bu güçleri tüm insanlara dağıtmayı reddeder; yeni bir üstün insan aristokrasisi için seçici, hiyerarşik bir sistem tasarlar. İnsanların özgürleşmesini savunurken kimin bu gücü hak ettiğine kendisinin karar vermesini doğal görür.",
@@ -1895,7 +1895,8 @@
     "villa": "MEKAN_GIZLI_ANGELS_VILLASI_KESIN.webp",
     "paradise_99": "MEKAN_CENNET_AGACI_99_KAT_KESIN.webp",
     "paradise_100": "MEKAN_CENNET_AGACI_100_KAT_KESIN.webp",
-    "daniil_muayene": "MEKAN_DANIIL_KLINIGI_KESIN.webp"
+    "daniil_muayene": "MEKAN_DANIIL_KLINIGI_KESIN.webp",
+    "bella": "BELLA_KESIN.webp"
   },
   "chapters": [
     {
