@@ -2,9 +2,9 @@
 
 ## Güncel sürüm ve çalışma kaynağı
 
-**Atlas 4.1 · 21 Ekim 2026**. Güncel atlasın ana verisi `world.json`, görünümü `styles.css`, uygulama mantığı `app.js`, giriş sayfası `index.html` dosyalarındadır. Hepsi depo **kökünde** bulunur. `index.html` bunları dış dosyalar olarak yükler; eski tek dosyalı sürümün README'sindeki yönergeler bu sürüm için geçerli değildir.
+**Atlas 4.2 · 21 Ekim 2026**. Güncel atlasın ana verisi `world.json`, görünümü `styles.css`, uygulama mantığı `app.js`, giriş sayfası `index.html` dosyalarındadır. Hepsi depo **kökünde** bulunur. `index.html` bunları dış dosyalar olarak yükler; eski tek dosyalı sürümün README'sindeki yönergeler bu sürüm için geçerli değildir.
 
-26 seçilmiş portre/mekân illüstrasyonu `_KESIN.webp` ekiyle işaretlenmiştir. Silme/karıştırma riski açısından `SECILI_GORSELLER.md` dosyasını kullanın. **`NEXARIEL_KESIN.webp` kesin seçilmiş görseldir**.
+28 seçilmiş portre/mekân illüstrasyonu `_KESIN.webp` ekiyle işaretlenmiştir. Silme/karıştırma riski açısından `SECILI_GORSELLER.md` dosyasını kullanın. **`NEXARIEL_KESIN.webp` kesin seçilmiş görseldir**.
 
 ## Hikâye kanonu
 
@@ -31,6 +31,6 @@ GitHub'daki `_KESIN` görsel adları ile ChatGPT Kütüphanesi'ndeki `image-gen-
 
 Sitede **Bölümler & Sahneler** sayfasını açın. Bölüm özetinin altındaki her sahne kartı tıklanarak **Karakterler / Mekân / Atmosfer / Olaylar** alanlarına açılır. Açık kalan kararlar ve yazar sırları ayrı işaretlidir; arama sahnelerin adlarını ve içeriklerini de tarar.
 
-**Görseller korunmuştur.** Önceden seçilmiş 16 `_KESIN.webp` görseli değiştirilmedi. 10 yeni mekân görseli `_KESIN.webp` adıyla eklendi, mekân kartlarına ve `image-manifest.json` içine bağlandı. Görselsiz kalan mekânlardan biri 100. kat ofisi, diğeri Daniil'in muayenehanesidir. Yeni karakterlerin bazıları hâlâ görselsizdir. Birinci kitap sonu: çip çıkarılmaz, Clark bulunmaz, üçlü ittifaka devam eder.
+**Görseller korunmuştur.** Önceden seçilmiş 16 `_KESIN.webp` görseli değiştirilmedi. 12 yeni mekân görseli `_KESIN.webp` adıyla eklendi; 100. kat ofisi ve Daniil'in eski yeraltı kliniği 1200 × 900 yüksek kaliteli WebP görselleriyle tamamlandı. İkisi de Yeni Şehir / Eski Şehir'in mat illüstratif estetiğini temel alır; mekân kartlarına ve `image-manifest.json` içine bağlandı. Yeni karakterlerin bazıları hâlâ görselsizdir. Birinci kitap sonu: çip çıkarılmaz, Clark bulunmaz, üçlü ittifaka devam eder.
 
 **Uyarı:** Atlas yaratıcı çalışma ve yazar sırları içerir; GitHub'daki açık dosyalar ve GitHub Pages metinleri okura spoiler verebilir.
