@@ -2,8 +2,9 @@
 
 Bu dosyalar seçilmiş ve güncel atlas tarafından kullanılan görsellerdir. **Silme / silinen alternatiflerle karıştırma.**
 
-## Karakterler (8)
+## Karakterler (9)
 
+- **Bella** — `BELLA_KESIN.webp` (önceden onaylanan orijinal portre)
 - **Nil Clayton** — `NIL_KESIN.webp`
 - **Clark Clayton** — `CLARK_KESIN.webp`
 - **Julian Junes** — `JULIAN_KESIN.webp`
