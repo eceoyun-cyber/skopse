@@ -31,7 +31,7 @@
 ## 3. Bölüm planı — KESİN
 
 ### 01 — Başlatma
-Sel ve sınıfsal ayrım. Clark üç gündür kayıptır. Nil, şirketten yaklaşık bir hafta önce çıkarılan Aras Stojanovski'yi çevrim içi izlerle Diadolas Yaşam Merkezi'nde bulur. Aras şirketin gönderdiğini sanıp kaçar; Nil otoparkta önünü keser, tenha yerde sakin sorgular. Aras yaklaşık bir ay önce Clark'ın erişim loglarını sildiğine tanık olmuştur. Nil Aras'ı serbest bırakır. **YAZAR SIRRI:** Cen.net Nil'in soruşturmasını fark ederek Aras'ı öldürtür; Nil bilmez.
+Sel ve sınıfsal ayrım. Clark üç gündür kayıptır. Nil, şirketten yaklaşık bir hafta önce çıkarılan Aras Stojanovski'yi çevrim içi izlerle Diadolas Yaşam Merkezi'nde bulur. Aras şirketin gönderdiğini sanıp kaçar; Nil hazırlıklı getirdiği elektroşok cihazıyla otoparkta etkisiz hâle getirir, gözlerden uzak ağaçlıklı noktada kelepçeleyip sakin sorgular. Kamera düzeni ve Aras'ın sorgu noktasına götürülüş biçimi henüz açık. Aras yaklaşık bir ay önce Clark'ın erişim loglarını sildiğine tanık olmuştur. Nil Aras'ı serbest bırakır. **YAZAR SIRRI:** Cen.net Nil'in soruşturmasını fark ederek Aras'ı öldürtür; Nil bilmez.
 
 ### 02 — Tanılama
 Nil evde Clark'ın basılı fotoğraflarını, CD ve fiziki kitaplarını inceler. Vietnam gezisi fotoğrafı vardır. Nil'in çektiği Clark fotoğrafının arkasındaki **1866 / kanatlı piramit kartını** bulur. 1866 depremi, Yeni Şehir'in yeniden inşası ve sorunlu dijital arşivler nedeniyle fiziksel tarihi kaynaklara yönelir. Clark'ın kitapları arasında Shakespeare'in **Hamlet**'i, sonraki büyük açıklamanın erken ipucudur. Kartın Nil'e özel saklandığı henüz kesinleşmedi.
