@@ -245,5 +245,21 @@
       1086
     ],
     "caption": "SKOPSE eski kesin mekân serisine uygun, 4:3 yatay illüstrasyon; koyu mürdüm, pembe gök cismi, turkuaz gölgeler, atlas başlığı ve grafik işaretler."
+  },
+  "paradise_100": {
+    "path": "MEKAN_CENNET_AGACI_100_KAT_KESIN.webp",
+    "dimensions": [
+      1200,
+      900
+    ],
+    "caption": "CEO Aurelian'ın 100. katta bulunan seyrek eşyalı, geniş manzaralı ofisi; Yeni Şehir ve Eski Şehir illüstrasyonlarıyla aynı mat ve loş palet."
+  },
+  "daniil_muayene": {
+    "path": "MEKAN_DANIIL_KLINIGI_KESIN.webp",
+    "dimensions": [
+      1200,
+      900
+    ],
+    "caption": "Doktor Daniil'in Eski Şehir görseliyle aynı mat illüstratif estetikte eski, underground yeraltı kliniği."
   }
 }
