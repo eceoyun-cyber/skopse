@@ -1,6 +1,6 @@
 # SKOPSE — Karakterler, Mekânlar ve Atmosfer Kararları
 
-> Atlas 4.0 · 21 Ekim 2026. Ana veri kaynağı `world.json`. Bu dosya görselleri değil, metinsel kanon kararlarını içerir. Kararlaştırılmamış isim, kimlik, mekân adresi veya güç mekanizması **AÇIK** kabul edilir. Geçmiş ve gelecek olaylara dair yazar sırları açıkça işaretlenmeden romanın ilk bölümlerine taşınmaz.
+> Atlas 4.4 · 21 Ekim 2026. Ana veri kaynağı `world.json`. Bu dosya görselleri değil, metinsel kanon kararlarını içerir. Kararlaştırılmamış isim, kimlik, mekân adresi veya güç mekanizması **AÇIK** kabul edilir. Geçmiş ve gelecek olaylara dair yazar sırları açıkça işaretlenmeden romanın ilk bölümlerine taşınmaz.
 
 ## Karakterler (18)
 
@@ -187,7 +187,6 @@ Clark'ın Nil'in genetik koduna göre ürettiği ikinci çipte doğan, Ophelia'n
 
 - **Meslek:** Doktor
 - **Kilidi açan karar:** Nil ameliyatı son anda durdurur
-- **Konum:** İlişkiler netleşecek
 
 **Kişilik / genel:** Nil, Julian ve Blake ortak kararla Daniil'e gelir. Daniil Nil'in sırtındaki olağanüstü çipi hemen saptar, ayrıntılı incelemede sinir sistemiyle bütünleştiğini görür.
 
@@ -207,7 +206,6 @@ Cen.net'in CEO'su, insan görünümünde nazik ve aristokrat tavırlı güçlü 
 
 - **Görev:** Cen.net CEO'su
 - **Kod adı:** 77
-- **Gerçek adı:** Henüz bilinmiyor
 - **Gerçek adı (çalışma):** Aurelian A. · soyadı açık
 - **Şeytani adı (çalışma):** BELMAVETH
 - **Tür:** Güçlü şeytan
@@ -272,7 +270,6 @@ Clark'ın kendi genetik koduna özel geliştirdiği ilk çipte ortaya çıkan ka
 - **Sürüm:** 1. prototip
 - **Genetik uyarlama:** Clark'a özgü
 - **Tezahür:** Şeytani özellikler
-- **Görünüm:** Seçilmiş görsel yok
 
 **Kişilik / genel:** Ophelia, Hamlet'in ilk prototip kardeşidir; iki ismi Clark, Shakespeare'in Hamlet oyunundan almıştır. Varlığın ortaya çıkması araştırmanın beklenmedik yan etkisidir.
 
@@ -310,8 +307,6 @@ Blake'in Sifon çevresinde dostluk kurduğu genç sokak çocuğu; 7. bölümde S
 Aurelian'ın yanında görülen özel güvenlik şefi ve 99. kattaki mekanik anahtarın fiilî taşıyıcısı. Çok içse de sarhoş olmaz; Julian'ın kutsal alevli yıldırımıyla öldürülür.
 
 - **Tür:** Şeytan
-- **Kişisel adı:** AÇIK
-- **Görünüm:** Seçilmiş görsel yok
 
 **Kişilik / genel:** Gala sırasında Aurelian'ın yanı başında görülen yüksek düzey özel güvenlik yöneticisi. Kimliğinin şeytan olduğu çatışmada anlaşılır.
 
@@ -329,9 +324,7 @@ Aurelian'ın yanında görülen özel güvenlik şefi ve 99. kattaki mekanik ana
 
 Nil'in 31 Aralık Cen.net balosuna girmek için kimliğini taklit ettiği, sanat koleksiyonu/hamilik çevresinde tanınan varlıklı kadın.
 
-- **Kişisel adı:** AÇIK
 - **Rol:** Taklit edilen balo davetlisi
-- **Görünüm:** Seçilmiş görsel yok
 
 **Kişilik / genel:** Uluslararası tanınmış kadın sanat hamisi, koleksiyon sponsoru; Cen.net'in 31 Aralık özel balosuna davetlidir.
 
@@ -349,8 +342,6 @@ Nil'in 31 Aralık Cen.net balosuna girmek için kimliğini taklit ettiği, sanat
 
 Nil'in çevrim içi büyük rüşvetle ikna ederek orijinal fiziksel maskeli balo davetiyesini belirlenen yere bıraktırdığı görevli.
 
-- **Kişisel adı:** AÇIK
-- **Görünüm:** Seçilmiş görsel yok
 
 **Kişilik / genel:** Sanat hamisinin evindeki hizmetçi; Nil'le yüz yüze görüşmeden anlaşır ve fiziksel davetiyeyi bırakır.
 
@@ -368,8 +359,6 @@ Nil'in çevrim içi büyük rüşvetle ikna ederek orijinal fiziksel maskeli bal
 
 Nil'in geçmişte kayıp kızını aramasına yardım ettiği ve karşılığında tarihî arşive erişim sağladığı öğretim üyesi.
 
-- **Ad:** AÇIK
-- **Görünüm:** Seçilmiş görsel yok
 
 **Kişilik / genel:** Üniversite hocası; Nil'in araştırmasına minnet duyarak kurumsal arşiv erişimi verir.
 
