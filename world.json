@@ -1833,6 +1833,144 @@
         "Nil ve Blake eski eve uzaktan yaklaşıp kuşkulu siyah araçları görür; Nil içeri girmek ister, Blake tehlikeli bularak engeller. Güvenli bir bankta Clark ve çocukluğu konuşurlar.",
         "YAZAR SIRRI: Clark 14–15 yaşında sistem hackleyerek büyük para çalmış, Nil onu tanımadan önce varlıklı olmuştu; Nil ve Blake bunu bilmez, Blake Clark'ı kibirli sanır.",
         "Villa dönüşü Julian'a baskının kadın hedefi ve ev çevresi anlatılır, Nadejda'nın asıl uyarısı söylenmez. Julian içeriden emir aramayı önerir, Nil iz bırakacağı için reddeder."
+      ],
+      "scenes": [
+        {
+          "id": "07.01",
+          "title": "Havuzlu villada kuşku ve sırlar",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "Blake"
+          ],
+          "location": "Yeni Şehir çeperinde Angels adına alınmış lüks villa",
+          "atmosphere": "Gösterişli havuzlu huzurun altında tetikte ve huzursuz üçlü.",
+          "events": [
+            "Blake Julian'ın Cen.net reklam yüzü olarak niçin bu işte olduğunu sorgular.",
+            "Nil ve Julian şeytan CEO ve meleklerle ilgili bildiklerini Blake'ten saklar.",
+            "Julian Cen.net görevine devam ettiğinden villada sık sık yoktur.",
+            "Blake iki yılın Cen.net operasyonlarından topladığı güvenlik bilgisini paylaşır."
+          ]
+        },
+        {
+          "id": "07.02",
+          "title": "Cennet Ağacı'nın kat planı ve anahtar",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "Blake"
+          ],
+          "location": "Villa; ortak planlama alanı",
+          "atmosphere": "Operasyonel, somut güvenlik detayları ve ekonomik ihtişam.",
+          "events": [
+            "Cennet Ağacı 100 kat: halka açık lift yaklaşık 50'ye kadar, 51–90 araştırma ve Clark'ın katı, 91–98 yönetim, 99 CEO koleksiyonu, 100 CEO ofisi.",
+            "99–100 özel asansörüne klasik mekanik anahtar gerekir; anahtarın CEO veya sürekli yanında görülen kişisel güvenlik şefinde olabileceği TAHMİN edilir.",
+            "Julian CEO'nun 31 Aralık'ta 99. kattaki büyük maskeli yılbaşı balosunu düzenlediğini ve kendisinin davet edildiğini hatırlatır.",
+            "Hedef 100. kattaki ofis; Julian'ın tekrar doğrudan davet edilmesinin tuzak olup olmadığı belirsiz."
+          ],
+          "open": [
+            "Anahtarın kimde bulunduğuna ilişkin görüş 7. bölümde sadece varsayım.",
+            "Julian'ın davetinin bilinçli tuzak olup olmadığı açık."
+          ]
+        },
+        {
+          "id": "07.03",
+          "title": "Julian'ın annesini anlatması",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes"
+          ],
+          "location": "Villa; özel sohbet alanı",
+          "atmosphere": "İnanç, aile kaybı ve biriken tereddüt.",
+          "events": [
+            "Julian Nil'e yaklaşık iki yüz yaşında Nephilim olduğunu anlatır.",
+            "Melek annesinin melekler tarafından neresi bilinmeyen bir yerde tutulduğunu, insan babasının da öldürüldüğünü söyler.",
+            "Meleklerin kendisini aileden kopardıktan sonra yetiştirdiğini, bu düzene gerçekten inandığını gösterir.",
+            "Julian'ın yüzünün kusursuz ama insanlar için hatırlaması güç olduğunu açıklar; Nil'in arşivde onu tanıyabilmesi ikisini şaşırtır.",
+            "Nil annesinin bir itaat aracı olarak kullanılıyor olabileceğini söyler; Julian savunmaya geçer, gerçeğe hazır değildir.",
+            "Blake bu konuşmada bulunmaz; Julien'in kökenini henüz bilmez."
+          ],
+          "authorSecret": "Nil'in Julian'ın fotoğraflarını tanımasında Hamlet'in rolü vardır."
+        },
+        {
+          "id": "07.04",
+          "title": "Sifon'a dönmek ve Kemal",
+          "characters": [
+            "Nil Clayton",
+            "Blake",
+            "Kemal",
+            "Blake'in adamları"
+          ],
+          "location": "Sifon / Batak çevresi",
+          "atmosphere": "Baskının ardından temkinli yeraltı topluluğu; sosyal bağlar.",
+          "events": [
+            "Blake Sifon'a adamlarının durumunu öğrenmeye ve Cen.net takibini anlamaya gider; Nil eşlik eder.",
+            "Adamlar baskıncıların olağandışı şekilde özellikle bir KADIN aradıklarını anlatır.",
+            "Nil'in hedef olup olmadığı henüz kesin değildir.",
+            "Blake'in genç sokak arkadaşı Kemal'e bu dönüşte yer verilecek; konuşması ve eylemi henüz kararlaştırılmadı."
+          ],
+          "open": [
+            "Kemal'in yaşının tam sayısı, diyalogu ve sahne işlevi açık.",
+            "Baskın emrindeki kadının Nil olduğuna dair kesin belge yok."
+          ]
+        },
+        {
+          "id": "07.05",
+          "title": "Nadejda'nın Ölü Frekans falı",
+          "characters": [
+            "Nil Clayton",
+            "Nadejda",
+            "Blake"
+          ],
+          "location": "Sifon; Nadejda'nın hurda radyo düzeni",
+          "atmosphere": "Eski falcı estetiği ile hurda radyo-frekans cyberpunk'ının ürpertici birleşimi.",
+          "events": [
+            "Nadejda Nil'e 'Hey güzel kız, gel buraya falına bakayım' diye seslenir.",
+            "Nil kuşkucu fakat meraklı olduğu için yaklaşır.",
+            "Ölü Frekans cihazında iki ayrı frekans algılar; Nil'de 'senden içeri' ikinci varlık olduğunu sezdirir.",
+            "Blake döndüğünde Nil'in fal baktırmasına şakayla karşılık verir; Nil konuyu geçiştirir.",
+            "Julian'a ikinci sinyal hakkında bilgi verilmez."
+          ],
+          "dialogue": [
+            "Nadejda: 'Bir sen var, bir de senden içeri.'",
+            "Blake: 'Sen böyle şeylere inanmazdın.'"
+          ],
+          "authorSecret": "İkinci sinyal Hamlet'tir; Nil, Blake ve Nadejda bunun kimliğini açıklamaz."
+        },
+        {
+          "id": "07.06",
+          "title": "Kuşatılmış eski ev",
+          "characters": [
+            "Nil Clayton",
+            "Blake",
+            "Clark Clayton (anı)"
+          ],
+          "location": "Nil ile Clark'ın ortak evinin uzak çevresi; güvenli bank",
+          "atmosphere": "Nostalji ve gözetlenme hissinin çarpışması.",
+          "events": [
+            "Nil ve Blake eski eve gizlice yaklaşır, yakınlarda kuşkulu siyah araçları görür.",
+            "Nil eve girmeyi ister, Blake aşırı riskli olduğundan kararlı hatta fiziksel biçimde onu uzaklaştırır.",
+            "Güvenli mesafede bankta çocuklukları ve Clark hakkında konuşurlar.",
+            "Blake Clark'ı bir parça kibirli bulurdu ama Nil'e daha iyi hayat vermesine minnettardır; Nil Clark'ın kendisine ve okul arkadaşlarına sıcak, Blake'e mesafeli oluşunu hatırlar."
+          ],
+          "authorSecret": "Clark'ın servetini 14–15 yaşında hack ile edindiğini Nil ve Blake bilmez."
+        },
+        {
+          "id": "07.07",
+          "title": "Villaya dönüş ve iz bırakmama",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "Blake"
+          ],
+          "location": "Villa / ortak alan",
+          "atmosphere": "Karşılıklı güven sorunu ve operasyonel disiplin.",
+          "events": [
+            "Nil ve Blake Sifon baskınında bir kadın arandığını, evin çevresindeki araçları aktarır.",
+            "Nadejda'nın ikinci sinyal uyarısını Julian'a söylemezler; Blake'in şakasına Nil 'Boşver' der.",
+            "Julian şirket içinden bir arama emri olup olmadığını sorgulamayı önerir, Nil izlenebilir olacağı için reddeder."
+          ]
+        }
       ]
     },
     {
@@ -1849,6 +1987,79 @@
         "Üst düzey muhafız aslında alt kademe şeytandır; Blake bunu kılık değiştirirken anlamaz.",
         "Blake'in sağladığı yerel analog frekanslı com-link'ler Cen.net dijital ağından bağımsızdır ama dinlenemez değildir; Nil cihazları operasyon için uyarlar.",
         "Nil Blake'e tehlikeli, henüz söyleyemediği gerçekler olduğunu ve gelmek istediğinden emin olup olmadığını sorar; Blake Vesna ve mücadele nedeniyle devam eder."
+      ],
+      "scenes": [
+        {
+          "id": "08.01",
+          "title": "Yılbaşı balosu ve kılıklar",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "Blake"
+          ],
+          "location": "Villa; Cennet Ağacı 99. kat planları",
+          "atmosphere": "Elit eski tarz debdebe ile operasyonel soğukkanlılık.",
+          "events": [
+            "Hedef 31 Aralık gecesi 99. kat özel koleksiyondaki maskeli yılbaşı davetidir.",
+            "Julian önceki yıl da katılmış ve doğrudan davet edilmiştir.",
+            "Nil uluslararası ünlü kadın sanat hamisinin kimliğine bürünecek; Blake güvenlik personeli kılığıyla girecektir."
+          ]
+        },
+        {
+          "id": "08.02",
+          "title": "Orijinal davetiye pazarlığı",
+          "characters": [
+            "Nil Clayton",
+            "Sanat hamisinin hizmetçisi (adı açık)",
+            "Sanat hamisi (taklit edilen)"
+          ],
+          "location": "Çevrim içi yazışma ve fiziksel davetiyenin bırakıldığı yer (tam nokta açık)",
+          "atmosphere": "Lüks davetiye kültürü, yüksek riskli uzaktan rüşvet.",
+          "events": [
+            "Gerçek sanat hamisi yılbaşında başka ülkede sponsorluğunu yaptığı etkinliğe gidecektir; Cen.net planından habersizdir.",
+            "Giriş için orijinal süslü fiziksel davetiye ya da dijital davet + kimlik gerekir; biyometrik kontrol yoktur.",
+            "Nil hizmetçiyle yalnızca çevrim içi görüşerek Clark'ın parasından büyük rüşvet önerir.",
+            "Hizmetçi davetiyeyi belirlenen yere bırakır, Nil yüz yüze görüşmeden alır.",
+            "İşlemin finansal iz bırakma riski bilinçli kabul edilir."
+          ]
+        },
+        {
+          "id": "08.03",
+          "title": "Sanat bilgisi, güvenlik katmanları",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "Blake"
+          ],
+          "location": "Villa; araştırma ve operasyon masası",
+          "atmosphere": "Koleksiyon bilgisinde dark academia, güvenlikte detaycı disiplin.",
+          "events": [
+            "Nil koleksiyon eserleri ve nadir sanat tarihi hakkında çalışır.",
+            "Blake iki aşamalı kılık değiştirmeyi planlar: sıradan muhafızı arkadan anesteziyle etkisiz kılmak, ardından içeride daha yüksek rütbeli muhafızın yerine geçmek.",
+            "Julian'ın geçen yılki deneyimiyle Blake'in vardiya/koridor bilgisi birleştirilir.",
+            "İki uyuşturma eylemi plan aşamasında, fiilî uygulamaları 9. bölümde yapılacaktır."
+          ]
+        },
+        {
+          "id": "08.04",
+          "title": "Analog com-link ve son uyarı",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "Blake"
+          ],
+          "location": "Villa; teknik hazırlık",
+          "atmosphere": "Sanal ağın izlenebilirliğine karşı düşük teknolojili tedbir.",
+          "events": [
+            "Blake yerel analog frekanslı kısa mesafe haberleşme cihazlarını bulur, Nil bunları operasyona uyarlar.",
+            "Cihazlar Cen.net dijital ağına bağlı değildir ama dinlenemez/tespit edilemez oldukları garanti değildir.",
+            "Nil Blake'i sakladıkları büyük tehlikeler konusunda uyarır ve dönme fırsatı tanır.",
+            "Blake Vesna ve iki yıllık mücadelesi nedeniyle kararlıdır."
+          ],
+          "dialogue": [
+            "Nil: 'Bak bilmediğin şeyler var. Çok tehlikeli. Gelmek istediğine emin misin?'"
+          ]
+        }
       ]
     },
     {
@@ -1870,6 +2081,195 @@
         "Blake'in dövüş/anestezi girişimleri ve Julian'ın kutsal yıldırımı Aurelian'a etki etmez. Aurelian tam şeytan formuna dönüşmez, gerekli görmez.",
         "Julian'ın yıldırımı geniş ofis camlarını parçalar. Son anda Hamlet Nil'e 'Atla.' ve 'Uç.' der; Nil'in sırtından kanatlar çıkar, ikisini de alıp camdan uçar. Kanatlar sonrasında sırtına geri çekilebilir.",
         "Nil henüz kanatları açıklayamaz, görünür gücü bilinçli kontrol etmiyor. Aurelian yenilmemiştir; yalnızca kaçmayı başarırlar."
+      ],
+      "scenes": [
+        {
+          "id": "09.01",
+          "title": "99. kata üç ayrı giriş",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "Blake",
+            "Cen.net görevlileri"
+          ],
+          "location": "Cennet Ağacı; güvenlik katları ve 99. kat balosu",
+          "atmosphere": "Gösterişli maskeli dekadans ve gizli operasyon.",
+          "events": [
+            "Julian davetli olarak üst kata gider.",
+            "Nil, orijinal davetiyesi ve sahte sanat hamisi kimliğiyle kimlik kontrolünü geçer.",
+            "Blake sıradan korumayı arkadan anesteziyle etkisizleştirip üniforma/kaskını alarak girer.",
+            "Blake içeride daha yetkili bir korumayı da uyuşturur ve kılığına girer; koruma düşük dereceli şeytandır ama Blake bunu anlamaz."
+          ]
+        },
+        {
+          "id": "09.02",
+          "title": "Sarhoş olmayan özel güvenlik şefi",
+          "characters": [
+            "Julian Junes",
+            "Cen.net özel güvenlik şefi",
+            "Nil Clayton ve Blake (com-link üzerinden)"
+          ],
+          "location": "99. kat özel koleksiyon / balo salonu",
+          "atmosphere": "Elit nezaket, içki, başarısız sosyal mühendislik.",
+          "events": [
+            "Julian şefi içirip işinden koparmayı, sarhoş edip mekanik asansör anahtarını almayı dener.",
+            "Şef çok içmesine rağmen sarhoş olmaz; nedeni onun gerçek şeytan doğasıdır.",
+            "Julian cihaz üzerinden Nil/Blake'e durumun işe yaramadığını anlatır."
+          ],
+          "authorSecret": "Şef şeytandır; bu aşamada üçlü bunun farkında değildir."
+        },
+        {
+          "id": "09.03",
+          "title": "Maskeli sanat sohbeti",
+          "characters": [
+            "Nil Clayton",
+            "Aurelian A. / BELMAVETH (maskeli)",
+            "Julian Junes (uzakta)"
+          ],
+          "location": "99. kat özel sanat koleksiyonu",
+          "atmosphere": "Nazik aristokratik merak ile sınayıcı, ince tehdit.",
+          "events": [
+            "Nil bir eser önünde maskeli adamla konuşur; bu kişinin CEO Aurelian olduğunu bilmez.",
+            "Aurelian eserin kökenini sorarak sanat hamisi kimliğini test eder.",
+            "Nil zihninde Hamlet'in 'Mısır' ve 'Firavun' yönlendirmelerini duyar, konuşmayı sürdürür.",
+            "Nil Julian'ın anahtarı alamadığını da gözlemlemektedir.",
+            "Aurelian yanlış sanat bilgileri/dikkat kaymaları ve önceki şüpheleriyle Nil'in gerçek kimliğini anlar; bunu Nil'e söylemez."
+          ],
+          "dialogue": [
+            "Hamlet (Nil'in zihninde): 'Mısır.'",
+            "Hamlet: 'Firavun.'"
+          ],
+          "open": [
+            "Aurelian'ın maskeli Nil'i kesin tanımasına katkıda bulunan daha önceki somut kanıt ayrıntısı açık."
+          ]
+        },
+        {
+          "id": "09.04",
+          "title": "Şefi uzaklaştırıp öldürmek",
+          "characters": [
+            "Blake",
+            "Julian Junes",
+            "Nil Clayton",
+            "Özel güvenlik şefi (şeytan)"
+          ],
+          "location": "99. kattan uzak, misafir gözünden saklı güvenlik bölümü",
+          "atmosphere": "Bir anda şiddetlenen, Blake için gerçekliğin kırıldığı doğaüstü çatışma.",
+          "events": [
+            "Blake yetkili güvenlik personeli kılığıyla acil tehdit ihbarı verip şefi tenha yere çeker.",
+            "Nil ile Julian saldırıya katılır; şef tahmin edilemeyecek kadar güçlü çıkar.",
+            "Julian Blake'in gözleri önünde elinden kutsal alevli yıldırım fırlatır.",
+            "Şef yanarken şeytani bedenine dönüşür fakat kendi güçlerini sergileyemeden yanıp ölür.",
+            "Üçlü cesedi saklar ve eski tip mekanik asansör anahtarını alır.",
+            "Blake 'Bana anlatacağınız çok şey var' tutumundadır ama zaman kalmaz."
+          ]
+        },
+        {
+          "id": "09.05",
+          "title": "Anahtarla 100. kata çıkış",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "Blake"
+          ],
+          "location": "Cennet Ağacı, mekanik anahtarlı özel asansör / 100. kat ofis",
+          "atmosphere": "Kalabalık balodan minimalist ve sessiz zirve katına sert geçiş.",
+          "events": [
+            "Özel asansör anahtarıyla 100. kata çıkarlar.",
+            "Koca ofiste neredeyse yalnızca eski masa, birkaç nesne ve panoramik Skopse camları vardır.",
+            "99. kat koleksiyonun aşırılığıyla 100. katın boşluğu karşıttır."
+          ]
+        },
+        {
+          "id": "09.06",
+          "title": "Clark'ın gerçek görüşme kaydı",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "Blake"
+          ],
+          "location": "100. kat ofiste antika masanın üzerindeki bilgisayar",
+          "atmosphere": "Zamanla yarışan, teknik olarak zor erişim.",
+          "events": [
+            "Nil kolayca görünen masadaki bilgisayara erişmeye çalışır; izinler zorlayıcıdır.",
+            "Julian kayıtlardaki şirket yetki/erişim düzenini yorumlamaya yardım eder; Blake giriş gözetler.",
+            "Clark'ın 100. katta Aurelian'la gerçekten görüştüğü kanıtlanır; ne konuştuklarının kaydı bulunamaz.",
+            "Blake birisinin yaklaştığını haber verir; üçlü saklanır."
+          ]
+        },
+        {
+          "id": "09.07",
+          "title": "Aradığınızı buldunuz mu?",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "Blake",
+            "Aurelian A. / BELMAVETH"
+          ],
+          "location": "100. kat özel ofis",
+          "atmosphere": "Bağırmayan, viski içen güç; Nil'in nadir duygusal patlaması.",
+          "events": [
+            "Aurelian saklananları bilerek sakin adımlarla girer, viski doldurur ve yerlerine bakarak seslenir.",
+            "Nil onun 99. kattaki maskeli sanat sohbetindeki kişi olduğunu anlar.",
+            "Nil abisinin yerini sorar; Aurelian BİLMEDİĞİNİ dürüstçe söyleyip Nil'in de onu bulmasını umduğunu açıklar.",
+            "Aurelian Clark'la görüşmesini ve bildiği araştırma gerçeklerini sakin biçimde aktarır.",
+            "Nil'in içinde olağandışı bir şey bulunduğunu anladığını sezdirir ama 'çip' kelimesini kullanmaz."
+          ],
+          "dialogue": [
+            "Aurelian: 'Aradığınızı buldunuz mu?'",
+            "Nil: 'Abim nerede?!'",
+            "Aurelian: 'Bilmiyorum. Aslında, bu soruya senin cevap verebileceğini umuyordum.'"
+          ],
+          "authorSecret": "Clark Bella'nın yardımıyla kaçtığından Aurelian'ın elinde gerçekten bir konum bilgisi yoktur."
+        },
+        {
+          "id": "09.08",
+          "title": "Teklif, tehdit, işe yaramayan saldırılar",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "Blake",
+            "Aurelian A. / BELMAVETH"
+          ],
+          "location": "100. kat özel ofis",
+          "atmosphere": "Başta medeni/nezaketli, retle birlikte soğuk ve vahşi; Aurelian tam dönüşümü gereksiz görür.",
+          "events": [
+            "Aurelian Nil'den kendi içindeki şey için iş birliği ister.",
+            "Nil ona güvenmez ve geri çevirir; Aurelian sakinlikten korkunç bir fiziksel tehdide geçer.",
+            "Blake'in fiziksel saldırıları ve anestezisi işe yaramaz.",
+            "Julian'ın kutsal elektrik-yıldırımı da Aurelian'ı yaralayamaz.",
+            "Yıldırım ofisin dev camlarını parçalar. Aurelian tam şeytan biçimine geçmez."
+          ],
+          "dialogue": [
+            "Aurelian: 'O hâlde seni yarıp içinden alırım.'"
+          ]
+        },
+        {
+          "id": "09.09",
+          "title": "Atla. Uç. / Kanatların açılışı",
+          "characters": [
+            "Nil Clayton",
+            "Hamlet (iç ses)",
+            "Julian Junes",
+            "Blake",
+            "Aurelian A. / BELMAVETH"
+          ],
+          "location": "Cennet Ağacı 100. kat kırık camlar ve Skopse gökyüzü",
+          "atmosphere": "Ölüm eşiğinde ürkütücü mucize; kaçış bir zafer değil.",
+          "events": [
+            "Üçlünün yenilmek üzere olduğu anda Hamlet Nil'in zihninde iki kısa komut verir.",
+            "Nil'in sırtından beklenmedik biçimde melek kanatları çıkar.",
+            "Nil bilinçli kontrol geliştirmemiş olsa da Julian ve Blake'i alıp parçalanan camdan uçarak kaçar.",
+            "Kanatlar sonra yeniden sırtının içine çekilebilir.",
+            "Aurelian yenilmez ve tehdit varlığını sürdürür."
+          ],
+          "dialogue": [
+            "Hamlet: 'Atla.'",
+            "Hamlet: 'Uç.'"
+          ],
+          "open": [
+            "Uçuşun iniş yeri ve rotası kesinleştirilmedi."
+          ]
+        }
       ]
     },
     {
@@ -1886,6 +2286,78 @@
         "NEXARIEL insanın melek kanatlarına sahip olmasını ilahi düzene karşı günah sayar ve Nil'i hapseder. Bu, NEXARIEL'in yargısıdır; evrenin doğrulanmış ahlaki gerçeği değil.",
         "Julian Nil'i savunup onun bu dönüşümü seçmediğini söyler; NEXARIEL Julian'ı da hapseder. Julian'ın gerçek inancı sarsılır ama o anda bütünüyle yok olmaz.",
         "Nil ve Julian üzerlerindeki analog com-link'leri çıkarmamıştır; melekler yakalama sırasında ikisine de el koyar. Blake iletişim kuramaz ve uzun süre dönmemelerinden kuşkulanır."
+      ],
+      "scenes": [
+        {
+          "id": "10.01",
+          "title": "Kanatlardan sonra panik ve açıklamalar",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "Blake"
+          ],
+          "location": "Cennet Ağacı'ndan kaçış sonrası güvenli nokta (henüz seçilmedi)",
+          "atmosphere": "Şok, öfke, absürt gerçekliğe tepki; Nil bedeninde kontrol kaybını hisseder.",
+          "events": [
+            "Nil sırtından kanat çıkması karşısında panikler; kanatlar o anda yeniden içeridedir.",
+            "Julian olayın insanlarda olmaması gereken melekî güce benzediğini görür ve meleklerden açıklama istemeyi önerir.",
+            "Blake yıldırım/şeytan/kanat olaylarını sindirmekte zorlanır; ona melekler ve şeytanlar anlatılır.",
+            "Blake meleklerin eline gitme fikrine karşı çıkar, doktor muayenesi önerir.",
+            "Nil ve Julian yine de Angels'a gitmeye karar verir."
+          ]
+        },
+        {
+          "id": "10.02",
+          "title": "Blake'in habersiz takibi",
+          "characters": [
+            "Blake",
+            "Nil Clayton",
+            "Julian Junes"
+          ],
+          "location": "Eski Şehir'deki tarihî kilise çevresi",
+          "atmosphere": "Gizli koruma, sessizlik, bastırılmış tehlike.",
+          "events": [
+            "Blake meleklerin iyi niyetine güvenmediği için Nil ve Julian'ı habersizce takip eder.",
+            "İkili kendi analog com-link'lerini çıkarmadan kiliseye girer.",
+            "Blake çevreyi ve giriş-çıkışları gözlemleyerek dışarıda bekler."
+          ]
+        },
+        {
+          "id": "10.03",
+          "title": "NEXARIEL'in şaşkınlığı ve günah hükmü",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "NEXARIEL"
+          ],
+          "location": "Kilise altındaki NEXARIEL merkezi",
+          "atmosphere": "İlk görüşmenin yumuşak kutsallığı yerini öfkeli otoriteye bırakır.",
+          "events": [
+            "Nil kanatlarının çıktığını anlatır; NEXARIEL Clark'ın çalışmalarının bu aşamaya ulaştığını bilmiyordur ve gerçekten şaşırır.",
+            "Bir insanın melek kanatlarına sahip olmasını ilahi düzenin ihlali ve günah olarak niteler.",
+            "Nil'in bu gücü seçmediğini önemsemeden hapsedilmesini emreder.",
+            "Julian Nil'in suçsuz olduğunu açıkça savunur, bunun üzerine onun da hapsedilmesini emreder.",
+            "İkilinin üzerindeki analog com-link cihazlarına el konulur."
+          ],
+          "notes": [
+            "NEXARIEL'in 'günah' yorumu onun inancıdır; dünyanın nesnel ahlak hükmü değildir.",
+            "Julian'ın melek inancı anında bütünüyle yıkılmaz; ilk somut karşı çıkışıdır."
+          ]
+        },
+        {
+          "id": "10.04",
+          "title": "Bekleyen Blake'in kuşkusu",
+          "characters": [
+            "Blake"
+          ],
+          "location": "Tarihî kilise çevresi",
+          "atmosphere": "Zaman uzadıkça büyüyen tedbirli endişe.",
+          "events": [
+            "Nil ve Julian uzun süre çıkmaz.",
+            "Blake com-link bağlantısından cevap alamaz; cihazlara el konulduğunu henüz bilmez.",
+            "Blake bir şeylerin yanlış gittiğine kanaat getirir, gizlice içeri sızmaya hazırlanır."
+          ]
+        }
       ]
     },
     {
@@ -1901,6 +2373,116 @@
         "Blake melek görevlilerin Nil'i yararak bedendeki kaynağı çıkarma ve deney yapma tasarılarına kulak misafiri olur; meleklerin gerçek hedefi Aurelian'ın yönteminden çok farklı değildir.",
         "Blake kendi kilit açma becerisiyle iki hücreyi de açar; Julian yeraltı merkezinin yerleşimini ve geçitlerini kullanarak kaçışa rehberlik eder.",
         "NEXARIEL kaçışın son anında haberdar olur; gök gürültüsü gibi yankılanan sesini duyarlar ama yakalanmadan çıkarlar."
+      ],
+      "scenes": [
+        {
+          "id": "11.01",
+          "title": "Hücrelere ayrılmak",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "Angels görevlileri"
+          ],
+          "location": "Yeraltı kilise kompleksinin eski taş zindanları",
+          "atmosphere": "Soğuk taş, demir parmaklıklar, arkaik tutsaklık; teknoloji içerideki koridorlardan farklı.",
+          "events": [
+            "Nil ile Julian ayrı, klasik demir parmaklıklı hücrelere konur.",
+            "Hücreler birbirlerini duyabilecek kadar yakındır; konuşmaları mümkündür.",
+            "Cihazları alınmıştır, Blake'e erişemezler."
+          ]
+        },
+        {
+          "id": "11.02",
+          "title": "Julian annesini düşünüyor",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes"
+          ],
+          "location": "Ayrı fakat bitişik/yakın demir hücreler",
+          "atmosphere": "İki yüz yıllık inancın sessizce çatlaması.",
+          "events": [
+            "Julian hapsedilmiş olmayı ve kendi annesinin nerede tutulduğunu düşünür.",
+            "Annesinin koşullarını ilk kez somut olarak sorgulayarak konuyu kendisi açar.",
+            "Nil annesini konuşmaya zorlamaz; Julian melekleri sorgulama yönünde ilerler."
+          ],
+          "dialogue": [
+            "Julian: 'Acaba onu nasıl bir yerde tutuyorlar?'"
+          ]
+        },
+        {
+          "id": "11.03",
+          "title": "İnsan hizmetkârlardan giriş öğrenmek",
+          "characters": [
+            "Blake",
+            "Angels'ın insan hizmetkârları"
+          ],
+          "location": "Kilise çevresi, gözlenen yan geçitler",
+          "atmosphere": "Sıradan insan zafiyetini kullanan sessiz, sistematik sızma.",
+          "events": [
+            "Blake kilise çevresindeki insan hareketlerini izler.",
+            "Meleklere hizmet eden insanlardan bazılarını yakalayarak sorgular.",
+            "Aldığı bilgilerle kendi gözlemlerini birleştirir ve gizli yeraltına giriş bulur.",
+            "Doğaüstü güç değil saha deneyimi ve zekâsı işe yarar."
+          ],
+          "open": [
+            "Sorgulanan kişilerin kimliği ve tam giriş yöntemi henüz açık."
+          ]
+        },
+        {
+          "id": "11.04",
+          "title": "Meleklerin deney planını duymak",
+          "characters": [
+            "Blake",
+            "Angels görevlileri (konuşmada)"
+          ],
+          "location": "Angels merkezinin zindana giden koridorları",
+          "atmosphere": "Fısıltılar, steril sözlerle örtülen beden şiddeti.",
+          "events": [
+            "Blake gizlice ilerlerken görevlilerin Nil'i bedenini açarak içindeki kaynağı çıkarma ve üzerinde deney yapma niyetini duyar.",
+            "Meleklerin planının Aurelian'ın Nil'i yarma tehdidinden çok da farklı olmadığını anlar.",
+            "Acil biçimde zindana yönelir."
+          ],
+          "notes": [
+            "Meleklerin çipin bütün teknik özelliklerini bildiğini varsayma."
+          ]
+        },
+        {
+          "id": "11.05",
+          "title": "Blake kilitleri açıyor",
+          "characters": [
+            "Blake",
+            "Nil Clayton",
+            "Julian Junes"
+          ],
+          "location": "Yeraltı kompleksinin eski demir parmaklıklı hapishanesi",
+          "atmosphere": "Başta şaşkınlık, ardından hareketli özgürlük anı.",
+          "events": [
+            "Nil ve Julian Blake'i gördüklerinde onları habersizce izlediğini anlar.",
+            "Blake eski tip kilitleri kendi becerisiyle açarak ikisini kurtarır.",
+            "Kaçışın başlangıcı Blake'in insani yeteneğine dayanır."
+          ]
+        },
+        {
+          "id": "11.06",
+          "title": "Julian'ın yolları, NEXARIEL'in gürleyişi",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "Blake",
+            "NEXARIEL (uzaktan sesi)"
+          ],
+          "location": "Kilise altı servis geçitleri, çıkış yolu",
+          "atmosphere": "Sessiz sızmadan son anda bütün binayı dolduran gök gürültüsü.",
+          "events": [
+            "Julian uzun zamandır tanıdığı merkez yerleşimini ve geçitlerini kullanarak yolu gösterir.",
+            "Blake'in sessiz sızması/Julian'ın mekân bilgisi sayesinde üçlü çıkışa yaklaşır.",
+            "NEXARIEL ancak son anda durumu fark eder, gök gürültüsünü andıran sesi bütün mekânda yankılanır.",
+            "Üçlü yakalanmadan kilisenin dışına çıkar."
+          ],
+          "open": [
+            "Çıkışın tam kapısı ve ara engeller kararlaştırılmadı."
+          ]
+        }
       ]
     },
     {
@@ -1922,6 +2504,132 @@
         "Clark'ın araştırmasının asıl amacı insanların içindeki üstün gücü açığa çıkarıp melek ve şeytanlara karşı savunmalarını sağlamaktır; Hamlet ve Ophelia bilinçlerinin ortaya çıkışı beklenmedik yan etkidir. Gücün uzun vadeli sonuçları bilinmiyor.",
         "Nil artık ne meleklere ne şeytanlara güvenebilir; Julian annesinin esareti konusunda kuşkulu, Blake tüm doğaüstü düzen karşısında sarsılmış ama devrimci kararlılığını korur.",
         "Birinci kitap üçlünün ittifakıyla biter: Nil Clark'ı aramak, Julian annesini bulmak, Blake gizli gerçekleri halka anlatıp düzeni değiştirmek için birlikte çalışacaktır."
+      ],
+      "scenes": [
+        {
+          "id": "12.01",
+          "title": "Üçlünün ortak doktor kararı",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "Blake"
+          ],
+          "location": "Meleklerden kaçış sonrası güvenli nokta (henüz seçilmedi)",
+          "atmosphere": "Yorgunluk, güven kaybı ama birlikte düşünme.",
+          "events": [
+            "Nil hem Cen.net şeytanlarına hem Angels meleklerine güvenilemeyeceğini kavrar.",
+            "Üçlü karşılıklı karar vererek Daniil'e gitmeyi seçer.",
+            "Blake 'ben demiştim' tiradı atmaz; seçim ortak yapılır."
+          ]
+        },
+        {
+          "id": "12.02",
+          "title": "Daniil'in çipi tespit etmesi",
+          "characters": [
+            "Nil Clayton",
+            "Doktor Daniil",
+            "Julian Junes",
+            "Blake"
+          ],
+          "location": "Daniil'in muayenehanesi / tıbbi inceleme alanı",
+          "atmosphere": "Tıbbi somutlukla açıklanamaz teknoloji karşıtlığı; yüksek risk.",
+          "events": [
+            "Daniil Nil'in sırtında, ön kol erişim implantından farklı, olağanüstü çipi muayenede saptar.",
+            "Ayrıntılı incelemede çipin Nil'in sinir sistemiyle bütünleştiğini keşfeder.",
+            "Daniil çıkarılmasının ölümcül olabilecek hayati risk taşıdığını açıklar, kesin ölümü BİLMEZ.",
+            "Nil yine de çipin çıkarılması operasyonunu kabul eder."
+          ],
+          "authorSecret": "Gerçekte Nil'in çipi bu koşullarda çıkarılırsa kesin öleceği bilgisi yalnız yazarda kalır; bu anda Hamlet dahil hiçbir karakter ve okur bilmez."
+        },
+        {
+          "id": "12.03",
+          "title": "Dur! Ölmek istemiyorum!",
+          "characters": [
+            "Nil Clayton",
+            "Hamlet (zihinde)",
+            "Doktor Daniil"
+          ],
+          "location": "Daniil'in ameliyat masası",
+          "atmosphere": "Ölüm korkusuyla kesilen operasyon; kendi bedeninde söz sahibi olma.",
+          "events": [
+            "Daniil tam çipi çıkarmak üzereyken Hamlet ilk açık kişisel isteğini Nil'e iletir: 'Dur! Ölmek istemiyorum!'",
+            "Nil müdahaleyi hemen durdurur.",
+            "Nil hem Hamlet'i yok etmek istemez hem ileride melek/şeytanların tehlikesine karşı güçlere ihtiyaç duyacağını düşünür.",
+            "ÇİP ÇIKARILMAZ; Nil hayatta kalır."
+          ],
+          "dialogue": [
+            "Hamlet (Nil'in zihninde): 'Dur! Ölmek istemiyorum!'"
+          ],
+          "authorSecret": "Nil farkında olmadan kendi hayatını da kurtarır; kesin ölüm gerçeği okura da söylenmez."
+        },
+        {
+          "id": "12.04",
+          "title": "Hamlet ekrana aktarılıyor",
+          "characters": [
+            "Nil Clayton",
+            "Hamlet",
+            "Julian Junes",
+            "Blake",
+            "Doktor Daniil (varlığı/ekran konuşmasına katılımı ayrıntısı açık)"
+          ],
+          "location": "Bir ekrana erişilebilen güvenli ortam; kesin ekran konumu açık",
+          "atmosphere": "İlk kez herkesin duyabildiği yapay bilinç, merak ve rahatsız edici yakınlık.",
+          "events": [
+            "Hamlet 'Artık yeterince güçlü hissediyorum' diyerek Nil'in bir ekrana bağlanmasını ister.",
+            "Nil bağlantıyı kurar, Hamlet kendisini ekrana aktarır ve yalnız Nil'le değil ekrandan başkalarıyla da konuşabilir.",
+            "Hamlet yaratıcısının Clark olduğunu açıklar.",
+            "Hamlet ve Ophelia kardeş bilinçtir; Ophelia Clark için ilk prototip, Hamlet Nil için ikinci versiyon.",
+            "Clark neden Hamlet'i Nil'e bıraktı? Hamlet bunu bilmez."
+          ],
+          "dialogue": [
+            "Hamlet: 'Artık yeterince güçlü hissediyorum.'"
+          ],
+          "open": [
+            "Ekran fiziksel olarak nerede ve aktarımın kalıcılığı/erişim sınırları nedir?"
+          ]
+        },
+        {
+          "id": "12.05",
+          "title": "Clark'ın amacı, Bella ve Ophelia'nın izi",
+          "characters": [
+            "Nil Clayton",
+            "Hamlet",
+            "Julian Junes",
+            "Blake",
+            "Clark Clayton (anlatılan)",
+            "Bella (anlatılan)",
+            "Ophelia (anlatılan)"
+          ],
+          "location": "Hamlet'in konuştuğu ekran başı",
+          "atmosphere": "Büyük gizemin bir kısmı aydınlanır, fakat umut açıklamasız bir belirsizlikle karışır.",
+          "events": [
+            "Hamlet Clark'ın araştırmasının insanın üstün potansiyelini açığa çıkarıp melek ve şeytanlara karşı savunma sağlamak için olduğunu anlatır.",
+            "Hamlet ile Ophelia'nın bilinçlerinin ortaya çıkışı beklenmedik yan etkidir; güçlerin uzun vadeli sonuçları bilinmez.",
+            "Hamlet Clark'ın Bella adlı varlıklı kadınla gizli ortaklık yapıp kaybolduğunu bilir.",
+            "Hamlet bu bilgiyi Clark'ın kendisine söyleyip söylemediğinden ya da Nil'e yerleştirilmeden önce kendi öğrenip öğrenmediğinden emin değildir.",
+            "Hamlet Ophelia'nın hâlâ Clark'ın bedeninde olduğunu hisseder ve Clark'ın hayatta olduğunu bilir; yerini bilmez.",
+            "İlk kitap sonunda Clark BULUNMAZ."
+          ],
+          "authorSecret": "Bella'nın elitist insan aristokrasisi projesinin kapsamı bu açıklamayla Nil'e bütünüyle açılmaz."
+        },
+        {
+          "id": "12.06",
+          "title": "Sistemden Çıkış: ittifak",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "Blake",
+            "Hamlet"
+          ],
+          "location": "Üçlünün güvenli buluşma ortamı (tam mekân açık)",
+          "atmosphere": "Ne zafer ne çaresizlik; bağımsız karar ve çözülmemiş gelecek.",
+          "events": [
+            "Nil ne meleklere ne şeytanlara güvenebileceğine karar verir ve Clark'ı aramayı sürdürecektir.",
+            "Julian annesinin nerede tutulduğuna ilişkin tereddüt ve umuduyla onu bulmak ister.",
+            "Blake melek ve şeytan gerçeğini halka duyurmayı ve devrimci mücadeleyi hedefler.",
+            "Üçlü ortak çalışmaya devam etme kararı verir; dünya düzeni çözülmüş, Clark bulunmuş ya da iki taraf yenilmiş değildir."
+          ]
+        }
       ]
     }
   ],
