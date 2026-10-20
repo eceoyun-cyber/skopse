@@ -2,14 +2,14 @@
 
 ## Güncel sürüm ve çalışma kaynağı
 
-**Atlas 3.8 · 20 Ekim 2026**. Güncel atlasın ana verisi `world.json`, görünümü `styles.css`, uygulama mantığı `app.js`, giriş sayfası `index.html` dosyalarındadır. Hepsi depo **kökünde** bulunur. `index.html` bunları dış dosyalar olarak yükler; eski tek dosyalı sürümün README'sindeki yönergeler bu sürüm için geçerli değildir.
+**Atlas 3.9 · 20 Ekim 2026**. Güncel atlasın ana verisi `world.json`, görünümü `styles.css`, uygulama mantığı `app.js`, giriş sayfası `index.html` dosyalarındadır. Hepsi depo **kökünde** bulunur. `index.html` bunları dış dosyalar olarak yükler; eski tek dosyalı sürümün README'sindeki yönergeler bu sürüm için geçerli değildir.
 
 16 seçilmiş portre/mekân illüstrasyonu `_KESIN.webp` ekiyle işaretlenmiştir. Silme/karıştırma riski açısından `SECILI_GORSELLER.md` dosyasını kullanın. **`NEXARIEL_KESIN.webp` kesin seçilmiş görseldir**.
 
 ## Hikâye kanonu
 
 - `world.json` — karakterler, dünyadaki ilişkiler, zaman çizelgesi, sözlük, yazar notları ve 12 bölümün özetleri.
-- `KANON_KARARLARI_2026-10-20.md` — yeni kararların ayrıntıları, kesinlik düzeyi ve açıklanmaması gereken yazar sırları.
+- `KANON_KARARLARI_2026-10-20.md` — 12 bölümün kesin kararları, Hamlet–Ophelia ve Clark–Bella kanonu, açıklanmaması gereken yazar sırları; `world.json` ile birlikte güncel tutulur.
 - `eski-hikaye-haritasi.html` — daha eski taslak ve tarihsel arşiv; güncel kanonun yerine geçmez.
 - `image-manifest.json` — görsel kaynak listesi; yollar depo köküne göredir.
 
