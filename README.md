@@ -2,7 +2,7 @@
 
 ## Güncel sürüm ve çalışma kaynağı
 
-**Atlas 4.3 · 21 Ekim 2026**. Güncel atlasın ana verisi `world.json`, görünümü `styles.css`, uygulama mantığı `app.js`, giriş sayfası `index.html` dosyalarındadır. Hepsi depo **kökünde** bulunur. `index.html` bunları dış dosyalar olarak yükler; eski tek dosyalı sürümün README'sindeki yönergeler bu sürüm için geçerli değildir.
+**Atlas 4.4 · 21 Ekim 2026**. Güncel atlasın ana verisi `world.json`, görünümü `styles.css`, uygulama mantığı `app.js`, giriş sayfası `index.html` dosyalarındadır. Hepsi depo **kökünde** bulunur. `index.html` bunları dış dosyalar olarak yükler; eski tek dosyalı sürümün README'sindeki yönergeler bu sürüm için geçerli değildir.
 
 34 seçilmiş portre/mekân illüstrasyonu `_KESIN.webp` ekiyle işaretlenmiştir. Silme/karıştırma riski açısından `SECILI_GORSELLER.md` dosyasını kullanın. **`NEXARIEL_KESIN.webp` kesin seçilmiş görseldir**.
 
@@ -36,3 +36,12 @@ Sitede **Bölümler & Sahneler** sayfasını açın. Bölüm özetinin altındak
 **Uyarı:** Atlas yaratıcı çalışma ve yazar sırları içerir; GitHub'daki açık dosyalar ve GitHub Pages metinleri okura spoiler verebilir.
 
 **Karakter portreleri (Atlas 4.3):** Kemal, Cen.net özel güvenlik şefi, sanat hamisi, hizmetçisi ve üniversite hocası için ayrı, yazısız, 1024 × 1536 çözünürlüklü beş yeni `_KESIN.webp` dosyası eklendi. Önceden seçilmiş karakter ve mekân görselleri değiştirilmedi. Hamlet, Ophelia, Daniil ve Aurelian henüz portresiz bırakıldı.
+
+## Atlas 4.4 — kullanım ve bakım iyileştirmeleri
+
+- Karakter/mekân kartlarında teknik resim dosyası adları ve boş görsel alanları meta bilgi olarak gösterilmez. Dosya eşleştirmeleri `entity.image`, `world.images` ve `image-manifest.json` içinde tutulur; karakterlerin gerçek fiziksel tarifleri korunur.
+- Bölümler & Sahneler sayfasında 12 bölümlük yatay hızlı gezinme, bölüm başına **Tüm sahneleri aç/kapat** ve **Bölüm seçimi** dönüşü vardır.
+- Karakter ve mekânın bilgi sekmeleri, bütün sayfa yeniden oluşturulmadan değiştirilir. Sol/sağ ok ile sekmeler arasında geçilebilir.
+- Arama 12 sonuç sınırına ulaştığında toplam eşleşme sayısını açıkça belirtir. Mobilde yatay karakter/mekân listesini kaydırma işareti bulunur.
+- İçeriğe geç bağlantısı mevcut sayfayı değiştirmez; menü ve arama odağı/klavye etkileşimleri iyileştirildi. Eski, artık kullanılmayan arama penceresi CSS'i kaldırıldı.
+- **Değişmeyenler:** Kanon, 12 bölümün 59 sahnesi, 34 seçilmiş karakter/mekân görseli ve ilgili `_KESIN.webp` dosyaları.
