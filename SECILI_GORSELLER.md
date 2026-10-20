@@ -2,7 +2,7 @@
 
 Bu dosyalar seçilmiş ve güncel atlas tarafından kullanılan görsellerdir. **Silme / silinen alternatiflerle karıştırma.**
 
-## Karakterler (9)
+## Karakterler (14)
 
 - **Bella** — `BELLA_KESIN.webp` (önceden onaylanan orijinal portre)
 - **Nil Clayton** — `NIL_KESIN.webp`
@@ -13,6 +13,11 @@ Bu dosyalar seçilmiş ve güncel atlas tarafından kullanılan görsellerdir. *
 - **Vesna** — `VESNA_KESIN.webp`
 - **Nadejda** — `NADEJDA_KESIN.webp`
 - **NEXARIEL** — `NEXARIEL_KESIN.webp`
+- **Kemal** — `KEMAL_KESIN.webp`
+- **Cen.net Özel Güvenlik Şefi** — `CENNET_OZEL_GUVENLIK_SEFI_KESIN.webp`
+- **Sanat Hamisi** — `SANAT_HAMISI_KESIN.webp`
+- **Sanat Hamisinin Hizmetçisi** — `SANAT_HAMISI_HIZMETCISI_KESIN.webp`
+- **Üniversite Hocası** — `UNIVERSITE_HOCASI_KESIN.webp`
 
 ## Mekanlar (20 ayrı illüstrasyon)
 
