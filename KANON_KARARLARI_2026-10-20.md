@@ -1,6 +1,6 @@
 # SKOPSE — Kesinleşen kanon ve açıklık düzeyleri (20 Ekim 2026)
 
-> **Atlas 3.9.** Güncel hikâye kaynağı `world.json` dosyasındaki 12 bölüm özeti, zaman çizelgesi, karakterler ve yazar notlarıdır. Bu dosya onlarla birlikte okunur. **KESİN / AÇIK / YAZAR SIRRI** ayrımını koruyun; eksikleri otomatik doldurmayın. Diyalog taslakları ancak açıkça kararlaştırılmış kısa replikler bakımından bağlayıcıdır.
+> **Atlas 4.0 · 21 Ekim 2026 güncellemesi.** Güncel hikâye kaynağı `world.json` içindeki 12 bölümün 59 ayrı sahnesi, bölüm özetleri, zaman çizelgesi, karakterler ve yazar notlarıdır. Tam sahne dökümü: [`KITAP_I_SAHNE_ATLASI.md`](KITAP_I_SAHNE_ATLASI.md). Karakter/mekân/atmosfer referansı: [`KARAKTER_MEKAN_ATMOSFER_ATLASI.md`](KARAKTER_MEKAN_ATMOSFER_ATLASI.md). Bu dosya onlarla birlikte okunur. **KESİN / AÇIK / YAZAR SIRRI** ayrımını koruyun; eksikleri otomatik doldurmayın. Diyalog taslakları ancak açıkça kararlaştırılmış kısa replikler bakımından bağlayıcıdır.
 
 ## 1. Temel hikâye, atmosfer, süreklilik
 
