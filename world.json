@@ -60,7 +60,10 @@
         "diadolas",
         "batak",
         "gizleme_cipi",
-        "nexariel"
+        "nexariel",
+        "hamlet",
+        "sanat_hamisi",
+        "universite_hocasi"
       ],
       "status": "Güncel kanon",
       "shortLabel": "Ana karakter"
@@ -93,7 +96,9 @@
         "cennet",
         "julian",
         "gizleme_cipi",
-        "bella"
+        "bella",
+        "ophelia",
+        "hamlet"
       ],
       "status": "Güncel kanon",
       "shortLabel": "Cen.net araştırmacısı"
@@ -111,7 +116,9 @@
         "İdeoloji": "İnsan üstünlüğü / Überhumanizm (çalışma terimi)",
         "Hedef": "Seçkin yeni insan aristokrasisi",
         "Ad": "Bella (soyadı açıklanmıyor)",
-        "Geçmiş": "Yazar sırrı · romanda açıklanmayacak"
+        "Geçmiş": "Yazar sırrı · romanda açıklanmayacak",
+        "Görünüm (karar)": "Siyah saçlı, aristokratik duruşlu, 30'larında görünen kadın",
+        "Portre": "Sohbette bir örnek seçildi; depo dosya/bağlantısı doğrulanmadığı için görsel ataması değiştirilmedi."
       },
       "sections": {
         "genel": "Bella, insanların meleklerle ve şeytanlarla yarışacak, hatta onları aşacak bir potansiyele sahip olduğuna inanır. Ancak bu güçleri tüm insanlara dağıtmayı reddeder; yeni bir üstün insan aristokrasisi için seçici, hiyerarşik bir sistem tasarlar. İnsanların özgürleşmesini savunurken kimin bu gücü hak ettiğine kendisinin karar vermesini doğal görür.",
@@ -155,7 +162,8 @@
         "clark",
         "nexariel",
         "angels",
-        "paradise"
+        "paradise",
+        "ozel_guvenlik_sefi"
       ],
       "status": "Güncel kanon",
       "shortLabel": "Nephilim"
@@ -186,7 +194,9 @@
         "batak",
         "sifon",
         "cennet",
-        "vesna"
+        "vesna",
+        "kemal",
+        "ozel_guvenlik_sefi"
       ],
       "status": "Güncel kanon",
       "shortLabel": "Yeraltı bağlantıları"
@@ -271,7 +281,8 @@
       "related": [
         "nil",
         "clark",
-        "gizleme_cipi"
+        "gizleme_cipi",
+        "ophelia"
       ],
       "status": "Açık tasarım",
       "shortLabel": "Sinirsel yapay zeka"
@@ -305,9 +316,9 @@
     },
     {
       "id": "77",
-      "name": "77",
+      "name": "Aurelian A. / 77",
       "type": "characters",
-      "tagline": "CEN.NET CEO'SU · KOD ADI",
+      "tagline": "CEN.NET CEO'SU · GÜÇLÜ ŞEYTAN · ADLAR ÇALIŞMA",
       "summary": "Cen.net'in CEO'su, insan görünümünde nazik ve aristokrat tavırlı güçlü bir şeytan. Çalışma adı Aurelian A., gerçek şeytani adı çalışma aşamasında BELMAVETH; kesin soyadı henüz yok.",
       "image": "",
       "meta": {
@@ -316,19 +327,27 @@
         "Gerçek adı": "Henüz bilinmiyor",
         "Gerçek adı (çalışma)": "Aurelian A. · soyadı açık",
         "Şeytani adı (çalışma)": "BELMAVETH",
-        "Tür": "Güçlü şeytan"
+        "Tür": "Güçlü şeytan",
+        "İnsan adı": "Aurelian A. · soyadı kesinleşmedi",
+        "Şeytani ad": "BELMAVETH · çalışma adı",
+        "Fiziksel tavır": "Yakışıklı, zarif, aristokratik, kibar"
       },
       "sections": {
         "genel": "CEO'nun insan adı geçici olarak Aurelian A., şeytani adı geçici olarak BELMAVETH'tir; iki ad da son hâliyle kilitlenmiş değildir. Zarif, kibar, ölçülü; 100. kattaki az eşyalı ofisinin karşıtı 99. katta gösterişli sanat koleksiyonu vardır.",
         "gecmis": "Henüz belirlenmedi.",
         "iliskiler": "Clark araştırmasını bizzat Aurelian'a anlatmış/görüşmüştür. Aurelian Clark'ın nereye kaçtığını GERÇEKTEN bilmez; Bella'nın rolünden habersizdir. Nil'in bedenindeki olağan dışı varlığı fark eder, iş birliği ister, Nil reddedince zorla çıkarmakla tehdit eder.",
-        "notlar": "Yalnız maskeli sanat konuğu olarak da 9. bölümde Nil'le konuşur, onun sahte kimliğini anlar. Julian'ın kutsal yıldırımı ve Blake'in saldırıları/anestezisi etkisizdir; dönüşümünün tamamına ihtiyaç duymaz. Kimliği şeytan olarak Nil ve Julian için 5. bölüm sonrasında, Blake için 9. bölümde açığa çıkar."
+        "notlar": "Yalnız maskeli sanat konuğu olarak da 9. bölümde Nil'le konuşur, onun sahte kimliğini anlar. Julian'ın kutsal yıldırımı ve Blake'in saldırıları/anestezisi etkisizdir; dönüşümünün tamamına ihtiyaç duymaz. Kimliği şeytan olarak Nil ve Julian için 5. bölüm sonrasında, Blake için 9. bölümde açığa çıkar. **Ad uyarısı:** Aurelian A. (soyadı seçilmedi) ve BELMAVETH çalışma adları kesin isim olarak kilitlenmedi."
       },
       "related": [
-        "cennet"
+        "cennet",
+        "ozel_guvenlik_sefi",
+        "bella",
+        "clark",
+        "nil",
+        "paradise"
       ],
       "status": "Kod adı kesin · Ayrıntılar açık",
-      "shortLabel": "Cen.net CEO'su"
+      "shortLabel": "Aurelian · Cen.net CEO"
     },
     {
       "id": "vesna",
@@ -611,7 +630,9 @@
         "clark",
         "julian",
         "blake",
-        "77"
+        "77",
+        "ozel_guvenlik_sefi",
+        "sanat_hamisi"
       ],
       "status": "Güncel kanon",
       "shortLabel": "Cen.net genel merkezi"
@@ -1011,6 +1032,166 @@
       ],
       "status": "Dünya tasarımı · seçilen yaklaşım",
       "shortLabel": "Kültürel aristokrasi"
+    },
+    {
+      "id": "ophelia",
+      "name": "Ophelia",
+      "type": "characters",
+      "tagline": "İLK PROTOTİP · KARDEŞ BİLİNÇ",
+      "summary": "Clark'ın kendi genetik koduna özel geliştirdiği ilk çipte ortaya çıkan kardeş yapay bilinç. Clark'ta şeytani özellikler uyanır. Hamlet onun varlığını hâlâ hisseder.",
+      "image": "",
+      "meta": {
+        "Taşıyıcı": "Clark Clayton",
+        "Sürüm": "1. prototip",
+        "Genetik uyarlama": "Clark'a özgü",
+        "Tezahür": "Şeytani özellikler",
+        "Görünüm": "Seçilmiş görsel yok"
+      },
+      "sections": {
+        "genel": "Ophelia, Hamlet'in ilk prototip kardeşidir; iki ismi Clark, Shakespeare'in Hamlet oyunundan almıştır. Varlığın ortaya çıkması araştırmanın beklenmedik yan etkisidir.",
+        "gecmis": "Clark Ophelia'yı öncelikle KENDİ genetik koduna uygun tasarladı ve bedenine yerleştirdi. İkinci versiyon Hamlet ise Nil için özel üretildi. Çiplerin genetik uyumu zararı azaltmaya yöneliktir.",
+        "iliskiler": "Ophelia Clark'ın bedenindedir; Hamlet onu uzaktan hissedebilmektedir. Hamlet bu his nedeniyle Clark'ın yaşadığını biliyor ancak konumunu belirleyemiyor.",
+        "yetenekler": "Clark'ın kişiliğine bağlı şeytani potansiyeli ortaya çıkarır. Bireysel konuşma biçimi ve ekrana aktarım kapasitesi henüz bilinmez.",
+        "notlar": "İlk kitabın sonunda Clark bulunmaz, Ophelia ile yüz yüze sahne yoktur. Ophelia'nın tam bilgisi ve sınırları AÇIK."
+      },
+      "related": [
+        "clark",
+        "hamlet",
+        "gizleme_cipi"
+      ],
+      "status": "KESİN ÇERÇEVE / ayrıntılar kısmen açık",
+      "shortLabel": "İLK PROTOTİP · KARDEŞ BİLİNÇ"
+    },
+    {
+      "id": "kemal",
+      "name": "Kemal",
+      "type": "characters",
+      "tagline": "SİFON · GENÇ SOKAK ÇOCUĞU",
+      "summary": "Blake'in Sifon çevresinde dostluk kurduğu genç sokak çocuğu; 7. bölümde Sifon'a dönüşte görülecek.",
+      "image": "",
+      "meta": {
+        "Çevre": "Sifon / Batak",
+        "Yaş": "Genç; kesin sayı açık",
+        "Portre": "Seçilmiş görsel yok"
+      },
+      "sections": {
+        "genel": "Kemal, Sifon/Batak topluluğuyla ilişkili genç bir sokak çocuğu; Blake'le tanışır ve arkadaştır.",
+        "gecmis": "Geçmişi, ailesi ve tam yaşı henüz belirlenmedi.",
+        "iliskiler": "Blake onu tanır; Nil'in Blake'le birlikte Sifon'a döndüğü 7. bölümde yer alır.",
+        "yetenekler": "Hikâyede belirlenmiş bir özel yeteneği yok.",
+        "notlar": "7. bölüm Kemal sahnesinin konuşması ve olaya katkısı AÇIK; bilinmeyen ayrıntıları doldurma."
+      },
+      "related": [
+        "blake",
+        "sifon",
+        "batak"
+      ],
+      "status": "KESİN ÇERÇEVE / ayrıntılar kısmen açık",
+      "shortLabel": "SİFON · GENÇ SOKAK ÇOCUĞU"
+    },
+    {
+      "id": "ozel_guvenlik_sefi",
+      "name": "Cen.net Özel Güvenlik Şefi",
+      "type": "characters",
+      "tagline": "ŞEYTAN · AURELIAN'IN YAKIN KORUMASI",
+      "summary": "Aurelian'ın yanında görülen özel güvenlik şefi ve 99. kattaki mekanik anahtarın fiilî taşıyıcısı. Çok içse de sarhoş olmaz; Julian'ın kutsal alevli yıldırımıyla öldürülür.",
+      "image": "",
+      "meta": {
+        "Tür": "Şeytan",
+        "Kişisel adı": "AÇIK",
+        "Görünüm": "Seçilmiş görsel yok"
+      },
+      "sections": {
+        "genel": "Gala sırasında Aurelian'ın yanı başında görülen yüksek düzey özel güvenlik yöneticisi. Kimliğinin şeytan olduğu çatışmada anlaşılır.",
+        "gecmis": "Önceki geçmişi ve kişisel adı henüz belirlenmedi.",
+        "iliskiler": "Aurelian'ın özel korumasıdır; Julian anahtar almak için içkiyle oyalamaya çalışır. Blake güvenlik kılığıyla uzak bölgeye çeker; Nil/Julian katılır.",
+        "yetenekler": "Alkol etkilenimine direnç, olağanüstü fiziksel güç, acı altında şeytani forma dönüşme. Julian'ın kutsal ateşiyle yanarak ölür, güçlerini sergileyemez.",
+        "notlar": "Bölüm 7'de üçlü anahtarın CEO veya şefte bulunduğunu TAHMİN eder; 9'da şefin anahtarı taşıdığı anlaşılır."
+      },
+      "related": [
+        "77",
+        "paradise",
+        "julian",
+        "blake"
+      ],
+      "status": "KESİN ÇERÇEVE / ayrıntılar kısmen açık",
+      "shortLabel": "ŞEYTAN · AURELIAN'IN YAKIN KORUMASI"
+    },
+    {
+      "id": "sanat_hamisi",
+      "name": "Kimliği Kullanılan Sanat Hamisi",
+      "type": "characters",
+      "tagline": "ULUSLARARASI SANAT ÇEVRESİ · ADI AÇIK",
+      "summary": "Nil'in 31 Aralık Cen.net balosuna girmek için kimliğini taklit ettiği, sanat koleksiyonu/hamilik çevresinde tanınan varlıklı kadın.",
+      "image": "",
+      "meta": {
+        "Kişisel adı": "AÇIK",
+        "Rol": "Taklit edilen balo davetlisi",
+        "Görünüm": "Seçilmiş görsel yok"
+      },
+      "sections": {
+        "genel": "Uluslararası tanınmış kadın sanat hamisi, koleksiyon sponsoru; Cen.net'in 31 Aralık özel balosuna davetlidir.",
+        "gecmis": "O yılbaşı başka bir ülkedeki sponsor olduğu galeri/müze etkinliğinde bulunması beklenir.",
+        "iliskiler": "Nil onun adını ve kimliğini kullanır; hizmetçisiyle internette anlaşır. Gerçek hami planın varlığını bilmez.",
+        "yetenekler": "Sanat çevrelerinde tanınır, koleksiyon ve seçkin davetler arasında etkin.",
+        "notlar": "Gerçek adı, ülkesi, etkinliğin kurumu, kimlik/portre ayrıntıları kararlaştırılmadı."
+      },
+      "related": [
+        "nil",
+        "paradise"
+      ],
+      "status": "KESİN ÇERÇEVE / ayrıntılar kısmen açık",
+      "shortLabel": "ULUSLARARASI SANAT ÇEVRESİ · ADI AÇIK"
+    },
+    {
+      "id": "sanat_hamisi_hizmetcisi",
+      "name": "Sanat Hamisinin Hizmetçisi",
+      "type": "characters",
+      "tagline": "DAVETİYE ARACISI · ADI AÇIK",
+      "summary": "Nil'in çevrim içi büyük rüşvetle ikna ederek orijinal fiziksel maskeli balo davetiyesini belirlenen yere bıraktırdığı görevli.",
+      "image": "",
+      "meta": {
+        "Kişisel adı": "AÇIK",
+        "Görünüm": "Seçilmiş görsel yok"
+      },
+      "sections": {
+        "genel": "Sanat hamisinin evindeki hizmetçi; Nil'le yüz yüze görüşmeden anlaşır ve fiziksel davetiyeyi bırakır.",
+        "gecmis": "Geçmişi ve kişisel adı kararlaştırılmadı.",
+        "iliskiler": "Nil'in gerçek kimliğini ve amacını bilmez. Ücret karşılığında davetiyeyi elden değil bırakma usulüyle ulaştırır.",
+        "yetenekler": "Çalıştığı evdeki davetiyeye erişimi vardır.",
+        "notlar": "Görüşme yalnız internet üzerinden; kamera veya fiziksel tanışma YOK."
+      },
+      "related": [
+        "sanat_hamisi",
+        "nil"
+      ],
+      "status": "KESİN ÇERÇEVE / ayrıntılar kısmen açık",
+      "shortLabel": "DAVETİYE ARACISI · ADI AÇIK"
+    },
+    {
+      "id": "universite_hocasi",
+      "name": "Nil'e Yardım Eden Üniversite Hocası",
+      "type": "characters",
+      "tagline": "ARŞİV BAĞLANTISI · ADI AÇIK",
+      "summary": "Nil'in geçmişte kayıp kızını aramasına yardım ettiği ve karşılığında tarihî arşive erişim sağladığı öğretim üyesi.",
+      "image": "",
+      "meta": {
+        "Ad": "AÇIK",
+        "Görünüm": "Seçilmiş görsel yok"
+      },
+      "sections": {
+        "genel": "Üniversite hocası; Nil'in araştırmasına minnet duyarak kurumsal arşiv erişimi verir.",
+        "gecmis": "Nil daha önce hocanın kayıp kızının bulunmasına yardım etmiştir; olayın tam seyri açıklanmadı.",
+        "iliskiler": "Nil'e Bölüm 3'te karşılık ve güven üzerine kapı açar.",
+        "yetenekler": "Üniversite/belge erişimi sağlayabilir.",
+        "notlar": "İsim, uzmanlık dalı ve yaş AÇIK."
+      },
+      "related": [
+        "nil",
+        "universite_arsiv"
+      ],
+      "status": "KESİN ÇERÇEVE / ayrıntılar kısmen açık",
+      "shortLabel": "ARŞİV BAĞLANTISI · ADI AÇIK"
     }
   ],
   "featureGallery": [
