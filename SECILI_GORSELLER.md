@@ -13,7 +13,7 @@ Bu dosyalar seçilmiş ve güncel atlas tarafından kullanılan görsellerdir. *
 - **Nadejda** — `NADEJDA_KESIN.webp`
 - **NEXARIEL** — `NEXARIEL_KESIN.webp`
 
-## Mekanlar (18 ayrı illüstrasyon)
+## Mekanlar (20 ayrı illüstrasyon)
 
 - **Skopse** — `SKOPSE_KESIN.webp`
 - **Eski Şehir** — `ESKI_SEHIR_KESIN.webp`
@@ -37,7 +37,12 @@ Bu dosyalar seçilmiş ve güncel atlas tarafından kullanılan görsellerdir. *
 - **Gizli Angels Villası** — `MEKAN_GIZLI_ANGELS_VILLASI_KESIN.webp`
 - **Cennet Ağacı · 99. Kat Koleksiyon** — `MEKAN_CENNET_AGACI_99_KAT_KESIN.webp`
 
-**Görseli henüz seçilmemiş mekânlar:** Cennet Ağacı 100. Kat Ofis; Doktor Daniil'in Muayenehanesi.
+### 21 Ekim 2026'da tamamlanan son iki mekân (Yeni/Eski Şehir ile eşleşen estetik)
+
+- **Cennet Ağacı · 100. Kat Ofis** — `MEKAN_CENNET_AGACI_100_KAT_KESIN.webp` · 1200 × 900
+- **Doktor Daniil'in Yeraltı Kliniği** — `MEKAN_DANIIL_KLINIGI_KESIN.webp` · 1200 × 900
+
+Her ikisi de başlangıçtaki **Eski Şehir / Yeni Şehir** illüstrasyonlarının mat, koyu erik–soluk pembe–turkuaz estetiğini temel alır. Daniil kliniği yeraltında, yıpranmış ve gösterişsizdir.
 
 **Onj Nehri:** Ayrı bir onaylı görseli yok; şimdilik `SKOPSE_KESIN.webp` gösteriliyor. Bu bir Onj görseli olarak kesinleştirilmiş değildir.
 
