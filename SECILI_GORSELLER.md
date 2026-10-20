@@ -13,7 +13,7 @@ Bu dosyalar seçilmiş ve güncel atlas tarafından kullanılan görsellerdir. *
 - **Nadejda** — `NADEJDA_KESIN.webp`
 - **NEXARIEL** — `NEXARIEL_KESIN.webp`
 
-## Mekanlar (8 ayrı illüstrasyon)
+## Mekanlar (18 ayrı illüstrasyon)
 
 - **Skopse** — `SKOPSE_KESIN.webp`
 - **Eski Şehir** — `ESKI_SEHIR_KESIN.webp`
@@ -23,6 +23,21 @@ Bu dosyalar seçilmiş ve güncel atlas tarafından kullanılan görsellerdir. *
 - **Sifon** — `SIFON_KESIN.webp`
 - **Diadolas Yaşam Merkezi** — `DIADOLAS_KESIN.webp`
 - **Paradise / Cen.net Ağacı** — `PARADISE_CENNET_AGACI_KESIN.webp`
+
+### 21 Ekim 2026'da seçilip eklenen 10 yeni mekân
+
+- **Nil ve Clark'ın Evi** — `MEKAN_NIL_CLARK_EVI_KESIN.webp`
+- **Üniversite Tarih Arşivi** — `MEKAN_UNIVERSITE_TARIH_ARSIVI_KESIN.webp`
+- **Julian'la Gizli Kafe** — `MEKAN_JULIAN_GIZLI_KAFE_KESIN.webp`
+- **Terk Edilmiş Eski Adliye** — `MEKAN_TERK_EDILMIS_ADLIYE_KESIN.webp`
+- **Angels Tarihî Kilisesi** — `MEKAN_ANGELS_TARIHI_KILISE_KESIN.webp`
+- **Kilise Botanik Serası** — `MEKAN_KILISE_BOTANIK_SERA_KESIN.webp`
+- **NEXARIEL Yeraltı Merkezi** — `MEKAN_NEXARIEL_YERALTI_MERKEZI_KESIN.webp`
+- **Angels Taş Zindanı** — `MEKAN_ANGELS_TAS_ZINDANI_KESIN.webp`
+- **Gizli Angels Villası** — `MEKAN_GIZLI_ANGELS_VILLASI_KESIN.webp`
+- **Cennet Ağacı · 99. Kat Koleksiyon** — `MEKAN_CENNET_AGACI_99_KAT_KESIN.webp`
+
+**Görseli henüz seçilmemiş mekânlar:** Cennet Ağacı 100. Kat Ofis; Doktor Daniil'in Muayenehanesi.
 
 **Onj Nehri:** Ayrı bir onaylı görseli yok; şimdilik `SKOPSE_KESIN.webp` gösteriliyor. Bu bir Onj görseli olarak kesinleştirilmiş değildir.
 
