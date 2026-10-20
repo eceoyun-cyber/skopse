@@ -1,5 +1,5 @@
 {
-  "version": "4.2",
+  "version": "4.3",
   "title": "SKOPSE",
   "strapline": "Mutant Bir Şehir",
   "intro": "Skopse, Onj Nehri’nin iki kıyısında büyüyen, teknolojinin ve eşitsizliğin aynı sokaklara sığdığı bir kenttir. Yeni Şehir taşkınlardan korunurken Eski Şehir her ekimde yeniden su altında kalır.",
@@ -1094,11 +1094,11 @@
       "type": "characters",
       "tagline": "SİFON · GENÇ SOKAK ÇOCUĞU",
       "summary": "Blake'in Sifon çevresinde dostluk kurduğu genç sokak çocuğu; 7. bölümde Sifon'a dönüşte görülecek.",
-      "image": "",
+      "image": "KEMAL_KESIN.webp",
       "meta": {
         "Çevre": "Sifon / Batak",
         "Yaş": "Genç; kesin sayı açık",
-        "Portre": "Seçilmiş görsel yok"
+        "Portre": "Seçilmiş portre · KEMAL_KESIN.webp"
       },
       "sections": {
         "genel": "Kemal, Sifon/Batak topluluğuyla ilişkili genç bir sokak çocuğu; Blake'le tanışır ve arkadaştır.",
@@ -1121,11 +1121,11 @@
       "type": "characters",
       "tagline": "ŞEYTAN · AURELIAN'IN YAKIN KORUMASI",
       "summary": "Aurelian'ın yanında görülen özel güvenlik şefi ve 99. kattaki mekanik anahtarın fiilî taşıyıcısı. Çok içse de sarhoş olmaz; Julian'ın kutsal alevli yıldırımıyla öldürülür.",
-      "image": "",
+      "image": "CENNET_OZEL_GUVENLIK_SEFI_KESIN.webp",
       "meta": {
         "Tür": "Şeytan",
         "Kişisel adı": "AÇIK",
-        "Görünüm": "Seçilmiş görsel yok"
+        "Görünüm": "Seçilmiş portre · CENNET_OZEL_GUVENLIK_SEFI_KESIN.webp"
       },
       "sections": {
         "genel": "Gala sırasında Aurelian'ın yanı başında görülen yüksek düzey özel güvenlik yöneticisi. Kimliğinin şeytan olduğu çatışmada anlaşılır.",
@@ -1149,11 +1149,11 @@
       "type": "characters",
       "tagline": "ULUSLARARASI SANAT ÇEVRESİ · ADI AÇIK",
       "summary": "Nil'in 31 Aralık Cen.net balosuna girmek için kimliğini taklit ettiği, sanat koleksiyonu/hamilik çevresinde tanınan varlıklı kadın.",
-      "image": "",
+      "image": "SANAT_HAMISI_KESIN.webp",
       "meta": {
         "Kişisel adı": "AÇIK",
         "Rol": "Taklit edilen balo davetlisi",
-        "Görünüm": "Seçilmiş görsel yok"
+        "Görünüm": "Seçilmiş portre · SANAT_HAMISI_KESIN.webp"
       },
       "sections": {
         "genel": "Uluslararası tanınmış kadın sanat hamisi, koleksiyon sponsoru; Cen.net'in 31 Aralık özel balosuna davetlidir.",
@@ -1175,10 +1175,10 @@
       "type": "characters",
       "tagline": "DAVETİYE ARACISI · ADI AÇIK",
       "summary": "Nil'in çevrim içi büyük rüşvetle ikna ederek orijinal fiziksel maskeli balo davetiyesini belirlenen yere bıraktırdığı görevli.",
-      "image": "",
+      "image": "SANAT_HAMISI_HIZMETCISI_KESIN.webp",
       "meta": {
         "Kişisel adı": "AÇIK",
-        "Görünüm": "Seçilmiş görsel yok"
+        "Görünüm": "Seçilmiş portre · SANAT_HAMISI_HIZMETCISI_KESIN.webp"
       },
       "sections": {
         "genel": "Sanat hamisinin evindeki hizmetçi; Nil'le yüz yüze görüşmeden anlaşır ve fiziksel davetiyeyi bırakır.",
@@ -1200,10 +1200,10 @@
       "type": "characters",
       "tagline": "ARŞİV BAĞLANTISI · ADI AÇIK",
       "summary": "Nil'in geçmişte kayıp kızını aramasına yardım ettiği ve karşılığında tarihî arşive erişim sağladığı öğretim üyesi.",
-      "image": "",
+      "image": "UNIVERSITE_HOCASI_KESIN.webp",
       "meta": {
         "Ad": "AÇIK",
-        "Görünüm": "Seçilmiş görsel yok"
+        "Görünüm": "Seçilmiş portre · UNIVERSITE_HOCASI_KESIN.webp"
       },
       "sections": {
         "genel": "Üniversite hocası; Nil'in araştırmasına minnet duyarak kurumsal arşiv erişimi verir.",
@@ -1861,7 +1861,7 @@
   "images": {
     "nil": "NIL_KESIN.webp",
     "nadejda": "NADEJDA_KESIN.webp",
-    "kemal": "kemal.webp",
+    "kemal": "KEMAL_KESIN.webp",
     "aziz_kiril": "aziz_kiril.webp",
     "arge": "arge.webp",
     "underground": "underground.webp",
@@ -1896,7 +1896,11 @@
     "paradise_99": "MEKAN_CENNET_AGACI_99_KAT_KESIN.webp",
     "paradise_100": "MEKAN_CENNET_AGACI_100_KAT_KESIN.webp",
     "daniil_muayene": "MEKAN_DANIIL_KLINIGI_KESIN.webp",
-    "bella": "BELLA_KESIN.webp"
+    "bella": "BELLA_KESIN.webp",
+    "ozel_guvenlik_sefi": "CENNET_OZEL_GUVENLIK_SEFI_KESIN.webp",
+    "sanat_hamisi": "SANAT_HAMISI_KESIN.webp",
+    "sanat_hamisi_hizmetcisi": "SANAT_HAMISI_HIZMETCISI_KESIN.webp",
+    "universite_hocasi": "UNIVERSITE_HOCASI_KESIN.webp"
   },
   "chapters": [
     {
