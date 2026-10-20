@@ -63,7 +63,11 @@
         "nexariel",
         "hamlet",
         "sanat_hamisi",
-        "universite_hocasi"
+        "universite_hocasi",
+        "clark_evi",
+        "angels_kilise",
+        "villa",
+        "daniil_muayene"
       ],
       "status": "Güncel kanon",
       "shortLabel": "Ana karakter"
@@ -98,7 +102,8 @@
         "gizleme_cipi",
         "bella",
         "ophelia",
-        "hamlet"
+        "hamlet",
+        "clark_evi"
       ],
       "status": "Güncel kanon",
       "shortLabel": "Cen.net araştırmacısı"
@@ -163,7 +168,10 @@
         "nexariel",
         "angels",
         "paradise",
-        "ozel_guvenlik_sefi"
+        "ozel_guvenlik_sefi",
+        "angels_yeralti",
+        "angels_zindan",
+        "villa"
       ],
       "status": "Güncel kanon",
       "shortLabel": "Nephilim"
@@ -196,7 +204,9 @@
         "cennet",
         "vesna",
         "kemal",
-        "ozel_guvenlik_sefi"
+        "ozel_guvenlik_sefi",
+        "villa",
+        "angels_zindan"
       ],
       "status": "Güncel kanon",
       "shortLabel": "Yeraltı bağlantıları"
@@ -225,7 +235,9 @@
       "related": [
         "nil",
         "julian",
-        "angels"
+        "angels",
+        "angels_yeralti",
+        "angels_zindan"
       ],
       "status": "Güncel kanon",
       "shortLabel": "Melek"
@@ -309,7 +321,8 @@
       "related": [
         "nil",
         "gizleme_cipi",
-        "derman"
+        "derman",
+        "daniil_muayene"
       ],
       "status": "Açık ayrıntılar",
       "shortLabel": "Hekim"
@@ -456,7 +469,10 @@
       "related": [
         "skopse",
         "yeni_sehir",
-        "sifon"
+        "sifon",
+        "eski_adliye",
+        "angels_kilise",
+        "universite_arsiv"
       ],
       "status": "Açılış metni",
       "shortLabel": "Tarihi kıyı"
@@ -484,7 +500,9 @@
         "eski_sehir",
         "tunek",
         "diadolas",
-        "cennet"
+        "cennet",
+        "villa",
+        "clark_evi"
       ],
       "status": "Güncel şehir",
       "shortLabel": "Korunaklı kıyı"
@@ -567,7 +585,9 @@
       "related": [
         "batak",
         "gezginler",
-        "nadejda"
+        "nadejda",
+        "kemal",
+        "blake"
       ],
       "status": "Güncel kanon",
       "shortLabel": "Yeraltı bağlantıları"
@@ -632,7 +652,9 @@
         "blake",
         "77",
         "ozel_guvenlik_sefi",
-        "sanat_hamisi"
+        "sanat_hamisi",
+        "paradise_99",
+        "paradise_100"
       ],
       "status": "Güncel kanon",
       "shortLabel": "Cen.net genel merkezi"
@@ -838,7 +860,11 @@
         "nil",
         "julian",
         "nexariel",
-        "gizleme_cipi"
+        "gizleme_cipi",
+        "angels_kilise",
+        "sera",
+        "angels_yeralti",
+        "angels_zindan"
       ],
       "status": "Kitap I"
     },
@@ -1192,6 +1218,351 @@
       ],
       "status": "KESİN ÇERÇEVE / ayrıntılar kısmen açık",
       "shortLabel": "ARŞİV BAĞLANTISI · ADI AÇIK"
+    },
+    {
+      "id": "clark_evi",
+      "name": "Nil ve Clark'ın Evi",
+      "type": "places",
+      "tagline": "YENİ ŞEHİR · PERSONEL KONUTU",
+      "summary": "Nil ile Clark'ın yaşadığı, Paradise/Cen.net yerleşkesine yakın korumalı personel konutu. Clark'ın fiziksel kitapları, CD'leri ve az sayıdaki basılı fotoğrafı burada.",
+      "image": "",
+      "meta": {
+        "Atmosfer": "Sıcak yaşanmışlık ve ansızın boşalmış ev; gizli şirket tehdidi",
+        "Bölümler": "02, 07",
+        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+      },
+      "sections": {
+        "genel": "Nil ile Clark'ın yaşadığı, Paradise/Cen.net yerleşkesine yakın korumalı personel konutu. Clark'ın fiziksel kitapları, CD'leri ve az sayıdaki basılı fotoğrafı burada.",
+        "gecmis": "Köken/önceki tarih yalnız mevcut kanondaki ölçüde belirlenmiştir.",
+        "iliskiler": "Bağlantılı atlas kayıtları: nil, clark, yeni_sehir, paradise.",
+        "yetenekler": "Vietnam fotoğrafı, Nil'in çektiği Clark fotoğrafının arkasındaki 1866 kartı, Shakespeare'in Hamlet kitabı. 7. bölümde evin çevresinde kuşkulu siyah araçlar bulunur.",
+        "notlar": "Nil 7. bölümde eve girmek ister, Blake tehlikeli bulduğu için onu uzaklaştırır."
+      },
+      "related": [
+        "nil",
+        "clark",
+        "yeni_sehir",
+        "paradise"
+      ],
+      "status": "KESİN MEKÂN ÇERÇEVESİ",
+      "shortLabel": "YENİ ŞEHİR · PERSONEL KONUTU"
+    },
+    {
+      "id": "universite_arsiv",
+      "name": "Üniversite Tarih Arşivi",
+      "type": "places",
+      "tagline": "ARŞİV · AKADEMİK ELİTİZM",
+      "summary": "Nil'in geçmişte kayıp kızını aramasına yardım ettiği hocadan erişim aldığı, 1866 kayıtlarını ve Julian'ın iki yüzyıla yayılan fotoğraflarını incelediği fiziksel arşiv.",
+      "image": "",
+      "meta": {
+        "Atmosfer": "Sessizlik, nadir kaynaklara ayrıcalıklı erişim, dark academia",
+        "Bölümler": "03",
+        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+      },
+      "sections": {
+        "genel": "Nil'in geçmişte kayıp kızını aramasına yardım ettiği hocadan erişim aldığı, 1866 kayıtlarını ve Julian'ın iki yüzyıla yayılan fotoğraflarını incelediği fiziksel arşiv.",
+        "gecmis": "Köken/önceki tarih yalnız mevcut kanondaki ölçüde belirlenmiştir.",
+        "iliskiler": "Bağlantılı atlas kayıtları: nil, universite_hocasi, julian, akademik_elitizm.",
+        "yetenekler": "Eski fotoğraflar, kanatlı piramit sembolünün tekrarları; dijital tarihin kirlenmesinin alternatifi.",
+        "notlar": "Üniversitenin adı ve arşiv salonunun tam konumu henüz seçilmedi."
+      },
+      "related": [
+        "nil",
+        "universite_hocasi",
+        "julian",
+        "akademik_elitizm"
+      ],
+      "status": "KESİN MEKÂN ÇERÇEVESİ",
+      "shortLabel": "ARŞİV · AKADEMİK ELİTİZM"
+    },
+    {
+      "id": "gizli_kafe",
+      "name": "Julian'la Gizli Kafe",
+      "type": "places",
+      "tagline": "GÖRÜŞME · ADI AÇIK",
+      "summary": "Julian'ın Clark ve Angels üyeliği hakkında Nil'le konuştuğu tenha kafe.",
+      "image": "",
+      "meta": {
+        "Atmosfer": "Sakin konuşma, saklanan bilgiler ve güvenin dikkatli kuruluşu",
+        "Bölümler": "04",
+        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+      },
+      "sections": {
+        "genel": "Julian'ın Clark ve Angels üyeliği hakkında Nil'le konuştuğu tenha kafe.",
+        "gecmis": "Köken/önceki tarih yalnız mevcut kanondaki ölçüde belirlenmiştir.",
+        "iliskiler": "Bağlantılı atlas kayıtları: nil, julian, angels.",
+        "yetenekler": "Clark'ın tarikat sınavlarını geçtiği, üyeliği reddettiği ve Nil'in ritüellere katılmayı kabul ettiği yer.",
+        "notlar": "Özel kafe adı verilmedi."
+      },
+      "related": [
+        "nil",
+        "julian",
+        "angels"
+      ],
+      "status": "KESİN MEKÂN ÇERÇEVESİ",
+      "shortLabel": "GÖRÜŞME · ADI AÇIK"
+    },
+    {
+      "id": "eski_adliye",
+      "name": "Terk Edilmiş Eski Adliye",
+      "type": "places",
+      "tagline": "ESKİ ŞEHİR · SINAV MEKÂNI",
+      "summary": "Tarikatın ikinci geleneksel kabul sınavı Yedi İsim'in yapıldığı, terk edilmiş mahkeme salonu.",
+      "image": "",
+      "meta": {
+        "Atmosfer": "Soğuk taş, boş yargı koltukları, etik ağırlık",
+        "Bölümler": "05",
+        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+      },
+      "sections": {
+        "genel": "Tarikatın ikinci geleneksel kabul sınavı Yedi İsim'in yapıldığı, terk edilmiş mahkeme salonu.",
+        "gecmis": "Köken/önceki tarih yalnız mevcut kanondaki ölçüde belirlenmiştir.",
+        "iliskiler": "Bağlantılı atlas kayıtları: eski_sehir, angels, nil, julian.",
+        "yetenekler": "Nil'e yedi gerçek ağır suçlunun dosyaları verilir ve birini affetmesi istenir; Nil dosyaya dayanarak hüküm vermeyi reddeder.",
+        "notlar": "Tüm yedi dosya Bölüm 5 sahnesinde kayıtlı."
+      },
+      "related": [
+        "eski_sehir",
+        "angels",
+        "nil",
+        "julian"
+      ],
+      "status": "KESİN MEKÂN ÇERÇEVESİ",
+      "shortLabel": "ESKİ ŞEHİR · SINAV MEKÂNI"
+    },
+    {
+      "id": "angels_kilise",
+      "name": "Angels Tarihî Kilisesi",
+      "type": "places",
+      "tagline": "ESKİ ŞEHİR · TARİKATIN YÜZEY GİRİŞİ",
+      "summary": "Eski kilise binası; botanik seradan gizli geçişle NEXARIEL'in yeraltı yüksek teknoloji merkezine, oradan da eski demir hücreli hapishaneye ulaşılır.",
+      "image": "",
+      "meta": {
+        "Atmosfer": "Dini mimari, antik taş, saklanan ileri teknoloji ve ahlaki otorite",
+        "Bölümler": "05, 10–11",
+        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+      },
+      "sections": {
+        "genel": "Eski kilise binası; botanik seradan gizli geçişle NEXARIEL'in yeraltı yüksek teknoloji merkezine, oradan da eski demir hücreli hapishaneye ulaşılır.",
+        "gecmis": "Köken/önceki tarih yalnız mevcut kanondaki ölçüde belirlenmiştir.",
+        "iliskiler": "Bağlantılı atlas kayıtları: eski_sehir, angels, nexariel, sera, angels_yeralti, angels_zindan.",
+        "yetenekler": "Önce üç sınavın son durağı ve NEXARIEL'e geçiş; sonra Nil/Julian'ın tutsak edildiği merkezin yüzey kapısı. Blake dışarıda iz sürer.",
+        "notlar": "Eski arşivde Aziz Kiril Kilisesi geçer; bu adın güncel sahnede kesin kullanımı henüz teyit edilmedi."
+      },
+      "related": [
+        "eski_sehir",
+        "angels",
+        "nexariel",
+        "sera",
+        "angels_yeralti",
+        "angels_zindan"
+      ],
+      "status": "KESİN MEKÂN ÇERÇEVESİ",
+      "shortLabel": "ESKİ ŞEHİR · TARİKATIN YÜZEY GİRİŞİ"
+    },
+    {
+      "id": "sera",
+      "name": "Kilise Botanik Serası",
+      "type": "places",
+      "tagline": "KİLİSE EKİ · GÜNAH ÇIKARMA",
+      "summary": "Tarihî kiliseye bağlı botanik sera. Nil ve Julian'ın tek başlarına bulunduğu üçüncü geleneksel sınav mekânı.",
+      "image": "",
+      "meta": {
+        "Atmosfer": "Bitki ve tarihî dini doku, içten itiraf ve mahremiyet",
+        "Bölümler": "05",
+        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+      },
+      "sections": {
+        "genel": "Tarihî kiliseye bağlı botanik sera. Nil ve Julian'ın tek başlarına bulunduğu üçüncü geleneksel sınav mekânı.",
+        "gecmis": "Köken/önceki tarih yalnız mevcut kanondaki ölçüde belirlenmiştir.",
+        "iliskiler": "Bağlantılı atlas kayıtları: angels_kilise, nil, julian, angels.",
+        "yetenekler": "Nil Vesna cinayetinde dijital delilleri sildiğini ve Blake'e yalan söylediğini itiraf eder; sonra yeraltı geçişi gelir.",
+        "notlar": "Sınav sırasında uyuyakalma önerisi kesinleşmedi."
+      },
+      "related": [
+        "angels_kilise",
+        "nil",
+        "julian",
+        "angels"
+      ],
+      "status": "KESİN MEKÂN ÇERÇEVESİ",
+      "shortLabel": "KİLİSE EKİ · GÜNAH ÇIKARMA"
+    },
+    {
+      "id": "angels_yeralti",
+      "name": "NEXARIEL Yeraltı Merkezi",
+      "type": "places",
+      "tagline": "MELEK MERKEZİ · YÜKSEK TEKNOLOJİ",
+      "summary": "Eski kilisenin çok altında yer alan, ekranlar ve kablolarla iç içe dev merkez. NEXARIEL gönüllü olarak kendini veri ve kontrol ağına bağlamıştır.",
+      "image": "",
+      "meta": {
+        "Atmosfer": "İlahi heybet + kablo/ekran ağı; Cen.net'in göğe yükselen binasına ironik karşıtlık",
+        "Bölümler": "05, 10–11",
+        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+      },
+      "sections": {
+        "genel": "Eski kilisenin çok altında yer alan, ekranlar ve kablolarla iç içe dev merkez. NEXARIEL gönüllü olarak kendini veri ve kontrol ağına bağlamıştır.",
+        "gecmis": "Köken/önceki tarih yalnız mevcut kanondaki ölçüde belirlenmiştir.",
+        "iliskiler": "Bağlantılı atlas kayıtları: angels_kilise, nexariel, angels, angels_zindan, julian.",
+        "yetenekler": "Nil burada meleklerle ilk gerçek karşılaşmasını yaşar; sonra NEXARIEL'in günah kararıyla hapsedilir; Blake insan görevliler üzerinden merkeze sızar.",
+        "notlar": "NEXARIEL gözetimi sınırsız değildir; Blake'i son ana kadar fark etmez."
+      },
+      "related": [
+        "angels_kilise",
+        "nexariel",
+        "angels",
+        "angels_zindan",
+        "julian"
+      ],
+      "status": "KESİN MEKÂN ÇERÇEVESİ",
+      "shortLabel": "MELEK MERKEZİ · YÜKSEK TEKNOLOJİ"
+    },
+    {
+      "id": "angels_zindan",
+      "name": "Angels Taş Zindanı",
+      "type": "places",
+      "tagline": "YERALTI · DEMİR PARMAKLIKLAR",
+      "summary": "İleri teknoloji merkezinin içinde/yanında bulunan, ayrı fakat sesin ulaşabildiği eski taş duvarlı, klasik demir parmaklıklı hücreler.",
+      "image": "",
+      "meta": {
+        "Atmosfer": "Arkaik sertlik, yalnızlık ve yakın hücreler arasında konuşma",
+        "Bölümler": "11",
+        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+      },
+      "sections": {
+        "genel": "İleri teknoloji merkezinin içinde/yanında bulunan, ayrı fakat sesin ulaşabildiği eski taş duvarlı, klasik demir parmaklıklı hücreler.",
+        "gecmis": "Köken/önceki tarih yalnız mevcut kanondaki ölçüde belirlenmiştir.",
+        "iliskiler": "Bağlantılı atlas kayıtları: angels_yeralti, nil, julian, blake.",
+        "yetenekler": "Nil ve Julian ayrı hücrelerde konuşur; Julian annesinin durumunu düşünür. Blake kendi kilit açma becerileriyle serbest bırakır.",
+        "notlar": "Elektronik kilitler ve yüksek teknoloji hapishane mekanizması değil; mekanik klasik kilitler."
+      },
+      "related": [
+        "angels_yeralti",
+        "nil",
+        "julian",
+        "blake"
+      ],
+      "status": "KESİN MEKÂN ÇERÇEVESİ",
+      "shortLabel": "YERALTI · DEMİR PARMAKLIKLAR"
+    },
+    {
+      "id": "villa",
+      "name": "Gizli Angels Villası",
+      "type": "places",
+      "tagline": "YENİ ŞEHİR ÇEPERİ · HAVUZLU KONUT",
+      "summary": "Julian'ın bulduğu, Cen.net'ten önce farklı Angels üyeleri adına satın alınmış lüks yazlık konut. Üçlünün Aralık boyunca sızma planını yaptığı sığınak.",
+      "image": "",
+      "meta": {
+        "Atmosfer": "Kentli, varlıklı, izole, havuzlu ve dışarıdan huzurlu; kırsal kulübe DEĞİL",
+        "Bölümler": "06–08",
+        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+      },
+      "sections": {
+        "genel": "Julian'ın bulduğu, Cen.net'ten önce farklı Angels üyeleri adına satın alınmış lüks yazlık konut. Üçlünün Aralık boyunca sızma planını yaptığı sığınak.",
+        "gecmis": "Köken/önceki tarih yalnız mevcut kanondaki ölçüde belirlenmiştir.",
+        "iliskiler": "Bağlantılı atlas kayıtları: yeni_sehir, julian, nil, blake, angels.",
+        "yetenekler": "İçeride Blake'in Cen.net güvenlik planları, Julian'ın annesine dair itirafı, sanat davetiyesi ve analog com-link hazırlığı birikir.",
+        "notlar": "Tam adres ve iç oda dağılımı açık."
+      },
+      "related": [
+        "yeni_sehir",
+        "julian",
+        "nil",
+        "blake",
+        "angels"
+      ],
+      "status": "KESİN MEKÂN ÇERÇEVESİ",
+      "shortLabel": "YENİ ŞEHİR ÇEPERİ · HAVUZLU KONUT"
+    },
+    {
+      "id": "paradise_99",
+      "name": "Cennet Ağacı · 99. Kat Koleksiyon",
+      "type": "places",
+      "tagline": "YILBAŞI BALOSU · CEO'NUN SANAT KOLEKSİYONU",
+      "summary": "Aurelian'ın nadir sanat eserleriyle dolu özel koleksiyon katı; 31 Aralık'ta maskeli ve gösterişli Cen.net davetine açılır.",
+      "image": "",
+      "meta": {
+        "Atmosfer": "Eski aristokratik zevk, lüks, maskeler, ihtişam ve gizli tehdit",
+        "Bölümler": "07–09",
+        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+      },
+      "sections": {
+        "genel": "Aurelian'ın nadir sanat eserleriyle dolu özel koleksiyon katı; 31 Aralık'ta maskeli ve gösterişli Cen.net davetine açılır.",
+        "gecmis": "Köken/önceki tarih yalnız mevcut kanondaki ölçüde belirlenmiştir.",
+        "iliskiler": "Bağlantılı atlas kayıtları: paradise, 77, nil, julian, blake, ozel_guvenlik_sefi.",
+        "yetenekler": "Julian şefi sarhoş etmeyi dener; Nil maskeli Aurelian'la sanat konuşur, Blake kılık değiştirir. Gizli anahtarlı asansörün anahtarı şeften alınır.",
+        "notlar": "Sanat eserlerinin gerçek adları ve koleksiyonun envanteri açık."
+      },
+      "related": [
+        "paradise",
+        "77",
+        "nil",
+        "julian",
+        "blake",
+        "ozel_guvenlik_sefi"
+      ],
+      "status": "KESİN MEKÂN ÇERÇEVESİ",
+      "shortLabel": "YILBAŞI BALOSU · CEO'NUN SANAT KOLEKSİYONU"
+    },
+    {
+      "id": "paradise_100",
+      "name": "Cennet Ağacı · 100. Kat Ofis",
+      "type": "places",
+      "tagline": "CEO'NUN OFİSİ · ŞEYTANLA YÜZLEŞME",
+      "summary": "Gökdelenin en üstündeki geniş, neredeyse boş oda: az eşya, bir antika masa, masadaki bilgisayar ve Skopse'ye bakan dev panoramik camlar.",
+      "image": "",
+      "meta": {
+        "Atmosfer": "99. katın lüksünün aksine soğuk minimalizm; sakin tehdit ve açık yükseklik",
+        "Bölümler": "07, 09",
+        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+      },
+      "sections": {
+        "genel": "Gökdelenin en üstündeki geniş, neredeyse boş oda: az eşya, bir antika masa, masadaki bilgisayar ve Skopse'ye bakan dev panoramik camlar.",
+        "gecmis": "Köken/önceki tarih yalnız mevcut kanondaki ölçüde belirlenmiştir.",
+        "iliskiler": "Bağlantılı atlas kayıtları: paradise, paradise_99, 77, clark, nil, julian, blake.",
+        "yetenekler": "Nil masa bilgisayarından Clark'ın Aurelian'la görüşmesini doğrular; CEO sakin biçimde gelir; güç çatışması camları kırar, Nil kanatlanarak iki arkadaşını alıp dışarı uçar.",
+        "notlar": "100. kat ziyarete açık balo alanı değildir; mekanik anahtarlı özel asansör gerekir."
+      },
+      "related": [
+        "paradise",
+        "paradise_99",
+        "77",
+        "clark",
+        "nil",
+        "julian",
+        "blake"
+      ],
+      "status": "KESİN MEKÂN ÇERÇEVESİ",
+      "shortLabel": "CEO'NUN OFİSİ · ŞEYTANLA YÜZLEŞME"
+    },
+    {
+      "id": "daniil_muayene",
+      "name": "Doktor Daniil'in Muayenehanesi",
+      "type": "places",
+      "tagline": "TIBBİ İNCELEME · AMELİYAT",
+      "summary": "Nil'in gizli Hamlet çipinin tespit edildiği, sinir sistemine bütünleşme riskinin belirlendiği ve çıkarma işleminin son anda durdurulduğu tıbbi ortam.",
+      "image": "",
+      "meta": {
+        "Atmosfer": "Klinik somutluk, mahremiyet, geri döndürülemez kararın ağırlığı",
+        "Bölümler": "12",
+        "Görsel": "Henüz seçilmedi; var olan görsellere dokunulmadı"
+      },
+      "sections": {
+        "genel": "Nil'in gizli Hamlet çipinin tespit edildiği, sinir sistemine bütünleşme riskinin belirlendiği ve çıkarma işleminin son anda durdurulduğu tıbbi ortam.",
+        "gecmis": "Köken/önceki tarih yalnız mevcut kanondaki ölçüde belirlenmiştir.",
+        "iliskiler": "Bağlantılı atlas kayıtları: daniil, nil, hamlet, julian, blake.",
+        "yetenekler": "Daniil çipi saptar ve hayati riskin altını çizer; Hamlet 'Dur! Ölmek istemiyorum!' diye seslenir, Nil ameliyatı durdurur.",
+        "notlar": "Eski taslaklarda 'merdiven altı muayenehanesi' geçti; güncel sahnelerde kesin bina adı/konumu sabitlenmedi."
+      },
+      "related": [
+        "daniil",
+        "nil",
+        "hamlet",
+        "julian",
+        "blake"
+      ],
+      "status": "KESİN MEKÂN ÇERÇEVESİ",
+      "shortLabel": "TIBBİ İNCELEME · AMELİYAT"
     }
   ],
   "featureGallery": [
