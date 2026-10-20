@@ -1,8 +1,8 @@
-/* SKOPSE Atlas 3.5 — GitHub Pages, root-level world.json, no external dependencies. */
+/* SKOPSE Atlas 4.0 — GitHub Pages, root-level world.json, no external dependencies. */
 (()=>{'use strict';
 let world, byId=new Map(), page='anasayfa', selected='nil', tab='genel', slide=0;
 const $=id=>document.getElementById(id);
-const names={sehir:'Şehir',karakterler:'Karakterler',sirketler:'Şirketler',zaman:'Zaman Çizelgesi',sozluk:'Sözlük',bolumler:'Bölüm Özetleri'};
+const names={sehir:'Şehir',karakterler:'Karakterler',sirketler:'Şirketler',zaman:'Zaman Çizelgesi',sozluk:'Sözlük',bolumler:'Bölümler ve Sahneler'};
 const esc=x=>String(x??'').replace(/[&<>"']/g,s=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[s]));
 const norm=s=>String(s??'').toLocaleLowerCase('tr').normalize('NFD').replace(/[\u0300-\u036f]/g,'');
 const imagePath=e=>(e?.image||world.images?.[e?.id]||'').replace(/^assets\//,'');
@@ -37,7 +37,7 @@ function home(){
       ${tile('sirketler','03','Şirketler','Cen.net ve diğer ekonomik güçler.')}
       ${tile('zaman','04','Zaman Çizelgesi','Olayların bilinen sıralaması.')}
       ${tile('sozluk','05','Sözlük','Dinar, holofon, tenayar ve kavramlar.')}
-      ${tile('bolumler','06','Bölüm Özetleri','Açılış, taslak bölümler ve final planı.')}
+      ${tile('bolumler','06','Bölümler & Sahneler','12 bölümün sahne sahne karakter, mekân, atmosfer ve olay kararları.')}
     </nav>`;
 }
 let slideLoading=false;
@@ -77,13 +77,39 @@ function cityContent(e){
   const cityTabs=[['genel','Genel Bilgi'],['gecmis','Geçmiş'],['iliskiler','Bağlantılar'],['yetenekler','Özellikler'],['notlar','Ek Notlar']].filter(([k])=>e.sections?.[k]);
   const active=cityTabs.some(([k])=>k===tab)?tab:'genel';
   const section=e.sections?.[active]||e.summary;
-  return `<div class="place-layout"><div class="media-panel">${image(e,'','eager')}<span class="media-tag">MEKAN DOSYASI · ${esc(e.name).toLocaleUpperCase('tr')}</span></div><div class="details-panel"><div class="eyebrow">${esc(e.tagline)}</div><h2>${esc(e.name)}</h2><p class="summary">${esc(e.summary)}</p><dl class="detail-meta">${meta(e)}</dl><div role="tablist" class="detail-tabs" aria-label="Mekan bilgileri">${cityTabs.map(([k,v])=>`<button type="button" role="tab" aria-selected="${active===k}" data-tab="${k}" class="${active===k?'active':''}">${v.toLocaleUpperCase('tr')}</button>`).join('')}</div><div class="detail-body" role="tabpanel"><p>${esc(section)}</p></div>${related(e)}</div></div>`;
+  return `<div class="place-layout"><div class="media-panel">${image(e,'','eager')}${!imagePath(e)?'<span class="portrait-pending">MEKÂN GÖRSELİ HENÜZ SEÇİLMEDİ</span>':''}<span class="media-tag">MEKAN DOSYASI · ${esc(e.name).toLocaleUpperCase('tr')}</span></div><div class="details-panel"><div class="eyebrow">${esc(e.tagline)}</div><h2>${esc(e.name)}</h2><p class="summary">${esc(e.summary)}</p><dl class="detail-meta">${meta(e)}</dl><div role="tablist" class="detail-tabs" aria-label="Mekan bilgileri">${cityTabs.map(([k,v])=>`<button type="button" role="tab" aria-selected="${active===k}" data-tab="${k}" class="${active===k?'active':''}">${v.toLocaleUpperCase('tr')}</button>`).join('')}</div><div class="detail-body" role="tabpanel"><p>${esc(section)}</p></div>${related(e)}</div></div>`;
 }
 function explorer(type){const ents=world.entities.filter(e=>e.type===type), isCh=type==='characters', e=byId.get(selected)?.type===type?byId.get(selected):ents[0];if(e)selected=e.id;return `<div class="atlas-page">${sectionHead(isCh?'Karakterler':'Şehir',isCh?'Skopse hikayesinin karakter dosyaları.':'Skopse’nin semtleri, kurumları ve yaşayan mekanları.',ents.length)}<div class="explorer">${rail(ents,isCh?'KARAKTERLER':'ŞEHİR / MEKANLAR')}<div class="record-feature">${isCh?characterContent(e):cityContent(e)}</div></div></div>`}
 function companies(){const c=world.entities.filter(e=>e.type==='companies');return `<div class="atlas-page">${sectionHead('Şirketler','Abonelik, üretim, kredi ve altyapı üzerinden kurulan ekonomik ilişkiler.',c.length)}<div class="company-layout">${c.map(e=>`<article id="atlas-company-${esc(e.id)}" class="company-card" ${e.id==='cennet'?'data-primary="true"':''}><span class="company-seal" aria-hidden="true">${esc(e.id==='payda'?'🐼':e.name[0])}</span><div><div class="eyebrow">${esc(e.tagline)}</div><h3>${esc(e.name)}</h3><p>${esc(e.summary)}</p><p class="tiny">${esc(e.status||'Dünya notu')}</p></div></article>`).join('')}</div></div>`}
 function timeline(){return `<div class="atlas-page">${sectionHead('Zaman Çizelgesi','Kronoloji kesinleşen kararlar ve henüz planlanan aşamalarla birlikte tutulur.',world.timeline.length)}<div class="timeline">${world.timeline.map((e,i)=>`<article class="timeline-row" id="atlas-timeline-${i}"><div class="timeline-date">${esc(e.when)}</div><div><h3>${esc(e.title)}</h3><p>${esc(e.body)}</p></div></article>`).join('')}</div></div>`}
 function glossary(){const records=[...(world.glossary||[])];return `<div class="atlas-page">${sectionHead('Sözlük','SKOPSE’de kullanılan teknoloji, ekonomi ve sokak dili terimleri.',records.length)}<div class="glossary">${records.map(v=>`<article class="gloss-entry" id="atlas-term-${esc(v.term)}"><h3>${esc(v.term)}</h3><p>${esc(v.meaning)}</p></article>`).join('')}</div></div>`}
-function chapters(){const records=world.chapters||[];return `<div class="atlas-page">${sectionHead('Bölüm Özetleri','Bölüm başlıkları ve olay planları çalışma notudur; tamamlanmış metin yerine geçmez.',records.length)}<div class="chapters">${records.map(c=>`<article class="chapter" id="atlas-chapter-${esc(c.number)}"><div class="chapter-top"><span class="chapter-no">${esc(c.number)}</span><div><span class="status">${esc(c.status)}</span><h3>${esc(c.title)}</h3></div></div><p>${esc(c.summary)}</p>${c.points?.length?`<ul>${c.points.map(p=>`<li>${esc(p)}</li>`).join('')}</ul>`:''}</article>`).join('')}</div></div>`}
+function chapters(){
+  const records=world.chapters||[];
+  const list=a=>`<ul class="scene-events">${(a||[]).map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`;
+  const field=(label,body)=>`<section class="scene-field"><h5>${esc(label)}</h5>${body}</section>`;
+  const sceneCard=s=>`<details class="scene" id="atlas-scene-${esc(s.id).replace(/\./g,'-')}">
+    <summary class="scene-summary"><span class="scene-id">${esc(s.id)}</span><span class="scene-title">${esc(s.title)}</span><span class="scene-toggle" aria-hidden="true">＋</span></summary>
+    <div class="scene-body">
+      ${field('KARAKTERLER',`<p>${esc((s.characters||[]).join(' · '))}</p>`)}
+      ${field('MEKÂN',`<p>${esc(s.location||'Henüz netleştirilmedi')}</p>`)}
+      ${field('ATMOSFER',`<p>${esc(s.atmosphere||'Henüz netleştirilmedi')}</p>`)}
+      ${field('OLAYLAR',list(s.events))}
+      ${s.dialogue?.length?field('KONUŞMALAR / REPLİK NOTLARI',list(s.dialogue)):''}
+      ${s.notes?.length?field('EK KARARLAR',list(s.notes)):''}
+      ${s.open?.length?field('AÇIK KALAN AYRINTILAR',list(s.open)):''}
+      ${s.authorSecret?`<details class="scene-secret"><summary>YAZAR SIRRI · OKURA ERKEN AÇIKLAMA</summary><p>${esc(s.authorSecret)}</p></details>`:''}
+    </div>
+  </details>`;
+  const total=records.reduce((n,c)=>n+(c.scenes||[]).length,0);
+  return `<div class="atlas-page scene-atlas">${sectionHead('Bölümler & Sahneler',`${records.length} bölüm · ${total} ayrı sahne. Karakterler, mekân, atmosfer ve olay kararları; açıklanmayan ayrıntılar ayrıca işaretli.`,records.length)}
+   <p class="scene-legend">Bir sahnenin başlığına tıklayarak ayrıntılarını açın. 'AÇIK' maddeler henüz kesinleşmemiştir. Yazar sırları iç içe kapalı tutulur.</p>
+   <div class="chapters">${records.map(c=>`<article class="chapter" id="atlas-chapter-${esc(c.number)}">
+     <div class="chapter-top"><span class="chapter-no">${esc(c.number)}</span><div><span class="status">${esc(c.status)}</span><h3>${esc(c.title)}</h3></div><span class="chapter-scene-count">${(c.scenes||[]).length} SAHNE</span></div>
+     <p class="chapter-synopsis">${esc(c.summary)}</p>
+     <div class="scene-stack">${(c.scenes||[]).map(sceneCard).join('')}</div>
+     ${c.points?.length?`<details class="chapter-points"><summary>Bu bölümün genel kanon kararları (${c.points.length})</summary>${list(c.points)}</details>`:''}
+   </article>`).join('')}</div></div>`;
+}
 function render(){document.title=`${page==='anasayfa'?'Dünya Atlası':names[page]} — SKOPSE`;$('content').innerHTML=page==='anasayfa'?home():page==='sehir'?explorer('places'):page==='karakterler'?explorer('characters'):page==='sirketler'?companies():page==='zaman'?timeline():page==='sozluk'?glossary():chapters();document.querySelectorAll('.primary-nav button').forEach(b=>{const active=b.dataset.page===page;b.classList.toggle('active',active);if(active)b.setAttribute('aria-current','page');else b.removeAttribute('aria-current')})}
 function openSearch(){
   const panel=$('headerSearch');if(!panel)return;
@@ -108,7 +134,8 @@ function search(){
     })),
     ...(world.glossary||[]).map(e=>({pg:'sozluk',target:'atlas-term-'+e.term,name:e.term,group:'Sözlük',description:e.meaning,content:e.term+' '+e.meaning})),
     ...(world.timeline||[]).map((e,i)=>({pg:'zaman',target:'atlas-timeline-'+i,name:e.title,group:'Zaman Çizelgesi',description:e.when+' · '+e.body,content:e.when+' '+e.title+' '+e.body})),
-    ...(world.chapters||[]).map(e=>({pg:'bolumler',target:'atlas-chapter-'+e.number,name:e.number+' — '+e.title,group:'Bölüm Özetleri',description:e.summary,content:e.number+' '+e.title+' '+e.summary+' '+(e.points||[]).join(' ')}))
+    ...(world.chapters||[]).flatMap(c=>(c.scenes||[]).map(s=>({pg:'bolumler',target:'atlas-scene-'+s.id.replace(/\./g,'-'),name:c.number+'.'+s.id.split('.')[1]+' — '+s.title,group:'Sahneler',description:s.location+' · '+s.atmosphere,content:[s.id,s.title,s.location,s.atmosphere,...(s.characters||[]),...(s.events||[]),...(s.dialogue||[]),...(s.notes||[]),...(s.open||[])].join(' ')}))),
+    ...(world.chapters||[]).map(e=>({pg:'bolumler',target:'atlas-chapter-'+e.number,name:e.number+' — '+e.title,group:'Bölüm Özetleri',description:e.summary,content:e.number+' '+e.title+' '+e.summary+' '+(e.points||[]).join(' ')+' '+(e.scenes||[]).map(s=>[s.title,s.location,s.atmosphere,...(s.characters||[]),...(s.events||[]),...(s.dialogue||[]),...(s.notes||[]),...(s.open||[])].join(' ')).join(' ')}))
   ];
   const tokens=term.split(/\s+/).filter(Boolean);
   const results=entries.map(e=>({...e,normalizedName:norm(e.name),normalizedContent:norm(e.content)}))
@@ -131,7 +158,7 @@ function bindings(){
       nav(p.dataset.page,p.dataset.id);
       closeSearch();
       if(scrollTarget)requestAnimationFrame(()=>{
-        const el=document.getElementById(scrollTarget);if(el){el.scrollIntoView({behavior:'smooth',block:'center'});el.classList.add('search-hit');setTimeout(()=>el.classList.remove('search-hit'),1900);}
+        const el=document.getElementById(scrollTarget);if(el){if(el.tagName==='DETAILS')el.open=true;el.scrollIntoView({behavior:'smooth',block:'center'});el.classList.add('search-hit');setTimeout(()=>el.classList.remove('search-hit'),1900);}
       });
       return;
     }
