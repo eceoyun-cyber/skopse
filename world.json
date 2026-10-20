@@ -1,5 +1,5 @@
 {
-  "version": "4.3",
+  "version": "4.4",
   "title": "SKOPSE",
   "strapline": "Mutant Bir Şehir",
   "intro": "Skopse, Onj Nehri’nin iki kıyısında büyüyen, teknolojinin ve eşitsizliğin aynı sokaklara sığdığı bir kenttir. Yeni Şehir taşkınlardan korunurken Eski Şehir her ekimde yeniden su altında kalır.",
@@ -122,8 +122,7 @@
         "Hedef": "Seçkin yeni insan aristokrasisi",
         "Ad": "Bella (soyadı açıklanmıyor)",
         "Geçmiş": "Yazar sırrı · romanda açıklanmayacak",
-        "Görünüm (karar)": "Siyah saçlı, aristokratik duruşlu, 30'larında görünen kadın",
-        "Portre": "Seçilen orijinal görsel, BELLA_KESIN.webp"
+        "Görünüm": "Siyah saçlı, aristokratik duruşlu, 30'larında görünen kadın"
       },
       "sections": {
         "genel": "Bella, insanların meleklerle ve şeytanlarla yarışacak, hatta onları aşacak bir potansiyele sahip olduğuna inanır. Ancak bu güçleri tüm insanlara dağıtmayı reddeder; yeni bir üstün insan aristokrasisi için seçici, hiyerarşik bir sistem tasarlar. İnsanların özgürleşmesini savunurken kimin bu gücü hak ettiğine kendisinin karar vermesini doğal görür.",
@@ -188,7 +187,7 @@
         "Nil ile tanışma": "Nil 12 · Blake 14",
         "Bölge": "Batak / Sifon",
         "Geçmiş": "Vesna vakası",
-        "Portre": "Koyu kapüşon, yüz maskesi, siyah dağınık saç ve açık mavi gözler."
+        "Görünüm": "Koyu kapüşon, yüz maskesi, siyah dağınık saç ve açık mavi gözler."
       },
       "sections": {
         "genel": "Blake 26 yaşında, Sifon/Batak çevresinde örgütlü ve sahayı tanıyan, stratejik bir yeraltı figürüdür. Sadece öfkeli veya kaba kuvvete başvuran biri değildir; Cen.net'in güvenlik ve vardiya sistemlerini ayrıntılı bilir.",
@@ -308,8 +307,7 @@
       "image": "",
       "meta": {
         "Meslek": "Doktor",
-        "Kilidi açan karar": "Nil ameliyatı son anda durdurur",
-        "Konum": "İlişkiler netleşecek"
+        "Kilidi açan karar": "Nil ameliyatı son anda durdurur"
       },
       "sections": {
         "genel": "Nil, Julian ve Blake ortak kararla Daniil'e gelir. Daniil Nil'in sırtındaki olağanüstü çipi hemen saptar, ayrıntılı incelemede sinir sistemiyle bütünleştiğini görür.",
@@ -337,7 +335,6 @@
       "meta": {
         "Görev": "Cen.net CEO'su",
         "Kod adı": "77",
-        "Gerçek adı": "Henüz bilinmiyor",
         "Gerçek adı (çalışma)": "Aurelian A. · soyadı açık",
         "Şeytani adı (çalışma)": "BELMAVETH",
         "Tür": "Güçlü şeytan",
@@ -1070,8 +1067,7 @@
         "Taşıyıcı": "Clark Clayton",
         "Sürüm": "1. prototip",
         "Genetik uyarlama": "Clark'a özgü",
-        "Tezahür": "Şeytani özellikler",
-        "Görünüm": "Seçilmiş görsel yok"
+        "Tezahür": "Şeytani özellikler"
       },
       "sections": {
         "genel": "Ophelia, Hamlet'in ilk prototip kardeşidir; iki ismi Clark, Shakespeare'in Hamlet oyunundan almıştır. Varlığın ortaya çıkması araştırmanın beklenmedik yan etkisidir.",
@@ -1097,8 +1093,7 @@
       "image": "KEMAL_KESIN.webp",
       "meta": {
         "Çevre": "Sifon / Batak",
-        "Yaş": "Genç; kesin sayı açık",
-        "Portre": "Seçilmiş portre · KEMAL_KESIN.webp"
+        "Yaş": "Genç; kesin sayı açık"
       },
       "sections": {
         "genel": "Kemal, Sifon/Batak topluluğuyla ilişkili genç bir sokak çocuğu; Blake'le tanışır ve arkadaştır.",
@@ -1123,9 +1118,7 @@
       "summary": "Aurelian'ın yanında görülen özel güvenlik şefi ve 99. kattaki mekanik anahtarın fiilî taşıyıcısı. Çok içse de sarhoş olmaz; Julian'ın kutsal alevli yıldırımıyla öldürülür.",
       "image": "CENNET_OZEL_GUVENLIK_SEFI_KESIN.webp",
       "meta": {
-        "Tür": "Şeytan",
-        "Kişisel adı": "AÇIK",
-        "Görünüm": "Seçilmiş portre · CENNET_OZEL_GUVENLIK_SEFI_KESIN.webp"
+        "Tür": "Şeytan"
       },
       "sections": {
         "genel": "Gala sırasında Aurelian'ın yanı başında görülen yüksek düzey özel güvenlik yöneticisi. Kimliğinin şeytan olduğu çatışmada anlaşılır.",
@@ -1151,9 +1144,7 @@
       "summary": "Nil'in 31 Aralık Cen.net balosuna girmek için kimliğini taklit ettiği, sanat koleksiyonu/hamilik çevresinde tanınan varlıklı kadın.",
       "image": "SANAT_HAMISI_KESIN.webp",
       "meta": {
-        "Kişisel adı": "AÇIK",
-        "Rol": "Taklit edilen balo davetlisi",
-        "Görünüm": "Seçilmiş portre · SANAT_HAMISI_KESIN.webp"
+        "Rol": "Taklit edilen balo davetlisi"
       },
       "sections": {
         "genel": "Uluslararası tanınmış kadın sanat hamisi, koleksiyon sponsoru; Cen.net'in 31 Aralık özel balosuna davetlidir.",
@@ -1176,10 +1167,7 @@
       "tagline": "DAVETİYE ARACISI · ADI AÇIK",
       "summary": "Nil'in çevrim içi büyük rüşvetle ikna ederek orijinal fiziksel maskeli balo davetiyesini belirlenen yere bıraktırdığı görevli.",
       "image": "SANAT_HAMISI_HIZMETCISI_KESIN.webp",
-      "meta": {
-        "Kişisel adı": "AÇIK",
-        "Görünüm": "Seçilmiş portre · SANAT_HAMISI_HIZMETCISI_KESIN.webp"
-      },
+      "meta": {},
       "sections": {
         "genel": "Sanat hamisinin evindeki hizmetçi; Nil'le yüz yüze görüşmeden anlaşır ve fiziksel davetiyeyi bırakır.",
         "gecmis": "Geçmişi ve kişisel adı kararlaştırılmadı.",
@@ -1201,10 +1189,7 @@
       "tagline": "ARŞİV BAĞLANTISI · ADI AÇIK",
       "summary": "Nil'in geçmişte kayıp kızını aramasına yardım ettiği ve karşılığında tarihî arşive erişim sağladığı öğretim üyesi.",
       "image": "UNIVERSITE_HOCASI_KESIN.webp",
-      "meta": {
-        "Ad": "AÇIK",
-        "Görünüm": "Seçilmiş portre · UNIVERSITE_HOCASI_KESIN.webp"
-      },
+      "meta": {},
       "sections": {
         "genel": "Üniversite hocası; Nil'in araştırmasına minnet duyarak kurumsal arşiv erişimi verir.",
         "gecmis": "Nil daha önce hocanın kayıp kızının bulunmasına yardım etmiştir; olayın tam seyri açıklanmadı.",
@@ -1228,8 +1213,7 @@
       "image": "MEKAN_NIL_CLARK_EVI_KESIN.webp",
       "meta": {
         "Atmosfer": "Sıcak yaşanmışlık ve ansızın boşalmış ev; gizli şirket tehdidi",
-        "Bölümler": "02, 07",
-        "Görsel": "Seçilmiş görsel · MEKAN_NIL_CLARK_EVI_KESIN.webp"
+        "Bölümler": "02, 07"
       },
       "sections": {
         "genel": "Nil ile Clark'ın yaşadığı, Paradise/Cen.net yerleşkesine yakın korumalı personel konutu. Clark'ın fiziksel kitapları, CD'leri ve az sayıdaki basılı fotoğrafı burada.",
@@ -1256,8 +1240,7 @@
       "image": "MEKAN_UNIVERSITE_TARIH_ARSIVI_KESIN.webp",
       "meta": {
         "Atmosfer": "Sessizlik, nadir kaynaklara ayrıcalıklı erişim, dark academia",
-        "Bölümler": "03",
-        "Görsel": "Seçilmiş görsel · MEKAN_UNIVERSITE_TARIH_ARSIVI_KESIN.webp"
+        "Bölümler": "03"
       },
       "sections": {
         "genel": "Nil'in geçmişte kayıp kızını aramasına yardım ettiği hocadan erişim aldığı, 1866 kayıtlarını ve Julian'ın iki yüzyıla yayılan fotoğraflarını incelediği fiziksel arşiv.",
@@ -1284,8 +1267,7 @@
       "image": "MEKAN_JULIAN_GIZLI_KAFE_KESIN.webp",
       "meta": {
         "Atmosfer": "Sakin konuşma, saklanan bilgiler ve güvenin dikkatli kuruluşu",
-        "Bölümler": "04",
-        "Görsel": "Seçilmiş görsel · MEKAN_JULIAN_GIZLI_KAFE_KESIN.webp"
+        "Bölümler": "04"
       },
       "sections": {
         "genel": "Julian'ın Clark ve Angels üyeliği hakkında Nil'le konuştuğu tenha kafe.",
@@ -1311,8 +1293,7 @@
       "image": "MEKAN_TERK_EDILMIS_ADLIYE_KESIN.webp",
       "meta": {
         "Atmosfer": "Soğuk taş, boş yargı koltukları, etik ağırlık",
-        "Bölümler": "05",
-        "Görsel": "Seçilmiş görsel · MEKAN_TERK_EDILMIS_ADLIYE_KESIN.webp"
+        "Bölümler": "05"
       },
       "sections": {
         "genel": "Tarikatın ikinci geleneksel kabul sınavı Yedi İsim'in yapıldığı, terk edilmiş mahkeme salonu.",
@@ -1339,8 +1320,7 @@
       "image": "MEKAN_ANGELS_TARIHI_KILISE_KESIN.webp",
       "meta": {
         "Atmosfer": "Dini mimari, antik taş, saklanan ileri teknoloji ve ahlaki otorite",
-        "Bölümler": "05, 10–11",
-        "Görsel": "Seçilmiş görsel · MEKAN_ANGELS_TARIHI_KILISE_KESIN.webp"
+        "Bölümler": "05, 10–11"
       },
       "sections": {
         "genel": "Eski kilise binası; botanik seradan gizli geçişle NEXARIEL'in yeraltı yüksek teknoloji merkezine, oradan da eski demir hücreli hapishaneye ulaşılır.",
@@ -1369,8 +1349,7 @@
       "image": "MEKAN_KILISE_BOTANIK_SERA_KESIN.webp",
       "meta": {
         "Atmosfer": "Bitki ve tarihî dini doku, içten itiraf ve mahremiyet",
-        "Bölümler": "05",
-        "Görsel": "Seçilmiş görsel · MEKAN_KILISE_BOTANIK_SERA_KESIN.webp"
+        "Bölümler": "05"
       },
       "sections": {
         "genel": "Tarihî kiliseye bağlı botanik sera. Nil ve Julian'ın tek başlarına bulunduğu üçüncü geleneksel sınav mekânı.",
@@ -1397,8 +1376,7 @@
       "image": "MEKAN_NEXARIEL_YERALTI_MERKEZI_KESIN.webp",
       "meta": {
         "Atmosfer": "İlahi heybet + kablo/ekran ağı; Cen.net'in göğe yükselen binasına ironik karşıtlık",
-        "Bölümler": "05, 10–11",
-        "Görsel": "Seçilmiş görsel · MEKAN_NEXARIEL_YERALTI_MERKEZI_KESIN.webp"
+        "Bölümler": "05, 10–11"
       },
       "sections": {
         "genel": "Eski kilisenin çok altında yer alan, ekranlar ve kablolarla iç içe dev merkez. NEXARIEL gönüllü olarak kendini veri ve kontrol ağına bağlamıştır.",
@@ -1426,8 +1404,7 @@
       "image": "MEKAN_ANGELS_TAS_ZINDANI_KESIN.webp",
       "meta": {
         "Atmosfer": "Arkaik sertlik, yalnızlık ve yakın hücreler arasında konuşma",
-        "Bölümler": "11",
-        "Görsel": "Seçilmiş görsel · MEKAN_ANGELS_TAS_ZINDANI_KESIN.webp"
+        "Bölümler": "11"
       },
       "sections": {
         "genel": "İleri teknoloji merkezinin içinde/yanında bulunan, ayrı fakat sesin ulaşabildiği eski taş duvarlı, klasik demir parmaklıklı hücreler.",
@@ -1454,8 +1431,7 @@
       "image": "MEKAN_GIZLI_ANGELS_VILLASI_KESIN.webp",
       "meta": {
         "Atmosfer": "Kentli, varlıklı, izole, havuzlu ve dışarıdan huzurlu; kırsal kulübe DEĞİL",
-        "Bölümler": "06–08",
-        "Görsel": "Seçilmiş görsel · MEKAN_GIZLI_ANGELS_VILLASI_KESIN.webp"
+        "Bölümler": "06–08"
       },
       "sections": {
         "genel": "Julian'ın bulduğu, Cen.net'ten önce farklı Angels üyeleri adına satın alınmış lüks yazlık konut. Üçlünün Aralık boyunca sızma planını yaptığı sığınak.",
@@ -1483,8 +1459,7 @@
       "image": "MEKAN_CENNET_AGACI_99_KAT_KESIN.webp",
       "meta": {
         "Atmosfer": "Eski aristokratik zevk, lüks, maskeler, ihtişam ve gizli tehdit",
-        "Bölümler": "07–09",
-        "Görsel": "Seçilmiş görsel · MEKAN_CENNET_AGACI_99_KAT_KESIN.webp"
+        "Bölümler": "07–09"
       },
       "sections": {
         "genel": "Aurelian'ın nadir sanat eserleriyle dolu özel koleksiyon katı; 31 Aralık'ta maskeli ve gösterişli Cen.net davetine açılır.",
@@ -1513,8 +1488,7 @@
       "image": "MEKAN_CENNET_AGACI_100_KAT_KESIN.webp",
       "meta": {
         "Atmosfer": "99. katın lüksünün aksine soğuk minimalizm; sakin tehdit ve açık yükseklik",
-        "Bölümler": "07, 09",
-        "Görsel": "Seçilmiş görsel · MEKAN_CENNET_AGACI_100_KAT_KESIN.webp"
+        "Bölümler": "07, 09"
       },
       "sections": {
         "genel": "Gökdelenin en üstündeki geniş, neredeyse boş oda: az eşya, bir antika masa, masadaki bilgisayar ve Skopse'ye bakan dev panoramik camlar.",
@@ -1544,8 +1518,7 @@
       "image": "MEKAN_DANIIL_KLINIGI_KESIN.webp",
       "meta": {
         "Atmosfer": "Eski, underground, gölgeli ve yıpranmış; mat erik/mor tonları, soluk pembe ve turkuaz ışık, kullanılmış medikal cihazlar.",
-        "Bölümler": "12",
-        "Görsel": "Seçilmiş görsel · MEKAN_DANIIL_KLINIGI_KESIN.webp"
+        "Bölümler": "12"
       },
       "sections": {
         "genel": "Doktor Daniil'in yıpranmış, gözlerden uzak yeraltı kliniği: eski taş ve sıvası dökülmüş duvarlar, dar merdivenler, eski ameliyat masası ve tamir edilmiş tıbbi ekranlarla çalışan bir muayene alanı. Nil'in çipi burada bulunur; çıkarma işlemi son anda durdurulur.",
