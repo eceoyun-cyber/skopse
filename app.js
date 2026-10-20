@@ -1,11 +1,12 @@
-/* SKOPSE Atlas 4.0 — GitHub Pages, root-level world.json, no external dependencies. */
+/* SKOPSE Atlas 4.4 — GitHub Pages, root-level world.json, no external dependencies. */
 (()=>{'use strict';
 let world, byId=new Map(), page='anasayfa', selected='nil', tab='genel', slide=0;
 const $=id=>document.getElementById(id);
 const names={sehir:'Şehir',karakterler:'Karakterler',sirketler:'Şirketler',zaman:'Zaman Çizelgesi',sozluk:'Sözlük',bolumler:'Bölümler ve Sahneler'};
 const esc=x=>String(x??'').replace(/[&<>"']/g,s=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[s]));
 const norm=s=>String(s??'').toLocaleLowerCase('tr').normalize('NFD').replace(/[\u0300-\u036f]/g,'');
-const imagePath=e=>{const src=(e?.image||world.images?.[e?.id]||'').replace(/^assets\//,'');return /^MEKAN_.*_KESIN\.webp$/.test(src)?src+'?v=skopseAtlas43-20261021':src;};
+const IMAGE_VERSION='atlas44';
+const imagePath=e=>{const src=(e?.image||world.images?.[e?.id]||'').replace(/^assets\//,'');return /_KESIN\.webp$/i.test(src)?src+'?v='+IMAGE_VERSION:src;};
 const image=(e,cls='',loading='lazy')=>{let src=imagePath(e);return src?`<img class="${cls}" src="${esc(src)}" data-fallback="${esc(world.imageFallbacks?.[e?.id]||'')}" loading="${loading}" alt="${esc(e.name)}">`:''};
 const link=(pg,id)=>`#${pg}${id?'/'+encodeURIComponent(id):''}`;
 const makeButton=(pg,id,body,cls='')=>`<button class="${cls}" type="button" data-page="${pg}" ${id?`data-id="${esc(id)}"`:''}>${body}</button>`;
@@ -69,15 +70,42 @@ function advanceShowcase(){
   loader.src=imagePath(place);
 }
 function rail(ents,heading){return `<aside class="explorer-rail"><h2>${esc(heading)} / ${String(ents.length).padStart(2,'0')}</h2><div class="record-list">${ents.map(e=>makeButton(routeFor(e),e.id,`<span class="rail-thumb">${image(e)}${!imagePath(e)?esc(e.name.slice(0,1)):''}</span><span>${esc(e.name)}<small>${esc(e.shortLabel||e.tagline||'')}</small></span>`,`record-link ${selected===e.id?'active':''}`)).join('')}</div></aside>`}
-function meta(e){return Object.entries(e.meta||{}).map(([k,v])=>`<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>`).join('')}
+function meta(e){
+  return Object.entries(e.meta||{}).filter(([k,v])=>k!=='Görsel'&&!/^Seçilmiş (portre|görsel)\s*·\s*.*\.(webp|png|jpg)$/i.test(String(v||'')))
+    .map(([k,v])=>`<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>`).join('');
+}
 function related(e){const items=(e.related||[]).map(id=>byId.get(id)).filter(Boolean).slice(0,8);return items.length?`<div class="related-row">${items.map(v=>makeButton(routeFor(v),v.id,esc(v.name))).join('')}</div>`:''}
 const tabs=[['genel','Genel Bilgi'],['gecmis','Geçmiş'],['iliskiler','İlişkiler'],['yetenekler','Yetenekler'],['notlar','Ek Notlar']];
-function characterContent(e){let section=(e.sections||{})[tab]||e.summary;return `<div class="portrait-layout"><div class="media-panel">${image(e,'','eager')}${!imagePath(e)?'<span class="portrait-pending">PORTRE HENÜZ SEÇİLMEDİ</span>':''}<span class="media-tag">KARAKTER DOSYASI · ${esc(e.name).toLocaleUpperCase('tr')}</span></div><div class="details-panel"><div class="eyebrow">${esc(e.tagline)}</div><h2>${esc(e.name)}</h2><p class="summary">${esc(e.summary)}</p><dl class="detail-meta">${meta(e)}</dl><div role="tablist" class="detail-tabs" aria-label="Karakter bilgileri">${tabs.map(([k,v])=>`<button type="button" role="tab" aria-selected="${tab===k}" data-tab="${k}" class="${tab===k?'active':''}">${v.toLocaleUpperCase('tr')}</button>`).join('')}</div><div class="detail-body" role="tabpanel"><p>${esc(section)}</p></div>${related(e)}</div></div>`}
+function tabMarkup(e,items,active,label){
+  return `<div role="tablist" class="detail-tabs" aria-label="${esc(label)}">${items.map(([k,v])=>`<button type="button" id="detail-tab-${esc(e.id)}-${k}" role="tab" aria-selected="${active===k}" aria-controls="detail-panel-${esc(e.id)}" tabindex="${active===k?0:-1}" data-tab="${k}" class="${active===k?'active':''}">${v.toLocaleUpperCase('tr')}</button>`).join('')}</div><div class="detail-body" id="detail-panel-${esc(e.id)}" role="tabpanel" tabindex="0" aria-labelledby="detail-tab-${esc(e.id)}-${active}"><p>${esc(e.sections?.[active]||e.summary)}</p></div>`;
+}
+function activateTab(button,focus=false){
+  const detail=button.closest('.details-panel'),entity=byId.get(selected);
+  if(!detail||!entity)return;
+  tab=button.dataset.tab;
+  for(const other of detail.querySelectorAll('[role="tab"]')){
+    const active=other===button;
+    other.classList.toggle('active',active);other.setAttribute('aria-selected',String(active));other.tabIndex=active?0:-1;
+  }
+  const panel=detail.querySelector('[role="tabpanel"]');
+  if(panel){panel.setAttribute('aria-labelledby',button.id);panel.innerHTML=`<p>${esc(entity.sections?.[tab]||entity.summary)}</p>`;}
+  button.scrollIntoView({block:'nearest',inline:'nearest'});
+  if(focus)button.focus({preventScroll:true});
+}
+function characterContent(e){
+  const facts=meta(e);
+  return `<div class="portrait-layout"><div class="media-panel">${image(e,'','eager')}${!imagePath(e)?'<span class="portrait-pending">PORTRE HENÜZ SEÇİLMEDİ</span>':''}<span class="media-tag">KARAKTER DOSYASI · ${esc(e.name).toLocaleUpperCase('tr')}</span></div>
+    <div class="details-panel"><div class="eyebrow">${esc(e.tagline)}</div><h2>${esc(e.name)}</h2><p class="summary">${esc(e.summary)}</p>
+    ${facts?`<dl class="detail-meta">${facts}</dl>`:''}
+    ${tabMarkup(e,tabs,tab,'Karakter bilgileri')}${related(e)}</div></div>`;
+}
 function cityContent(e){
-  const cityTabs=[['genel','Genel Bilgi'],['gecmis','Geçmiş'],['iliskiler','Bağlantılar'],['yetenekler','Özellikler'],['notlar','Ek Notlar']].filter(([k])=>e.sections?.[k]);
-  const active=cityTabs.some(([k])=>k===tab)?tab:'genel';
-  const section=e.sections?.[active]||e.summary;
-  return `<div class="place-layout"><div class="media-panel">${image(e,'','eager')}${!imagePath(e)?'<span class="portrait-pending">MEKÂN GÖRSELİ HENÜZ SEÇİLMEDİ</span>':''}<span class="media-tag">MEKAN DOSYASI · ${esc(e.name).toLocaleUpperCase('tr')}</span></div><div class="details-panel"><div class="eyebrow">${esc(e.tagline)}</div><h2>${esc(e.name)}</h2><p class="summary">${esc(e.summary)}</p><dl class="detail-meta">${meta(e)}</dl><div role="tablist" class="detail-tabs" aria-label="Mekan bilgileri">${cityTabs.map(([k,v])=>`<button type="button" role="tab" aria-selected="${active===k}" data-tab="${k}" class="${active===k?'active':''}">${v.toLocaleUpperCase('tr')}</button>`).join('')}</div><div class="detail-body" role="tabpanel"><p>${esc(section)}</p></div>${related(e)}</div></div>`;
+  const items=[['genel','Genel Bilgi'],['gecmis','Geçmiş'],['iliskiler','Bağlantılar'],['yetenekler','Özellikler'],['notlar','Ek Notlar']].filter(([k])=>e.sections?.[k]);
+  const active=items.some(([k])=>k===tab)?tab:'genel',facts=meta(e);
+  return `<div class="place-layout"><div class="media-panel">${image(e,'','eager')}${!imagePath(e)?'<span class="portrait-pending">MEKÂN GÖRSELİ HENÜZ SEÇİLMEDİ</span>':''}<span class="media-tag">MEKÂN DOSYASI · ${esc(e.name).toLocaleUpperCase('tr')}</span></div>
+    <div class="details-panel"><div class="eyebrow">${esc(e.tagline)}</div><h2>${esc(e.name)}</h2><p class="summary">${esc(e.summary)}</p>
+    ${facts?`<dl class="detail-meta">${facts}</dl>`:''}
+    ${tabMarkup(e,items,active,'Mekân bilgileri')}${related(e)}</div></div>`;
 }
 function explorer(type){const ents=world.entities.filter(e=>e.type===type), isCh=type==='characters', e=byId.get(selected)?.type===type?byId.get(selected):ents[0];if(e)selected=e.id;return `<div class="atlas-page">${sectionHead(isCh?'Karakterler':'Şehir',isCh?'Skopse hikayesinin karakter dosyaları.':'Skopse’nin semtleri, kurumları ve yaşayan mekanları.',ents.length)}<div class="explorer">${rail(ents,isCh?'KARAKTERLER':'ŞEHİR / MEKANLAR')}<div class="record-feature">${isCh?characterContent(e):cityContent(e)}</div></div></div>`}
 function companies(){const c=world.entities.filter(e=>e.type==='companies');return `<div class="atlas-page">${sectionHead('Şirketler','Abonelik, üretim, kredi ve altyapı üzerinden kurulan ekonomik ilişkiler.',c.length)}<div class="company-layout">${c.map(e=>`<article id="atlas-company-${esc(e.id)}" class="company-card" ${e.id==='cennet'?'data-primary="true"':''}><span class="company-seal" aria-hidden="true">${esc(e.id==='payda'?'🐼':e.name[0])}</span><div><div class="eyebrow">${esc(e.tagline)}</div><h3>${esc(e.name)}</h3><p>${esc(e.summary)}</p><p class="tiny">${esc(e.status||'Dünya notu')}</p></div></article>`).join('')}</div></div>`}
@@ -151,7 +179,7 @@ function bindings(){
     const pic=ev.target;if(pic?.tagName==='IMG'&&pic.dataset.fallback&&!pic.dataset.fallbackDone){pic.dataset.fallbackDone='1';pic.src=pic.dataset.fallback;}
   },true);
   document.body.addEventListener('click',ev=>{
-    const b=ev.target.closest('button[data-tab]');if(b){tab=b.dataset.tab;render();return;}
+    const b=ev.target.closest('button[data-tab]');if(b){activateTab(b);return;}
     const p=ev.target.closest('button[data-page]');
     if(p){
       const scrollTarget=p.dataset.searchTarget;
@@ -169,6 +197,15 @@ function bindings(){
   $('searchClose').addEventListener('click',closeSearch);
   $('searchInput').addEventListener('input',search);
   $('searchInput').addEventListener('keydown',e=>{if(e.key==='Enter'){const first=$('searchResults').querySelector('button[data-page]');if(first){e.preventDefault();first.click();}}});
+  document.body.addEventListener('keydown',ev=>{
+    const button=ev.target.closest('button[role="tab"]');
+    if(!button)return;
+    const list=[...button.closest('[role="tablist"]').querySelectorAll('button[role="tab"]')];
+    const i=list.indexOf(button);
+    const idx=ev.key==='ArrowRight'?(i+1)%list.length:ev.key==='ArrowLeft'?(i+list.length-1)%list.length:ev.key==='Home'?0:ev.key==='End'?list.length-1:-1;
+    if(idx<0)return;
+    ev.preventDefault();activateTab(list[idx],true);
+  });
   window.addEventListener('hashchange',parseHash);
   window.addEventListener('popstate',parseHash);
   $('homeBrand').addEventListener('click',e=>{e.preventDefault();closeSearch();nav('anasayfa');});
