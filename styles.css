@@ -89,3 +89,42 @@ main{max-width:var(--wide);margin:0 auto;min-height:calc(100vh - 160px)}.loading
 @media(max-width:620px){
   .portrait-layout .media-panel{height:clamp(390px,74vh,640px);max-height:640px;}
 }
+
+
+/* SKOPSE Atlas 4.0 — bölüm bazlı sahne atlası. Mevcut görsel sistemi değiştirilmedi. */
+.scene-atlas .chapters{display:grid;grid-template-columns:minmax(0,1fr);gap:22px;max-width:1180px;margin-inline:auto}
+.scene-atlas .chapter{padding:clamp(19px,2.5vw,34px);border-color:#70536b}
+.scene-atlas .chapter-top{align-items:center;flex-wrap:wrap}
+.scene-atlas .chapter h3{font-size:clamp(25px,3vw,34px)}
+.scene-atlas .chapter-no{font-size:48px}
+.scene-atlas .chapter-scene-count{margin-left:auto;color:var(--teal);font-size:11px;letter-spacing:.12em;white-space:nowrap}
+.scene-atlas .chapter-synopsis{color:#e1d3df;font-size:14px;line-height:1.8;max-width:880px;margin:16px 0 19px}
+.scene-legend{max-width:1050px;color:#d4c3d0;background:#241a2c;border-left:2px solid var(--teal);font-size:13px;line-height:1.8;padding:13px 17px}
+.scene-stack{display:grid;gap:9px}
+.scene{border:1px solid #624a60;background:#17121e;scroll-margin-top:110px}
+.scene[open]{border-color:#946b85;background:#211825}
+.scene-summary{display:flex;align-items:center;gap:15px;cursor:pointer;list-style:none;padding:15px 17px;min-height:57px}
+.scene-summary::-webkit-details-marker{display:none}
+.scene-summary::marker{content:""}
+.scene-id{color:var(--teal);font-size:11px;letter-spacing:.1em;min-width:41px;font-weight:700}
+.scene-title{color:var(--cream);font:normal clamp(18px,2.3vw,22px) var(--serif);flex:1;line-height:1.35}
+.scene-toggle{color:var(--pink);font-size:22px;transition:transform .15s}
+.scene[open] .scene-toggle{transform:rotate(45deg)}
+.scene-summary:hover{background:#2d2031}
+.scene-summary:focus-visible,.chapter-points summary:focus-visible,.scene-secret summary:focus-visible{outline:2px solid var(--teal);outline-offset:-3px}
+.scene-body{border-top:1px solid #60475e;padding:5px clamp(16px,2vw,27px) 22px}
+.scene-field{border-bottom:1px solid #463746;padding:13px 0}
+.scene-field:last-child{border-bottom:0}
+.scene-field h5{font-size:10px;color:var(--teal);letter-spacing:.18em;margin:0 0 8px}
+.scene-field p{margin:0;color:#e2d5e1;font-size:14px;line-height:1.85;max-width:960px}
+.scene-field ul{font-size:13px;color:#d6c7d3;line-height:1.8;padding-left:20px;margin:6px 0 0}
+.scene-field li{margin-bottom:6px}
+.scene-field li:last-child{margin-bottom:0}
+.scene-secret{margin-top:18px;border:1px dashed #825867;padding:11px 14px;background:#291b28}
+.scene-secret summary{cursor:pointer;color:#dfb6c7;font-size:11px;letter-spacing:.08em}
+.scene-secret p{font-size:13px;color:#d3baca;line-height:1.7}
+.chapter-points{border-top:1px solid #574155;margin-top:18px;padding-top:15px}
+.chapter-points summary{font-size:12px;color:var(--pink);cursor:pointer;letter-spacing:.06em}
+.chapter-points ul{color:#cabcce;font-size:12px;line-height:1.75}
+.scene:target{box-shadow:0 0 0 2px var(--teal)}
+@media(max-width:620px){.scene-atlas .chapter{padding:16px}.scene-summary{padding:12px 11px;gap:8px}.scene-id{min-width:34px;font-size:10px}.scene-title{font-size:18px}.scene-atlas .chapter-scene-count{margin-left:0}.scene-legend{font-size:12px}}
