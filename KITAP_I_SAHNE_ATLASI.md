@@ -1,6 +1,6 @@
 # SKOPSE — Kitap I / Sahne Atlası
 
-> **Atlas 4.0 · 21 Ekim 2026 · 12 bölüm / 59 sahne**
+> **Atlas 4.4 · 21 Ekim 2026 · 12 bölüm / 59 sahne**
 >
 > Bu belge, `world.json → chapters[].scenes` kayıtlarından türetilmiştir. Her sahne **karakterler, mekân, atmosfer, olaylar** olarak ayrılmıştır. Kesinleşmemiş ayrıntılar **AÇIK**; okura erken açıklanmaması gereken bilgiler **YAZAR SIRRI** olarak işaretlidir. Replik notlarının bir kısmı kesin sözler, bir kısmı henüz üslup taslağıdır. İçeriği yaratıcı süreç dışında *tamamlanmış roman metni* olarak değerlendirmeyin. 
 >
