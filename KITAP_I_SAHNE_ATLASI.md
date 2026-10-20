@@ -11,7 +11,7 @@
 
 ## 01. Başlatma
 
-**Genel özet:** Skopse'nin sel ve sınıf ayrımıyla bölünmüş dünyasında Nil Clayton, üç gündür kayıp abisi Clark'ın izini sürer. Clark'ın bahsettiği ve bir hafta kadar önce Cen.net'ten çıkarılmış Aras Stojanovski'yi çevrim içi paylaşımlarından Diadolas Yaşam Merkezi'ne kadar takip eder. Aras kaçınca otoparkta önünü keser; onu etkisiz hâle getirip gözlerden uzak bir yerde sorgular. Aras, yaklaşık bir ay önce Clark'ın kendi erişim kayıtlarını sildiğini gördüğünü, bunu raporladığını ve ardından işinden olduğunu anlatır. Nil Aras'ı serbest bırakır; Cen.net'e yönelik kuşkusu artar.
+**Genel özet:** Skopse'nin sel ve sınıf ayrımıyla bölünmüş dünyasında Nil Clayton, üç gündür kayıp abisi Clark'ın izini sürer. Clark'ın bahsettiği ve bir hafta kadar önce Cen.net'ten çıkarılmış Aras Stojanovski'yi çevrim içi paylaşımlarından Diadolas Yaşam Merkezi'ne kadar takip eder. Aras kaçınca otoparkta önünü keser; hazırlıklı getirdiği elektroşok cihazıyla etkisiz hâle getirip gözlerden uzak bir yerde sorgular. Aras, yaklaşık bir ay önce Clark'ın kendi erişim kayıtlarını sildiğini gördüğünü, bunu raporladığını ve ardından işinden olduğunu anlatır. Nil Aras'ı serbest bırakır; Cen.net'e yönelik kuşkusu artar.
 
 ### Sahne 01.01 — Onj taşkını: iki şehir
 
@@ -48,7 +48,7 @@
 
 **Olaylar:**
 - Nil 'Aras Stojanovski?' ve 'Clark Clayton hakkında birkaç sorum var' diye yaklaşır.
-- Aras onu şirketin yolladığını sanıp kaçar; Nil otoparkta önünü kesip etkisiz hâle getirir.
+- Aras onu şirketin yolladığını sanıp kaçar; Nil yanında getirdiği elektroşok cihazı ve kelepçeyle hazırlıklıdır, otoparkta önünü keser ve elektroşok cihazıyla etkisiz hâle getirir.
 
 **Konuşma / replik notları:**
 - Nil: 'Aras Stojanovski?'
@@ -68,6 +68,9 @@
 - Aras bir ay önce Clark'ın erişim loglarını sildiğini gördüğünü; bildirdikten sonra işinden olduğunu anlatır.
 - Nil onu serbest bırakır.
 
+**AÇIK — henüz kesinleştirilmedi:**
+- Otoparkın kamera düzeni ve Aras'ın ağaçlıklı sorgu noktasına nasıl götürüldüğü.
+
 **YAZAR SIRRI (okura erken açıklanmayacak):** Cen.net Nil'in soruşturmasını fark eder ve Aras'ı öldürtür; Nil henüz bilmez.
 
 ### Bölümün diğer kesin kararları
@@ -75,7 +78,7 @@
 - Skopse açılışı: Onj'un taşkınları, Yeni Şehir'i koruyan sel duvarları ve Eski Şehir'in yükü; her sahneyi yağmurlu/neonlu anlatma.
 - Nil 24, Clark 38 yaşında; Clark üç gündür eve dönmüyor. Nil soğukkanlı, gözlemci, araştırmacı ve esprili; dövüş uzmanı değil.
 - Nil açık kayıtlar ve Aras'ın paylaşımlarından konum tespit eder; tanışma soruları 'Aras Stojanovski?', 'Tanışıyor muyuz?', 'Clark Clayton hakkında birkaç sorum var.' çizgisinde.
-- Aras şirketin onu gönderdiğini sanarak kaçar. Nil otoparkta önünü keser; bayıltıp/etkisizleştirip tenha ağaçlık bölgede kelepçeler ve sakin biçimde konuşur, sonunda bırakır.
+- Aras şirketin onu gönderdiğini sanarak kaçar. Nil, hazırlıklı getirdiği elektroşok cihazıyla otoparkta onu etkisiz hâle getirir; gözlerden uzak ağaçlık bölgede kelepçeler, sakin biçimde konuşur ve sonunda bırakır. Nil dövüş uzmanı değildir.
 - Aras yaklaşık bir ay önce Clark'ın özel yazılımla erişim loglarını sildiğini görmüştür; işten çıkarılma yaklaşık bir hafta öncedir.
 - YAZAR SIRRI: Cen.net, Nil'in soruşturmasını fark eder ve Aras'ı öldürür; Nil bunu bölümde öğrenmez.
 
