@@ -4,7 +4,7 @@
     "status": "Portre şimdilik boş"
   },
   "aras": {
-    "path": "portre-aras.webp",
+    "path": "ARAS_KESIN.webp",
     "dimensions": [
       1024,
       1536
@@ -12,7 +12,7 @@
     "caption": "Aras için yeni SKOPSE temalı portre"
   },
   "skopse": {
-    "external": "https://i.pinimg.com/736x/09/12/83/091283eeb31306267cc53b79f207940d.jpg"
+    "path": "SKOPSE_KESIN.webp"
   },
   "varoslar": {
     "external": "https://i.pinimg.com/1200x/38/e4/44/38e444f7fba38eb5199ff08af9a8f8b1.jpg"
@@ -24,10 +24,15 @@
     "external": "https://media.discordapp.net/attachments/517623216248848396/1558449818089553960/image_2023-10-22_180917793.png?ex=6acb7aff&is=6aca297f&hm=d2d0d3c4ad8d6892aae0019d1e8b42f8902d21cb4e0358b79139fb143392c11b&=&format=webp&quality=lossless"
   },
   "nexariel": {
-    "external": "https://static.wikia.nocookie.net/supreme-being/images/f/f9/YHWH_%28AS%29.jpg/revision/latest/scale-to-width-down/296?cb=20130915050621"
+    "path": "NEXARIEL_KESIN.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "caption": "Yazarın seçtiği kesin Nexariel portresi; ekranlar ve kablolar arasında bağlandığı savaş veri ağı."
   },
   "nil": {
-    "path": "portre-nil.webp",
+    "path": "NIL_KESIN.webp",
     "dimensions": [
       1024,
       1536
@@ -35,7 +40,7 @@
     "caption": "Yazarın seçtiği Nil portresi; kırpılmadan 1024 × 1536 piksel çerçeveye uyarlandı"
   },
   "julian": {
-    "path": "portre-julian.webp",
+    "path": "JULIAN_KESIN.webp",
     "dimensions": [
       1024,
       1536
@@ -43,7 +48,7 @@
     "caption": "Yazarın seçtiği resmi Julian portresi"
   },
   "blake": {
-    "path": "portre-blake.webp",
+    "path": "BLAKE_KESIN.webp",
     "dimensions": [
       1024,
       1536
@@ -60,7 +65,7 @@
     "external": "https://i.pinimg.com/736x/20/d6/a5/20d6a5b35127fe369082a17b32151178.jpg"
   },
   "clark": {
-    "path": "portre-clark.webp",
+    "path": "CLARK_KESIN.webp",
     "dimensions": [
       1024,
       1536
@@ -68,7 +73,7 @@
     "caption": "Yazarın seçtiği resmi Clark portresi"
   },
   "nadejda": {
-    "path": "portre-nadejda.webp",
+    "path": "NADEJDA_KESIN.webp",
     "dimensions": [
       1024,
       1536
@@ -118,7 +123,7 @@
     ]
   },
   "paradise": {
-    "path": "vitrin-08-paradise.webp",
+    "path": "PARADISE_CENNET_AGACI_KESIN.webp",
     "dimensions": [
       1448,
       1086
@@ -126,16 +131,16 @@
     "caption": "Skopse'nin en yüksek binası: Paradise / Cen.net Ağacı"
   },
   "eski_sehir": {
-    "path": "assets/eski-sehir.webp"
+    "path": "ESKI_SEHIR_KESIN.webp"
   },
   "yeni_sehir": {
-    "path": "assets/yeni-sehir.webp"
+    "path": "YENI_SEHIR_KESIN.webp"
   },
   "tunek": {
-    "path": "assets/tunek.webp"
+    "path": "TUNEK_KESIN.webp"
   },
   "sifon": {
-    "path": "assets/sifon.webp"
+    "path": "SIFON_KESIN.webp"
   },
   "gezginler": {
     "path": "assets/gezginler.webp"
@@ -144,11 +149,21 @@
     "path": "assets/balolar.webp"
   },
   "vesna": {
-    "path": "portre-vesna.webp",
+    "path": "VESNA_KESIN.webp",
     "dimensions": [
       1024,
       1536
     ],
     "caption": "Vesna için yeni SKOPSE temalı portre"
+  },
+  "batak": {
+    "path": "BATAK_KESIN.webp"
+  },
+  "diadolas": {
+    "path": "DIADOLAS_KESIN.webp"
+  },
+  "onj_nehri": {
+    "path": "SKOPSE_KESIN.webp",
+    "status": "Geçici: Onj Nehri için ayrı bir görsel henüz onaylanmadı."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-19 · Atlas 3.5 · Paradise ve Karakter Portreleri",
+  "version": "2026-10-20 · Atlas 3.7 · Seçilen Görseller KESIN",
   "title": "SKOPSE",
   "strapline": "Mutant Bir Şehir",
   "intro": "Skopse, Onj Nehri’nin iki kıyısında büyüyen, teknolojinin ve eşitsizliğin aynı sokaklara sığdığı bir kenttir. Yeni Şehir taşkınlardan korunurken Eski Şehir her ekimde yeniden su altında kalır.",
@@ -38,7 +38,7 @@
       "type": "characters",
       "tagline": "ANA KARAKTER · 24 YAŞ",
       "summary": "Skopse sokaklarında büyüyen Nil, abisi Clark üç gündür eve dönmeyince Cen.net çevresinde cevap aramaya başlar. İnce yapılı, keskin gözlemci, fevri ve esprilidir. İyi bir dövüşçü olmayabilir ama yetenekli bir araştırmacıdır.",
-      "image": "portre-nil.webp",
+      "image": "NIL_KESIN.webp",
       "meta": {
         "Yaş": "24",
         "Yakınları": "Clark, Blake",
@@ -69,7 +69,7 @@
       "type": "characters",
       "tagline": "ARAŞTIRMACI · 38 YAŞ",
       "summary": "Cen.net’in genetik araştırmalarında çalışan, iş yerinde mesafeli ama evde Nil’e sıcak davranan araştırmacı. Melek ve şeytanların varlığını keşfeder; onların teknolojisiyle saklanma amacı taşıyan bir çip geliştirir.",
-      "image": "portre-clark.webp",
+      "image": "CLARK_KESIN.webp",
       "meta": {
         "Yaş": "38",
         "İş": "Cen.net · araştırma",
@@ -100,7 +100,7 @@
       "type": "characters",
       "tagline": "NEPHILIM · YAKLAŞIK 200 YAŞ",
       "summary": "Melek annesi cezalandırılmış, insan babası öldürülmüş bir Nephilim. Cen.net’in reklam yüzü olarak tanınır; eski fotoğraflarda aynı yüzle görünmesi Nil’in arşiv araştırmasına yol açar.",
-      "image": "portre-julian.webp",
+      "image": "JULIAN_KESIN.webp",
       "meta": {
         "Yaş": "Yaklaşık 200",
         "Köken": "Melek anne · insan baba",
@@ -131,7 +131,7 @@
       "type": "characters",
       "tagline": "BATak · 26 YAŞ",
       "summary": "Nil’in sokak çocukluğundan tanıdığı, hızlı öfkelenen ve yeraltı bağlantıları bulunan eski dostu. İki yıl önce kaçmasına yardım etmeye çalıştığı Cen.net araştırmacısı Vesna'nın ölümü, şirketle ilgili risklere bakışını değiştirir.",
-      "image": "portre-blake.webp",
+      "image": "BLAKE_KESIN.webp",
       "meta": {
         "Yaş": "26",
         "Nil ile tanışma": "Nil 12 · Blake 14",
@@ -162,7 +162,7 @@
       "type": "characters",
       "tagline": "MELEK · TARİKATIN ÜSTÜNDEKİ GÜÇ",
       "summary": "Nil’in Clark’ın kardeşi olduğunu bilir; ancak ilk davet anında sırtındaki gizleme çipinden habersizdir.",
-      "image": "",
+      "image": "NEXARIEL_KESIN.webp",
       "meta": {
         "Tür": "Melek",
         "İlişki": "Angels tarikatı",
@@ -189,7 +189,7 @@
       "type": "characters",
       "tagline": "ESKİ CEN.NET GÜVENLİK UZMANI · 35 YAŞ",
       "summary": "Esmer, geniş omuzlu, gri ceketli. Gözbebekleri belli açılarda mavi ışıkla parlayan güncel model implantlara sahip. Diadolas’ta Nil tarafından takip edilince şirket ajanı sanıp kaçar.",
-      "image": "portre-aras.webp",
+      "image": "ARAS_KESIN.webp",
       "meta": {
         "Yaş": "35",
         "Aile durumu": "Bekar · yalnız yaşıyor",
@@ -296,7 +296,7 @@
       "type": "characters",
       "tagline": "ESKİ CEN.NET ARAŞTIRMACISI",
       "summary": "İki yıl önce Cen.net'ten kaçmak için Blake'ten yardım isteyen kadın araştırmacı. Blake başlangıçta bunu reddeder, ancak mekanına baskın yapılınca olaya dahil olur. Vesna öldürülür; Nil yalnızca Blake'in dijital izlerini temizler. Cinayet çözülemez.",
-      "image": "portre-vesna.webp",
+      "image": "VESNA_KESIN.webp",
       "meta": {
         "Soyadı": "Henüz belirlenmedi",
         "Eski işi": "Cen.net araştırmacısı",
@@ -322,7 +322,7 @@
       "type": "characters",
       "tagline": "FALCI · GEZGİN TOPLULUKLAR",
       "summary": "Sifon ve Batak çevresinde rastlanan, kader konusunda ısrarcı, kısa ve tekinsiz konuşmalarıyla Nil’in irade anlayışına karşı duran falcı. Doğaüstü bir güç kaynağı olarak etnik kökenine başvurulmaz.",
-      "image": "portre-nadejda.webp",
+      "image": "NADEJDA_KESIN.webp",
       "meta": {
         "Rol": "Falcı · yan karakter",
         "Çevre": "Batak / Sifon",
@@ -350,7 +350,7 @@
       "type": "places",
       "tagline": "SAVAŞ SONRASI MEGAKENT",
       "summary": "Üsküp çevresinde gelişmiş, Onj Nehri’nin ayırdığı Eski Şehir ve Yeni Şehir’den oluşan çok katmanlı kent. Avrupa–Orta Doğu hattındaki büyük merkezlerden biri; tek ayakta kalan şehir değil.",
-      "image": "vitrin-01-skopse.webp",
+      "image": "SKOPSE_KESIN.webp",
       "meta": {
         "Nehir": "Onj",
         "Bölgeler": "Eski Şehir / Yeni Şehir",
@@ -380,7 +380,7 @@
       "type": "places",
       "tagline": "ONJ’UN KARŞI KIYISI · TAŞKINLAR",
       "summary": "Savaş öncesi taş konutlar ve eski okulların yanında göçle gelenlerin dayanıksız mahalleleri bulunur. Elektronik surların yönlendirdiği selin bedelini çoğunlukla yoksullar öder.",
-      "image": "vitrin-02-eski-sehir.webp",
+      "image": "ESKI_SEHIR_KESIN.webp",
       "meta": {
         "Kent dokusu": "Tarihi taş yapılar / yeni mahalleler",
         "Risk": "Yılda iki sel",
@@ -407,7 +407,7 @@
       "type": "places",
       "tagline": "TÜNEK VE KURUMSAL KIYI",
       "summary": "Eğlence yatları, kıyı restoranları ve nehir manzaralı konutları elektronik surlarla korunan ayrıcalıklı kıyı. Refahın kesintiye uğramaması karşı kıyıya aktarılan bir risk anlamına gelir.",
-      "image": "vitrin-04-yeni-sehir.webp",
+      "image": "YENI_SEHIR_KESIN.webp",
       "meta": {
         "Kıyı": "Yatlar · restoranlar · yalılar",
         "Koruma": "Elektronik surlar",
@@ -435,7 +435,7 @@
       "type": "places",
       "tagline": "GÖKDELENLERİN EN TEPESİ",
       "summary": "Kırılmaz camların gerisinden karşı kıyıdaki sel felaketini bir manzara gibi gören üst sınıfın kuleleri. Akşamları yardım baloları, bağış ekranları ve özel davetler düzenlenir.",
-      "image": "vitrin-03-tunek.webp",
+      "image": "TUNEK_KESIN.webp",
       "meta": {
         "Yer": "Yeni Şehir",
         "Sembol": "En yüksek kuleler",
@@ -463,7 +463,7 @@
       "type": "places",
       "tagline": "ESKİ ŞEHİR · GAYRİRESMİ EKONOMİ",
       "summary": "Yoksul ve ihmal edilmiş Batan Yaka’nın gündelik adı Batak’tır. Dinarın yanı sıra “beceri karşılığı beceri” usulüyle işleyen güven ve karşılıklı borç ilişkileri vardır.",
-      "image": "vitrin-07-batak.webp",
+      "image": "BATAK_KESIN.webp",
       "meta": {
         "Lakabı": "Batak",
         "Ekonomi": "DNR + takas",
@@ -492,7 +492,7 @@
       "type": "places",
       "tagline": "BATak · YERALTI BAĞLANTILARI",
       "summary": "Batak içindeki yeraltı merkezi ve eski altyapı ağları. Sel zamanında tamamlanmamış metro inşaatlarının bazı bölümleri sığınağa dönüşür.",
-      "image": "vitrin-05-sifon.webp",
+      "image": "SIFON_KESIN.webp",
       "meta": {
         "Bağlı olduğu yer": "Batan Yaka / Batak",
         "Öne çıkan": "Eski metro yapıları"
@@ -518,7 +518,7 @@
       "type": "places",
       "tagline": "YENİ ŞEHİR · VARLIKLI TİCARET BÖLGESİ",
       "summary": "Saydam geçitler, süs bitkileri, yürüyen yollar ve birbirine açılan galerilerden oluşan dev alışveriş ve yaşam merkezi. “Yaşamın Merkezi, Yaşamadan Bilemezsiniz!”",
-      "image": "vitrin-06-diadolas.webp",
+      "image": "DIADOLAS_KESIN.webp",
       "meta": {
         "Konum": "Varlıklı yaka",
         "Özellik": "Saydam geçitler",
@@ -545,7 +545,7 @@
       "type": "places",
       "tagline": "CEN.NET GENEL MERKEZİ · PARADISE",
       "summary": "Paradise, Cen.net Ağacı olarak da bilinen Cen.net genel merkezidir. Skopse'nin en yüksek binası, şirketin yönetim, araştırma ve yüksek güvenlikli sunucu altyapısını bir araya getirir. Clark ile Nil'in yaşadığı korumalı personel konutları yakındadır.",
-      "image": "vitrin-08-paradise.webp",
+      "image": "PARADISE_CENNET_AGACI_KESIN.webp",
       "meta": {
         "İşlev": "Sunucu altyapısı",
         "Sahne": "Paradise sızması",
@@ -917,7 +917,7 @@
       "type": "places",
       "tagline": "ŞEHRİN İKİ YAKASI",
       "summary": "Onj Nehri, Eski Şehir ile Yeni Şehir arasındaki sınırdır. Ekim ayının başında ve sonunda taşar. Yeni Şehir kıyısındaki elektronik surlar yükseldiğinde su Eski Şehir tarafına yönelir.",
-      "image": "vitrin-01-skopse.webp",
+      "image": "SKOPSE_KESIN.webp",
       "sections": {
         "genel": "Nehir yılda iki kez taşar. Yeni Şehir tarafında yatlar, restoranlar ve yalılar elektronik koruma altındadır. Eski Şehir tarafında ise özellikle dayanıksız yapılaşma zarar görür."
       },
@@ -1099,30 +1099,31 @@
   ],
   "legacy": "eski-hikaye-haritasi.html",
   "images": {
-    "nil": "portre-nil.webp",
-    "nadejda": "portre-nadejda.webp",
+    "nil": "NIL_KESIN.webp",
+    "nadejda": "NADEJDA_KESIN.webp",
     "kemal": "kemal.webp",
     "aziz_kiril": "aziz_kiril.webp",
     "arge": "arge.webp",
     "underground": "underground.webp",
     "batan_yaka": "batan_yaka.webp",
     "altin_yaka": "altin_yaka.webp",
-    "paradise": "vitrin-08-paradise.webp",
-    "eski_sehir": "vitrin-02-eski-sehir.webp",
-    "yeni_sehir": "vitrin-04-yeni-sehir.webp",
-    "tunek": "vitrin-03-tunek.webp",
-    "sifon": "vitrin-05-sifon.webp",
+    "paradise": "PARADISE_CENNET_AGACI_KESIN.webp",
+    "eski_sehir": "ESKI_SEHIR_KESIN.webp",
+    "yeni_sehir": "YENI_SEHIR_KESIN.webp",
+    "tunek": "TUNEK_KESIN.webp",
+    "sifon": "SIFON_KESIN.webp",
     "gezginler": "gezginler.webp",
     "balolar": "balolar.webp",
-    "blake": "portre-blake.webp",
-    "skopse": "vitrin-01-skopse.webp",
-    "batak": "vitrin-07-batak.webp",
-    "diadolas": "vitrin-06-diadolas.webp",
-    "onj_nehri": "vitrin-01-skopse.webp",
-    "clark": "portre-clark.webp",
-    "julian": "portre-julian.webp",
-    "aras": "portre-aras.webp",
-    "vesna": "portre-vesna.webp"
+    "blake": "BLAKE_KESIN.webp",
+    "skopse": "SKOPSE_KESIN.webp",
+    "batak": "BATAK_KESIN.webp",
+    "diadolas": "DIADOLAS_KESIN.webp",
+    "onj_nehri": "SKOPSE_KESIN.webp",
+    "clark": "CLARK_KESIN.webp",
+    "julian": "JULIAN_KESIN.webp",
+    "aras": "ARAS_KESIN.webp",
+    "vesna": "VESNA_KESIN.webp",
+    "nexariel": "NEXARIEL_KESIN.webp"
   },
   "chapters": [
     {
