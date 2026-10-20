@@ -69,7 +69,7 @@ function advanceShowcase(){
   loader.onerror=()=>{slideLoading=false;};
   loader.src=imagePath(place);
 }
-function rail(ents,heading){return `<aside class="explorer-rail"><h2>${esc(heading)} / ${String(ents.length).padStart(2,'0')}</h2><div class="record-list">${ents.map(e=>makeButton(routeFor(e),e.id,`<span class="rail-thumb">${image(e)}${!imagePath(e)?esc(e.name.slice(0,1)):''}</span><span>${esc(e.name)}<small>${esc(e.shortLabel||e.tagline||'')}</small></span>`,`record-link ${selected===e.id?'active':''}`)).join('')}</div></aside>`}
+function rail(ents,heading){return `<aside class="explorer-rail"><h2>${esc(heading)} / ${String(ents.length).padStart(2,'0')} <span class="rail-scroll-hint" aria-hidden="true">↔ Kaydır</span></h2><div class="record-list">${ents.map(e=>makeButton(routeFor(e),e.id,`<span class="rail-thumb">${image(e)}${!imagePath(e)?esc(e.name.slice(0,1)):''}</span><span>${esc(e.name)}<small>${esc(e.shortLabel||e.tagline||'')}</small></span>`,`record-link ${selected===e.id?'active':''}`)).join('')}</div></aside>`}
 function meta(e){
   return Object.entries(e.meta||{}).filter(([k,v])=>k!=='Görsel'&&!/^Seçilmiş (portre|görsel)\s*·\s*.*\.(webp|png|jpg)$/i.test(String(v||'')))
     .map(([k,v])=>`<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>`).join('');
@@ -131,9 +131,11 @@ function chapters(){
   const total=records.reduce((n,c)=>n+(c.scenes||[]).length,0);
   return `<div class="atlas-page scene-atlas">${sectionHead('Bölümler & Sahneler',`${records.length} bölüm · ${total} ayrı sahne. Karakterler, mekân, atmosfer ve olay kararları; açıklanmayan ayrıntılar ayrıca işaretli.`,records.length)}
    <p class="scene-legend">Bir sahnenin başlığına tıklayarak ayrıntılarını açın. 'AÇIK' maddeler henüz kesinleşmemiştir. Yazar sırları iç içe kapalı tutulur.</p>
-   <div class="chapters">${records.map(c=>`<article class="chapter" id="atlas-chapter-${esc(c.number)}">
+   <nav class="chapter-jumps" aria-label="Bölüme hızlı geçiş">${records.map(c=>`<button type="button" data-jump-id="atlas-chapter-${esc(c.number)}" title="${esc(c.title)}"><span>${esc(c.number)}</span> ${esc(c.title)}</button>`).join('')}</nav>
+   <div class="chapters">${records.map(c=>`<article class="chapter" tabindex="-1" id="atlas-chapter-${esc(c.number)}">
      <div class="chapter-top"><span class="chapter-no">${esc(c.number)}</span><div><span class="status">${esc(c.status)}</span><h3>${esc(c.title)}</h3></div><span class="chapter-scene-count">${(c.scenes||[]).length} SAHNE</span></div>
      <p class="chapter-synopsis">${esc(c.summary)}</p>
+     <div class="scene-toolbar"><span>${(c.scenes||[]).length} sahne kaydı</span><button type="button" data-toggle-chapter aria-expanded="false">Tüm sahneleri aç</button></div>
      <div class="scene-stack">${(c.scenes||[]).map(sceneCard).join('')}</div>
      ${c.points?.length?`<details class="chapter-points"><summary>Bu bölümün genel kanon kararları (${c.points.length})</summary>${list(c.points)}</details>`:''}
    </article>`).join('')}</div></div>`;
@@ -166,19 +168,39 @@ function search(){
     ...(world.chapters||[]).map(e=>({pg:'bolumler',target:'atlas-chapter-'+e.number,name:e.number+' — '+e.title,group:'Bölüm Özetleri',description:e.summary,content:e.number+' '+e.title+' '+e.summary+' '+(e.points||[]).join(' ')+' '+(e.scenes||[]).map(s=>[s.title,s.location,s.atmosphere,...(s.characters||[]),...(s.events||[]),...(s.dialogue||[]),...(s.notes||[]),...(s.open||[])].join(' ')).join(' ')}))
   ];
   const tokens=term.split(/\s+/).filter(Boolean);
-  const results=entries.map(e=>({...e,normalizedName:norm(e.name),normalizedContent:norm(e.content)}))
+  const matches=entries.map(e=>({...e,normalizedName:norm(e.name),normalizedContent:norm(e.content)}))
     .filter(e=>tokens.every(t=>e.normalizedContent.includes(t)))
     .sort((a,b)=>{
       const score=e=>e.normalizedName===term?0:e.normalizedName.startsWith(term)?1:e.normalizedName.includes(term)?2:3;
       return score(a)-score(b)||a.name.localeCompare(b.name,'tr');
-    }).slice(0,12);
-  container.innerHTML=results.length?results.map(e=>`<button type="button" class="result-btn" data-page="${e.pg}" ${e.id?`data-id="${esc(e.id)}"`:''} ${e.target?`data-search-target="${esc(e.target)}"`:''}><span>${esc(e.group)}</span><strong>${esc(e.name)}</strong><small>${esc(e.description)}</small></button>`).join(''):'<p class="search-hint">Bu aramayla eşleşen kayıt bulunamadı.</p>';
+    });
+  const results=matches.slice(0,12);
+  container.innerHTML=results.length?(matches.length>12?`<p class="search-count">${matches.length} eşleşme bulundu · İlk 12 sonuç gösteriliyor. Aramayı daraltabilirsin.</p>`:'')+results.map(e=>`<button type="button" class="result-btn" data-page="${e.pg}" ${e.id?`data-id="${esc(e.id)}"`:''} ${e.target?`data-search-target="${esc(e.target)}"`:''}><span>${esc(e.group)}</span><strong>${esc(e.name)}</strong><small>${esc(e.description)}</small></button>`).join(''):'<p class="search-hint">Bu aramayla eşleşen kayıt bulunamadı.</p>';
 }
 function bindings(){
   document.body.addEventListener('error',ev=>{
     const pic=ev.target;if(pic?.tagName==='IMG'&&pic.dataset.fallback&&!pic.dataset.fallbackDone){pic.dataset.fallbackDone='1';pic.src=pic.dataset.fallback;}
   },true);
   document.body.addEventListener('click',ev=>{
+    const jump=ev.target.closest('button[data-jump-id]');
+    if(jump){
+      const destination=document.getElementById(jump.dataset.jumpId);
+      if(destination){
+        const reduced=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        destination.scrollIntoView({behavior:reduced?'auto':'smooth',block:'start'});
+        destination.focus({preventScroll:true});
+      }
+      return;
+    }
+    const expand=ev.target.closest('button[data-toggle-chapter]');
+    if(expand){
+      const section=expand.closest('.chapter'),scenes=[...section.querySelectorAll('details.scene')];
+      const opening=!scenes.every(x=>x.open);
+      scenes.forEach(x=>{x.open=opening});
+      expand.textContent=opening?'Tüm sahneleri kapat':'Tüm sahneleri aç';
+      expand.setAttribute('aria-expanded',String(opening));
+      return;
+    }
     const b=ev.target.closest('button[data-tab]');if(b){activateTab(b);return;}
     const p=ev.target.closest('button[data-page]');
     if(p){
@@ -197,6 +219,12 @@ function bindings(){
   $('searchClose').addEventListener('click',closeSearch);
   $('searchInput').addEventListener('input',search);
   $('searchInput').addEventListener('keydown',e=>{if(e.key==='Enter'){const first=$('searchResults').querySelector('button[data-page]');if(first){e.preventDefault();first.click();}}});
+  document.body.addEventListener('toggle',ev=>{
+    if(!ev.target.matches?.('details.scene'))return;
+    const section=ev.target.closest('.chapter'),all=section?.querySelectorAll('details.scene');
+    const action=section?.querySelector('button[data-toggle-chapter]');
+    if(action&&all){const open=[...all].every(x=>x.open);action.textContent=open?'Tüm sahneleri kapat':'Tüm sahneleri aç';action.setAttribute('aria-expanded',String(open));}
+  },true);
   document.body.addEventListener('keydown',ev=>{
     const button=ev.target.closest('button[role="tab"]');
     if(!button)return;
