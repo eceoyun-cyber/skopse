@@ -68,7 +68,7 @@ Nil ve Julian **ayrı ama konuşabilecek kadar yakın** eski taş zindanlarda, *
 ### 12 — Sistemden Çıkış
 Üçlü **ortak kararla** Doktor Daniil'e gider. Daniil Nil'in sırtındaki anormal çipi ilk muayenede saptar; ayrıntılı incelemede **sinir sistemiyle bütünleştiğini** ve çıkarılmasının **hayati riskini** öğrenir. Nil riske rağmen ameliyata girer. Tam çıkarılacakken Hamlet ilk gerçek kişisel seslenişiyle **'Dur! Ölmek istemiyorum!'** der; Nil ameliyatı durdurur, çip **ÇIKARILMAZ**. Nil'in iki gerekçesi: Hamlet'i öldürmek istememesi ve tehlikeli yolu sürdürebilmek için gücüne ihtiyaç duyması.
 
-Hamlet artık yeterince güçlü olduğunu söyleyip bir **ekrana bağlanmasını** ister, kendini ekrana aktarır, Nil, Julian ve Blake'le konuşur. Clark'ın yaratıcıları olduğunu; Ophelia'nın Clark'ın bedenindeki ilk prototip kardeşi olduğunu; Clark'ın Bella adlı **zengin kadınla** kaybolduğunu fakat bu bilgiyi nereden edindiğini hatırlamadığını/bilmediğini; **Ophelia'yı hâlâ hissettiğinden Clark'ın hayatta olduğunu** söyler. Yer bilinmez. Clark'ın insanları meleklere ve şeytanlara karşı savunacak gücü açığa çıkarmaya çalıştığını, bilinçlerin yan etki olduğunu anlatır. **Clark Kitap I'de bulunmaz.** Nil **Clark**, Julian **annesi**, Blake **gerçekleri halka yaymak ve devrim** için birlikte çalışmayı seçer. Ne melekler ne şeytanlar yenilmiştir; Nil hiçbirine güvenemez.
+Hamlet artık yeterince güçlü olduğunu söyleyip bir **ekrana bağlanmasını** ister, kendini ekrana aktarır, Nil, Julian ve Blake'le konuşur. yaratıcılarının Clark olduğunu; Ophelia'nın Clark'ın bedenindeki ilk prototip kardeşi olduğunu; Clark'ın Bella adlı **zengin kadınla** kaybolduğunu fakat bu bilgiyi nereden edindiğini hatırlamadığını/bilmediğini; **Ophelia'yı hâlâ hissettiğinden Clark'ın hayatta olduğunu** söyler. Yer bilinmez. Clark'ın insanları meleklere ve şeytanlara karşı savunacak gücü açığa çıkarmaya çalıştığını, bilinçlerin yan etki olduğunu anlatır. **Clark Kitap I'de bulunmaz.** Nil **Clark**, Julian **annesi**, Blake **gerçekleri halka yaymak ve devrim** için birlikte çalışmayı seçer. Ne melekler ne şeytanlar yenilmiştir; Nil hiçbirine güvenemez.
 
 ## 4. Karakterlerin bildiği / bilmediği ve yazar sırları
 
@@ -79,7 +79,7 @@ Hamlet artık yeterince güçlü olduğunu söyleyip bir **ekrana bağlanmasın�
 - Clark'ın genç yaşta elde ettiği hack servetini **Nil ve Blake bilmez**.
 - **Aras'ın öldürülmesinde Cen.net rolü** açılışta Nil'in bilgisi değildir.
 - 77'nin insan adı **Aurelian A.**, şeytani adı **BELMAVETH** şimdilik **çalışma adı**; insan soyadı kesin değil. Aurelian zarif aristokratik tavırlı güçlü şeytandır. Nil/Julian gerçeği NEXARIEL kayıtlarından bilir, Blake 9. bölümde öğrenir.
-- Juliet/Julian konusunda **Julian** adı kullanılır; platin/beyaz saçlı, albino değil.
+- Karakterin adı **Julian**'dır; platin/beyaz saçlı, albino değil.
 - **Bella'nın portresi sohbet içinde seçilmiştir**, fakat mevcut depoda dosya yolu ve kesin görsel atfı kontrol edilmeden görsel değiştirilmez. `_KESIN.webp` dosyalarına dokunulmaz; `NEXARIEL_KESIN.webp` saklanır.
 
 ## 5. Hâlâ açık / yazarken varsayılmayacak
