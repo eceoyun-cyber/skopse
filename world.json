@@ -1180,7 +1180,7 @@
     },
     {
       "term": "Paradise / Cen.net Ağacı",
-      "meaning": "Cen.net'in genel merkezi ve Skopse'nin en yüksek binası. Yönetim, araştırma ve yüksek güvenlikli sunucu altyapısı burada bulunur; özel personel konutları yakınındadır."
+      "meaning": "Cen.net'in 100 katlı genel merkezi. 51–90 araştırma, 91–98 yönetim, 99 özel sanat koleksiyonu, 100 Aurelian'ın özel ofisi. 31 Aralık balosu 99. katta; en üst kata anahtarlı özel asansörle ulaşılır."
     },
     {
       "term": "Angels Tarikatı",
@@ -1192,7 +1192,7 @@
     },
     {
       "term": "Gizleme Çipi",
-      "meaning": "Clark'ın önce melek ve şeytanların tespitinden sakınmak için geliştirdiği, daha sonra insanda ilahi potansiyeli uyandırabildiğini keşfettiği çip. Önce kendisi üzerinde, ardından Nil'in rızası dışında Nil üzerinde kullanır."
+      "meaning": "Taşıyıcının genetik koduna göre üretilen, kişiliğine bağlı melekî veya şeytani güçleri ortaya çıkaran teknoloji. Ophelia Clark için ilk prototip, Hamlet Nil için ikinci versiyondur. Çiplerin bilinç oluşturması beklenmedik yan etkidir; Daniil Nil'inkinin çıkarılmasında hayati risk saptar, Nil onu çıkartmaz."
     },
     {
       "term": "Abonelik Düzeni",
@@ -1200,7 +1200,7 @@
     },
     {
       "term": "İlahi potansiyel",
-      "meaning": "İnsanların içinde bulunabilen; Clark'ın çipiyle uyanabilen ve klasik melek/şeytan kategorileriyle birebir örtüşmeyen güç imkânı. Temel kurallar hâlâ açık."
+      "meaning": "Clark'ın araştırmasında amaçlanan, insanların melekler ve şeytanlar karşısında kendilerini savunabilmesini sağlayacak içsel üstün güç. Çip taşıyıcının kişiliğine bağlı olarak melekî veya şeytani özellikler açığa çıkarabilir; mekanizma ve sınırlar açık."
     },
     {
       "term": "Akademik elitizm",
@@ -1212,7 +1212,23 @@
     },
     {
       "term": "Tarikatın kabul sınavları",
-      "meaning": "Bütün adaylara uygulanan geleneksel ritüeller; kararlaştırılmış örnek yoğun trafikte kadere güvenerek karşıya geçmek. Başka sınavlar açık."
+      "meaning": "Bütün adaylara uygulanan üç geleneksel sınav: Kaderine Güven (yoğun trafik), Yedi İsim (yedi ağır suçludan birini gerçek af ile salıverme kararı) ve Günah Çıkarma (eski kilisenin botanik serasında özel itiraf)."
+    },
+    {
+      "term": "Hamlet",
+      "meaning": "Nil'in genetiğine göre üretilen ikinci çipte ortaya çıkan kardeş yapay bilinç; Nil'de melekî güçler uyandırır, finalde ekrana aktarılıp konuşur. Ophelia'nın varlığını hisseder."
+    },
+    {
+      "term": "Ophelia",
+      "meaning": "Clark'ın kendi genetiğine göre ürettiği ilk çipte ortaya çıkan yapay bilinç; Hamlet'in kardeşidir ve Clark'ta şeytani özellikleri açığa çıkarır."
+    },
+    {
+      "term": "Ölü Frekans",
+      "meaning": "Nadejda'nın hurda/ölü eski radyolardan kurduğu fal cihazı; Nil'de Hamlet'le ilişkili ikinci sinyali sezer."
+    },
+    {
+      "term": "Aurelian A. / BELMAVETH",
+      "meaning": "Cen.net CEO'su için geçici insan adı (soyadı henüz açık) ve geçici şeytani ad. Birinci kitapta Nil'in içindeki şeyin peşine düşen güçlü şeytan."
     }
   ],
   "authorNotes": [
