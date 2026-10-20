@@ -145,11 +145,11 @@ function chapters(){
   const total=records.reduce((n,c)=>n+(c.scenes||[]).length,0);
   return `<div class="atlas-page scene-atlas">${sectionHead('Bölümler & Sahneler',`${records.length} bölüm · ${total} ayrı sahne. Karakterler, mekân, atmosfer ve olay kararları; açıklanmayan ayrıntılar ayrıca işaretli.`,records.length)}
    <p class="scene-legend">Bir sahnenin başlığına tıklayarak ayrıntılarını açın. 'AÇIK' maddeler henüz kesinleşmemiştir. Yazar sırları iç içe kapalı tutulur.</p>
-   <nav class="chapter-jumps" aria-label="Bölüme hızlı geçiş">${records.map(c=>`<button type="button" data-jump-id="atlas-chapter-${esc(c.number)}" title="${esc(c.title)}"><span>${esc(c.number)}</span> ${esc(c.title)}</button>`).join('')}</nav>
+   <nav class="chapter-jumps" tabindex="-1" aria-label="Bölüme hızlı geçiş">${records.map(c=>`<button type="button" data-jump-id="atlas-chapter-${esc(c.number)}" title="${esc(c.title)}"><span>${esc(c.number)}</span> ${esc(c.title)}</button>`).join('')}</nav>
    <div class="chapters">${records.map(c=>`<article class="chapter" tabindex="-1" id="atlas-chapter-${esc(c.number)}">
      <div class="chapter-top"><span class="chapter-no">${esc(c.number)}</span><div><span class="status">${esc(c.status)}</span><h3>${esc(c.title)}</h3></div><span class="chapter-scene-count">${(c.scenes||[]).length} SAHNE</span></div>
      <p class="chapter-synopsis">${esc(c.summary)}</p>
-     <div class="scene-toolbar"><span>${(c.scenes||[]).length} sahne kaydı</span><button type="button" data-toggle-chapter aria-expanded="false">Tüm sahneleri aç</button></div>
+     <div class="scene-toolbar"><span>${(c.scenes||[]).length} sahne kaydı</span><div class="scene-actions"><button type="button" data-return-chapters aria-label="Bölüm seçimine dön">↑ Bölüm seçimi</button><button type="button" data-toggle-chapter aria-expanded="false">Tüm sahneleri aç</button></div></div>
      <div class="scene-stack">${(c.scenes||[]).map(sceneCard).join('')}</div>
      ${c.points?.length?`<details class="chapter-points"><summary>Bu bölümün genel kanon kararları (${c.points.length})</summary>${list(c.points)}</details>`:''}
    </article>`).join('')}</div></div>`;
@@ -208,6 +208,15 @@ function bindings(){
       }
       return;
     }
+    const back=ev.target.closest('button[data-return-chapters]');
+    if(back){
+      const index=document.querySelector('.chapter-jumps');
+      if(index){
+        index.scrollIntoView({behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'});
+        index.focus({preventScroll:true});
+      }
+      return;
+    }
     const expand=ev.target.closest('button[data-toggle-chapter]');
     if(expand){
       const section=expand.closest('.chapter'),scenes=[...section.querySelectorAll('details.scene')];
@@ -257,6 +266,11 @@ function bindings(){
   window.addEventListener('hashchange',parseHash);
   window.addEventListener('popstate',parseHash);
   $('homeBrand').addEventListener('click',e=>{e.preventDefault();closeSearch();nav('anasayfa');});
+  document.querySelector('.skip').addEventListener('click',e=>{
+    e.preventDefault();
+    $('content').focus({preventScroll:true});
+    $('content').scrollIntoView({block:'start'});
+  });
   document.addEventListener('keydown',e=>{
     if(e.key==='Escape'&&!$('headerSearch').hidden){e.preventDefault();closeSearch();$('searchToggle').focus();return;}
     if(e.key==='Escape'&&$('mainNav').classList.contains('is-open')){
