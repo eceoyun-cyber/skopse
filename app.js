@@ -5,7 +5,7 @@ const $=id=>document.getElementById(id);
 const names={sehir:'Şehir',karakterler:'Karakterler',sirketler:'Şirketler',zaman:'Zaman Çizelgesi',sozluk:'Sözlük',bolumler:'Bölümler ve Sahneler'};
 const esc=x=>String(x??'').replace(/[&<>"']/g,s=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[s]));
 const norm=s=>String(s??'').toLocaleLowerCase('tr').normalize('NFD').replace(/[\u0300-\u036f]/g,'');
-const imagePath=e=>(e?.image||world.images?.[e?.id]||'').replace(/^assets\//,'');
+const imagePath=e=>{const src=(e?.image||world.images?.[e?.id]||'').replace(/^assets\//,'');return /^MEKAN_.*_KESIN\.webp$/.test(src)?src+'?v=hires1254q97':src;};
 const image=(e,cls='',loading='lazy')=>{let src=imagePath(e);return src?`<img class="${cls}" src="${esc(src)}" data-fallback="${esc(world.imageFallbacks?.[e?.id]||'')}" loading="${loading}" alt="${esc(e.name)}">`:''};
 const link=(pg,id)=>`#${pg}${id?'/'+encodeURIComponent(id):''}`;
 const makeButton=(pg,id,body,cls='')=>`<button class="${cls}" type="button" data-page="${pg}" ${id?`data-id="${esc(id)}"`:''}>${body}</button>`;
