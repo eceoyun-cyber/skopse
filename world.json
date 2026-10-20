@@ -1880,7 +1880,7 @@
       "number": "01",
       "title": "Başlatma",
       "status": "Taslak / açılış",
-      "summary": "Skopse'nin sel ve sınıf ayrımıyla bölünmüş dünyasında Nil Clayton, üç gündür kayıp abisi Clark'ın izini sürer. Clark'ın bahsettiği ve bir hafta kadar önce Cen.net'ten çıkarılmış Aras Stojanovski'yi çevrim içi paylaşımlarından Diadolas Yaşam Merkezi'ne kadar takip eder. Aras kaçınca otoparkta önünü keser; onu etkisiz hâle getirip gözlerden uzak bir yerde sorgular. Aras, yaklaşık bir ay önce Clark'ın kendi erişim kayıtlarını sildiğini gördüğünü, bunu raporladığını ve ardından işinden olduğunu anlatır. Nil Aras'ı serbest bırakır; Cen.net'e yönelik kuşkusu artar.",
+      "summary": "Skopse'nin sel ve sınıf ayrımıyla bölünmüş dünyasında Nil Clayton, üç gündür kayıp abisi Clark'ın izini sürer. Clark'ın bahsettiği ve bir hafta kadar önce Cen.net'ten çıkarılmış Aras Stojanovski'yi çevrim içi paylaşımlarından Diadolas Yaşam Merkezi'ne kadar takip eder. Aras kaçınca otoparkta önünü keser; hazırlıklı getirdiği elektroşok cihazıyla etkisiz hâle getirip gözlerden uzak bir yerde sorgular. Aras, yaklaşık bir ay önce Clark'ın kendi erişim kayıtlarını sildiğini gördüğünü, bunu raporladığını ve ardından işinden olduğunu anlatır. Nil Aras'ı serbest bırakır; Cen.net'e yönelik kuşkusu artar.",
       "points": [
         "Skopse açılışı: Onj'un taşkınları, Yeni Şehir'i koruyan sel duvarları ve Eski Şehir'in yükü; her sahneyi yağmurlu/neonlu anlatma.",
         "Nil 24, Clark 38 yaşında; Clark üç gündür eve dönmüyor. Nil soğukkanlı, gözlemci, araştırmacı ve esprili; dövüş uzmanı değil.",
@@ -1930,7 +1930,7 @@
           "atmosphere": "Yeni Şehir'in güvenli yüzeyi altında hızlanan gerilim.",
           "events": [
             "Nil 'Aras Stojanovski?' ve 'Clark Clayton hakkında birkaç sorum var' diye yaklaşır.",
-            "Aras onu şirketin yolladığını sanıp kaçar; Nil otoparkta önünü kesip etkisiz hâle getirir."
+            "Aras onu şirketin yolladığını sanıp kaçar; Nil, yanında getirdiği elektroşok cihazı ve kelepçeyle önceden hazırlıklıdır, otoparkta yolunu keser ve elektroşok cihazıyla etkisiz hâle getirir."
           ],
           "dialogue": [
             "Nil: 'Aras Stojanovski?'",
@@ -1952,7 +1952,10 @@
             "Aras bir ay önce Clark'ın erişim loglarını sildiğini gördüğünü; bildirdikten sonra işinden olduğunu anlatır.",
             "Nil onu serbest bırakır."
           ],
-          "authorSecret": "Cen.net Nil'in soruşturmasını fark eder ve Aras'ı öldürtür; Nil henüz bilmez."
+          "authorSecret": "Cen.net Nil'in soruşturmasını fark eder ve Aras'ı öldürtür; Nil henüz bilmez.",
+          "open": [
+            "Otoparkın kamera düzeni ve Aras'ın ağaçlıklı sorgu noktasına nasıl götürüldüğü henüz kesinleştirilmedi."
+          ]
         }
       ]
     },
