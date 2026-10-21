@@ -1,8 +1,8 @@
 # SKOPSE — Kitap I / Sahne Atlası
 
-> **Atlas 4.6 · 21 Ekim 2026 · 12 bölüm / 59 sahne**
+> **Atlas 4.7 · 21 Ekim 2026 · 12 bölüm / 66 sahne**
 >
-> Bu belge, Atlas 4.6 `world.json → chapters[].scenes` kayıtlarından türetilmiştir. Karar 46–76 mevcut 59 sahnenin içine işlendi; yeni sahnelerin eklenmesi ayrı ikinci adımda yapılacak. Her sahne **karakterler, mekân, atmosfer, olaylar** olarak ayrılmıştır. Kesinleşmemiş ayrıntılar **AÇIK**; okura erken açıklanmaması gereken bilgiler **YAZAR SIRRI** olarak işaretlidir. Replik notlarının bir kısmı kesin sözler, bir kısmı henüz üslup taslağıdır. İçeriği yaratıcı süreç dışında *tamamlanmış roman metni* olarak değerlendirmeyin.
+> Bu belge, Atlas 4.7 `world.json → chapters[].scenes` kayıtlarından türetilmiştir. Karar 46–76 mevcut 59 sahneye uygulandı; ikinci aşamada 7 ara sahne eklenerek plan 66 sahneye çıkarıldı. Mevcut 59 sahnenin numaraları korunmuştur. Her sahne **karakterler, mekân, atmosfer, olaylar** olarak ayrılmıştır. Kesinleşmemiş ayrıntılar **AÇIK**; okura erken açıklanmaması gereken bilgiler **YAZAR SIRRI** olarak işaretlidir. Replik notlarının bir kısmı kesin sözler, bir kısmı henüz üslup taslağıdır. İçeriği yaratıcı süreç dışında *tamamlanmış roman metni* olarak değerlendirmeyin.
 >
 > **Yazar sırrı / okurdan saklanacak:** Nil'in Hamlet çipi ameliyatta çıkarılsaydı Nil kesinlikle ölecekti; bunu o anda karakterler (Hamlet dahil) ve okur bilmez.
 
@@ -352,7 +352,7 @@
 
 ## 06. Bağlantı Kuruldu
 
-**Genel özet:** Cennet Ağacı'na girmek için fiziksel beceri ve Cen.net güvenliğini bilen birine ihtiyaç duyan Nil, çocukluk dostu Blake'e ulaşır. Nil ve Julian Eski Şehir kilisesinin yanındaki sokaktan motosikletle Batak'a yönelir; para isteyen sokak çetelerine Blake'i tanıdıklarını söylemelerine rağmen şüpheyle bağlanıp Blake'in yeraltı kulübüne götürülür. Blake'le tekrar bir araya gelen Nil, özel konuşmada Vesna'nın öldürülmesiyle ilgili delilleri kendisinin sildiğini açıklar; Blake bir şey saklandığını zaten sezmiş, iki yıldır Cen.net'e karşı eylemler yürütmüştür. Ardından Cen.net özel birlikleri Nil'i ele geçirmek için Sifon'a baskın yapar; bunu karakterler henüz kanıtlayamaz. Baskın Sifon'da ciddi hasara, yaralılara ve götürülen insanlara yol açar ancak dayanıklı topluluk yılbaşından önce büyük ölçüde toparlanana dek onarım ve kayıp arayışını sürdürür. Üçlü, Blake'in örgütlediği savunmanın yardımıyla kaçıp Julian'ın önerdiği gizli villaya yönelir. Villa Cen.net'ten gizlidir fakat Angels'ın bildiği bir mülktür. Blake ve Nil'in gençliklerinde kısa romantik/fiziksel geçmişi vardır ama Sifon'daki karşılaşma bunu hemen açık etmez. Sifon saldırısı uzun süren onarım ve kayıplar bırakır.
+**Genel özet:** Cennet Ağacı'na girmek için fiziksel beceri ve Cen.net güvenliğini bilen birine ihtiyaç duyan Nil, çocukluk dostu Blake'e ulaşır. Nil ve Julian Eski Şehir kilisesinin yanındaki sokaktan motosikletle Batak'a yönelir; para isteyen sokak çetelerine Blake'i tanıdıklarını söylemelerine rağmen şüpheyle bağlanıp Blake'in yeraltı kulübüne götürülür. Blake'le tekrar bir araya gelen Nil, özel konuşmada Vesna'nın öldürülmesiyle ilgili delilleri kendisinin sildiğini açıklar; Blake bir şey saklandığını zaten sezmiş, iki yıldır Cen.net'e karşı eylemler yürütmüştür. Ardından Cen.net özel birlikleri Nil'i ele geçirmek için Sifon'a baskın yapar; bunu karakterler henüz kanıtlayamaz. Baskın Sifon'da ciddi hasara, yaralılara ve götürülen insanlara yol açar ancak dayanıklı topluluk yılbaşından önce büyük ölçüde toparlanana dek onarım ve kayıp arayışını sürdürür. Üçlü, Blake'in örgütlediği savunmanın yardımıyla kaçıp Julian'ın önerdiği gizli villaya yönelir. Villa Cen.net'ten gizlidir fakat Angels'ın bildiği bir mülktür. Blake ve Nil'in gençliklerinde kısa romantik/fiziksel geçmişi vardır ama Sifon'daki karşılaşma bunu hemen açık etmez. Sifon saldırısı uzun süren onarım ve kayıplar bırakır. Sifon kulübünün gece yaşantısı ve Blake'in yeraltı topluluğuyla ilişkisi, Vesna itirafı öncesinde ayrı bir sahnede görünür olur.
 
 ### Sahne 06.01 — Blake'i seçmek
 
@@ -400,6 +400,25 @@
 **Konuşma / replik notları:**
 - Blake: 'Kimleri görüyorum?'
 - Nil: 'Hah ya, uzun zaman oldu.'
+
+### Sahne 06.03a — Sifon'un gece yüzü
+
+**Karakterler:** Nil Clayton; Julian Junes; Blake; Sifon sakinleri
+
+**Mekan:** Sifon; yeraltı kulübünün ana salonu ve yan geçitleri
+
+**Atmosfer:** Sert müzik, sıcak ve ağır hava, içki ve yasadışı ticaretin arasına karışan tanışıklık ve dayanışma; ne romantize edilmiş sefalet ne de tek boyutlu suç yuvası.
+
+**Olaylar:**
+- Blake ellerini çözdürdüğü Nil ile Julian'ı kulübün içinden geçirirken iki şehrin ayrıcalık farkı davranışlarda ortaya çıkar; Julian mekanın kalabalığına alışık değildir ama bunu küçük düşürücü bir söz düellosuna dönüştürmez.
+- İçki, yasadışı maddeler, ufak kumar masaları, tek gecelik yakınlaşmalar ve arka koridordaki sert bir tartışma çevrenin olağan parçalarıdır; aynı insanlar yaralı bir komşuya yer açar veya ihtiyaç sahibine yiyecek iletir.
+- Blake kulübün yalnız patronu gibi değil, çevresindeki insanları tanıyan ve ihtiyaçlarını bilen biri olarak görünür; güvenlikçiler, çalışanlar ve sokak sakinleri ona farklı nedenlerle başvurur.
+- Nil yıllar önce bildiği Sifon'la şimdiki hali arasındaki farkları gözlemler ama Blake'le eski romantik geçmişi henüz okura açıklanmaz.
+- Julian kısa süreliğine uzaklaştırılınca Nil ile Blake'in Vesna hakkında özel konuşabileceği ortam oluşur; bir sonraki sahnedeki itirafın duygusal ağırlığına yumuşatıcı espri eklenmez.
+
+**Ek kararlar:**
+- 06.04'teki özel Vesna itirafının hemen önünde; zaman akışı baskın öncesindeki aynı gecedir.
+- Nil–Blake geçmişini 7. bölümdeki ikinci Sifon ziyaretinden önce açık etme.
 
 ### Sahne 06.04 — Blake'e Vesna itirafı
 
@@ -463,13 +482,14 @@
 - Cen.net'in baskında gerçek hedefi Nil'dir (YAZAR SIRRI). Sifon'da hasar, yaralı ve gözaltılar olur; topluluk alışık ve hazırlıklı olsa da ancak yılbaşından önce büyük ölçüde toparlanır. Havuzlu Angels villası Cen.net'e gizli ama Angels tarafından bilinir.
 - Nil ve Blake gençliklerinde kısa süre romantik/fiziksel yakınlaşmış, arkadaşlığı korumak için bırakmış, Vesna olayından sonra iki yıl uzaklaşmıştır; bu ilk buluşmada doğrudan açığa vurulmaz.
 - Sifon saldırısının yaralı, kayıp ve hasar sonuçları vardır; hemen toparlanmaz, ancak yılbaşından önce büyük ölçüde onarılır.
+- Eklenen 06.03a, Sifon'un baskın öncesi gece hayatını ve Blake'in topluluktaki rolünü gösterir; Vesna itirafının önüne yerleşir, romantik geçmişi erkenden ifşa etmez.
 
 
 ---
 
 ## 07. Gizli Ağ
 
-**Genel özet:** Nil, Julian ve Blake, Yeni Şehir çevresindeki gizli villada 31 Aralık'ta Cen.net'in 99. katında yapılacak maskeli yılbaşı balosunu hedefleyen planı geliştirir. Blake yüksek katlardaki güvenlik düzenini, Julian şirket içindeki deneyimini paylaşır; ikisi Nil'den ve Blake'ten farklı bilgiler saklar. Julian, Nil'e Nephilim olduğunu ve melek annesinin yıllardır bilinmeyen bir yerde hapsedildiğini anlatır. Nil ve Blake Sifon'a dönerek baskında bir kadının arandığını öğrenir. Nadejda'nın 'Ölü Frekans' falı Nil'de ikinci bir sinyal sezerek Hamlet'e işaret eder. Nil ve Blake, eskiden yaşadığı evin gözetim altında olduğunu da görür. Blake ve Julian Cen.net yüzü olma meselesinde iğneleyici biçimde çatışır. 15–16 yaşındaki Kemal baskına tanıktır, götürülenlerin izini sürer. Nil'in evi Cen.net ve Angels tarafından birbirinden bağımsız gözetlenir; Nil yalnız Cen.net'i sanır. Balo davetinin tuzak olup olmadığı açık kalır. Baskının etkileri Nil ve Blake'in ikinci Sifon ziyaretinde sürmektedir; Nil o sırada eski romantik geçmişlerinden bir anı hatırlar ya da doğal bir konuşma okura bunu açık eder. Kemal kendi sokak çocukları ağıyla tehlikeye girer. Villadaki bir ay sosyal hayatla, iş ve özel yaşamın karışmasıyla geçer; Julian kendi Nephilim varoluşunun Angels'taki yasaklığını bilir.
+**Genel özet:** Nil, Julian ve Blake, Yeni Şehir çevresindeki gizli villada 31 Aralık'ta Cen.net'in 99. katında yapılacak maskeli yılbaşı balosunu hedefleyen planı geliştirir. Blake yüksek katlardaki güvenlik düzenini, Julian şirket içindeki deneyimini paylaşır; ikisi Nil'den ve Blake'ten farklı bilgiler saklar. Julian, Nil'e Nephilim olduğunu ve melek annesinin yıllardır bilinmeyen bir yerde hapsedildiğini anlatır. Nil ve Blake Sifon'a dönerek baskında bir kadının arandığını öğrenir. Nadejda'nın 'Ölü Frekans' falı Nil'de ikinci bir sinyal sezerek Hamlet'e işaret eder. Nil ve Blake, eskiden yaşadığı evin gözetim altında olduğunu da görür. Blake ve Julian Cen.net yüzü olma meselesinde iğneleyici biçimde çatışır. 15–16 yaşındaki Kemal baskına tanıktır, götürülenlerin izini sürer. Nil'in evi Cen.net ve Angels tarafından birbirinden bağımsız gözetlenir; Nil yalnız Cen.net'i sanır. Balo davetinin tuzak olup olmadığı açık kalır. Baskının etkileri Nil ve Blake'in ikinci Sifon ziyaretinde sürmektedir; Nil o sırada eski romantik geçmişlerinden bir anı hatırlar ya da doğal bir konuşma okura bunu açık eder. Kemal kendi sokak çocukları ağıyla tehlikeye girer. Villadaki bir ay sosyal hayatla, iş ve özel yaşamın karışmasıyla geçer; Julian kendi Nephilim varoluşunun Angels'taki yasaklığını bilir. Bir aylık hazırlığın dışarıdaki sosyal yönü ve Sifon'daki sorumluluklar Yeni Şehir sanat ortamı, Kemal'in tehlikeli girişimi ve villadaki ortak gece üzerinden açılır.
 
 ### Sahne 07.01 — Havuzlu villada kuşku ve sırlar
 
@@ -487,6 +507,25 @@
 - Blake Julian'ın Cen.net için çalışmasını alaycı, doğrudan sorularla sorgular; Julian aristokratik ve keskin iğnelemelerle karşılık verir, Nil zaman zaman gerilimi yatıştırır. Blake iş birliğinin gerekliliğini kabul eder ama Julian'a henüz güvenmez.
 - Blake'in bastırdığı eski duyguları fark etmesi hızla kıskançlığa dönüşmez; Julian'a itirazının temelinde Cen.net ve Angels bağlantılarına güvensizliği vardır.
 - Julian'ın geniş sosyal çevresinde kısa ilişkiler ve çok sayıda flört vardır; Nil'le ilgisi derinleşmeye başladıkça diğerleriyle flörtü belirgin biçimde azalır.
+
+### Sahne 07.01a — Villa dışındaki hayat
+
+**Karakterler:** Nil Clayton; Julian Junes; Blake (adı geçen); Yeni Şehir davetlileri ve sanat çevresi
+
+**Mekan:** Yeni Şehir'de kamuya açık bir sanat mekanı ve çevresindeki sosyal alan; dönüşte villa
+
+**Atmosfer:** Korumalı zenginlik, sosyal sıcaklık taklidi ve kendini gösterme yarışının Nil'in gözlemci bakışıyla açığa çıkışı.
+
+**Olaylar:**
+- Julian gündelik Cen.net sorumluluklarını sürdürürken Nil, kamuya açık bir sanat etkinliği üzerinden onun çevresini ve sosyetenin davranış kurallarını gözlemler; bu ziyaret korumalı Cen.net binasına sızma değildir.
+- Julian sosyal çevresindekilerle eskiden olduğu gibi rahat ve flörtöz ilişki kurar. Nil bunun ona özgü bir davranış olduğunu bilir; ikisi arasında henüz öpüşme ya da ciddi bir itiraf yoktur.
+- Davet ortamındaki içki, pahalı maddelere dair imalar, bağış ve sanat üzerinden statü yarışı ile daha alt sınıfların görünmez emeği sahneye siner; tüm katılımcılar aynı klişe karakter olarak çizilmez.
+- Nil sanat çevresinden edindiği gözlemleri daha sonra 31 Aralık koleksiyon balosuna yönelik planlamada kullanmak üzere aklında tutar; sahnenin operasyonla somut bağı vardır.
+- Blake aynı sırada Sifon'un onarımı ve kayıplarıyla ilgilendiği için villada değildir; üçlünün bir ay boyunca farklı hayatlar sürdürdüğü gösterilir.
+
+**Ek kararlar:**
+- Nil'in görünürlüğünü gereksiz biçimde artıracak resmi Cen.net etkinliği veya biyometrik giriş icat etme.
+- Duygular henüz yavaş gelişmektedir; Julian'ın romantik ilgisi açık bir itiraf haline getirilmez.
 
 ### Sahne 07.02 — Cennet Ağacı'nın kat planı ve anahtar
 
@@ -550,6 +589,25 @@
 **AÇIK — henüz kesinleştirilmedi:**
 - Baskın emrindeki kadının Nil olduğuna dair kesin belge yok.
 
+### Sahne 07.04a — Kemal'in iz sürdüğü sokak
+
+**Karakterler:** Nil Clayton; Blake; Kemal; Kemal'in sokak arkadaşı; Cen.net güvenlik görevlileri (uzakta)
+
+**Mekan:** Sifon'un hasarlı çevre sokakları ve eski servis geçidi
+
+**Atmosfer:** Onarımın gürültüsü, yeraltı halkının inadı ve çocukların gözü kara girişiminin yarattığı somut tehlike.
+
+**Olaylar:**
+- İkinci Sifon ziyaretinde barınaklar ve kulüp hala onarılmaktadır; yaralılar ve gözaltına alınanların aileleri ortadadır. Yılbaşından önce büyük ölçüde toparlanacak olması bu andaki hasarı silmez.
+- Kemal, diğer sokak çocukları ve kuryeler üzerinden baskında götürülenlerden birinin olası sevk güzergahına dair bir iz toplar; kesin yer veya kurtarma planı elde etmez.
+- Blake'in bilgisi dışında bir arkadaşıyla güvenlik trafiğini izlemeye kalkışır; tecrübesizce aldığı karar yüzünden Cen.net görevlilerinin dikkatini kendilerine çeker.
+- Nil'in gözünden görülen kısa tehlike ve Blake'in saha bilgisiyle müdahalesi çocukları kurtarır veya görünmez kalmalarını sağlar; Kemal'in bilgisi tamamen boşa gitmez ama bir başkasını riske atmanın sonuçları görünür olur.
+- Blake, Kemal'in cesaretine saygı duyarken onu yetişkin savaşçı gibi değerlendirmez; Kemal ve arkadaşı henüz çocuktur. Nil'in bu yıkımdaki olası payına dair suçluluğu sessizce ağırlaşır.
+
+**Ek kararlar:**
+- Bu olay 7. bölümdeki ikinci Sifon ziyaretinin devamıdır; bağımsız Kemal bakış açısı yoktur.
+- Kemal kayıp kişiyi bulmaz ve Cen.net'in en büyük sırlarını çözmez.
+
 ### Sahne 07.05 — Nadejda'nın Ölü Frekans falı
 
 **Karakterler:** Nil Clayton; Nadejda; Blake
@@ -604,6 +662,25 @@
 - Julian şirket içinden bir arama emri olup olmadığını sorgulamayı önerir, Nil izlenebilir olacağı için reddeder.
 - Julian, Blake ve Nil'in doğal yakınlığından eskiden bir şeyler yaşamış olabileceklerini sezer; villada tesadüfen duyduğu imalı bir söz kuşkusunu artırır fakat kesin bir açıklama duymaz.
 
+### Sahne 07.07a — Gecenin sonunda üç kişi
+
+**Karakterler:** Nil Clayton; Julian Junes; Blake
+
+**Mekan:** Villa; ortak çalışma masası, mutfak ve havuz çevresi
+
+**Atmosfer:** Uzun hazırlık günlerinden sonra yavaşlayan ev hayatı; ortak bir hedef etrafında bir arada olup bambaşka geçmişler taşımanın sessizliği.
+
+**Olaylar:**
+- Nil ve Blake'in Sifon'dan getirdiği bilgiler ortak çalışma masasına taşınır; Julian kendi Cen.net temaslarından öğrendiklerini aktarır. Her biri henüz sakladığı bilgiler olduğunun farkındadır.
+- Gece boyunca çalışma kısa yemek, mutfak ve havuz kenarı karşılaşmalarıyla kesilir; villa yalnız romantik mahremiyet üretmek için değil yaşanılan bir ev olarak görülür.
+- Blake ile Nil'in kişisel alanı paylaşma ve dokunma alışkanlıkları eski dostluklarının doğal devamıdır; ikisi bu davranışları özel olarak yorumlamaz.
+- Julian, eski bir zamana yapılan yarım bir göndermeyi tesadüfen duyar ve aralarında geçmişte romantik bir şey olabileceğini sezer; kesin öğrenmez, konu açmaz.
+- Julian'ın Nil'e ilgisi yavaş ilerler; ağır annelik/aile sohbetinin hemen ardından zoraki espri veya romantik itiraf konmaz. Blake ise Nil-Julian çekimini fark etmez.
+
+**Ek kararlar:**
+- B+D baskın, A destek, C düşük yoğunlukta; tek gecenin içinde zorla uzun dramatik konuşmalar yaratma.
+- Julian'ın şüphesinin kaynağı gözlem ve belirsiz bir sözdür, kesin bilgi değildir.
+
 ### Bölümün diğer kesin kararları
 
 - Villa zengin konut bölgesinde havuzlu evdir; Julian işine Cen.net'te devam eder ve sık sık yoktur.
@@ -626,13 +703,14 @@
 - Julian'ın Nephilimliğinin Angels'ta yasak olduğu, tarihte başka Nephilimler olduğu, çocukluktan itibaren önce kendini günah görüp sonra istisna saydığı kanondur. Angels'ta kendisini savunacak gerçek dost çevresi yok; bir iki çocukluk tanıdığı var.
 - Julian Nil ve Blake'in arasında eskiden bir şeyler olabileceğini sezer, kesin öğrenmez. Kemal sokak çocukları ağıyla sevk ipucu ararken kendi başına davranıp bir arkadaşını tehlikeye atar; Sifon hala saldırıdan toparlanmaktadır.
 - Villa ay boyunca sadece operasyon alanı değildir; Julian'ın sosyete işleri, Blake'in Sifon onarımı ve Nil'in araştırmaları ve dışarıdaki yaşam sürer.
+- Eklenen 07.01a (Yeni Şehir'de gündelik sosyal hayat), 07.04a (Kemal'in riskli araştırması), 07.07a (villa gecesi) B+D ağırlıklı aylık ritmi ve sosyal sınıf karşıtlığını geliştirir. 07.04'teki Blake–Nil geçmişine ilişkin kısa hatırlama ve 07.03'teki Julian'ın annesine dair ağır konuşma korunur.
 
 
 ---
 
 ## 08. Yetki Yükseltme
 
-**Genel özet:** Üçlü, Cennet Ağacı'nın 31 Aralık maskeli balosuna ayrı kimliklerle sızma planını tamamlar. Julian davetiyle, Nil orijinal fiziksel davetiyesini elde ettiği yabancı bir sanat hamisinin kimliğiyle, Blake ise güvenlik personeli kılığıyla girecektir. Nil, gerçek haminin yılbaşında başka ülkedeki bir sanat etkinliğinde bulunacağını öğrenir; hizmetçisine çevrim içi rüşvet teklif ederek gerçek davetiyeyi teslim alır ve sanat koleksiyonuna hazırlanır. Blake iki aşamalı güvenlik kılığı planlar; analog frekanslı com-link'leri hazırlar, Nil cihazları uyarlar. Nil Blake'i bilinmeyen tehlikeler konusunda son kez uyarır. Davetiye Eski Şehir'deki isimsiz kiralık posta kutusuna bırakılır; sanat hamisi ve hizmetçisinin özel adları hâlâ açıktır. Bir aylık hazırlık içinde Julian ve Nil'in ilgisi artar, fakat villada öpüşmezler. Julian gerçek duygu hissettikçe her zamanki flört özgüvenini yitirir, diğerlerine ilgisi azalır; Julian, Nil ile Blake'in geçmişinden şüphelenir ama kesin bilmez.
+**Genel özet:** Üçlü, Cennet Ağacı'nın 31 Aralık maskeli balosuna ayrı kimliklerle sızma planını tamamlar. Julian davetiyle, Nil orijinal fiziksel davetiyesini elde ettiği yabancı bir sanat hamisinin kimliğiyle, Blake ise güvenlik personeli kılığıyla girecektir. Nil, gerçek haminin yılbaşında başka ülkedeki bir sanat etkinliğinde bulunacağını öğrenir; hizmetçisine çevrim içi rüşvet teklif ederek gerçek davetiyeyi teslim alır ve sanat koleksiyonuna hazırlanır. Blake iki aşamalı güvenlik kılığı planlar; analog frekanslı com-link'leri hazırlar, Nil cihazları uyarlar. Nil Blake'i bilinmeyen tehlikeler konusunda son kez uyarır. Davetiye Eski Şehir'deki isimsiz kiralık posta kutusuna bırakılır; sanat hamisi ve hizmetçisinin özel adları hâlâ açıktır. Bir aylık hazırlık içinde Julian ve Nil'in ilgisi artar, fakat villada öpüşmezler. Julian gerçek duygu hissettikçe her zamanki flört özgüvenini yitirir, diğerlerine ilgisi azalır; Julian, Nil ile Blake'in geçmişinden şüphelenir ama kesin bilmez. Sanat çevresinde inceleme ile balo rol provasının içinden geçen sosyal hayat, hazırlıkları tamamlar; ilk öpüşme henüz yaşanmaz.
 
 ### Sahne 08.01 — Yılbaşı balosu ve kılıklar
 
@@ -665,6 +743,25 @@
 - Rüşvetin finansal izi ve posta kutusu çevresindeki olası gözetim risk oluşturur; Nil bu riski bilerek kabul eder.
 - Sanat hamisi ile hizmetçisinin özel adları henüz kararlaştırılmadı (Karar 37 AÇIK).
 
+### Sahne 08.02a — Sanatın dolaştığı şehir
+
+**Karakterler:** Nil Clayton; Julian Junes; Yeni Şehir sanat çevresinden konuklar
+
+**Mekan:** Yeni Şehir; bağımsız sergi salonu ve çevresindeki akşam mekanları
+
+**Atmosfer:** Sanat eleştirisinin nezaketi ardındaki alım-satım, statü ve mahrem çıkarlar; konuşmadan doğan çekimin rahatsız edici açıklığı.
+
+**Olaylar:**
+- Nil, ele geçirdiği gerçek davetiyenin gerektireceği sanat bilgisi için kamusal ve Cen.net'ten bağımsız bir sergi salonunda eserleri gözlemler; bu çalışma sahte hamiliğin kurgulanmış biyometrik kayıtlarını yaratmaz.
+- Julian'ın çevresiyle bağlantılı birkaç kişi ortaya çıkar; bağış, koleksiyon, kokteyl ve gizli alışveriş ilişkilerinin konuşulma biçimleri Nil'e Yeni Şehir'in ahlaki düzeni hakkında somut fikir verir.
+- Julian tanıdıklarıyla doğal rahatlığını korumaya çalışırken Nil'le baş başa kaldığında normal flört refleksinin işlemediğini fark eder; Nil karşılık verir ama ikisinin de bunu büyük bir itirafa çevirmesi gerekmez.
+- Nil'in koleksiyon ayrıntılarını gündelik sohbet içinde sınaması sızma planındaki bilgi açığını kapatır; ikili villaya operasyon için işe yarar bir gözlemle döner.
+- Yüzler ve erişim kayıtlarının tehlikesi akılda tutulur: resmi Cen.net konuk listelerine yeni bir kayıt yapılmaz, 31 Aralık öncesi sahte sanat hamisinin kimliği denenmez ve öpüşme yaşanmaz.
+
+**Ek kararlar:**
+- Sosyete çevresinin tüm kişilerine isim ve uzun yan hikaye verme; işlevi bağımsız gerçek hayat ve operasyon hazırlığıdır.
+- Julian'ın etrafındaki yüzeysel flörtler azalmakta, Nil'e karşı gerçek duygusu ise artmaktadır.
+
 ### Sahne 08.03 — Sanat bilgisi, güvenlik katmanları
 
 **Karakterler:** Nil Clayton; Julian Junes; Blake
@@ -679,6 +776,25 @@
 - Julian'ın geçen yılki deneyimiyle Blake'in vardiya/koridor bilgisi birleştirilir.
 - İki uyuşturma eylemi plan aşamasında, fiilî uygulamaları 9. bölümde yapılacaktır.
 - Hazırlık süreci sırasında Julian ve Nil'in fiziksel çekimi yavaşça duygusal ilgiyle karışır; Julian gerçek duygular doğduğunda rahat flört edemez, Nil ise karşılık vermekte daha rahattır.
+
+### Sahne 08.03a — Kıyafet provası ve eksik sandalye
+
+**Karakterler:** Nil Clayton; Julian Junes; Blake; Kemal (haberleşmeyle adı geçen)
+
+**Mekan:** Villa; geçici planlama odası ve ortak yaşam alanı
+
+**Atmosfer:** Operasyon provasının gerginliği ile araya giren gerçek hayatın yükü; birlikte yaşamış olmanın rahatlığı.
+
+**Olaylar:**
+- Üçlü, balodaki rollerinin görsel ve davranışsal provasını yapar: Julian tanınan davetli, Nil sanat hamisi, Blake güvenlik görevlisi olarak farklı kapı ve katlardaki riskleri tartışır; aşamalı muhafız değiştirme planı henüz uygulanmaz.
+- Blake'in Sifon'dan aldığı haber, baskının hasarı ve Kemal'in tehlikeye girmesinin sonuçlarının sürdüğünü hatırlatır. Blake onarım ve kayıp arayışı için zaman zaman villadan ayrılmak zorundadır.
+- Julian'ın Cen.net ve sosyete işleri de sürmektedir; Nil onları bir arada tutan teknik araştırmayı yürütür. Aylık hazırlık, aralıksız evde oturmak yerine üç ayrı gündemin zorlanarak kesişmesidir.
+- Nil ve Blake'in eskiden gelen rahat işbirliği ve kişisel alan paylaşımı provasının içinde kendini gösterir. Julian şüphelerini kesinleştirecek bir itiraf duymaz; Blake ikisi arasındaki romantik gerilimi fark etmez.
+- Deneme sırasında fark edilen zayıf nokta 08.04'teki analog com-link uyarlaması ve Nil'in Blake'i tehlike hakkında son kez uyarması için zemin hazırlar.
+
+**Ek kararlar:**
+- 08.04'ün analog cihaz teslimi ve son uyarısını öne çekme.
+- Nil–Julian ilk öpüşmesi için baloyu bekle; villayı ilişki krizleri dizisine dönüştürme.
 
 ### Sahne 08.04 — Analog com-link ve son uyarı
 
@@ -712,13 +828,14 @@
 - Hizmetçi rüşvet karşılığında fiziksel davetiyeyi Eski Şehir'de kiralanan isimsiz posta kutusuna bırakır. Sanat hamisi ve hizmetçisinin özel isimleri AÇIK (Karar 37).
 - Villa yaşamında sosyal dış mekanlar ve işle karışan özel hayat ön plandadır; ev arkadaşlığı orta, mahrem anlar sınırlıdır. Nil–Julian öpüşmesi villada yoktur.
 - Julian gerçek duygular derinleştikçe diğerleriyle flört etmeyi azaltır ve Nil karşısında normal özgüvenli flörtünü sürdüremez. Blake iki arkadaş arasındaki çekimi fark etmez.
+- Eklenen 08.02a sanat çevresinin gündelik ilişkilerini, 08.03a görev provasına karışan Sifon sorumluluğunu gösterir. 08.04 analog com-link hazırlığı ve son uyarı korunur. Villada öpüşme yoktur.
 
 
 ---
 
 ## 09. Sızma
 
-**Genel özet:** 31 Aralık maskeli balosunda Nil sanat hamisi kimliğiyle koleksiyona girer; Julian güvenlik şefini içirip özel asansör anahtarını almaya uğraşır, ancak adam sarhoş olmaz. Maskeli Aurelian, kimliğini açıklamadan Nil'le sanat üzerine sohbet ederek onu yoklar; Hamlet 'Mısır' ve 'Firavun' sözcükleriyle Nil'e yardımcı olur. Blake iki muhafızın yerine geçerek güvenlik şefini uzaklaştırır. Üçlü şeytani güce sahip şefi güçlükle alt eder; Julian'ın kutsal yıldırımı onu yakarak öldürür. Blake ilk kez doğaüstünü görür. Anahtarla 100. kattaki CEO ofisine çıkarlar, Clark'ın Aurelian'la gerçekten görüştüğünü kanıtlayan kaydı bulurlar. Aurelian gelir; Clark'ın yerini gerçekten bilmediğini ve Nil'in kendisine yardım etmesini umduğunu söyler. Nil'in içindeki şey için iş birliği önerir, ret üzerine bedeninden zorla alacağını söyleyerek saldırır. Blake'in saldırı/anestezisi ve Julian'ın kutsal yıldırımı işlemez; yıldırım ofisin camlarını patlatır. Ölüm anında Hamlet'in 'Atla. Uç.' sesiyle Nil'in sırtından kanatlar çıkar; Julian ve Blake'i alıp 100. kattan uçarak kaçmayı başarır. Aurelian Nil'i Diadolas ve Sifon kayıtları, sanat kimliğindeki küçük açıklar ve Divine Senses ile tanır; çipin Hamlet olduğunu bilmez. Kaçış Yeni Şehir Onj kıyısına Hezarfen tarzı kontrollü olmayan uzun bir süzülüş ve servis çatısına sert inişle biter. Baloda Nil ve Julian bir şüpheyi dağıtmak için çift gibi rol yaparken gerçek ilk öpüşmelerini yaşar. Blake bunu fark etmez. Ardından çatışma ve kaçış öpüşmeyi konuşmalarını engeller.
+**Genel özet:** 31 Aralık maskeli balosunda Nil sanat hamisi kimliğiyle koleksiyona girer; Julian güvenlik şefini içirip özel asansör anahtarını almaya uğraşır, ancak adam sarhoş olmaz. Maskeli Aurelian, kimliğini açıklamadan Nil'le sanat üzerine sohbet ederek onu yoklar; Hamlet 'Mısır' ve 'Firavun' sözcükleriyle Nil'e yardımcı olur. Blake iki muhafızın yerine geçerek güvenlik şefini uzaklaştırır. Üçlü şeytani güce sahip şefi güçlükle alt eder; Julian'ın kutsal yıldırımı onu yakarak öldürür. Blake ilk kez doğaüstünü görür. Anahtarla 100. kattaki CEO ofisine çıkarlar, Clark'ın Aurelian'la gerçekten görüştüğünü kanıtlayan kaydı bulurlar. Aurelian gelir; Clark'ın yerini gerçekten bilmediğini ve Nil'in kendisine yardım etmesini umduğunu söyler. Nil'in içindeki şey için iş birliği önerir, ret üzerine bedeninden zorla alacağını söyleyerek saldırır. Blake'in saldırı/anestezisi ve Julian'ın kutsal yıldırımı işlemez; yıldırım ofisin camlarını patlatır. Ölüm anında Hamlet'in 'Atla. Uç.' sesiyle Nil'in sırtından kanatlar çıkar; Julian ve Blake'i alıp 100. kattan uçarak kaçmayı başarır. Aurelian Nil'i Diadolas ve Sifon kayıtları, sanat kimliğindeki küçük açıklar ve Divine Senses ile tanır; çipin Hamlet olduğunu bilmez. Kaçış Yeni Şehir Onj kıyısına Hezarfen tarzı kontrollü olmayan uzun bir süzülüş ve servis çatısına sert inişle biter. Baloda Nil ve Julian bir şüpheyi dağıtmak için çift gibi rol yaparken gerçek ilk öpüşmelerini yaşar. Blake bunu fark etmez. Ardından çatışma ve kaçış öpüşmeyi konuşmalarını engeller. Anahtar planının ilk hamlesi başarısız olduktan sonra Nil ile Julian güvenlik şüphesini dağıtmak için flört rolüne girer; gerçek ilk öpüşmeleri bu anda olur ve üzerine ilk kitapta hiç konuşamazlar.
 
 ### Sahne 09.01 — 99. kata üç ayrı giriş
 
@@ -751,6 +868,26 @@
 - Julian cihaz üzerinden Nil/Blake'e durumun işe yaramadığını anlatır.
 
 **YAZAR SIRRI (okura erken açıklanmayacak):** Şef şeytandır; bu aşamada üçlü bunun farkında değildir.
+
+### Sahne 09.02a — Maskenin ardındaki oyun
+
+**Karakterler:** Nil Clayton; Julian Junes; Balo davetlileri; Güvenlik görevlisi (uzakta)
+
+**Mekan:** Cennet Ağacı 99. kat; balo salonuyla yan galeri arasındaki geçit
+
+**Atmosfer:** Yüksek sosyete gösterisinin ortasında taktiksel rolün beklenmedik bir kişisel itirafa yaklaşması; ışıltılı fakat huzursuz.
+
+**Olaylar:**
+- Julian güvenlik şefini içirerek anahtarı alma girişiminin sonuç vermediğini fark ettikten sonra kısa süreliğine Nil'le yeniden buluşur. Blake hala ayrı güvenlik görevi üzerindedir.
+- Nil'in bulunduğu bölümde bir güvenlik görevlisinin uzun süre bakması veya kimliğiyle ilgili kuşkulu ilgisi ikisini alarma geçirir; henüz tam kimlik tespiti olmaz, görevlilerin hepsi Aurelian'ın bildiklerini bilmez.
+- Julian ile Nil, yüksek sosyetede rahatsız edilmemesi beklenen flört eden çift görünümü vererek dikkatleri kimlik kontrolünden uzaklaştırmayı dener; rolün bir parçası olan ilk öpüşmeleri beklenmedik biçimde gerçek çekimi açığa çıkarır.
+- Julian'ın normalde çok rahat yaptığı flört bu kez onu hazırlıksız bırakır; Nil de anın gerçekliğini fark eder. Ancak görev sürdüğü için konuşmayı ertelemek zorunda kalırlar.
+- Ardından Julian anahtar için başka yol ararken Nil koleksiyona döner ve 09.03'te maskeli Aurelian'la sanat sohbetine girer. CEO çatışması, kaçış, melekler ve klinik nedeniyle bu öpüşme ilk kitapta bir daha konuşulmaz; Blake de fark etmez.
+
+**Ek kararlar:**
+- Bu öpüşme 9. bölümdeki ilk ve tek kesin öpüşmedir; yeniden villa geçmişine eklenmez.
+- Aurelian'ın Nil'i önceden kısmen tanımış olduğuna ilişkin mevcut yazar sırrını bozma: güvenlik görevlisinin şüphesi onun bilgi düzeyini gerektirmez.
+- Nil ve Julian'ın eylemini erotik sahne uzatmasına değil kısa fakat yoğun bir ritim değişikliğine dönüştür.
 
 ### Sahne 09.03 — Maskeli sanat sohbeti
 
@@ -897,6 +1034,7 @@
 - Julian ile Nil baloda dikkat dağıtmak amacıyla rol yaparken ilk kez öpüşür; öpüşme gerçek hislere dönüşür, sonrasında çatışma/kaçış/hapishane yüzünden ilk kitapta üzerine konuşulmaz, Blake hiç fark etmez.
 - Yeni Şehir'in elit gece hayatı alkol, uyuşturucu, güç ilişkileri ve ayrıcalıkların kötüye kullanımıyla yaşanmış bir sosyal dünya olarak görülür.
 - Kanatlanma ve iki kişiyi taşıyarak süzülme Nil'i kısa süreli yorar; daha kalıcı etki bedene yabancılaşma ve kontrol kaybı korkusudur.
+- Eklenen 09.02a, 09.02'de anahtarı içirerek alma denemesi sonuçsuz kaldıktan ve 09.03'te maskeli Aurelian'la sanat sohbetinden önce Nil–Julian ilk öpüşmesini taktiksel rolün içinden doğurur; ardından konuşamazlar. Blake bilmez.
 
 
 ---
