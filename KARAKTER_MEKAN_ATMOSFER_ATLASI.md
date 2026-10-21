@@ -115,7 +115,7 @@ Nil'in 26 yaşındaki çocukluk dostu; Vesna'nın ölümü sonrası iki yıldır
 
 **Yetenekler:** Saha takibi, güvenlik planlama, muhafız kıyafetiyle sızma, uyuşturma/anestezi uygulama, eski mekanik kilit açma, kaynak ve insan ağı yönetme. NEXARIEL merkezinde gözlemleri ve insan hizmetkâr sorgularıyla gizli girişe ulaşır; Nil ve Julian'ın hücrelerini kendisi açar. Kilise personelini sistematik izler, bakım görevlilerini ve hizmetkârları sorgular; kılık değiştirerek ana asansör yerine tarihî bakım tünellerinden girer. Julian'la Nil'i seradan kilisenin arka demir servis kapısına ulaştırır.
 
-**Kararlar / sırlar / açıklık:** Birinci kitap sonunda Blake'in hedefi melek-şeytan düzeninin gizli gerçeklerini halka duyurmak ve devrimci mücadeleyi sürdürmektir. Kemal genç sokak arkadaşıdır; sahnesi açık.
+**Kararlar / sırlar / açıklık:** Birinci kitap sonunda Blake'in hedefi melek-şeytan düzeninin gizli gerçeklerini halka duyurmak ve devrimci mücadeleyi sürdürmektir. Kemal 15–16 yaşındaki sokak arkadaşıdır; 7. bölümde baskına tanıklığı, kayıpların izini sürmesi ve Nil'le tanışması kesinleşmiştir.
 
 ### NEXARIEL
 
@@ -647,7 +647,7 @@ Tarihî kiliseye bağlı botanik sera. Nil ve Julian'ın tek başlarına bulundu
 
 **Mimari / işlev / olay:** Nil Vesna cinayetinde dijital delilleri sildiğini ve Blake'e yalan söylediğini itiraf eder; sonra yeraltı geçişi gelir.
 
-**Açık notlar:** Sınav sırasında uyuyakalma önerisi kesinleşmedi. Üçüncü sınavın itirafından sonra Nil burada uykuya dalar; Julian yanında sessizce bekler. 11. bölümde kaçış rotası yine seradan geçer.
+**Açık notlar:** Üçüncü sınavın itirafından sonra Nil burada uykuya dalar; Julian yanında sessizce bekler. 11. bölümde kaçış rotası yine seradan geçer.
 
 ### NEXARIEL Yeraltı Merkezi
 
