@@ -1,6 +1,6 @@
 # SKOPSE — Karakterler, Mekânlar ve Atmosfer Kararları
 
-> Atlas 4.6 · 21 Ekim 2026. Ana veri kaynağı `world.json`. Bu dosya görselleri değil, metinsel kanon kararlarını içerir. Kararlaştırılmamış isim, kimlik, mekân adresi veya güç mekanizması **AÇIK** kabul edilir. Geçmiş ve gelecek olaylara dair yazar sırları açıkça işaretlenmeden romanın ilk bölümlerine taşınmaz.
+> Atlas 4.7 · 21 Ekim 2026. Ana veri kaynağı `world.json`. Bu dosya görselleri değil, metinsel kanon kararlarını içerir. Kararlaştırılmamış isim, kimlik, mekân adresi veya güç mekanizması **AÇIK** kabul edilir. Geçmiş ve gelecek olaylara dair yazar sırları açıkça işaretlenmeden romanın ilk bölümlerine taşınmaz.
 
 ## Karakterler (18)
 
@@ -95,7 +95,7 @@ Yaklaşık iki yüzyıllık Nephilim, Cen.net'in kusursuz fakat akılda tutulmas
 
 **Yetenekler:** Doğaüstü güzelliği sıradan insanlarca kusursuz algılanırken yüzünün hatırlanmasını güçleştirir. Nil'in 200 yıllık fotoğraflarda onu ayırt edebilmesi Hamlet'e bağlıdır, henüz ikisi de bilmez. Atmosfer/hava kontrolü ve avucundan fırlattığı kutsal alevli yıldırım vardır; yıldırım alt düzey şeytan olan şefi öldürür ama Aurelian'ı yaralayamaz.
 
-**Kararlar / sırlar / açıklık:** 7. bölümde Nephilim geçmişini Nil'e açıklar, Blake'ten saklar. 9. bölümde Blake'in önünde yıldırım kullanır. 10. bölümde Nil'i savunur, onunla beraber hapsedilir. 11. bölümde annesinin nerede tutulduğunu kendi kendine sorar ve kaçış geçitlerini bilir. Birinci kitap sonunda annesini bulmaya karar verir. Eski Şehir kilisesinden NEXARIEL'e iniş sera–kilise–taş geçit–modern asansör üzerindendir. Meleklerin bildiği, Cen.net'ten gizli lüks villayı güvenli sayar; meleklerle kopuşun ardından artık güvenli sayılmaz. 7. bölümde fotoğraflar hakkında Nil'in sorusundan sonra ailesinin geçmişini anlatır. 11. bölüm kaçışında botanik seraya çıkan eski yolları bilir. Julian'ın Angels kurallarını uygulaması yalnız kişisel rekabet veya kıskançlıktan kaynaklanmaz. Çatıdaki tartışmada Blake'e 'sınavları geçmedin, gelemezsin' diyerek girişini engeller; Blake sınavlara daha önce girmemiştir, hatta bu sınavlardan yeni haberdar olur. Julian'ın Angels içinde bulunması yasak Nephilim statüsünün kabul gördüğü anlamına gelmez; insan da tam melek de olmadığı için daha alt rütbeli meleklerin alayını veya kıskançlığını çeker. Julian önce NEXARIEL'in otoritesini reddeder; diğer başmelekleri bilmediği için nihai hükmünü vermez.
+**Kararlar / sırlar / açıklık:** 7. bölümde Nephilim geçmişini Nil'e açıklar, Blake'ten saklar. 9. bölümde Blake'in önünde yıldırım kullanır. 10. bölümde Nil'i savunur, onunla beraber hapsedilir. 11. bölümde annesinin nerede tutulduğunu kendi kendine sorar ve kaçış geçitlerini bilir. Birinci kitap sonunda annesini bulmaya karar verir. Eski Şehir kilisesinden NEXARIEL'e iniş sera–kilise–taş geçit–modern asansör üzerindendir. Meleklerin bildiği, Cen.net'ten gizli lüks villayı güvenli sayar; meleklerle kopuşun ardından artık güvenli sayılmaz. 7. bölümde fotoğraflar hakkında Nil'in sorusundan sonra ailesinin geçmişini anlatır. 11. bölüm kaçışında botanik seraya çıkan eski yolları bilir. Julian'ın Angels kurallarını uygulaması yalnız kişisel rekabet veya kıskançlıktan kaynaklanmaz. Çatıdaki tartışmada Blake'e 'sınavları geçmedin, gelemezsin' diyerek girişini engeller; Blake sınavlara daha önce girmemiştir, hatta bu sınavlardan yeni haberdar olur. Julian'ın Angels içinde bulunması yasak Nephilim statüsünün kabul gördüğü anlamına gelmez; insan da tam melek de olmadığı için daha alt rütbeli meleklerin alayını veya kıskançlığını çeker. Julian önce NEXARIEL'in otoritesini reddeder; diğer başmelekleri bilmediği için nihai hükmünü vermez. 09.02a sahnesi baloda Nil'le ilk öpüşmesini 09.02 anahtar başarısızlığı ile 09.03 maskeli Aurelian sohbetinin arasına yerleştirir. Daha önce villada öpüşmezler.
 
 ### Blake
 
@@ -308,7 +308,7 @@ Blake'in Sifon çevresinde dostluk kurduğu genç sokak çocuğu; 7. bölümde S
 
 **Yetenekler:** Çevreyi, insan ağını ve gizli geçitleri bilir; baskın sırasında saklanıp askerlerin bir kadın aradığını duyar, sonra Cen.net'in götürdüğü insanların izini ve isimlerini toplar. Kayıpları araştırırken kendi başına hareket eder, bir arkadaşını da tehlikeye atar; önemli bir sevk ipucuna yaklaşır ancak Cen.net'in dikkatini çekerek başını belaya sokar. Bunun bedeli ve Blake'in müdahalesi ileriki sahne ayrıntılandırmasında ele alınacak; tek başına büyük sırları çözmez.
 
-**Kararlar / sırlar / açıklık:** Sifon baskınından sonra haber taşır, yaralılarla ve mahalle onarımıyla ilgilenir; baskında aranan kadının Nil olduğuna dair kesin bilgisi yoktur.
+**Kararlar / sırlar / açıklık:** Sifon baskınından sonra haber taşır, yaralılarla ve mahalle onarımıyla ilgilenir; baskında aranan kadının Nil olduğuna dair kesin bilgisi yoktur. 07.04a sahnesi Kemal'in yaşıtı bir sokak çocuğunu da tehlikeye atan bağımsız takibinin görünür sonucudur; olay Nil ve Blake'in katılımıyla, tek başına önemli bütün sırları çözmeden kalır.
 
 ### Cen.net Özel Güvenlik Şefi
 
@@ -435,7 +435,7 @@ Eğlence yatları, kıyı restoranları ve nehir manzaralı konutları elektroni
 
 **Mimari / işlev / olay:** Yüksek geçitler, ayrılmış ulaşım ağları, kurumsal hizmetler.
 
-**Açık notlar:** Tünek Yeni Şehir’in tamamı değil, en yüksek gökdelenlerin olduğu özel bölgedir. Taşkın yardım galası Tünek'teki lüks oteldedir; Julian'la ertesi günkü kafe normalde kalabalık olan Onj yakınında Yeni Şehir'dedir. Kanatların ilk inişi de bu kıyıdaki terk edilmiş servis yapısının çatısıdır. Yeni Şehir'in lüks davetlerinde pahalı uyuşturucular, gizli ilişkiler, içki, statü için yürütülen ilişkiler, ayrıcalık istismarı ve aristokratik ikiyüzlülük arka plan süsü değil, insanların hayatlarının parçasıdır. Eski Şehir'le yozlaşma biçimlerini karşıt ama tek boyutlu olmayan şekilde göster.
+**Açık notlar:** Tünek Yeni Şehir’in tamamı değil, en yüksek gökdelenlerin olduğu özel bölgedir. Taşkın yardım galası Tünek'teki lüks oteldedir; Julian'la ertesi günkü kafe normalde kalabalık olan Onj yakınında Yeni Şehir'dedir. Kanatların ilk inişi de bu kıyıdaki terk edilmiş servis yapısının çatısıdır. Yeni Şehir'in lüks davetlerinde pahalı uyuşturucular, gizli ilişkiler, içki, statü için yürütülen ilişkiler, ayrıcalık istismarı ve aristokratik ikiyüzlülük arka plan süsü değil, insanların hayatlarının parçasıdır. Eski Şehir'le yozlaşma biçimlerini karşıt ama tek boyutlu olmayan şekilde göster. 07.01a ve 08.02a sahnelerinde Cen.net'e doğrudan sızmadan kamusal sanat mekanları, zenginlerin sosyal ilişkileri ve hayatın gizli maliyeti Nil'in bakışıyla görülür.
 
 **Diğer mekân bilgileri:** Kıyı: Yatlar · restoranlar · yalılar · Koruma: Elektronik surlar · Sosyal doku: Varlıklı ve hizmet çalışanları
 
@@ -489,7 +489,7 @@ Batak içindeki yeraltı merkezi ve eski altyapı ağları. Sel zamanında tamam
 
 **Mimari / işlev / olay:** Geçici barınma, küçük ticaret, yer altı geçişleri.
 
-**Açık notlar:** Sifon bütün Batak’ın adı değildir; onun içindeki özgül merkezdir.
+**Açık notlar:** Sifon bütün Batak’ın adı değildir; onun içindeki özgül merkezdir. Yeni 06.03a sahnesi baskın öncesindeki kulübün gece hayatını Nil'in bakışıyla gösterir; 07.04a sahnesinde baskın sonrası Kemal'in takibi ve onarımdaki hasar görünür.
 
 **Diğer mekân bilgileri:** Bağlı olduğu yer: Batan Yaka / Batak · Öne çıkan: Eski metro yapıları
 
@@ -717,7 +717,7 @@ Julian'ın bulduğu, Cen.net'ten önce farklı Angels üyeleri adına satın al�
 
 **Mimari / işlev / olay:** İçeride Blake'in Cen.net güvenlik planları, Julian'ın annesine dair itirafı, sanat davetiyesi ve analog com-link hazırlığı birikir. Güvenlik planlarının yanı sıra iş çıkışı sohbetleri, havuz ve mutfak karşılaşmaları, ikili dışarı çıkmalar ve hayatın sürmesi taslakta görünür olacak; B ve D ağırlıklı, A destekleyici, C az kullanılacak. Blake ve Nil'in doğal temasını Julian gözleyip geçmişte bir ilişki olabileceğini sezer, tesadüfi bir söz şüphe uyandırır ama kesin bilgi edinmez.
 
-**Açık notlar:** Tam adres ve iç oda dağılımı açık. Angels'ın mülkiyet bağını melekler bilir ama Cen.net'in eriştiği tapu/şirket ağlarında görünmez; Julian meleklerin tehdit olabileceğini 10. bölüme dek düşünmez. Aralık başından 31 Aralık'a kadar yaklaşık bir ay üçlünün hazırlık yeridir; meleklerle çatışma sonrası güvenliğini yitirir.
+**Açık notlar:** Tam adres ve iç oda dağılımı açık. Angels'ın mülkiyet bağını melekler bilir ama Cen.net'in eriştiği tapu/şirket ağlarında görünmez; Julian meleklerin tehdit olabileceğini 10. bölüme dek düşünmez. Aralık başından 31 Aralık'a kadar yaklaşık bir ay üçlünün hazırlık yeridir; meleklerle çatışma sonrası güvenliğini yitirir. 07.07a'da paylaşılan bir çalışma gecesi ve 08.03a'da üç kişinin rol provası gerçekleşir; bu sahneler villayı romantik kapalı alana dönüştürmeden hazırlık ve gündelik yaşamı kaynaştırır.
 
 ### Cennet Ağacı · 99. Kat Koleksiyon
 
@@ -737,7 +737,7 @@ Aurelian'ın nadir sanat eserleriyle dolu özel koleksiyon katı; 31 Aralık'ta 
 
 **Mimari / işlev / olay:** Julian şefi sarhoş etmeyi dener; Nil maskeli Aurelian'la sanat konuşur, Blake kılık değiştirir. Gizli anahtarlı asansörün anahtarı şeften alınır.
 
-**Açık notlar:** Sanat eserlerinin gerçek adları ve koleksiyonun envanteri açık. Balo davetinin Aurelian tarafından Julian'a kurulan bilinçli tuzak olup olmadığı birinci kitapta AÇIK. Nil'in sanat hamisi ve hizmetçisinin özel adları da henüz AÇIK.
+**Açık notlar:** Sanat eserlerinin gerçek adları ve koleksiyonun envanteri açık. Balo davetinin Aurelian tarafından Julian'a kurulan bilinçli tuzak olup olmadığı birinci kitapta AÇIK. Nil'in sanat hamisi ve hizmetçisinin özel adları da henüz AÇIK. 09.02a sahnesinde anahtar planının ilk hamlesinden sonra Nil ve Julian güvenlik şüphesini dağıtmak amacıyla çift rolü yaparken ilk kez öpüşür; 09.03'te Nil maskeli Aurelian'la sanat üzerine görüşür.
 
 ### Cennet Ağacı · 100. Kat Ofis
 
