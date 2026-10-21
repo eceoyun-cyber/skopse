@@ -2,7 +2,7 @@
 
 ## Güncel sürüm ve çalışma kaynağı
 
-**Atlas 4.7 · 21 Ekim 2026**. Güncel atlasın ana verisi `world.json`, görünümü `styles.css`, uygulama mantığı `app.js`, giriş sayfası `index.html` dosyalarındadır. Hepsi depo **kökünde** bulunur. `index.html` bunları dış dosyalar olarak yükler; eski tek dosyalı sürümün README'sindeki yönergeler bu sürüm için geçerli değildir.
+**Atlas 4.8 · 21 Ekim 2026**. Güncel atlasın ana verisi `world.json`, görünümü `styles.css`, uygulama mantığı `app.js`, giriş sayfası `index.html` dosyalarındadır. Hepsi depo **kökünde** bulunur. `index.html` bunları dış dosyalar olarak yükler; eski tek dosyalı sürümün README'sindeki yönergeler bu sürüm için geçerli değildir.
 
 34 seçilmiş portre/mekân illüstrasyonu `_KESIN.webp` ekiyle işaretlenmiştir. Silme/karıştırma riski açısından `SECILI_GORSELLER.md` dosyasını kullanın. **`NEXARIEL_KESIN.webp` kesin seçilmiş görseldir**.
 
@@ -11,6 +11,7 @@
 - `world.json` — tüm karakterler, mekânlar, zaman çizelgesi, kavramlar ve **12 bölümün 66 ayrı sahnesi** (`chapters[].scenes`). Sahne alanları: `characters`, `location`, `atmosphere`, `events`; gerektiğinde `dialogue`, `notes`, `open`, `authorSecret`.
 - `KITAP_I_SAHNE_ATLASI.md` — 12 bölümün her sahnesinin **karakterler / mekân / atmosfer / olaylar** başlıklarıyla tam yazılı arşivi, replik notları, açık sorular, yazar sırları.
 - `KARAKTER_MEKAN_ATMOSFER_ATLASI.md` — karakter, yeni ve eski mekân, ilgili atmosfer ve kurgu kararlarının tam metin referansı.
+- `KITAP_I_SUREKLILIK_DENETIMI.md` — 66 sahnenin zaman, bilgi, güvenlik ve romantizm süreklilik raporu.
 - `KANON_KARARLARI_46_76.md` — ikinci taslak öncesinde verilen 46–76 numaralı kesin kararların ve yazım kurallarının ayrıntılı kaydı.
 - `KANON_KARARLARI_2026-10-20.md` — 12 bölümün kesin kararları, Hamlet–Ophelia ve Clark–Bella kanonu, açıklanmaması gereken yazar sırları; `world.json` ile birlikte güncel tutulur.
 - `eski-hikaye-haritasi.html` — daha eski taslak ve tarihsel arşiv; güncel kanonun yerine geçmez.
@@ -69,3 +70,8 @@ Sitede **Bölümler & Sahneler** sayfasını açın. Bölüm özetinin altındak
 - Eklenenler Sifon gece yaşamı, Kemal'in tehlikeli takibi, Yeni Şehir sosyal/sanat hayatı, villadaki operasyon ve yaşam dengesi, balodaki ilk öpüşmedir. Var olan 59 sahne numarası değiştirilmedi.
 - Ana plan: `world.json`. Ayrıntılar: `KITAP_I_SAHNE_ATLASI.md`; önceki kararların bağımsız kaydı: `KANON_KARARLARI_46_76.md`.
 - Siteyi yayınlayan `sürüm2umarm` dalıyla `main` geçmişi ayrışmıştır; bu işlem yalnız `main` dalındadır. Görsellere ve kod dosyalarına dokunulmadı.
+
+
+## Atlas 4.8 — süreklilik denetimi
+
+12 bölüm / 66 sahne korunarak 11 ilgili sahnede olay tekrarları, kronoloji, karakter bilgi eşikleri ve güvenlik gerekçeleri netleştirildi. [Denetim raporu](KITAP_I_SUREKLILIK_DENETIMI.md) hazırlanmıştır. Yeni hikaye kararı, bölüm veya yeni sahne eklenmedi; yazar sırları ve görseller korunmuştur. `main` güncellenir, ayrı Pages dalı ayrıca yayınlanmadı.
