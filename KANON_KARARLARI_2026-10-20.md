@@ -1,6 +1,6 @@
 # SKOPSE — Kesinleşen kanon ve açıklık düzeyleri (21 Ekim 2026)
 
-> **Atlas 4.7 · 21 Ekim 2026 güncellemesi; karar 01–36, 38–76 işlendi.** Güncel hikâye kaynağı `world.json` içindeki 12 bölümün 66 ayrı sahnesi, bölüm özetleri, zaman çizelgesi, karakterler ve yazar notlarıdır. Tam sahne dökümü: [`KITAP_I_SAHNE_ATLASI.md`](KITAP_I_SAHNE_ATLASI.md). Karakter/mekân/atmosfer referansı: [`KARAKTER_MEKAN_ATMOSFER_ATLASI.md`](KARAKTER_MEKAN_ATMOSFER_ATLASI.md). Bu dosya onlarla birlikte okunur. **KESİN / AÇIK / YAZAR SIRRI** ayrımını koruyun; eksikleri otomatik doldurmayın. Diyalog taslakları ancak açıkça kararlaştırılmış kısa replikler bakımından bağlayıcıdır.
+> **Atlas 4.8 · 21 Ekim 2026 güncellemesi; karar 01–36, 38–76 işlendi.** Güncel hikâye kaynağı `world.json` içindeki 12 bölümün 66 ayrı sahnesi, bölüm özetleri, zaman çizelgesi, karakterler ve yazar notlarıdır. Tam sahne dökümü: [`KITAP_I_SAHNE_ATLASI.md`](KITAP_I_SAHNE_ATLASI.md). Karakter/mekân/atmosfer referansı: [`KARAKTER_MEKAN_ATMOSFER_ATLASI.md`](KARAKTER_MEKAN_ATMOSFER_ATLASI.md). Bu dosya onlarla birlikte okunur. **KESİN / AÇIK / YAZAR SIRRI** ayrımını koruyun; eksikleri otomatik doldurmayın. Diyalog taslakları ancak açıkça kararlaştırılmış kısa replikler bakımından bağlayıcıdır.
 
 ## 1. Temel hikâye, atmosfer, süreklilik
 
@@ -273,3 +273,8 @@ Bu kararlar ilgili karakter, mekan, zaman çizelgesi, 12 bölümün genel özetl
 - **09.02a — Maskenin ardındaki oyun:** Julian şefi içirerek anahtarı alamadıktan sonra, Nil'le bir güvenlik şüphesini dağıtmak için çift gibi davranır ve ilk kez öpüşür. 09.03'te Nil maskeli Aurelian'la tanışır; sonrasında öpüşme konuşulmaz, Blake öğrenmez.
 
 **Süreklilik:** İlk 5 bölüme ek sahne yok, Lejla uzatılmadı; toplam bölüm sayısı 12. 10–12. bölümlerin mevcut olay akışı ve Hamlet'li final değişmedi. 46–76 numaralı kararlar geri alınmadı; seçilmiş görseller değişmedi. 4.6 altında anlatılan 59 sahnelik başlangıç aşaması tarihsel kayıttır; aktif plan 4.7 / 66 sahnedir.
+
+
+## Atlas 4.8 — Sahne süreklilik ve bilgi sınırı (Aşama 3)
+
+Düzeltilen tekrar ve sıra hataları: 06.03a→06.04 Julian'ın özel konuşmadan ayrılması; 07.04→07.04a Kemal'in tek tehlikeli iz sürüşü; 07.07→07.07a Julian'ın şüphesini artıran yarım söz; 09.01→09.02→09.02a→09.03 baloya giriş, sarhoş olmayan şef, ilk öpüşme ve maskeli Aurelian karşılaşması; 09.09→10.01 iniş ve ardından çatı tartışması; 12.03→12.04 Hamlet'in yalnız Nil'in zihninde konuşması ve sonra monitörden herkesçe duyulması. Nil 07.01a'da henüz balonun detaylarını bilmez; Yeni Şehir'deki kamusal gözlemleri Julian'ın Cen.net görünürlüğü nedeniyle tedbirlidir. Blake'in Angels merkezine sızması eski bakım tünelleri ve insan hizmetkarlarının bilgileriyle mümkün; NEXARIEL her eski taş mekana mutlak hakim değildir. Ayrıntılı tablo ve çözümsüz sorular [denetim dosyasında](KITAP_I_SUREKLILIK_DENETIMI.md). Kanonun gizli bilgileri ilk kitapta erkene çekilmez.
