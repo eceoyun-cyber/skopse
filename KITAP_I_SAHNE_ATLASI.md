@@ -144,11 +144,11 @@
 
 ### Sahne 03.01 — Üniversite arşivine erişim
 
-**Karakterler:** Nil Clayton; Üniversite hocası (adı açık)
+**Karakterler:** Nil Clayton; Prof. Dr. Lejla Hadžić
 
-**Mekân:** Üniversitenin eski kanadı; yüksek tavanlı tarihî okuma salonu ve alt kattaki korunaklı belge arşivi
+**Mekân:** Üniversite eski kanadı: yüksek tavanlı tarihî okuma salonu; alt katta iklim kontrollü özel fotoğraf ve belge arşivi
 
-**Atmosfer:** Elit bilgi erişimi ve sessiz araştırma.
+**Atmosfer:** Yüksek tavanlı tarihî salonun sessizliği; titiz arşiv düzeni ve akademik ayrıcalıkların gölgesi.
 
 **Olaylar:**
 - Nil, geçmişte kaybolan kızını bulmasına yardım ettiği Prof. Dr. Lejla Hadžić'ten ayrıcalıklı fiziksel arşiv erişimi alır; Lejla arşiv bilimi profesörü ve arşiv yöneticisidir.
@@ -1100,7 +1100,7 @@
 
 ### Sahne 12.04 — Hamlet ekrana aktarılıyor
 
-**Karakterler:** Nil Clayton; Hamlet; Julian Junes; Blake; Doktor Daniil (varlığı/ekran konuşmasına katılımı ayrıntısı açık)
+**Karakterler:** Nil Clayton; Hamlet; Julian Junes; Blake; Doktor Daniil
 
 **Mekân:** Doktor Daniil'in kliniği; ameliyathanedeki tıbbi monitör
 
