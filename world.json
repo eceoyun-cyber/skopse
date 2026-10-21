@@ -1198,7 +1198,7 @@
       "name": "Prof. Dr. Lejla Hadžić",
       "type": "characters",
       "tagline": "ARŞİV BİLİMCİ · ÜNİVERSİTE TARİH ARŞİVİ YÖNETİCİSİ",
-      "summary": "Nil'in geçmişte kayıp kızını aramasına yardım ettiği ve karşılığında tarihî arşive erişim sağladığı öğretim üyesi.",
+      "summary": "Arşiv bilimi profesörü ve üniversitenin tarihî koleksiyon yöneticisi Prof. Dr. Lejla Hadžić, daha önce kayıp kızını bulmasına yardım eden Nil'e özel arşiv erişimi sağlar.",
       "image": "UNIVERSITE_HOCASI_KESIN.webp",
       "meta": {
         "Unvan": "Prof. Dr.",
@@ -2141,10 +2141,10 @@
           "title": "Üniversite arşivine erişim",
           "characters": [
             "Nil Clayton",
-            "Üniversite hocası (adı açık)"
+            "Prof. Dr. Lejla Hadžić"
           ],
-          "location": "Üniversitenin eski kanadı; yüksek tavanlı tarihî okuma salonu ve alt kattaki korunaklı belge arşivi",
-          "atmosphere": "Elit bilgi erişimi ve sessiz araştırma.",
+          "location": "Üniversite eski kanadı: yüksek tavanlı tarihî okuma salonu; alt katta iklim kontrollü özel fotoğraf ve belge arşivi",
+          "atmosphere": "Yüksek tavanlı tarihî salonun sessizliği; titiz arşiv düzeni ve akademik ayrıcalıkların gölgesi.",
           "events": [
             "Nil, geçmişte kaybolan kızını bulmasına yardım ettiği Prof. Dr. Lejla Hadžić'ten ayrıcalıklı fiziksel arşiv erişimi alır; Lejla arşiv bilimi profesörü ve arşiv yöneticisidir.",
             "1866 sembolü ve tarihsel kayıtları inceler.",
@@ -3249,7 +3249,7 @@
             "Hamlet",
             "Julian Junes",
             "Blake",
-            "Doktor Daniil (varlığı/ekran konuşmasına katılımı ayrıntısı açık)"
+            "Doktor Daniil"
           ],
           "location": "Doktor Daniil'in kliniği; ameliyathanedeki tıbbi monitör",
           "atmosphere": "İlk kez herkesin duyabildiği yapay bilinç, merak ve rahatsız edici yakınlık.",
