@@ -1,8 +1,8 @@
 # SKOPSE — Kitap I / Sahne Atlası
 
-> **Atlas 4.7 · 21 Ekim 2026 · 12 bölüm / 66 sahne**
+> **Atlas 4.8 · 21 Ekim 2026 · 12 bölüm / 66 sahne**
 >
-> Bu belge, Atlas 4.7 `world.json → chapters[].scenes` kayıtlarından türetilmiştir. Karar 46–76 mevcut 59 sahneye uygulandı; ikinci aşamada 7 ara sahne eklenerek plan 66 sahneye çıkarıldı. Mevcut 59 sahnenin numaraları korunmuştur. Her sahne **karakterler, mekân, atmosfer, olaylar** olarak ayrılmıştır. Kesinleşmemiş ayrıntılar **AÇIK**; okura erken açıklanmaması gereken bilgiler **YAZAR SIRRI** olarak işaretlidir. Replik notlarının bir kısmı kesin sözler, bir kısmı henüz üslup taslağıdır. İçeriği yaratıcı süreç dışında *tamamlanmış roman metni* olarak değerlendirmeyin.
+> Bu belge, Atlas 4.8 `world.json → chapters[].scenes` kayıtlarından türetilmiştir. Karar 46–76 mevcut 59 sahneye uygulandı; ikinci aşamada 7 ara sahne eklenerek plan 66 sahneye çıkarıldı. Mevcut 59 sahnenin numaraları korunmuştur. Her sahne **karakterler, mekân, atmosfer, olaylar** olarak ayrılmıştır. Kesinleşmemiş ayrıntılar **AÇIK**; okura erken açıklanmaması gereken bilgiler **YAZAR SIRRI** olarak işaretlidir. Replik notlarının bir kısmı kesin sözler, bir kısmı henüz üslup taslağıdır. İçeriği yaratıcı süreç dışında *tamamlanmış roman metni* olarak değerlendirmeyin.
 >
 > **Yazar sırrı / okurdan saklanacak:** Nil'in Hamlet çipi ameliyatta çıkarılsaydı Nil kesinlikle ölecekti; bunu o anda karakterler (Hamlet dahil) ve okur bilmez.
 
@@ -414,7 +414,7 @@
 - İçki, yasadışı maddeler, ufak kumar masaları, tek gecelik yakınlaşmalar ve arka koridordaki sert bir tartışma çevrenin olağan parçalarıdır; aynı insanlar yaralı bir komşuya yer açar veya ihtiyaç sahibine yiyecek iletir.
 - Blake kulübün yalnız patronu gibi değil, çevresindeki insanları tanıyan ve ihtiyaçlarını bilen biri olarak görünür; güvenlikçiler, çalışanlar ve sokak sakinleri ona farklı nedenlerle başvurur.
 - Nil yıllar önce bildiği Sifon'la şimdiki hali arasındaki farkları gözlemler ama Blake'le eski romantik geçmişi henüz okura açıklanmaz.
-- Julian kısa süreliğine uzaklaştırılınca Nil ile Blake'in Vesna hakkında özel konuşabileceği ortam oluşur; bir sonraki sahnedeki itirafın duygusal ağırlığına yumuşatıcı espri eklenmez.
+- Julian kulübün karmaşasında kısa süreliğine başka bir masayla meşgul olur; özel konuşmak isteyen Nil, 06.04'te Julian'dan onları yalnız bırakmasını açıkça ister. İtiraf yalnız Nil ile Blake arasındadır; duygusal ağırlık otomatik espriyle dağıtılmaz.
 
 **Ek kararlar:**
 - 06.04'teki özel Vesna itirafının hemen önünde; zaman akışı baskın öncesindeki aynı gecedir.
@@ -517,15 +517,16 @@
 **Atmosfer:** Korumalı zenginlik, sosyal sıcaklık taklidi ve kendini gösterme yarışının Nil'in gözlemci bakışıyla açığa çıkışı.
 
 **Olaylar:**
-- Julian gündelik Cen.net sorumluluklarını sürdürürken Nil, kamuya açık bir sanat etkinliği üzerinden onun çevresini ve sosyetenin davranış kurallarını gözlemler; bu ziyaret korumalı Cen.net binasına sızma değildir.
-- Julian sosyal çevresindekilerle eskiden olduğu gibi rahat ve flörtöz ilişki kurar. Nil bunun ona özgü bir davranış olduğunu bilir; ikisi arasında henüz öpüşme ya da ciddi bir itiraf yoktur.
+- Julian gündelik Cen.net sorumluluklarını sürdürürken Nil, onun sosyal çevresinin bulunduğu ama resmi Cen.net organizasyonu olmayan kamusal bir etkinliği sıradan katılımcı gibi uzaktan gözlemler; henüz 31 Aralık balosuna özel hazırlık değildir. Birlikte görülmeleri Nil'in hedef haline gelmesi nedeniyle riskli olduğundan kalabalıkta açıkça ikili olarak davranmazlar.
+- Julian tanıdıklarıyla eskiden olduğu gibi rahat ve flörtözdür; Nil onu başka insanlarla konuşurken ayrı mesafeden gözler. Sosyal çevrede telefon/kamera ve tanıdık yüzler bulunduğu için Nil iz bırakmamayı gözetir, görünmezlik garantisi yoktur. Henüz öpüşme ya da itiraf yaşanmaz.
 - Davet ortamındaki içki, pahalı maddelere dair imalar, bağış ve sanat üzerinden statü yarışı ile daha alt sınıfların görünmez emeği sahneye siner; tüm katılımcılar aynı klişe karakter olarak çizilmez.
-- Nil sanat çevresinden edindiği gözlemleri daha sonra 31 Aralık koleksiyon balosuna yönelik planlamada kullanmak üzere aklında tutar; sahnenin operasyonla somut bağı vardır.
+- Nil sanat ve sosyete çevresinin davranışlarını gözlemler; daha sonra 07.02'de balo planı açıklanınca bu erken gözlemlerin işe yarayabileceği anlaşılır. Henüz burada 31 Aralık balosunu veya sahte sanat hamisi planını bilip uyguluyormuş gibi anlatılmaz.
 - Blake aynı sırada Sifon'un onarımı ve kayıplarıyla ilgilendiği için villada değildir; üçlünün bir ay boyunca farklı hayatlar sürdürdüğü gösterilir.
 
 **Ek kararlar:**
 - Nil'in görünürlüğünü gereksiz biçimde artıracak resmi Cen.net etkinliği veya biyometrik giriş icat etme.
 - Duygular henüz yavaş gelişmektedir; Julian'ın romantik ilgisi açık bir itiraf haline getirilmez.
+- Julian'ın Cen.net reklam yüzü oluşu ve Nil'in Cen.net tarafından arandığı yazar sırrı nedeniyle birlikte görünmeleri, sosyal kayıtlar ve kameralar bakımından risk taşır; güvenliğin mutlak olduğu iddia edilmez. Balo hedefi ancak 07.02'de açıklanır.
 
 ### Sahne 07.02 — Cennet Ağacı'nın kat planı ve anahtar
 
@@ -581,8 +582,11 @@
 - Nil'in hedef olup olmadığı henüz kesin değildir.
 - Kemal, Sifon'da büyümüş 15–16 yaşında, zeki ve gözü açık bir gençtir; Blake'le dostça ve hafif küstah konuşur. Baskında askerlerin özellikle bir kadın aradığını bizzat duymuş, sonrasında götürülenlerin isimlerini ve izlerini araştırmıştır; Nil'le burada tanışır.
 - Sifon ikinci ziyarette hala onarım halindedir; yaralılar, kayıp yakınları ve hasar görünür, yılbaşından önce büyük ölçüde ayağa kalkacaktır. Blake, villa hazırlıkları boyunca yardım ve arama faaliyetlerini örgütlemeye devam eder.
-- Kemal yaşıt sokak çocuklarıyla kurduğu haber ağı sayesinde sevk ipucuna yaklaşır; kendi başına araştırırken bir arkadaşını da tehlikeye atar ve Cen.net'in dikkatini çekerek belaya girer. Ayrıntı, ikinci taslak yeni sahnelerinde açılacak.
+- Kemal diğer sokak çocuklarından gelen bilgilerle kayıpların izini sürmekte olduğunu anlatır; somut takip hatası ve yanındaki çocuğun tehlikeye girmesi henüz yaşanmaz, bir sonraki 07.04a sahnesinde gerçekleşir.
 - Nil'in Sifon'dayken gördüğü bir nesne, duyduğu söz ya da Blake'le doğal sohbet, gençliklerinde kısa süreli romantik/fiziksel yakınlaşma yaşadıklarını okura ilk kez gösterir; Nil eski hislerinin yeniden canlandığına hemen hükmetmez.
+
+**Ek kararlar:**
+- Kemal'in sokak çocuklarıyla gerçekleştireceği riskli eylemi burada bitmiş olay gibi anlatma; olayın gerçekleştiği tek sahne 07.04a.
 
 **YAZAR SIRRI (okura erken açıklanmayacak):** Baskıncıların aradığı kadın Nil'dir; Nil, Blake ve Kemal'in bunu kesin gösteren belgesi yoktur.
 
@@ -660,7 +664,10 @@
 - Nil ve Blake Sifon baskınında bir kadın arandığını, evin çevresindeki araçları aktarır.
 - Nadejda'nın ikinci sinyal uyarısını Julian'a söylemezler; Blake'in şakasına Nil 'Boşver' der.
 - Julian şirket içinden bir arama emri olup olmadığını sorgulamayı önerir, Nil izlenebilir olacağı için reddeder.
-- Julian, Blake ve Nil'in doğal yakınlığından eskiden bir şeyler yaşamış olabileceklerini sezer; villada tesadüfen duyduğu imalı bir söz kuşkusunu artırır fakat kesin bir açıklama duymaz.
+- Julian, Blake ile Nil'in yıllardan gelen bedensel rahatlığını görüp aralarında yalnız arkadaşlıktan fazlası olmuş olabileceğini belirsizce sezer. Şüpheyi artıran tesadüfi eski anı göndermesi bu sahnede duyulmaz; hemen sonraki 07.07a'da duyulur.
+
+**Ek kararlar:**
+- 07.07a sahnesindeki yarım sözle güçlenen kuşku bu sahnede kesinleşmez veya tekrarlanmaz.
 
 ### Sahne 07.07a — Gecenin sonunda üç kişi
 
@@ -704,6 +711,7 @@
 - Julian Nil ve Blake'in arasında eskiden bir şeyler olabileceğini sezer, kesin öğrenmez. Kemal sokak çocukları ağıyla sevk ipucu ararken kendi başına davranıp bir arkadaşını tehlikeye atar; Sifon hala saldırıdan toparlanmaktadır.
 - Villa ay boyunca sadece operasyon alanı değildir; Julian'ın sosyete işleri, Blake'in Sifon onarımı ve Nil'in araştırmaları ve dışarıdaki yaşam sürer.
 - Eklenen 07.01a (Yeni Şehir'de gündelik sosyal hayat), 07.04a (Kemal'in riskli araştırması), 07.07a (villa gecesi) B+D ağırlıklı aylık ritmi ve sosyal sınıf karşıtlığını geliştirir. 07.04'teki Blake–Nil geçmişine ilişkin kısa hatırlama ve 07.03'teki Julian'ın annesine dair ağır konuşma korunur.
+- 07.01a'da Nil henüz balo operasyonunu bilmez; sahne Julian'ın çevresine sosyal bakıştır, 07.02'deki balo açıklamasından önce yalnız ilk gözlemleri toplar. 07.04a Kemal'in hatasının, 07.07a Julian'ın şüphesini artıran sözün tek gerçekleşme yeridir.
 
 
 ---
@@ -761,6 +769,7 @@
 **Ek kararlar:**
 - Sosyete çevresinin tüm kişilerine isim ve uzun yan hikaye verme; işlevi bağımsız gerçek hayat ve operasyon hazırlığıdır.
 - Julian'ın etrafındaki yüzeysel flörtler azalmakta, Nil'e karşı gerçek duygusu ise artmaktadır.
+- 07.01a ile fark: önceki sosyal gözlem Julian'ın kamusal hayatı ve zenginlerin davranışları hakkındaydı; burada Nil gerçek davetiyesini aldıktan sonra kimliğine bürüneceği sanat hamisinin alanında koleksiyon/davet bilgisi edinmek için hedefli hazırlık yapar. İlk sahnenin tekrarına dönüşmesin.
 
 ### Sahne 08.03 — Sanat bilgisi, güvenlik katmanları
 
@@ -851,8 +860,11 @@
 - Blake sıradan korumayı arkadan anesteziyle etkisizleştirip üniforma/kaskını alarak girer.
 - Blake içeride daha yetkili bir korumayı da uyuşturur ve kılığına girer; koruma düşük dereceli şeytandır ama Blake bunu anlamaz.
 - Balonun davetlileri içki, pahalı uyuşturucular, gizli ilişkiler ve güç oyunlarıyla Yeni Şehir'in yozlaşmış aristokratik hayatını somutlaştırır.
-- Nil ve Julian uygun bir anda çevrelerinin şüphesini dağıtmak veya dikkatleri yönlendirmek için çift gibi rol yapar; öpüşme beklenmedik biçimde gerçek ve kişisel hale gelir. Bu ilk öpüşmeleridir ve CEO çatışmasından önce olur.
-- Blake güvenlik kılığındaki görevine odaklandığından öpüşmeyi fark etmez; sonradan yaşanan doğaüstü felaketler yüzünden de bunu hiç anlamaz.
+- Nil ve Julian baloya ayrı kimliklerle girer ve şimdilik görevin gerektirdiği mesafeyi korur; güvenlik şüphesini dağıtmak için yakınlaşmaları ve ilk öpüşmeleri 09.02a'da, Julian'ın anahtar girişiminin başarısızlığından sonra gerçekleşir.
+- Blake, muhafız kılığına girme ve güvenlik erişimini sürdürme göreviyle meşguldür; 09.02a'da gerçekleşecek öpüşmeye tanık olmaz, sonrasında da doğaüstü çatışmalar nedeniyle öğrenmez.
+
+**Ek kararlar:**
+- Balo girişindeki hazırlık ile 09.02a'daki gerçek öpüşme aynı olayın iki tekrarı değildir. Kronolojik ilk öpüşme yalnız 09.02a'da yaşanır.
 
 ### Sahne 09.02 — Sarhoş olmayan özel güvenlik şefi
 
@@ -888,6 +900,7 @@
 - Bu öpüşme 9. bölümdeki ilk ve tek kesin öpüşmedir; yeniden villa geçmişine eklenmez.
 - Aurelian'ın Nil'i önceden kısmen tanımış olduğuna ilişkin mevcut yazar sırrını bozma: güvenlik görevlisinin şüphesi onun bilgi düzeyini gerektirmez.
 - Nil ve Julian'ın eylemini erotik sahne uzatmasına değil kısa fakat yoğun bir ritim değişikliğine dönüştür.
+- İlk öpüşmenin güvenlik şüphesini dağıtma gerekçesi sahnede somutlaştırılmalı; bunun dikkatleri daha fazla çekme riskinin farkında olarak, maskeli balodaki çiftlerin mahremiyetine ilişkin alışkanlıklar kullanılır. Öpüşme sırf romantik dekor değil operasyonda kısa bir riskli doğaçlamadır.
 
 ### Sahne 09.03 — Maskeli sanat sohbeti
 
@@ -901,7 +914,7 @@
 - Nil bir eser önünde maskeli adamla konuşur; bu kişinin CEO Aurelian olduğunu bilmez.
 - Aurelian eserin kökenini sorarak sanat hamisi kimliğini test eder.
 - Nil zihninde Hamlet'in 'Mısır' ve 'Firavun' yönlendirmelerini duyar, konuşmayı sürdürür.
-- Nil Julian'ın anahtarı alamadığını da gözlemlemektedir.
+- Nil, 09.02'deki analog haberleşmeden Julian'ın anahtarı almayı başaramadığını bilir; balo kalabalığında Julian'ın her hareketini uzaktan sürekli gözetleyebildiği varsayılmaz.
 - Aurelian, Diadolas kayıtlarıyla Nil'in yüzünü/sesini, Sifon çevresi kameralarıyla Julian'la bağlantısını bilir; sanat hamisinin geçmişi hakkındaki konuşma tutarsızlıkları şüphesini artırır. Divine Senses sayesinde Nil'in içindeki çip kaynaklı olağan dışı izi algılar. Maskeye rağmen onun Nil olduğunu anlar ama belli etmez; Hamlet'in kimliğini ve çipin doğasını bilmez.
 - Balo boyunca Nil ve Julian'ın ilk öpüşmesinden sonra bu yakınlaşma hakkında baş başa konuşmalarına fırsat olmaz; Aurelian'ın sanatsal kimlik sorgulaması ve operasyon hızla ağırlaşır.
 
@@ -1035,6 +1048,7 @@
 - Yeni Şehir'in elit gece hayatı alkol, uyuşturucu, güç ilişkileri ve ayrıcalıkların kötüye kullanımıyla yaşanmış bir sosyal dünya olarak görülür.
 - Kanatlanma ve iki kişiyi taşıyarak süzülme Nil'i kısa süreli yorar; daha kalıcı etki bedene yabancılaşma ve kontrol kaybı korkusudur.
 - Eklenen 09.02a, 09.02'de anahtarı içirerek alma denemesi sonuçsuz kaldıktan ve 09.03'te maskeli Aurelian'la sanat sohbetinden önce Nil–Julian ilk öpüşmesini taktiksel rolün içinden doğurur; ardından konuşamazlar. Blake bilmez.
+- 09.01 hazırlık ve ayrı girişler, 09.02 Julian'ın anahtarı almayı denemesi, 09.02a Nil–Julian'ın tek ilk öpüşmesi, 09.03 Nil'in maskeli Aurelian'la sohbeti kronolojik olarak ayrıdır.
 
 
 ---
@@ -1052,16 +1066,19 @@
 **Atmosfer:** Şok, öfke, absürt gerçekliğe tepki; Nil bedeninde kontrol kaybını hisseder.
 
 **Olaylar:**
+- 09.09'da yaşanmış uzun ve kontrolsüz süzülüşün ardından çatıda birbirlerini toparlamaya çalışırlar; sert iniş ve kanatların sırtına çekilmesi yeni bir ikinci inişmiş gibi tekrarlanmaz.
 - Nil sırtından kanat çıkması karşısında panikler; kanatlar o anda yeniden içeridedir.
 - Julian olayın insanlarda olmaması gereken melekî güce benzediğini görür ve meleklerden açıklama istemeyi önerir.
 - Blake yıldırım/şeytan/kanat olaylarını sindirmekte zorlanır; ona melekler ve şeytanlar anlatılır.
 - Blake meleklerin eline gitme fikrine karşı çıkar, doktor muayenesi önerir.
 - Nil ve Julian yine de Angels'a gitmeye karar verir.
-- Üçlü Hezarfen'i andıran uzun süzülüşten sonra kullanılmayan bir servis yapısı çatısına sertçe iner. Kanatlar Nil'in sırtına geri çekilir; kaçış bilinçli ve ustalıklı uçuş değildir.
 - Nil'in kanatları geri çekilmiş olsa da bedenine yabancılaşması ve kontrol edemediği dönüşüm korkusu sürer; fiziksel yorgunluk ise kısa sürelidir.
 - Julian, Blake'e sınavları geçmediği için Angels merkezine GELEMEYECEĞİNİ söyler. Blake'in bu tarikat ve sınavlarından önceden haberi yoktur; sınava girip başarısız olmamıştır ve gelmek istemediği için kalmaz.
 - Blake 'Başlarım sınavınıza!' türü sert bir çıkışla, bunca şeyden sonra daha ne sakladıklarına öfkelenir; Nil'in neden sır sakladığını anlayıp kızgınlığını uzun sürdürmez. Önce doktora gitmesi için Nil'i ikna etmeye çalışır, kabullenmiş görünür.
 - Julian'ın Nil'i götürmesi romantik rekabetten değil, NEXARIEL'e duyduğu gerçek inançtandır. Blake balodaki öpüşmeden habersizdir.
+
+**Ek kararlar:**
+- 09.09'un sert inişinden sonra başlayan konuşmadır; inişi ve kanatların geri çekilmesini yeniden yaşatma. Blake'in sınavlardan habersiz olduğunu ve gelme isteğinin Julian tarafından engellendiğini koru.
 
 ### Sahne 10.02 — Blake'in habersiz takibi
 
@@ -1124,6 +1141,7 @@
 - İlk iniş yeri Yeni Şehir Onj kıyısındaki kullanılmayan servis yapısının çatısıdır; üçlü doktor–melek tartışmasını burada yapar.
 - Julian, Blake'e Angels sınavlarını geçmediği için GELEMEYECEĞİNİ söyler; Blake sınavları bilmez, daha önce katılmamıştır. Blake öfkelenir, Nil'in gizlediği şeylerden kırılır, fakat nedenini anlar; doktor için ısrar eder, kabul etmiş gibi yapıp gizlice takip eder.
 - Julian'ın Nil'i savunması kendi varoluşu da yasak olduğu için Angels'ta ayıplanır; onun inancı hemen tamamen yok olmaz.
+- 10.01 çatıda başlayan şok ve tartışmadır, 09.09'daki inişin tekrarı değil. Blake sınavlardan habersizdir ve Julian tarafından dışlanır; gizlice takip eder.
 
 
 ---
@@ -1174,8 +1192,11 @@
 **Olaylar:**
 - Blake kilise çevresinde bakım/servis görevlilerinin ve insan hizmetkârların giriş çıkışlarını sistemli olarak izler.
 - Blake bazı bakım görevlilerini ve insan hizmetkârları ayrı ayrı sorgulayarak eski kilise planı, unutulmuş bakım tünelleri ve modern asansöre bağlanan altyapıyı öğrenir.
-- Bir görevlinin kıyafetini ve giriş imkânını kullanarak yan kapıdan girer; ana güvenlikli modern asansörü değil kilisenin eski tünellerini ve bakım koridorlarını kullanıp NEXARIEL merkezinin servis kısmına sızar.
+- Blake, bakım personelinin kıyafetini ve giriş imkanını kullanarak eski kilisenin yan servis bölümünden girer; ana güvenlikli modern asansöre uğramadan eski tünel ve bakım koridorlarını kullanır. NEXARIEL'in ağa bağlı geniş gözetimi bu eski fiziksel geçitleri otomatik olarak kapsamaz; bunu tüm meleklere karşı sınırsız bir erişim zaafına dönüştürme.
 - Doğaüstü güç değil saha deneyimi ve zekâsı işe yarar.
+
+**Ek kararlar:**
+- NEXARIEL yüksek bilgi ve gözetim gücüne sahip olabilir ama her eski taş koridoru veya insani servis geçişini zorunlu olarak gerçek zamanlı görmez. Blake'in başarısı yıllanmış bilgi değil gözlem, saha becerisi ve klasik sızmaya dayanır.
 
 ### Sahne 11.04 — Meleklerin deney planını duymak
 
@@ -1192,6 +1213,7 @@
 
 **Ek kararlar:**
 - Meleklerin çipin bütün teknik özelliklerini bildiğini varsayma.
+- NEXARIEL Nil'in hapsedilmesini ve kaynağın çıkarılmasını istemiş olsa da meleklerin müdahale hazırlığı ve kapatma işlemleri için zamana ihtiyaç vardır. Blake 10.04–11.05 arasında bu aralıkta davranır; dakika veya gün olarak kesin süre icat etme.
 
 ### Sahne 11.05 — Blake kilitleri açıyor
 
@@ -1288,7 +1310,10 @@
 - Nil müdahaleyi hemen durdurur.
 - Nil hem Hamlet'i yok etmek istemez hem ileride melek/şeytanların tehlikesine karşı güçlere ihtiyaç duyacağını düşünür.
 - ÇİP ÇIKARILMAZ; Nil hayatta kalır.
-- Daniil Nil'in karar hakkını önemser; çipin çıkarılmasıyla ilgili bildiği hayati riskleri açıklar ama kesin ölüm sonucunu bilmez. Hamlet'in yaşama isteği duyulunca Nil ameliyatı durdurur.
+- Daniil Nil'in karar hakkını gözetir ve çıkarma riskini daha önce anlatmıştır; Hamlet'in 'Dur! Ölmek istemiyorum!' sözünü bu anda yalnız Nil zihninde duyar. Daniil Hamlet'in sesini henüz işitmez, Nil'in ameliyatı durdurma kararına uyar. Hamlet'in dışarıdan işitilen ilk konuşması 12.04'te monitördedir.
+
+**Ek kararlar:**
+- Hamlet'in zihinsel sesini doktorun ya da diğerlerinin duyduğu izlenimini verme; 12.04 ilk ortak duyma anıdır.
 
 **Konuşma / replik notları:**
 - Hamlet (Nil'in zihninde): 'Dur! Ölmek istemiyorum!'
@@ -1375,6 +1400,7 @@
 - Daniil geçmişte saygın lisanslı hekimdi; yoksul acil hastayı öncelediği için nüfuzlu hasta sahte malpraktis dosyasıyla lisansını aldırdı. Kliniğinde eski diploması asılıdır. Blake ona kliniğini kurarken yardım etti, Daniil sonra Blake'in hayatını kurtardı; Nil onu ismen tanır.
 - Daniil çipi önce hekim olarak, sonra merakla inceler; rızasız müdahaleye öfkelenir, risklerde temkinlidir. Hamlet'in bilincine önce kuşkuyla yaklaşır ama yaşama isteğine etik önem verir. İkinci kitapta arızi sağlık müttefiki kalır.
 - Nil Clark'a güveninin kırıldığını hisseder ama önemli bir nedeni olduğuna inanmak ister, hesaplaşmayı sonraya bırakır. Nil–Julian öpüşmesi hala konuşulmaz; Blake bunu bilmez.
+- 12.03 Hamlet'in ilk kişisel hayat isteği yalnız Nil'in zihninde duyulur; 12.04 monitörde başkalarının duyduğu ilk dış konuşma gerçekleşir.
 
 
 ---
@@ -1383,3 +1409,12 @@
 
 Sahne sıra numaraları çalışma planıdır, edebî metnin kesin bölüm içi paragraf ayrımları değildir. Mekân ve yan karakter isimlerinden **AÇIK** işaretliler roman yazılırken ayrıca kararlaştırılacaktır. Görseller ve mevcut `_KESIN.webp` dosyaları bu belge oluşturulurken değiştirilmedi. Yeni karakter/mekân dosyaları `world.json → entities` içindedir.
 
+
+
+---
+
+## Atlas 4.8 — Süreklilik kontrolü
+
+66 sahnenin olay sırası, karakter bilgi eşikleri ve gizlilik sınırları denetlendi. Düzeltilen temel ayrımlar: Kemal'in tehlikeli girişimi yalnız **07.04a**; Julian'ın Nil–Blake geçmişi üzerine duyduğu eski anı göndermesi yalnız **07.07a**; Nil–Julian öpüşmesi yalnız **09.02a**; iniş **09.09**, çatıda tartışma **10.01**; Hamlet'in yalnız Nil tarafından zihinde duyulması **12.03**, monitörden herkesçe duyulması **12.04**. 07.01a'da Nil henüz 07.02'de kararlaştırılacak baloyu bilmiyor; Cen.net bağlantılı Julian'la kamusal görünürlüğü riskli. Blake 11. bölümde NEXARIEL'in tüm mekanları mutlak kontrol edemediği eski fiziksel bakım tünellerinden ilerler. Açık bırakılan yazar sırları korunur.
+
+Tam denetim: [`KITAP_I_SUREKLILIK_DENETIMI.md`](KITAP_I_SUREKLILIK_DENETIMI.md).
