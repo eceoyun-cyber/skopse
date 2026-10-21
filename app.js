@@ -47,6 +47,15 @@ function home(){
     <p class="lead">${esc(world.intro)}</p><button class="ghost-btn" type="button" data-page="sehir">ŞEHRİ KEŞFET <span>→</span></button>
     <div class="home-meta"><span>ONJ NEHRİ</span><span>ESKİ ŞEHİR / YENİ ŞEHİR</span><span>TEKNOFEODAL DÜZEN</span></div>
     </section>${place}</div>
+    <section class="nil-rain-scene" aria-label="Nil'in odasında Skopse'de yağmurlu gece">
+  <div class="nil-rain-scene__head"><div><span class="eyebrow">SKOPSE / GECE ATMOSFERİ</span><h2>Nil'in Penceresinden</h2><p>Skopse uyumaz. Nil bazen uyur.</p></div><span class="nil-rain-scene__meta">03 SN · SONSUZ DÖNGÜ · SESSİZ</span></div>
+  <div class="nil-rain-scene__media">
+    <video class="nil-rain-scene__video" autoplay muted loop playsinline preload="metadata" aria-label="Nil uyurken pencerenin dışında Skopse'ye yağan yağmur" poster="MEKAN_NIL_CLARK_EVI_KESIN.webp">
+      <source src="nil_skopse_yagmur_loop_3sn.mp4" type="video/mp4">
+    </video>
+    <div class="nil-rain-scene__fallback" aria-hidden="true"></div>
+  </div>
+</section>
     <nav class="home-links" aria-label="Atlas bölümleri">
       ${tile('sehir','01','Şehir','Bölgeler, günlük hayat ve Onj taşkınları.')}
       ${tile('karakterler','02','Karakterler','Nil, Clark, Blake ve diğerleri.')}
