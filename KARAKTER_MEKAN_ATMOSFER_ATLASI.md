@@ -1,6 +1,6 @@
 # SKOPSE — Karakterler, Mekânlar ve Atmosfer Kararları
 
-> Atlas 4.7 · 21 Ekim 2026. Ana veri kaynağı `world.json`. Bu dosya görselleri değil, metinsel kanon kararlarını içerir. Kararlaştırılmamış isim, kimlik, mekân adresi veya güç mekanizması **AÇIK** kabul edilir. Geçmiş ve gelecek olaylara dair yazar sırları açıkça işaretlenmeden romanın ilk bölümlerine taşınmaz.
+> Atlas 4.8 · 21 Ekim 2026. Ana veri kaynağı `world.json`. Bu dosya görselleri değil, metinsel kanon kararlarını içerir. Kararlaştırılmamış isim, kimlik, mekân adresi veya güç mekanizması **AÇIK** kabul edilir. Geçmiş ve gelecek olaylara dair yazar sırları açıkça işaretlenmeden romanın ilk bölümlerine taşınmaz.
 
 ## Karakterler (18)
 
@@ -439,6 +439,9 @@ Eğlence yatları, kıyı restoranları ve nehir manzaralı konutları elektroni
 
 **Diğer mekân bilgileri:** Kıyı: Yatlar · restoranlar · yalılar · Koruma: Elektronik surlar · Sosyal doku: Varlıklı ve hizmet çalışanları
 
+**Atlas 4.8 süreklilik:** 07.01a'da Nil ve Julian Cen.net reklam yüzünün ve aranan Nil'in kamuya açık görünmesinin güvenlik riskini gözetir; kalabalık onları açık bir çift veya planlı Cen.net katılımcısı olarak görmez. Bu gezi 07.02'de duyurulan balodan önce genel sosyal gözlemdir. 08.02a ise davetiye ele geçirildikten sonraki hedefli sanat hazırlığıdır.
+
+
 ### Tünek
 
 **Dosya kodu:** `tunek` · **İşlev:** GÖKDELENLERİN EN TEPESİ
@@ -494,6 +497,9 @@ Batak içindeki yeraltı merkezi ve eski altyapı ağları. Sel zamanında tamam
 **Diğer mekân bilgileri:** Bağlı olduğu yer: Batan Yaka / Batak · Öne çıkan: Eski metro yapıları
 
 - **Baskın sonrası:** Hemen değil, yılbaşından önce büyük ölçüde toparlanma
+
+**Atlas 4.8 süreklilik:** Kemal'in takip girişimi yalnız 07.04a'da yaşanır; 07.04 bilgi ağını, baskın hasarını ve Nil'le ilk tanışmasını kurar.
+
 
 ### Diadolas Yaşam Merkezi
 
@@ -719,6 +725,9 @@ Julian'ın bulduğu, Cen.net'ten önce farklı Angels üyeleri adına satın al�
 
 **Açık notlar:** Tam adres ve iç oda dağılımı açık. Angels'ın mülkiyet bağını melekler bilir ama Cen.net'in eriştiği tapu/şirket ağlarında görünmez; Julian meleklerin tehdit olabileceğini 10. bölüme dek düşünmez. Aralık başından 31 Aralık'a kadar yaklaşık bir ay üçlünün hazırlık yeridir; meleklerle çatışma sonrası güvenliğini yitirir. 07.07a'da paylaşılan bir çalışma gecesi ve 08.03a'da üç kişinin rol provası gerçekleşir; bu sahneler villayı romantik kapalı alana dönüştürmeden hazırlık ve gündelik yaşamı kaynaştırır.
 
+**Atlas 4.8 süreklilik:** 07.07'de Julian yalnız Nil ile Blake'in yakınlığını sezebilir, onu eski romantik ilişkiye götüren tesadüfi söz 07.07a'da duyulur. Bu, bir çiftin sürekli romantik sessizliği olarak yazılmaz.
+
+
 ### Cennet Ağacı · 99. Kat Koleksiyon
 
 **Dosya kodu:** `paradise_99` · **İşlev:** YILBAŞI BALOSU · CEO'NUN SANAT KOLEKSİYONU
@@ -738,6 +747,9 @@ Aurelian'ın nadir sanat eserleriyle dolu özel koleksiyon katı; 31 Aralık'ta 
 **Mimari / işlev / olay:** Julian şefi sarhoş etmeyi dener; Nil maskeli Aurelian'la sanat konuşur, Blake kılık değiştirir. Gizli anahtarlı asansörün anahtarı şeften alınır.
 
 **Açık notlar:** Sanat eserlerinin gerçek adları ve koleksiyonun envanteri açık. Balo davetinin Aurelian tarafından Julian'a kurulan bilinçli tuzak olup olmadığı birinci kitapta AÇIK. Nil'in sanat hamisi ve hizmetçisinin özel adları da henüz AÇIK. 09.02a sahnesinde anahtar planının ilk hamlesinden sonra Nil ve Julian güvenlik şüphesini dağıtmak amacıyla çift rolü yaparken ilk kez öpüşür; 09.03'te Nil maskeli Aurelian'la sanat üzerine görüşür.
+
+**Atlas 4.8 süreklilik:** 09.01 ayrı girişler, 09.02 şefi sarhoş etme girişiminin başarısızlığı, 09.02a tek ilk öpüşme ve 09.03 maskeli CEO sanat sohbeti olarak kronolojik sıradadır.
+
 
 ### Cennet Ağacı · 100. Kat Ofis
 
@@ -780,6 +792,9 @@ Doktor Daniil'in yıpranmış, gözlerden uzak yeraltı kliniği: eski taş ve s
 **Açık notlar:** Temiz, steril, gösterişli yüksek teknoloji hastanesi DEĞİL; yeraltına gizlenmiş, düşük bütçeli ama iş görebilen eski klinik. Tam adres açık. 12. bölümde çip çıkarılmaz.
 
 - **Önemli nesne:** Duvara asılı eski diploma
+
+**Atlas 4.8 süreklilik:** 12.03'te Hamlet'in dur emrini yalnız Nil zihninde işitir; Daniil ve diğerleri Hamlet'i ancak 12.04'te monitörden konuştuğunda duyar.
+
 
 ### Blake'in Eski Tamir Atölyesi
 
