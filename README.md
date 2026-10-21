@@ -2,13 +2,13 @@
 
 ## Güncel sürüm ve çalışma kaynağı
 
-**Atlas 4.6 · 21 Ekim 2026**. Güncel atlasın ana verisi `world.json`, görünümü `styles.css`, uygulama mantığı `app.js`, giriş sayfası `index.html` dosyalarındadır. Hepsi depo **kökünde** bulunur. `index.html` bunları dış dosyalar olarak yükler; eski tek dosyalı sürümün README'sindeki yönergeler bu sürüm için geçerli değildir.
+**Atlas 4.7 · 21 Ekim 2026**. Güncel atlasın ana verisi `world.json`, görünümü `styles.css`, uygulama mantığı `app.js`, giriş sayfası `index.html` dosyalarındadır. Hepsi depo **kökünde** bulunur. `index.html` bunları dış dosyalar olarak yükler; eski tek dosyalı sürümün README'sindeki yönergeler bu sürüm için geçerli değildir.
 
 34 seçilmiş portre/mekân illüstrasyonu `_KESIN.webp` ekiyle işaretlenmiştir. Silme/karıştırma riski açısından `SECILI_GORSELLER.md` dosyasını kullanın. **`NEXARIEL_KESIN.webp` kesin seçilmiş görseldir**.
 
 ## Hikâye kanonu
 
-- `world.json` — tüm karakterler, mekânlar, zaman çizelgesi, kavramlar ve **12 bölümün 59 ayrı sahnesi** (`chapters[].scenes`). Sahne alanları: `characters`, `location`, `atmosphere`, `events`; gerektiğinde `dialogue`, `notes`, `open`, `authorSecret`.
+- `world.json` — tüm karakterler, mekânlar, zaman çizelgesi, kavramlar ve **12 bölümün 66 ayrı sahnesi** (`chapters[].scenes`). Sahne alanları: `characters`, `location`, `atmosphere`, `events`; gerektiğinde `dialogue`, `notes`, `open`, `authorSecret`.
 - `KITAP_I_SAHNE_ATLASI.md` — 12 bölümün her sahnesinin **karakterler / mekân / atmosfer / olaylar** başlıklarıyla tam yazılı arşivi, replik notları, açık sorular, yazar sırları.
 - `KARAKTER_MEKAN_ATMOSFER_ATLASI.md` — karakter, yeni ve eski mekân, ilgili atmosfer ve kurgu kararlarının tam metin referansı.
 - `KANON_KARARLARI_46_76.md` — ikinci taslak öncesinde verilen 46–76 numaralı kesin kararların ve yazım kurallarının ayrıntılı kaydı.
@@ -61,3 +61,11 @@ Sitede **Bölümler & Sahneler** sayfasını açın. Bölüm özetinin altındak
 - Nil–Blake–Julian romantik geçmiş ve ilk öpüşme; Nephilim yasağı ve Julian'ın inancı; Sifon'un haftalara yayılan toparlanması; Kemal ve Daniil'in geçmişi/sorumlulukları dahil.
 - Türkçe anlatım ve diyalog üslubu kuralları `world.json → authorNotes` ve [karar kaydı](KANON_KARARLARI_46_76.md) içindedir.
 - **Yayın uyarısı:** `main` ile Pages'in `sürüm2umarm` dalı farklı tarihsel içeriklere sahip ve ayrışmış durumdadır. Bu adım yalnız `main` üzerinde yapıldı; yayın dalı üstüne yazılmadı.
+
+
+## Atlas 4.7 — ikinci taslak yeni sahne planı
+
+- Karar 46–76 korunarak **7 yeni ara sahne** eklendi. Güncel: 12 bölüm / **66 sahne**. Kimlikler: `06.03a`, `07.01a`, `07.04a`, `07.07a`, `08.02a`, `08.03a`, `09.02a`.
+- Eklenenler Sifon gece yaşamı, Kemal'in tehlikeli takibi, Yeni Şehir sosyal/sanat hayatı, villadaki operasyon ve yaşam dengesi, balodaki ilk öpüşmedir. Var olan 59 sahne numarası değiştirilmedi.
+- Ana plan: `world.json`. Ayrıntılar: `KITAP_I_SAHNE_ATLASI.md`; önceki kararların bağımsız kaydı: `KANON_KARARLARI_46_76.md`.
+- Siteyi yayınlayan `sürüm2umarm` dalıyla `main` geçmişi ayrışmıştır; bu işlem yalnız `main` dalındadır. Görsellere ve kod dosyalarına dokunulmadı.
