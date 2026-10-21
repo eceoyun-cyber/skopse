@@ -1,4 +1,4 @@
-/* SKOPSE Atlas 4.4 — GitHub Pages, root-level world.json, no external dependencies. */
+/* SKOPSE Atlas 4.5 — GitHub Pages, root-level world.json, no external dependencies. */
 (()=>{'use strict';
 let world, byId=new Map(), page='anasayfa', selected='nil', tab='genel', slide=0;
 const $=id=>document.getElementById(id);
@@ -6,6 +6,7 @@ const names={sehir:'Şehir',karakterler:'Karakterler',sirketler:'Şirketler',zam
 const esc=x=>String(x??'').replace(/[&<>"']/g,s=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[s]));
 const norm=s=>String(s??'').toLocaleLowerCase('tr').normalize('NFD').replace(/[\u0300-\u036f]/g,'');
 const IMAGE_VERSION='atlas44';
+const DATA_VERSION='atlas45-20261021';
 const imagePath=e=>{const src=(e?.image||world.images?.[e?.id]||'').replace(/^assets\//,'');return /_KESIN\.webp$/i.test(src)?src+'?v='+IMAGE_VERSION:src;};
 const image=(e,cls='',loading='lazy')=>{let src=imagePath(e);return src?`<img class="${cls}" src="${esc(src)}" data-fallback="${esc(world.imageFallbacks?.[e?.id]||'')}" loading="${loading}" alt="${esc(e.name)}">`:''};
 const link=(pg,id)=>`#${pg}${id?'/'+encodeURIComponent(id):''}`;
@@ -282,6 +283,6 @@ function bindings(){
     if(e.key==='/'&&!['INPUT','TEXTAREA'].includes(document.activeElement?.tagName)){e.preventDefault();openSearch();}
   });
 }
-async function init(){try{let res=await fetch('world.json',{cache:'no-cache'});if(!res.ok)throw Error('world.json: '+res.status);world=await res.json();if(!Array.isArray(world.entities)||!Array.isArray(world.chapters))throw Error('Atlas veri yapısı eksik');byId=new Map(world.entities.map(e=>[e.id,e]));bindings();parseHash();window.setInterval(()=>{if(!window.matchMedia('(prefers-reduced-motion: reduce)').matches)advanceShowcase();},6500)}catch(e){$('content').innerHTML=`<div class="load-error"><h1>Atlas verileri açılamadı.</h1><p>world.json dosyası, index.html ile aynı dizinde bulunmalı.</p><code>${esc(e.message)}</code></div>`}}
+async function init(){try{let res=await fetch('world.json?v='+DATA_VERSION,{cache:'no-store'});if(!res.ok)throw Error('world.json: '+res.status);world=await res.json();if(!Array.isArray(world.entities)||!Array.isArray(world.chapters))throw Error('Atlas veri yapısı eksik');byId=new Map(world.entities.map(e=>[e.id,e]));bindings();parseHash();window.setInterval(()=>{if(!window.matchMedia('(prefers-reduced-motion: reduce)').matches)advanceShowcase();},6500)}catch(e){$('content').innerHTML=`<div class="load-error"><h1>Atlas verileri açılamadı.</h1><p>world.json dosyası, index.html ile aynı dizinde bulunmalı.</p><code>${esc(e.message)}</code></div>`}}
 init();
 })();
