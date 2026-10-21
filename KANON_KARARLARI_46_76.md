@@ -1,6 +1,6 @@
 # SKOPSE — İkinci Taslak Öncesi Kesin Kararlar 46–76
 
-> Atlas 4.6 · 21 Ekim 2026. Bu dosya yazar kanonudur; sırlar okura erken aktarılmaz. **Aşama 1:** kararlar mevcut 12 bölüm / 59 sahne, karakter, mekan ve zaman çizelgesine işlendi. **Aşama 2:** yeni sahneler ayrıca planlanacak. GitHub Pages yayın dalı bu aşamada değiştirilmedi.
+> Atlas 4.7 · 21 Ekim 2026. Bu dosya yazar kanonudur; sırlar okura erken aktarılmaz. **Aşama 1:** kararlar 12 bölüm / 59 sahneye işlendi. **Aşama 2:** eklenen 7 ara sahneyle güncel plan **12 bölüm / 66 sahne** oldu. GitHub Pages yayın dalı bu aşamalarda değiştirilmedi.
 
 ### Karar 46 — Blake'in Nil'e duyguları
 
@@ -139,6 +139,11 @@ C+D: Önemli bir sevk ipucuna yaklaşırken Cen.net'in dikkatini çeker; kendisi
 ## Uygulama bağlantıları
 
 - [Güncel ana dünya verisi](world.json)
-- [59 sahne ve bölüm özetleri](KITAP_I_SAHNE_ATLASI.md)
+- [66 sahne ve bölüm özetleri](KITAP_I_SAHNE_ATLASI.md)
 - [Karakter/mekan/atmosfer atlası](KARAKTER_MEKAN_ATMOSFER_ATLASI.md)
 - [Önceki kesin kararlar](KANON_KARARLARI_2026-10-20.md)
+
+
+## Atlas 4.7 — Aşama 2, yeni sahneler
+
+Kararların uygulanmasının ardından 7 yeni sahne eklendi: `06.03a`, `07.01a`, `07.04a`, `07.07a`, `08.02a`, `08.03a`, `09.02a`. Her sahnenin açıklaması [güncel sahne atlasında](KITAP_I_SAHNE_ATLASI.md) mevcuttur. Numara sonundaki harf, önceki 59 sahnenin referanslarını değiştirmemek içindir. Yeni karar gerekmedi; mevcut 46–76 uygulandı. Aşama 3 (süreklilik / çelişki denetimi) ayrı değerlendirilecek.
