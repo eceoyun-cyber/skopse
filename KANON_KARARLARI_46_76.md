@@ -1,6 +1,6 @@
 # SKOPSE — İkinci Taslak Öncesi Kesin Kararlar 46–76
 
-> Atlas 4.7 · 21 Ekim 2026. Bu dosya yazar kanonudur; sırlar okura erken aktarılmaz. **Aşama 1:** kararlar 12 bölüm / 59 sahneye işlendi. **Aşama 2:** eklenen 7 ara sahneyle güncel plan **12 bölüm / 66 sahne** oldu. GitHub Pages yayın dalı bu aşamalarda değiştirilmedi.
+> Atlas 4.8 · 21 Ekim 2026. Bu dosya yazar kanonudur; sırlar okura erken aktarılmaz. **Aşama 1:** kararlar 12 bölüm / 59 sahneye işlendi. **Aşama 2:** eklenen 7 ara sahneyle güncel plan **12 bölüm / 66 sahne** oldu. GitHub Pages yayın dalı bu aşamalarda değiştirilmedi.
 
 ### Karar 46 — Blake'in Nil'e duyguları
 
@@ -147,3 +147,8 @@ C+D: Önemli bir sevk ipucuna yaklaşırken Cen.net'in dikkatini çeker; kendisi
 ## Atlas 4.7 — Aşama 2, yeni sahneler
 
 Kararların uygulanmasının ardından 7 yeni sahne eklendi: `06.03a`, `07.01a`, `07.04a`, `07.07a`, `08.02a`, `08.03a`, `09.02a`. Her sahnenin açıklaması [güncel sahne atlasında](KITAP_I_SAHNE_ATLASI.md) mevcuttur. Numara sonundaki harf, önceki 59 sahnenin referanslarını değiştirmemek içindir. Yeni karar gerekmedi; mevcut 46–76 uygulandı. Aşama 3 (süreklilik / çelişki denetimi) ayrı değerlendirilecek.
+
+
+## Atlas 4.8 — Aşama 3 denetim özeti
+
+66 sahne ve 12 bölüm korunarak yinelemeler ve bilgi eşiği hataları giderildi. Kemal'in tehlikeli takibi yalnız 07.04a'da; Julian'ın geçmişi sezen konuşması yalnız 07.07a'da; Nil–Julian ilk öpüşmesi yalnız 09.02a'da. Nil 07.01a'da balo planını önceden bilmez. Süzülüş 09.09'da sona erer, çatıda tartışma 10.01'de başlar. Hamlet'in ameliyattaki ilk sesi yalnız Nil'in zihnindedir; 12.04 monitör ilk ortak iletişimdir. Açık noktalar hakkında yeni karar verilmedi. [Denetim kaydı](KITAP_I_SUREKLILIK_DENETIMI.md).
