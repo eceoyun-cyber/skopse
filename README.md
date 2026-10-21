@@ -2,7 +2,7 @@
 
 ## Güncel sürüm ve çalışma kaynağı
 
-**Atlas 4.4 · 21 Ekim 2026**. Güncel atlasın ana verisi `world.json`, görünümü `styles.css`, uygulama mantığı `app.js`, giriş sayfası `index.html` dosyalarındadır. Hepsi depo **kökünde** bulunur. `index.html` bunları dış dosyalar olarak yükler; eski tek dosyalı sürümün README'sindeki yönergeler bu sürüm için geçerli değildir.
+**Atlas 4.5 · 21 Ekim 2026**. Güncel atlasın ana verisi `world.json`, görünümü `styles.css`, uygulama mantığı `app.js`, giriş sayfası `index.html` dosyalarındadır. Hepsi depo **kökünde** bulunur. `index.html` bunları dış dosyalar olarak yükler; eski tek dosyalı sürümün README'sindeki yönergeler bu sürüm için geçerli değildir.
 
 34 seçilmiş portre/mekân illüstrasyonu `_KESIN.webp` ekiyle işaretlenmiştir. Silme/karıştırma riski açısından `SECILI_GORSELLER.md` dosyasını kullanın. **`NEXARIEL_KESIN.webp` kesin seçilmiş görseldir**.
 
@@ -17,7 +17,7 @@
 
 ## Yayınlama
 
-GitHub Pages için yayımlama kaynağı olarak **en güncel değişiklikleri içeren dal** ve **`/(root)`** seçilmeli. GitHub Pages yapılandırmasının hangi dalı kullandığını GitHub → Settings → Pages kısmında kontrol edin.
+GitHub Pages'in 21 Ekim 2026 itibarıyla yayımladığı dal **`sürüm2umarm`** (`/(root)`) dalıdır. **`main` dalındaki değişiklikler siteye otomatik yansımaz.** Yeni kanon düzenlemelerini yayına almak için `sürüm2umarm` dalıyla da senkronize edin veya Pages kaynağını değiştirin. Yayın dalını GitHub → Settings → Pages kısmında kontrol edin.
 
 Projenin herkese açık GitHub Pages adresi: https://eceoyun-cyber.github.io/skopse/
 
@@ -45,3 +45,10 @@ Sitede **Bölümler & Sahneler** sayfasını açın. Bölüm özetinin altındak
 - Arama 12 sonuç sınırına ulaştığında toplam eşleşme sayısını açıkça belirtir. Mobilde yatay karakter/mekân listesini kaydırma işareti bulunur.
 - İçeriğe geç bağlantısı mevcut sayfayı değiştirmez; menü ve arama odağı/klavye etkileşimleri iyileştirildi. Eski, artık kullanılmayan arama penceresi CSS'i kaldırıldı.
 - **Değişmeyenler:** Kanon, 12 bölümün 59 sahnesi, 34 seçilmiş karakter/mekân görseli ve ilgili `_KESIN.webp` dosyaları.
+
+## Atlas 4.5 — yayımlama ve kanon eşitliği
+
+- Karar 01–36 ve 38–45 kesinleşmiş sahne, karakter, mekân, zaman çizelgesi ve kanon kayıtlarına işlendi. Karar 37 (sanat hamisi/hizmetçi isimleri) açık kaldı.
+- Bölüm 03 sahne 03.01'de Prof. Dr. Lejla Hadžić, üniversitenin tarihî okuma salonu ve alt kattaki iklim kontrollü arşiv açıkça yer alır. Daniil'in 12.04 sahnesinde ekran görüşmesine katıldığı kesinleşmiştir.
+- Yayınlanan `world.json` için önbellek yenileme sürümü kullanılır. Yeni sürümü görmek için sayfayı yeniden açın veya Ctrl+Shift+R ile zorunlu yenileyin.
+- Seçilmiş tüm `_KESIN.webp` görselleri değiştirilmeden korunmuştur.
