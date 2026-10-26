@@ -1,6 +1,8 @@
 # SKOPSE — Karakterler, Mekânlar ve Atmosfer Kararları
 
-> **26 Ekim 2026 — İkinci taslak düzeltmesi:** Bölüm 01–03 açılış, Aras'ın ifadesi, Clark'ın kardeşliğinin açıklanma zamanı, Hanoi çerçevesi, evin aranmış olması ve üniversite arşivine yönelme konularında [İkinci Taslak Kararları](IKINCI_TASLAK_KARARLARI_2026-10-26.md) ile güncellenmiş [`world.json`](world.json) esas alınır. Aşağıdaki eski özetlerde Aras'ın kendiliğinden ihbar ettiği, Nil'in Clark'ın kaybını/kardeşliğini baştan bildirdiği, tek başına Clark fotoğrafının arkası veya ağaçlıklı sorgu gibi ifadeler geçiyorsa **güncelliğini yitirmiştir**. Otopark kamera sürekliliği açık karar olarak işaretlenmiştir.
+> KESİN KARAR C (26 Ekim 2026): Diadolas'ta Nil ile Aras'ın ilk karşılaşması, kovalamacanın bir bölümü ve otoparkta Aras'ın elektroşokla etkisizleştirilmesi güvenlik kameralarına kısmen kaydolur. Nil Aras'ı taşımaz veya sürüklemez; B2 otoparkındaki otomatların arkasında, kameraların görmediği noktada düştüğü yerde kelepçeler ve uyanmasını bekleyip sorgular. Sorgunun hiçbir bölümü kaydedilmez. Cen.net'in Nil'i daha sonra izlemesinde kısmi görüntüler rol oynar; Nil bu takip zincirini o aşamada bilmez. Eski ağaçlıklı servis alanına taşıma/sorgulama planı geçersizdir.
+
+> **26 Ekim 2026 — İkinci taslak düzeltmesi:** Bölüm 01–03 açılış, Aras'ın ifadesi, Clark'ın kardeşliğinin açıklanma zamanı, Hanoi çerçevesi, evin aranmış olması ve üniversite arşivine yönelme konularında [İkinci Taslak Kararları](IKINCI_TASLAK_KARARLARI_2026-10-26.md) ile güncellenmiş [`world.json`](world.json) esas alınır. Aşağıdaki eski özetlerde Aras'ın kendiliğinden ihbar ettiği, Nil'in Clark'ın kaybını/kardeşliğini baştan bildirdiği, tek başına Clark fotoğrafının arkası veya ağaçlıklı sorgu gibi ifadeler geçiyorsa **güncelliğini yitirmiştir**. Otopark kamera sürekliliği C seçeneğiyle kesinleşmiştir; ilk karşılaşma, kovalamacanın bir kısmı ve elektroşok kısmen kaydedilir, otomat arkasındaki sorgu kaydedilmez.
 
 > Atlas 4.8 · 21 Ekim 2026. Ana veri kaynağı `world.json`. Bu dosya görselleri değil, metinsel kanon kararlarını içerir. Kararlaştırılmamış isim, kimlik, mekân adresi veya güç mekanizması **AÇIK** kabul edilir. Geçmiş ve gelecek olaylara dair yazar sırları açıkça işaretlenmeden romanın ilk bölümlerine taşınmaz.
 
@@ -164,7 +166,7 @@ Esmer, geniş omuzlu, gri ceketli. Gözbebekleri belli açılarda mavi ışıkla
 
 **Yetenekler:** Erişim loglarını ve güvenlik denetimlerini bilir. Fiziksel olarak Nil’den kuvvetlidir; ancak şirketin kendisini gözlediğine dair endişesi muhakemesini etkiler.
 
-**Kararlar / sırlar / açıklık:** En yeni açılış metninde Cen.net uzmanlığının sona ermesi “bir hafta önce” olarak geçer. Eski taslakta üç gündür işten ayrılmıştı. Zaman çizelgesinde bu yeni versiyon esas alındı; sorgulama ile ayrılışın kesin günleri açık. Diadolas ilk temasını kısmen gören kameralara ilişkin Cen.net kaydı daha sonra Nil'in takip edilmesinde kullanılır; asıl sorgu ağaçlı servis kör noktasındadır.
+**Kararlar / sırlar / açıklık:** En yeni açılış metninde Cen.net uzmanlığının sona ermesi “bir hafta önce” olarak geçer. Eski taslakta üç gündür işten ayrılmıştı. Zaman çizelgesinde bu yeni versiyon esas alındı; sorgulama ile ayrılışın kesin günleri açık. Diadolas ilk temasını kısmen gören kameralara ilişkin Cen.net kaydı daha sonra Nil'in takip edilmesinde kullanılır; asıl sorgu otomatların arkasındaki kör noktadadır.
 
 ### Hamlet
 
