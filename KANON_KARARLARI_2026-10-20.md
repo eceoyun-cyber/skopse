@@ -1,5 +1,7 @@
 # SKOPSE — Kesinleşen kanon ve açıklık düzeyleri (21 Ekim 2026)
 
+> **26 Ekim 2026 — İkinci taslak düzeltmesi:** Bölüm 01–03 açılış, Aras'ın ifadesi, Clark'ın kardeşliğinin açıklanma zamanı, Hanoi çerçevesi, evin aranmış olması ve üniversite arşivine yönelme konularında [İkinci Taslak Kararları](IKINCI_TASLAK_KARARLARI_2026-10-26.md) ile güncellenmiş [`world.json`](world.json) esas alınır. Aşağıdaki eski özetlerde Aras'ın kendiliğinden ihbar ettiği, Nil'in Clark'ın kaybını/kardeşliğini baştan bildirdiği, tek başına Clark fotoğrafının arkası veya ağaçlıklı sorgu gibi ifadeler geçiyorsa **güncelliğini yitirmiştir**. Otopark kamera sürekliliği açık karar olarak işaretlenmiştir.
+
 > **Atlas 4.8 · 21 Ekim 2026 güncellemesi; karar 01–36, 38–76 işlendi.** Güncel hikâye kaynağı `world.json` içindeki 12 bölümün 66 ayrı sahnesi, bölüm özetleri, zaman çizelgesi, karakterler ve yazar notlarıdır. Tam sahne dökümü: [`KITAP_I_SAHNE_ATLASI.md`](KITAP_I_SAHNE_ATLASI.md). Karakter/mekân/atmosfer referansı: [`KARAKTER_MEKAN_ATMOSFER_ATLASI.md`](KARAKTER_MEKAN_ATMOSFER_ATLASI.md). Bu dosya onlarla birlikte okunur. **KESİN / AÇIK / YAZAR SIRRI** ayrımını koruyun; eksikleri otomatik doldurmayın. Diyalog taslakları ancak açıkça kararlaştırılmış kısa replikler bakımından bağlayıcıdır.
 
 ## 1. Temel hikâye, atmosfer, süreklilik
