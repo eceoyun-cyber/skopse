@@ -104,3 +104,16 @@ Bunları bu denetimde keyfi biçimde karara bağlamadım:
 - 05.04 sera → kilise → eski taş geçit → modern asansör; 05.05 NEXARIEL karşılaşması. Nephilim ve Hamlet çipi hakkında erken ifşa yok.
 - Clark 03. sınav: suçları itiraf edip pişmanlık duymadığı için teknik başarısız; kurul kararıyla geçer. Hangi suçları itiraf ettiği açık. NEXARIEL sonrası villada Nil, Julian'a yalnızca sınavın sonucunu sorar.
 - Üçüncü taslakta her sahneden önce güncel kararlar, sahne atlası, karakter bilgisi ve okur bilgi sınırları birlikte kontrol edilmeli; eski çelişkili satırlar bu kararlara tabi.
+
+
+
+## 2026-10-26 — Üçüncü taslak zorunlu kontrol listesi
+- Zaman: Clark çarşamba kaybolur; roman cumartesi (3. gün) açılır; sonraki cumartesi gala; pazar Angels teklifi; pazartesi köprü; salı adliye/sera/Nexariel; **salı gece Julian Gümüşyaka'da Nil'in misafiri**; **çarşamba sabahı 14. gün** kahvaltı, Sifon'a karar; gündüz motosikletle giderler. Eski 06.01'deki kilise çıkışından doğrudan Sifon'a gitme planı GEÇERSİZ.
+- Mekân adı Gümüşyaka; **“Cennet Konutları” deme**.
+- Angels gizliliğini **Julian** ister; Nil üçüncü kişiden yardım alabilir ama melek/şeytan gerçeğini anlatmamalı. Nexariel'e atfetme.
+- Julian Angels'ın talimatıyla Cen.net'in yüzüdür; uzun vadeli stratejik kamuoyu pozisyonu; tüm planı Nil'e anlatmaz. Nephilim olduğu, yüz tanıma tuhaflığı ve hava yeteneklerinin doğası açığa çıkmaz.
+- 05.05: Nexariel kendisinin melek olduğunu açıkça söyler; Nil'in büyük ve süren şoku korunur; saygı ve dikkat, şoku silmez. Julian savunur; yalnız yardım izni, **arşiv erişimi yok**.
+- 06.02: Sifon dışı tanıdık, içi yeni ve sert güvenlik; bağlı götürülme makul gerekçeli. Blake adı okura **06.03 ilk karşılaşmaya kadar** verilmez.
+- 06.03: Blake **tam cümle kurar**; az konuşmak zeka/gramer eksikliği değildir. Clark'ın kaybını **ilk karşılaşmada** Nil'den öğrenir, sarsılır, ciddileşir. Nil'in iki yıldır uzaklığı/itiraf borcu arka planda; ilişki bir anda eski haline dönmez.
+- 06.04: Vesna yaklaşık **iki yıl önce** öldürüldü; Nil gerçek katili bilmeden onu buldurabilecek dijital delilleri bilerek sildi ve Blake'e yalan söyledi. Blake o ana dek yalnız gizleme sezgisine sahipti; gerçek kapsamı ilk kez özel itirafta öğrenir. Vesna Blake'in sevgilisi değildir.
+- Karakter sesi: Nil'in mantık/bilmişlik alayı, Julian'ın sosyal/çapkın alayı ve seradan sonra artan rahatlık korunur; Nexariel karşısındaki ciddiyet tüm sonraki sahnelere taşınmaz. Blake kısa ama düzgün cümleler kurar. Her replik/eylem neden-sonuç bağıyla ilerler; uzun atmosferik paragraflar, duygu anına zorla espri eklememe, Türkçe şapkalı harflerden kaçınma, “hafifçe gülümsedi” en fazla bölüm başına bir kez.
