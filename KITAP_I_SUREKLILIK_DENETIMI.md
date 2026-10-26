@@ -94,3 +94,13 @@ Bunları bu denetimde keyfi biçimde karara bağlamadım:
 ---
 
 **Denetim sınırı:** Bu rapor 66 sahnelik kanon planında tespit edilebilir çelişkileri giderir. Henüz yazılmamış ikinci taslağın cümle ritmi, gerçek zamanlı mekan hareketleri ve ara diyaloglarına ilişkin bütün olası editoryal hataları peşinen çözmez. Uygulama aşamasında sahne sahne kontrol yapılacaktır.
+
+
+
+## Üçüncü taslağa geçiş için yeni denetim — 26 Ekim 2026
+- 05.02: Nil Julian'a “Clark bu sınavda kimi seçti?” diye sorar; soru korunur. Clark gerçekten bir kişiyi seçmiştir ama kimliği belirlenmemiştir. Nil kimseyi seçmez; üst kurul devam izni verir.
+- 05.03: Aynı salı adliyeden doğrudan Eski Şehir botanik serasına geçilir. Nil–Julian “sen” diye konuşur. Nil, Vesna'nın katilini bilmeden, onu buldurabilecek kayıtları da bilerek silmiştir; koruduğu Sifonlu eski dostun adını açıklamaz. Julian da sormaz.
+- **Önceki 05.03 “Blake (adı geçer)” kaydı geçersiz.** 06.01–06.02'deki isimli replikler yeni bilgi sırasıyla çelişiyor: 06.03 ilk yüz yüze karşılaşmaya kadar okur “Blake” adını duymamalı. Yazar notları ile okur bilgisi ayrılmalı.
+- 05.04 sera → kilise → eski taş geçit → modern asansör; 05.05 NEXARIEL karşılaşması. Nephilim ve Hamlet çipi hakkında erken ifşa yok.
+- Clark 03. sınav: suçları itiraf edip pişmanlık duymadığı için teknik başarısız; kurul kararıyla geçer. Hangi suçları itiraf ettiği açık. NEXARIEL sonrası villada Nil, Julian'a yalnızca sınavın sonucunu sorar.
+- Üçüncü taslakta her sahneden önce güncel kararlar, sahne atlası, karakter bilgisi ve okur bilgi sınırları birlikte kontrol edilmeli; eski çelişkili satırlar bu kararlara tabi.
