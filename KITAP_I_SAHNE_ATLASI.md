@@ -1422,3 +1422,30 @@ Sahne sıra numaraları çalışma planıdır, edebî metnin kesin bölüm içi 
 66 sahnenin olay sırası, karakter bilgi eşikleri ve gizlilik sınırları denetlendi. Düzeltilen temel ayrımlar: Kemal'in tehlikeli girişimi yalnız **07.04a**; Julian'ın Nil–Blake geçmişi üzerine duyduğu eski anı göndermesi yalnız **07.07a**; Nil–Julian öpüşmesi yalnız **09.02a**; iniş **09.09**, çatıda tartışma **10.01**; Hamlet'in yalnız Nil tarafından zihinde duyulması **12.03**, monitörden herkesçe duyulması **12.04**. 07.01a'da Nil henüz 07.02'de kararlaştırılacak baloyu bilmiyor; Cen.net bağlantılı Julian'la kamusal görünürlüğü riskli. Blake 11. bölümde NEXARIEL'in tüm mekanları mutlak kontrol edemediği eski fiziksel bakım tünellerinden ilerler. Açık bırakılan yazar sırları korunur.
 
 Tam denetim: [`KITAP_I_SUREKLILIK_DENETIMI.md`](KITAP_I_SUREKLILIK_DENETIMI.md).
+
+
+
+## Üçüncü taslak için son kesinleştirmeler — 26 Ekim 2026 (önceki 05–06 sahne notlarına üstün gelir)
+
+### 05.02 Yedi İsim
+- Yedi suçlunun hükümleri kesindir; bir kişinin affı gerçek, koşulsuz ve geri alınamazdır. Nil dosyaları sorgular ve kimseyi seçmez. Bu, sınavın beklediği seçim açısından teknik başarısızlık olabilir; üst kurul devam izni verir.
+- Nil, Julian'a **“Clark bu sınavda kimi seçti?”** diye sorar. Soruyu KESİNLİKLE çıkarma. Clark sınavın mantığını sorgulamış ama kendisine verilen yetkiyi kullanıp birini seçmiştir. Kimi seçtiği henüz kesin değil; Sofia Ren yalnızca olası adaydır.
+- Adliye sınavından sonra aynı salı günü, Eski Şehir'den ayrılmadan Julian kilisenin yakın olduğunu söyleyerek Nil'i doğrudan botanik serasına götürür. Eve/Gümüşyaka'ya dönmezler; başka güne ertelenmez.
+
+### 05.03 Günah Çıkarma
+- Nil ve Julian, önceki kahve buluşmasından itibaren birbirlerine **sen** derler. Sürekli sizli-bizli konuşma yoktur.
+- Vesna'nın cinayeti roman başlangıcından yaklaşık **iki yıl önce** yaşandı. Nil, Sifon'da beraber büyüdüğü eski dostunu öncelikle, kendisini ikincil olarak korumak için dijital kanıtları yok etti/değiştirdi. Yalnızca kendilerine uzanan izleri değil, **katile ulaşılmasını sağlayabilecek** kamera, konum, erişim ve iletişim izlerini de bilerek ortadan kaldırdı. Katilin kim olduğunu bilmiyordu; soruşturmayı engelleyebileceğinin farkındaydı. Bu, cinayetin üstünü örtmektir.
+- Nil, dostuna izlerin temizlendiğini söyleyerek yaptıklarının gerçek kapsamını sakladı. Dostu bir şey gizlendiğini seziyor fakat gerçeği henüz bilmiyor; onu **06. bölümde Nil'den** öğrenecek. Vesna dostunun sevgilisi değildi; kendi halkından yardım isteyen biriydi. Nil'in pişmanlığı, bir dostunu korurken Vesna'nın katilinin bulunması ihtimalini feda etmesidir.
+- **OKUR BİLGİ SINIRI / KESİN:** Bu sahnede korunan kişinin **Blake** adı hiç söylenmeyecek. Nil “bir arkadaşım”, “Sifon'da birlikte büyüdüğüm biri” diye anlatır; Julian ismini sormaz. **Blake'in adı ilk yüz yüze tanışma/karşılaşma sahnesine kadar okura açıklanmaz.** Önceki sahne atlasındaki “Blake (adı geçer)” ifadesi GEÇERSİZDİR.
+- Yalnız Nil ve Julian bulunur. Julian'ın Nephilim kökeni açıklanmaz; ailesindeki kayba yalnız üstü kapalı değinir. Nil sıcak serada yorgunluktan uyur; Julian yanında kalır. Julian'da ilk çok hafif, henüz adı konmamış duygu burada belirir; ciddi itiraf mizahla bozulmaz.
+
+### 05.04–05.05 NEXARIEL'e geçiş
+- Nil uyanınca sera → tarihi kilise → eski taş yeraltı geçidi → modern asansör → ekran ve kablolarla bütünleşmiş NEXARIEL merkezi. 05.04 iniş, 05.05 NEXARIEL karşılaşmasıdır. NEXARIEL'in kendini sunuşu, Clark'a ilişkin eksik bilgi, seçilmiş tarihsel belgeler ve savaş görüntüleri, CEO hakkında iddialar, Nil'in eleştirel yaklaşımı ve Julian'ın yardım talebi korunur.
+- NEXARIEL'in melekliği ve Julian'ın kökeni aynı şey değildir; Julian'ın Nephilim sırrı bu aşamada açıklanmaz.
+
+### Clark'ın sınavları ve sonraki villa konuşması
+- Clark ikinci sınavda karar yetkisini kullanıp bir suçluyu seçer (kimliği AÇIK). Üçüncü sınavda ilk başta yöntemi sorgulayıp sinirli/alaycı tepki verebilir. Geçmişteki yasa dışı ve acımasız kararları saklamaz; fakat o günkü bilgi ve mantığıyla aldığı kararlardan gerçekten pişman değildir. Suçlarını itiraf eder, **pişmanlık ifade edemediği için teknik olarak kalır**, üst kurul kararıyla üç sınavı tamamlamış sayılır; Angels üyeliğini yine de reddeder. Hangi suçları anlattığı henüz KESİNLEŞMEDİ; ilk soygunundan pişman olduğu varsayılmayacak.
+- **NEXARIEL'le tanışmadan SONRA villada**, Nil ve Julian yalnızken Nil, Clark'ın üçüncü sınavı nasıl geçtiğini sorar; Clark'ın ne itiraf ettiğini sormaz, özel sayar. Julian, Clark'ın teknik olarak kaldığını söyler. Nil abisinin sütten çıkmış ak kaşık olmadığını bildiğinden, itiraf edecek şeyi olmadığı için kalmış olabileceğine şaşırır. Julian onun itiraf ettiğini ama hiçbirinden pişman olmadığını açıklar. Nil bunun Clark'a çok uyduğunu fark eder. Bu konuşma villa öncesine çekilmez.
+
+### 06.01–06.03 ad açıklama sırası düzeltmesi
+- Önceki 06.01 ve 06.02 planlarında geçen “Blake'i seçmek”, “Ben Blake'i tanıyorum”, “Beni Blake'e götürün” gibi okura isim ifşa eden ifadeler yeni açıklama sırasıyla ÇELİŞİR. Üçüncü taslakta Nil, Julian'a yardım isteyeceği Sifonlu eski dostunu **ismini söylemeden** anlatmalı; Sifon girişinde de adı açık etmeyen bir yol bulunmalı. **Blake adı okura ilk kez 06.03'teki yüz yüze karşılaşmada açıklanır.** Sahne başlıkları/yazar notları okura gösterilmez.
