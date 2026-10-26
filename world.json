@@ -264,10 +264,10 @@
       },
       "sections": {
         "genel": "Skopse doğumlu, aile kökleri kısmen Orta Doğu’ya uzanıyor. Gösterişsiz giyimi ile pahalı göz implantları arasında dikkat çekici bir zıtlık var. Nil onu varlıklı yakadaki Diadolas Yaşam Merkezi’nde izliyor.",
-        "gecmis": "Clark’ın silmeye çalıştığı erişim kayıtlarını bir ay önce fark etmiş, gördüklerini kimseye anlatmayacağına söz vermişti. Şirket güvenliği tarafından sorgulanınca korkuyla itiraf etmesi, işten ayrılması ve izlenme kaygısı olayını tetikler.",
+        "gecmis": "Aras yaklaşık bir ay önce Clark'ın yetkisiz girişe ilişkin kendi erişim kayıtlarını silerken yakalamıştır; hangi alana girildiğini bilmez. Clark'ın güçlü konumunu dikkate alarak gördüklerini saklamaya içtenlikle söz vermiş ve bir süre tutmuştur. Sonradan Cen.net güvenlik/soruşturma yetkilileri Aras'ı Clark hakkında sorgulayınca anlatmıştır; kendi isteğiyle ihbar etmemiştir. Neden sorgulandığını bilmez. Yaklaşık bir hafta önce işten çıkarılmıştır.",
         "iliskiler": "Clark’ın Cen.net’teki iş arkadaşıydı, kardeşi olduğunu bilmiyordu. Nil’in kimliğini öğrenmesi ilk fiziksel çatışmalarını sona erdirir.",
         "yetenekler": "Erişim loglarını ve güvenlik denetimlerini bilir. Fiziksel olarak Nil’den kuvvetlidir; ancak şirketin kendisini gözlediğine dair endişesi muhakemesini etkiler.",
-        "notlar": "En yeni açılış metninde Cen.net uzmanlığının sona ermesi “bir hafta önce” olarak geçer. Eski taslakta üç gündür işten ayrılmıştı. Zaman çizelgesinde bu yeni versiyon esas alındı; sorgulama ile ayrılışın kesin günleri açık. Diadolas ilk temasını kısmen gören kameralara ilişkin Cen.net kaydı daha sonra Nil'in takip edilmesinde kullanılır; asıl sorgu ağaçlı servis kör noktasındadır."
+        "notlar": "En yeni açılış metninde Cen.net uzmanlığının sona ermesi “bir hafta önce” olarak geçer. Eski taslakta üç gündür işten ayrılmıştı. Zaman çizelgesinde bu yeni versiyon esas alındı; sorgulama ile ayrılışın kesin günleri açık. Diadolas ilk temasını kısmen gören kameralara ilişkin Cen.net kaydı daha sonra Nil'in takip edilmesinde kullanılır; asıl sorgu ağaçlı servis kör noktasındadır. İkinci taslak kararı: Nil sorgudan önce kayıtların silindiğini bilmez. Aras'ın verdiği ad kendi yöneticisinin değil sorgucu güvenlik yetkilisinindir. Otopark kamera konumu ve eski ağaçlıklı servis kör noktası anlatımı arasında açık uyum kontrolü vardır."
       },
       "related": [
         "nil",
@@ -2030,7 +2030,7 @@
       "number": "01",
       "title": "Başlatma",
       "status": "Taslak / açılış",
-      "summary": "Skopse'nin sel ve sınıf ayrımıyla bölünmüş dünyasında Nil Clayton, üç gündür kayıp abisi Clark'ın izini sürer. Clark'ın bahsettiği ve bir hafta kadar önce Cen.net'ten çıkarılmış Aras Stojanovski'yi çevrim içi paylaşımlarından Diadolas Yaşam Merkezi'ne kadar takip eder. Aras kaçınca otoparkta önünü keser; hazırlıklı getirdiği elektroşok cihazıyla etkisiz hâle getirip gözlerden uzak bir yerde sorgular. Aras, yaklaşık bir ay önce Clark'ın kendi erişim kayıtlarını sildiğini gördüğünü, bunu raporladığını ve ardından işinden olduğunu anlatır. Nil Aras'ı serbest bırakır; Cen.net'e yönelik kuşkusu artar. Diadolas'ın kamerası ilk temasın bir kısmını kaydeder, sorgu ağaçlı servis bölümündeki kör noktada kalır.",
+      "summary": "Nil, Cen.net'te veri güvenliği alanında çalışırken yaklaşık bir hafta önce işten çıkarılan Aras Stojanovski'yi Diadolas Yaşam Merkezi'nde izler. Açılışta okur Clark'ın kayıp olduğunu veya Nil'in abisi olduğunu öğrenmez. Nil'in hazırlıklı takibi ve otoparktaki kovalamaca Aras'ın etkisizleştirilmesiyle sonuçlanır. Nil kendisini özel dedektif olarak tanıtır; Clark'ın üç gündür kayıp olduğunu sorguda açıklar. Aras, Clark'ı yetkisiz bir alana ilişkin kendi giriş kayıtlarını silerken gördüğünü ilk kez burada anlatır. Clark'a içtenlikle susma sözü vermiş ve bir süre tutmuştur; sonradan Cen.net güvenlik/soruşturma görevlileri onu çağırıp Clark hakkında sorular sorunca bildiklerini anlatmıştır. Aras neden sorgulandığını bilmez, kendiliğinden ihbar etmemiştir. Nil'e kendi yöneticisinin değil, kendisini sorgulayan güvenlik yetkililerinin adını verir. Nil Aras'ı Cen.net'in tehlikesi konusunda samimiyetle uyarır, ancak somut yeni iz elde edemez. Otopark kamera konumuna dair eski atlasla yeni taslak arasındaki ayrım ayrıca netleştirilecek.",
       "points": [
         "Skopse açılışı: Onj'un taşkınları, Yeni Şehir'i koruyan sel duvarları ve Eski Şehir'in yükü; her sahneyi yağmurlu/neonlu anlatma.",
         "Nil 24, Clark 38 yaşında; Clark üç gündür eve dönmüyor. Nil soğukkanlı, gözlemci, araştırmacı ve esprili; dövüş uzmanı değil.",
@@ -2052,7 +2052,7 @@
           "events": [
             "Ekim sonunda taşkın; Yeni Şehir koruma duvarları, Eski Şehir'e yönelen sel.",
             "Kentteki teknofeodal sınıf ayrımı tanıtılır.",
-            "Odak, üç gündür dönmeyen Clark'ı arayan Nil'e yaklaşır."
+            "Odak Nil'e yaklaşır; Clark'ın kayıp olduğu ve Nil'le aile bağı henüz okura açıklanmaz."
           ]
         },
         {
@@ -2066,8 +2066,9 @@
           "location": "Açık dijital kayıtlar ve Diadolas'a giden güzergâh",
           "atmosphere": "Sessiz ve metodik soruşturma.",
           "events": [
-            "Nil Clark'ın daha önce adını andığı Aras'ın yaklaşık bir hafta önce işinden edildiğini bulur.",
-            "Aras'ın herkese açık paylaşımlarından Diadolas Yaşam Merkezi'nde olduğunu çıkarır."
+            "Nil, Cen.net veri güvenliği alanında çalışmış Aras'ın yaklaşık bir hafta önce işten çıkarıldığını bilir; erişim kayıtlarının silindiğini henüz BİLMEZ.",
+            "Aras'ın Diadolas'taki yerini araştırıp takip eder; sabah bina/otopark düzenini ve kaçış yollarını önceden inceler.",
+            "Diadolas reklam panosunda beyaz saçlı, yakışıklı bir erkek görülür; Julian olduğu henüz açıklanmaz."
           ]
         },
         {
@@ -2080,8 +2081,9 @@
           "location": "Diadolas Yaşam Merkezi, otopark",
           "atmosphere": "Yeni Şehir'in güvenli yüzeyi altında hızlanan gerilim.",
           "events": [
-            "Nil 'Aras Stojanovski?' ve 'Clark Clayton hakkında birkaç sorum var' diye yaklaşır.",
-            "Aras onu şirketin yolladığını sanıp kaçar; Nil, yanında getirdiği elektroşok cihazı ve kelepçeyle önceden hazırlıklıdır, otoparkta yolunu keser ve elektroşok cihazıyla etkisiz hâle getirir."
+            "Nil özel dedektiftir; Aras'a Clark Clayton hakkında soru sorunca Aras onu Cen.net'in yeni sorgucusu sanıp kaçar.",
+            "Nil önceden araştırdığı çalışan geçitleri ve servis asansörüyle otopark B2'de Aras'ın arabasının bulunduğu yere kestirmeden ulaşır; otomatların yakınında elektrikli şok cihazıyla etkisizleştirir.",
+            "Nil fiziksel olarak güçlü değildir; Aras'ı taşımaz veya sürüklemez. Kamera kör noktası/önceki plandaki ağaçlıklı servis alanı çelişkisi ayrıca karara bağlanacak."
           ],
           "dialogue": [
             "Nil: 'Aras Stojanovski?'",
@@ -2096,12 +2098,15 @@
             "Nil Clayton",
             "Aras Stojanovski"
           ],
-          "location": "Diadolas yakınındaki gözlerden uzak ağaçlıklı nokta",
+          "location": "Diadolas B2 otoparkı / otomatların yakınındaki kamera kör noktası (önceki ağaçlıklı servis alanı planıyla fark teyit bekliyor)",
           "atmosphere": "Sakin ancak zorlayıcı sorgu.",
           "events": [
-            "Nil Aras'ı Diadolas otoparkından kısa bir mesafe boyunca ağaçlı servis bölgesine götürüp kelepçeler; kameralar ilk karşılaşmanın bir kısmını görür ama asıl sorgu kör noktada kalır.",
-            "Aras bir ay önce Clark'ın erişim loglarını sildiğini gördüğünü; bildirdikten sonra işinden olduğunu anlatır.",
-            "Nil onu serbest bırakır."
+            "Nil Aras'ı düştüğü yerde kelepçeler ve uyanmasını bekler; taşımadan, özel dedektif kimliğini açıklayarak sorgular.",
+            "Clark'ın üç gündür kayıp olduğu okura burada ilk kez açıklanır; Nil'in abisi olduğu henüz açıklanmaz.",
+            "Aras, Clark'ı yetkisiz girişe ilişkin kendi erişim kayıtlarını silerken gördüğünü İLK KEZ açıklar. Alanın neresi olduğunu veya Clark'ın amacını bilmez.",
+            "Aras Clark'a samimi biçimde susma sözü vermiş ve tutmuştur. Cen.net güvenlik/soruşturma görevlileri onu sonradan çağırıp Clark hakkında sorguladıklarında anlatmıştır; kendi isteğiyle raporlamamıştır, neden sorgulandığını da bilmez.",
+            "Aras kendi yöneticisinin adını değil, onu sorgulayan güvenlik görevlilerinin adını verebilir.",
+            "Nil Aras'ı Cen.net'in onunla işinin bitmemiş olabileceği konusunda içtenlikle uyarır; Aras uyarıyı önemsemez. Nil yeni somut iz olmadan eve döner."
           ],
           "authorSecret": "Cen.net Diadolas'ta Nil'in Aras'la ilk temasının güvenlik görüntülerini sonradan elde eder; bu kayıt Nil'i takibe başlamasında ipucudur. Aras şirket tarafından gizlice öldürülür, Nil bilmez."
         }
@@ -2111,7 +2116,7 @@
       "number": "02",
       "title": "Tanılama",
       "status": "Ayrıntılı plan",
-      "summary": "Nil, Clark'la paylaştığı evde onun yokluğunun ağırlığıyla yüzleşirken fiziksel kitaplarını, CD'lerini, birkaç basılı fotoğrafını ve birlikte gittikleri Vietnam gezisinin fotoğrafını inceler. Nil'in çektiği sıradan bir Clark fotoğrafının arkasında 1866 tarihli, kanatlı piramit sembollü kartı bulur. Eski Skopse tarihi 1866 depreminden ve Yeni Şehir'in yeniden inşasından söz eder. Dijital arşivlerin yapay zekâ kaynaklı çarpıklıkları onu fiziksel kaynaklara yöneltir. Kart Clark'ın kişisel araştırmasından kalmıştır ve Nil'e kasıtlı mesaj değildir; 1866 hem büyük deprem hem hemen ardından Angels'ın kuruluş yılıdır.",
+      "summary": "Nil, Clark'la paylaştığı Cen.net çalışan konutundaki eve döner. Şehrin neon reklamlarıyla dolu teknolojik yüzeyi ile evdeki nadir basılı kitaplar, pikap, kasetçalar, eski radyo ve ahşap eşyalar tezat oluşturur. Nil bir gün önce evi ve Clark'ın çalışma odasını aramış, bilgisayarına erişememiş, dosya ve anahtarları incelemiş; dağınıklık bunun sonucudur. Son sarılmalarını hatırlar. Clark'ın çalışma odasındaki az sayıdaki kişisel çerçeveli fotoğrafları incelerken Hanoi'de birlikte çekildikleri fotoğrafta Clark'ın abisi olduğu okura İLK KEZ açıklanır. Fotoğrafın kağıdında değil ÇERÇEVESİNİN ARKASINDA 1866 tarihli kanatlı piramit kartı bulur. İnternette yeterli bilgi ve sembolün karşılığını bulamaz; evdeki basılı tarih kaynaklarından 1866 depremi ve ardından yeniden yapılanmaya ilişkin bilgi edinir. Fiziksel tarih arşivlerine erişmek için üniversite kütüphanesine gitmesi gerektiğine karar verir. Kart Clark'ın eski kişisel araştırmasından kalmıştır; Nil'e kasıtlı ipucu değildir. Üniversite arşivi erişimi sonraki bölümün konusudur.",
       "points": [
         "Kart: 1866 yılı + kanatlı piramit; bu aşamada sembolün kesin anlamı Nil'e açıklanmaz.",
         "Clark'ın fiziksel kitapları arasında William Shakespeare'in Hamlet'i vardır; 12. bölümde Hamlet ve Ophelia adlarının kaynağına dönüşecek erken ipucu.",
@@ -2130,8 +2135,10 @@
           "location": "Nil ile Clark'ın Yeni Şehir'de paylaştığı ev",
           "atmosphere": "Yokluğun ve somut anıların melankolisi.",
           "events": [
-            "Nil son sarılmalarını hatırlar; Clark'ın CD'leri, kitapları, 3–4 basılı fotoğrafını inceler.",
-            "Birlikte çıktıkları Vietnam gezisi fotoğrafını bulur."
+            "Nil, Cen.net çalışanlarının yaşadığı Tünek yakınındaki konuta döner; dışarıdaki teknolojik reklamlar ile evin fiziksel kitaplar, pikap, kasetçalar, radyo ve ahşap mobilyalarından oluşan burjuva/eski dünyası arasındaki karşıtlık kurulur.",
+            "Nil dün evin ve Clark'ın odasının dosyalarını, çekmecelerini, anahtarlarını aramış; Clark'ın bilgisayarına erişmeyi başaramamıştır. Evin dağınıklığı bu önceki aramanın sonucudur.",
+            "Nil son sarılmalarını hatırlar; geçmiş anekdotlarıyla betimleme tekrarı yapılmaz. Clark'ın abisi olduğu bu aşamada açıklanmaz.",
+            "Nil Clark'ın çalışma odasındaki az sayıdaki çerçeveli fotoğrafa yönelir; sahne incelemeye başladığı yerde kesilir."
           ]
         },
         {
@@ -2140,12 +2147,13 @@
           "characters": [
             "Nil Clayton"
           ],
-          "location": "Clark'ın evinde fotoğraf rafı",
+          "location": "Clark'ın çalışma odası / çerçeveli Hanoi fotoğrafı",
           "atmosphere": "Nesne merkezli tarihî bilmece.",
           "events": [
-            "Nil'in çektiği Clark fotoğrafının arkasında kanatlı piramitli 1866 kartı vardır.",
-            "Kanatlı piramit ve 1866 tarihli kart, Clark'ın kendi kişisel araştırmasından kalmıştır; fotoğraf arkasına Nil'in bulması için bilinçli bir mesaj olarak bırakılmamıştır.",
-            "Clark'ın Shakespeare'den Hamlet kitabı görünür: 12. bölüm için gizli isim ipucu."
+            "Clark'ın odasında yalnızca kişisel önemi olan çerçeveler vardır: 15 yaşlarında ailesiyle fotoğrafı, Nil'le Hanoi fotoğrafı, varsa Nil–Clark–kızıl saçlı Blake'in üçlü selfie benzeri fotoğrafı. Rastgele toplantı veya tek başına Clark fotoğrafı yoktur.",
+            "Nil Hanoi fotoğrafını incelerken içinden 'abi' diye geçirir; Clark'ın abisi olduğu okura İLK KEZ bu anda açıklanır. Ayrı uzun flashback yerine fotoğrafın uyandırdığı kısa anı ve mevcut duygular kullanılır.",
+            "Nil fotoğraf ÇERÇEVESİNİN arka kapağındaki çıkıntıyı fark edip 1866 yazılı çift kanat ve piramit sembollü kartı bulur. Kartın ne olduğunu bilmez; Clark'ın kişisel eski araştırmasına aittir, Nil'e kasıtlı mesaj değildir.",
+            "Clark'ın 15 yaş aile fotoğrafı ve varsa üçlü fotoğrafın detayları başka sahnelere zorla taşınmaz."
           ]
         },
         {
@@ -2157,10 +2165,9 @@
           "location": "Ev; dijital kaynaklar ve Skopse Tarihi kitabı",
           "atmosphere": "AI ile kirlenmiş dijital tarih karşısında dark-academia kaynak araştırması.",
           "events": [
-            "Nil çevrim içi bilgilerde yüzeysellik/yanlışlık görür.",
-            "Fiziksel kitapta 1866 depremi, Yeni Şehir'in inşası, kapalı topluluklar ve üniversite kökenleri hakkında daha fazla ayrıntı bulur.",
-            "Kanatlı piramidin anlamı henüz bilinmez.",
-            "1866, Skopse'nin büyük depreminin ve depremin hemen ardından Angels tarikatının kuruluşunun yılıdır; bu bağlantı henüz Nil tarafından bilinmez."
+            "Nil 1866 tarihini ve kanatlı piramit sembolünü internette arar; sembolü bulamaz, tarihsel bilgi yüzeysel kalır.",
+            "Evdeki nadir basılı tarih kitaplarında 1866 depremi ve sonrasındaki yeniden yapılandırma hakkında bilgi bulur; kartın sembolü hala çözülemez. Angels'ın kuruluşunu öğrenmez.",
+            "Skopse'de geniş fiziksel koleksiyonlar nadirdir; üniversite kütüphanesi Nil'in erişebileceği en kapsamlı kaynaktır. Nil oraya gitmesi gerektiğine karar verir; Lejla'yı arama veya izin isteme BU SAHNEDE YOKTUR."
           ]
         }
       ]
@@ -2187,7 +2194,7 @@
           "location": "Üniversite eski kanadı: yüksek tavanlı tarihî okuma salonu; alt katta iklim kontrollü özel fotoğraf ve belge arşivi",
           "atmosphere": "Yüksek tavanlı tarihî salonun sessizliği; titiz arşiv düzeni ve akademik ayrıcalıkların gölgesi.",
           "events": [
-            "Nil, geçmişte kaybolan kızını bulmasına yardım ettiği Prof. Dr. Lejla Hadžić'ten ayrıcalıklı fiziksel arşiv erişimi alır; Lejla arşiv bilimi profesörü ve arşiv yöneticisidir.",
+            "Nil, geçmişte kayıp kızını bulmasına yardım ettiği Prof. Dr. Lejla Hadžić'ten üniversite kütüphanesinin kısıtlı fiziksel tarih arşivlerine erişim izni ister ve alır; bu temas 02.03'te değil, burada başlar.",
             "1866 sembolü ve tarihsel kayıtları inceler.",
             "Eski kanattaki görkemli, yüksek tavanlı tarihî okuma salonundan yalnız izinle girilen alt kattaki iklim kontrollü belge/fotoğraf arşivine geçilir; Lejla Nil'e eşlik eder."
           ]
