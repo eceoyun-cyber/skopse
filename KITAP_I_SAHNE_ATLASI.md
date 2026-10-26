@@ -1,6 +1,8 @@
 # SKOPSE — Kitap I / Sahne Atlası
 
-> **26 Ekim 2026 — İkinci taslak düzeltmesi:** Bölüm 01–03 açılış, Aras'ın ifadesi, Clark'ın kardeşliğinin açıklanma zamanı, Hanoi çerçevesi, evin aranmış olması ve üniversite arşivine yönelme konularında [İkinci Taslak Kararları](IKINCI_TASLAK_KARARLARI_2026-10-26.md) ile güncellenmiş [`world.json`](world.json) esas alınır. Aşağıdaki eski özetlerde Aras'ın kendiliğinden ihbar ettiği, Nil'in Clark'ın kaybını/kardeşliğini baştan bildirdiği, tek başına Clark fotoğrafının arkası veya ağaçlıklı sorgu gibi ifadeler geçiyorsa **güncelliğini yitirmiştir**. Otopark kamera sürekliliği açık karar olarak işaretlenmiştir.
+> KESİN KARAR C (26 Ekim 2026): Diadolas'ta Nil ile Aras'ın ilk karşılaşması, kovalamacanın bir bölümü ve otoparkta Aras'ın elektroşokla etkisizleştirilmesi güvenlik kameralarına kısmen kaydolur. Nil Aras'ı taşımaz veya sürüklemez; B2 otoparkındaki otomatların arkasında, kameraların görmediği noktada düştüğü yerde kelepçeler ve uyanmasını bekleyip sorgular. Sorgunun hiçbir bölümü kaydedilmez. Cen.net'in Nil'i daha sonra izlemesinde kısmi görüntüler rol oynar; Nil bu takip zincirini o aşamada bilmez. Eski ağaçlıklı servis alanına taşıma/sorgulama planı geçersizdir.
+
+> **26 Ekim 2026 — İkinci taslak düzeltmesi:** Bölüm 01–03 açılış, Aras'ın ifadesi, Clark'ın kardeşliğinin açıklanma zamanı, Hanoi çerçevesi, evin aranmış olması ve üniversite arşivine yönelme konularında [İkinci Taslak Kararları](IKINCI_TASLAK_KARARLARI_2026-10-26.md) ile güncellenmiş [`world.json`](world.json) esas alınır. Aşağıdaki eski özetlerde Aras'ın kendiliğinden ihbar ettiği, Nil'in Clark'ın kaybını/kardeşliğini baştan bildirdiği, tek başına Clark fotoğrafının arkası veya ağaçlıklı sorgu gibi ifadeler geçiyorsa **güncelliğini yitirmiştir**. Otopark kamera sürekliliği C seçeneğiyle kesinleşmiştir; ilk karşılaşma, kovalamacanın bir kısmı ve elektroşok kısmen kaydedilir, otomat arkasındaki sorgu kaydedilmez.
 
 > **Atlas 4.8 · 21 Ekim 2026 · 12 bölüm / 66 sahne**
 >
@@ -14,7 +16,7 @@
 
 ## 01. Başlatma
 
-**Genel özet:** Skopse'nin sel ve sınıf ayrımıyla bölünmüş dünyasında Nil Clayton, üç gündür kayıp abisi Clark'ın izini sürer. Clark'ın bahsettiği ve bir hafta kadar önce Cen.net'ten çıkarılmış Aras Stojanovski'yi çevrim içi paylaşımlarından Diadolas Yaşam Merkezi'ne kadar takip eder. Aras kaçınca otoparkta önünü keser; hazırlıklı getirdiği elektroşok cihazıyla etkisiz hâle getirip gözlerden uzak bir yerde sorgular. Aras, yaklaşık bir ay önce Clark'ın kendi erişim kayıtlarını sildiğini gördüğünü, bunu raporladığını ve ardından işinden olduğunu anlatır. Nil Aras'ı serbest bırakır; Cen.net'e yönelik kuşkusu artar. Diadolas'ın kamerası ilk temasın bir kısmını kaydeder, sorgu ağaçlı servis bölümündeki kör noktada kalır.
+**Genel özet:** Skopse'nin sel ve sınıf ayrımıyla bölünmüş dünyasında Nil Clayton, üç gündür kayıp abisi Clark'ın izini sürer. Clark'ın bahsettiği ve bir hafta kadar önce Cen.net'ten çıkarılmış Aras Stojanovski'yi çevrim içi paylaşımlarından Diadolas Yaşam Merkezi'ne kadar takip eder. Aras kaçınca otoparkta önünü keser; hazırlıklı getirdiği elektroşok cihazıyla etkisiz hâle getirip gözlerden uzak bir yerde sorgular. Aras, yaklaşık bir ay önce Clark'ın kendi erişim kayıtlarını sildiğini gördüğünü, bunu raporladığını ve ardından işinden olduğunu anlatır. Nil Aras'ı serbest bırakır; Cen.net'e yönelik kuşkusu artar. Diadolas'ın kamerası ilk temasın bir kısmını kaydeder, sorgu otomatların arkasındaki kör noktada kalır.
 
 ### Sahne 01.01 — Onj taşkını: iki şehir
 
@@ -62,12 +64,12 @@
 
 **Karakterler:** Nil Clayton; Aras Stojanovski
 
-**Mekân:** Diadolas yakınındaki gözlerden uzak ağaçlıklı nokta
+**Mekân:** Diadolas B2 otoparkı, otomatların arkası
 
 **Atmosfer:** Sakin ancak zorlayıcı sorgu.
 
 **Olaylar:**
-- Nil Aras'ı Diadolas otoparkından kısa bir mesafe boyunca ağaçlı servis bölgesine götürüp kelepçeler; kameralar ilk karşılaşmanın bir kısmını görür ama asıl sorgu kör noktada kalır.
+- Nil Aras'ı B2 otoparkında otomatların arkasında düştüğü yerde kelepçeler, taşımaz; kameralar ilk karşılaşmanın bir kısmını görür ama asıl sorgu kör noktada kalır.
 - Aras bir ay önce Clark'ın erişim loglarını sildiğini gördüğünü; bildirdikten sonra işinden olduğunu anlatır.
 - Nil onu serbest bırakır.
 
@@ -78,10 +80,10 @@
 - Skopse açılışı: Onj'un taşkınları, Yeni Şehir'i koruyan sel duvarları ve Eski Şehir'in yükü; her sahneyi yağmurlu/neonlu anlatma.
 - Nil 24, Clark 38 yaşında; Clark üç gündür eve dönmüyor. Nil soğukkanlı, gözlemci, araştırmacı ve esprili; dövüş uzmanı değil.
 - Nil açık kayıtlar ve Aras'ın paylaşımlarından konum tespit eder; tanışma soruları 'Aras Stojanovski?', 'Tanışıyor muyuz?', 'Clark Clayton hakkında birkaç sorum var.' çizgisinde.
-- Aras şirketin onu gönderdiğini sanarak kaçar. Nil otoparkta önünü keser; bayıltıp/etkisizleştirip tenha ağaçlık bölgede kelepçeler ve sakin biçimde konuşur, sonunda bırakır.
+- Aras şirketin onu gönderdiğini sanarak kaçar. Nil otoparkta önünü keser; elektroşokla etkisizleştirip otomatların arkasında düştüğü yerde kelepçeler ve sakin biçimde konuşur, sonunda bırakır.
 - Aras yaklaşık bir ay önce Clark'ın özel yazılımla erişim loglarını sildiğini görmüştür; işten çıkarılma yaklaşık bir hafta öncedir.
 - YAZAR SIRRI: Cen.net, Nil'in soruşturmasını fark eder ve Aras'ı öldürür; Nil bunu bölümde öğrenmez.
-- Kesinleşti: Otoparkta ilk temas kamerada kısmen görülür; Aras ağaçlı servis alanına kısa mesafede götürülür, sorgu kaydedilmez. Kayıt Cen.net takibi ve Aras'ın gizli öldürülmesi için ipucudur.
+- Kesinleşti: Otoparkta ilk temas kamerada kısmen görülür; Aras otomatların arkasında düştüğü yerde kalır; Nil onu taşımaz, sorgu kaydedilmez. Kayıt Cen.net takibi ve Aras'ın gizli öldürülmesi için ipucudur.
 
 
 ---
