@@ -27,7 +27,7 @@ Bu dosya, yazarın ikinci taslak sırasında aldığı kararları toplar. Metin 
 - İnternette sembolü bulamaz; basılı tarih kitaplarında 1866 depremi ve yeniden yapılanma bilgisi bulur. Angels bağlantısını öğrenmez.
 - Skopse'de fiziksel kütüphane nadirdir; geniş erişilebilir koleksiyon üniversitededir, kısıtlı arşiv için izin gerekir. Sahne üniversiteye gitme kararıyla biter. Prof. Dr. Lejla Hadžić ile iletişim bir sonraki sahnededir; Nil geçmişte kayıp kızını bulmasına yardım etmiştir.
 
-## Çözülmesi gereken eski plan çelişkisi
-- Eski atlas: Nil Aras'ı otoparktan kısa mesafe sürükleyip ağaçlıklı servis kör noktasında sorgular, ilk temas kısmen kameraya kaydolur. İkinci taslak: Aras otomat yanında yere düşer, Nil taşımaz, sorgu oradadır. Kameranın hangi anları gördüğü ve Cen.net takip zinciri yazara sorulmalı. Şimdilik 'kamera kayıtları tamamen yoktur' sonucuna varılmaz.
+## Kesinleşen kamera kararı — C seçeneği
+- KESİN KARAR C (26 Ekim 2026): Diadolas'ta Nil ile Aras'ın ilk karşılaşması, kovalamacanın bir bölümü ve otoparkta Aras'ın elektroşokla etkisizleştirilmesi güvenlik kameralarına kısmen kaydolur. Nil Aras'ı taşımaz veya sürüklemez; B2 otoparkındaki otomatların arkasında, kameraların görmediği noktada düştüğü yerde kelepçeler ve uyanmasını bekleyip sorgular. Sorgunun hiçbir bölümü kaydedilmez. Cen.net'in Nil'i daha sonra izlemesinde kısmi görüntüler rol oynar; Nil bu takip zincirini o aşamada bilmez. Eski ağaçlıklı servis alanına taşıma/sorgulama planı geçersizdir.
 - Eski atlasın 'Nil'in çektiği tek başına Clark fotoğrafı' ve 'Aras kendisi raporladı' ifadeleri yeni kararla geçersizdir.
 - Eski atlasın 1866 büyük deprem / Angels kuruluşu yazar sırrı korunur; Nil'in o aşamada öğrenebileceği bilgi sınırlıdır.
