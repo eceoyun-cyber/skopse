@@ -1,6 +1,8 @@
 # SKOPSE — Kesinleşen kanon ve açıklık düzeyleri (21 Ekim 2026)
 
-> **26 Ekim 2026 — İkinci taslak düzeltmesi:** Bölüm 01–03 açılış, Aras'ın ifadesi, Clark'ın kardeşliğinin açıklanma zamanı, Hanoi çerçevesi, evin aranmış olması ve üniversite arşivine yönelme konularında [İkinci Taslak Kararları](IKINCI_TASLAK_KARARLARI_2026-10-26.md) ile güncellenmiş [`world.json`](world.json) esas alınır. Aşağıdaki eski özetlerde Aras'ın kendiliğinden ihbar ettiği, Nil'in Clark'ın kaybını/kardeşliğini baştan bildirdiği, tek başına Clark fotoğrafının arkası veya ağaçlıklı sorgu gibi ifadeler geçiyorsa **güncelliğini yitirmiştir**. Otopark kamera sürekliliği açık karar olarak işaretlenmiştir.
+> KESİN KARAR C (26 Ekim 2026): Diadolas'ta Nil ile Aras'ın ilk karşılaşması, kovalamacanın bir bölümü ve otoparkta Aras'ın elektroşokla etkisizleştirilmesi güvenlik kameralarına kısmen kaydolur. Nil Aras'ı taşımaz veya sürüklemez; B2 otoparkındaki otomatların arkasında, kameraların görmediği noktada düştüğü yerde kelepçeler ve uyanmasını bekleyip sorgular. Sorgunun hiçbir bölümü kaydedilmez. Cen.net'in Nil'i daha sonra izlemesinde kısmi görüntüler rol oynar; Nil bu takip zincirini o aşamada bilmez. Eski ağaçlıklı servis alanına taşıma/sorgulama planı geçersizdir.
+
+> **26 Ekim 2026 — İkinci taslak düzeltmesi:** Bölüm 01–03 açılış, Aras'ın ifadesi, Clark'ın kardeşliğinin açıklanma zamanı, Hanoi çerçevesi, evin aranmış olması ve üniversite arşivine yönelme konularında [İkinci Taslak Kararları](IKINCI_TASLAK_KARARLARI_2026-10-26.md) ile güncellenmiş [`world.json`](world.json) esas alınır. Aşağıdaki eski özetlerde Aras'ın kendiliğinden ihbar ettiği, Nil'in Clark'ın kaybını/kardeşliğini baştan bildirdiği, tek başına Clark fotoğrafının arkası veya ağaçlıklı sorgu gibi ifadeler geçiyorsa **güncelliğini yitirmiştir**. Otopark kamera sürekliliği C seçeneğiyle kesinleşmiştir; ilk karşılaşma, kovalamacanın bir kısmı ve elektroşok kısmen kaydedilir, otomat arkasındaki sorgu kaydedilmez.
 
 > **Atlas 4.8 · 21 Ekim 2026 güncellemesi; karar 01–36, 38–76 işlendi.** Güncel hikâye kaynağı `world.json` içindeki 12 bölümün 66 ayrı sahnesi, bölüm özetleri, zaman çizelgesi, karakterler ve yazar notlarıdır. Tam sahne dökümü: [`KITAP_I_SAHNE_ATLASI.md`](KITAP_I_SAHNE_ATLASI.md). Karakter/mekân/atmosfer referansı: [`KARAKTER_MEKAN_ATMOSFER_ATLASI.md`](KARAKTER_MEKAN_ATMOSFER_ATLASI.md). Bu dosya onlarla birlikte okunur. **KESİN / AÇIK / YAZAR SIRRI** ayrımını koruyun; eksikleri otomatik doldurmayın. Diyalog taslakları ancak açıkça kararlaştırılmış kısa replikler bakımından bağlayıcıdır.
 
@@ -40,15 +42,15 @@
 
 ### 01 — Başlatma
 
-Skopse'nin sel ve sınıf ayrımıyla bölünmüş dünyasında Nil Clayton, üç gündür kayıp abisi Clark'ın izini sürer. Clark'ın bahsettiği ve bir hafta kadar önce Cen.net'ten çıkarılmış Aras Stojanovski'yi çevrim içi paylaşımlarından Diadolas Yaşam Merkezi'ne kadar takip eder. Aras kaçınca otoparkta önünü keser; hazırlıklı getirdiği elektroşok cihazıyla etkisiz hâle getirip gözlerden uzak bir yerde sorgular. Aras, yaklaşık bir ay önce Clark'ın kendi erişim kayıtlarını sildiğini gördüğünü, bunu raporladığını ve ardından işinden olduğunu anlatır. Nil Aras'ı serbest bırakır; Cen.net'e yönelik kuşkusu artar. Diadolas'ın kamerası ilk temasın bir kısmını kaydeder, sorgu ağaçlı servis bölümündeki kör noktada kalır.
+Skopse'nin sel ve sınıf ayrımıyla bölünmüş dünyasında Nil Clayton, üç gündür kayıp abisi Clark'ın izini sürer. Clark'ın bahsettiği ve bir hafta kadar önce Cen.net'ten çıkarılmış Aras Stojanovski'yi çevrim içi paylaşımlarından Diadolas Yaşam Merkezi'ne kadar takip eder. Aras kaçınca otoparkta önünü keser; hazırlıklı getirdiği elektroşok cihazıyla etkisiz hâle getirip gözlerden uzak bir yerde sorgular. Aras, yaklaşık bir ay önce Clark'ın kendi erişim kayıtlarını sildiğini gördüğünü, bunu raporladığını ve ardından işinden olduğunu anlatır. Nil Aras'ı serbest bırakır; Cen.net'e yönelik kuşkusu artar. Diadolas'ın kamerası ilk temasın bir kısmını kaydeder, sorgu otomatların arkasındaki kör noktada kalır.
 
 - Skopse açılışı: Onj'un taşkınları, Yeni Şehir'i koruyan sel duvarları ve Eski Şehir'in yükü; her sahneyi yağmurlu/neonlu anlatma.
 - Nil 24, Clark 38 yaşında; Clark üç gündür eve dönmüyor. Nil soğukkanlı, gözlemci, araştırmacı ve esprili; dövüş uzmanı değil.
 - Nil açık kayıtlar ve Aras'ın paylaşımlarından konum tespit eder; tanışma soruları 'Aras Stojanovski?', 'Tanışıyor muyuz?', 'Clark Clayton hakkında birkaç sorum var.' çizgisinde.
-- Aras şirketin onu gönderdiğini sanarak kaçar. Nil otoparkta önünü keser; bayıltıp/etkisizleştirip tenha ağaçlık bölgede kelepçeler ve sakin biçimde konuşur, sonunda bırakır.
+- Aras şirketin onu gönderdiğini sanarak kaçar. Nil otoparkta önünü keser; elektroşokla etkisizleştirip otomatların arkasında düştüğü yerde kelepçeler ve sakin biçimde konuşur, sonunda bırakır.
 - Aras yaklaşık bir ay önce Clark'ın özel yazılımla erişim loglarını sildiğini görmüştür; işten çıkarılma yaklaşık bir hafta öncedir.
 - YAZAR SIRRI: Cen.net, Nil'in soruşturmasını fark eder ve Aras'ı öldürür; Nil bunu bölümde öğrenmez.
-- Kesinleşti: Otoparkta ilk temas kamerada kısmen görülür; Aras ağaçlı servis alanına kısa mesafede götürülür, sorgu kaydedilmez. Kayıt Cen.net takibi ve Aras'ın gizli öldürülmesi için ipucudur.
+- Kesinleşti: Otoparkta ilk temas kamerada kısmen görülür; Aras otomatların arkasında düştüğü yerde kalır; Nil onu taşımaz, sorgu kaydedilmez. Kayıt Cen.net takibi ve Aras'ın gizli öldürülmesi için ipucudur.
 
 ### 02 — Tanılama
 
@@ -222,7 +224,7 @@ Meleklerden de kaçan Nil, Julian ve Blake bu kez ortak kararla Doktor Daniil'e 
 - NEXARIEL kanatlara öfkelidir; Nil'in çipinin bilimsel/teknik bütün ayrıntılarını biliyor sayılmaz. 5. bölümde CEO'nun şeytanlığı için hem tarihî belge hem savaş görüntüsü gösterir; Nil kanıtların Angels tarafından seçilmiş olmasına dikkat eder.
 - Bella'nın aile tarihi / eski doğaüstü bilgi kaynağı açıklanmayan **yazar sırrıdır**.
 - Clark'ın genç yaşta elde ettiği hack servetini **Nil ve Blake bilmez**.
-- **Aras'ın öldürülmesinde Cen.net rolü** açılışta Nil'in bilgisi değildir. Diadolas otoparkının ilk temas görüntüleri şirketin Nil'i izlemesinde somut ipucudur; ağaçlı servis alanındaki sorgu kameraya yakalanmaz.
+- **Aras'ın öldürülmesinde Cen.net rolü** açılışta Nil'in bilgisi değildir. Diadolas otoparkının ilk temas görüntüleri şirketin Nil'i izlemesinde somut ipucudur; otomatların arkasındaki sorgu kameraya yakalanmaz.
 - 77'nin insan adı **Aurelian A.**, şeytani adı **BELMAVETH** şimdilik **çalışma adı**; insan soyadı kesin değil. Aurelian zarif aristokratik tavırlı güçlü şeytandır. Nil/Julian gerçeği NEXARIEL kayıtlarından bilir, Blake 9. bölümde öğrenir.
 - **Sifon baskınının gerçek hedefi Nil'dir (YAZAR SIRRI).** Kemal askerlerin bir kadın aradığını duyar; Nil ve Blake Nil olabileceğinden kuşkulanır, kesin belge yoktur.
 - **Eski evin çift taraflı gözetimi (YAZAR SIRRI):** Cen.net ve Angels evi bağımsız izler; Nil yalnız Cen.net'i sanır.
