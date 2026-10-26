@@ -870,3 +870,13 @@ Nil'in 31 Aralık balosuna sızmak için rüşvetle temin ettiği orijinal davet
 - Üçlü aralık başından 31 Aralık'a kadar yaklaşık bir ay villada hazırlanır. Kanatların ilk uçuşu Hezarfen tarzı süzülerek Yeni Şehir'deki Onj servis çatısına iniştir.
 - **Karar 37 AÇIK:** Sanat hamisinin ve hizmetçisinin özel adları bilinçli olarak belirlenmedi. **Karar 30:** Julian'ın balo davetinin tuzak olup olmadığı belirsiz.
 
+
+
+
+## Üçüncü taslak karakter ve anlatım ekleri — 26 Ekim 2026
+- Nil–Julian kahve buluşmasından beri karşılıklı **sen** hitabı kullanır; formaliteyi mekanik biçimde sürdürme.
+- Nil: kısa siyah küt saç, atlet üstüne kot ceket, **bol kumaş pantolon (kot pantolon değil)**, rahat ayakkabılar; çantasız, ceplerinde/kemerinde holofon ve notları. Holofon sesli arama da yapabilen, görüntülü aramada hologram yansıtan telefondur.
+- Julian: günlük giyiminde bej, krem, camel, kahverengi, taupe, triko ve iyi kesimli pantolon/palto. Balodaki süslü fildişi yüksek yakalı takım yalnız o geceye özgü kıyafet referansıdır.
+- Clark: ağır ve yasa dışı kararlarını kendi yetki/mantık çerçevesinde alır; sonuçlarından hoşnutsuzluk ile pişmanlık farklıdır. İlk soygunundan pişman olduğu kanon değildir. Üçüncü Angels sınavında suçlarını saklamaz ama pişmanlık duymadığı için teknik olarak kalır, kurul kararıyla geçer. Hangi eylemleri itiraf ettiği AÇIK.
+- Nil'in Vesna itirafında koruduğu eski dostun adı okura verilmez. **Blake adı ilk fiziksel karşılaşmada öğrenilir.** Nil'in kanıt silmesi cinayeti çözebilecek izleri de kapsar; katilin kimliğini bilmiyordu. Dostuna gerçeği 06. bölümde söyler.
+- Villa: NEXARIEL'den sonra Nil ve Julian yalnızken Clark'ın üçüncü sınavda nasıl kaldığını konuşurlar; itirafların içeriği açıklanmaz.
