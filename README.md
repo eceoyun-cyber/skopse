@@ -1,5 +1,7 @@
 # SKOPSE — Dünya Atlası
 
+> **26 Ekim 2026 — İkinci taslak düzeltmesi:** Bölüm 01–03 açılış, Aras'ın ifadesi, Clark'ın kardeşliğinin açıklanma zamanı, Hanoi çerçevesi, evin aranmış olması ve üniversite arşivine yönelme konularında [İkinci Taslak Kararları](IKINCI_TASLAK_KARARLARI_2026-10-26.md) ile güncellenmiş [`world.json`](world.json) esas alınır. Aşağıdaki eski özetlerde Aras'ın kendiliğinden ihbar ettiği, Nil'in Clark'ın kaybını/kardeşliğini baştan bildirdiği, tek başına Clark fotoğrafının arkası veya ağaçlıklı sorgu gibi ifadeler geçiyorsa **güncelliğini yitirmiştir**. Otopark kamera sürekliliği açık karar olarak işaretlenmiştir.
+
 ## Güncel sürüm ve çalışma kaynağı
 
 **Atlas 4.8 · 21 Ekim 2026**. Güncel atlasın ana verisi `world.json`, görünümü `styles.css`, uygulama mantığı `app.js`, giriş sayfası `index.html` dosyalarındadır. Hepsi depo **kökünde** bulunur. `index.html` bunları dış dosyalar olarak yükler; eski tek dosyalı sürümün README'sindeki yönergeler bu sürüm için geçerli değildir.
