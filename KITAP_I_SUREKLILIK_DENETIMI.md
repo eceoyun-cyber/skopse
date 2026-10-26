@@ -1,5 +1,7 @@
 # SKOPSE — Kitap I Süreklilik ve Mantık Denetimi
 
+> **26 Ekim 2026 — İkinci taslak düzeltmesi:** Bölüm 01–03 açılış, Aras'ın ifadesi, Clark'ın kardeşliğinin açıklanma zamanı, Hanoi çerçevesi, evin aranmış olması ve üniversite arşivine yönelme konularında [İkinci Taslak Kararları](IKINCI_TASLAK_KARARLARI_2026-10-26.md) ile güncellenmiş [`world.json`](world.json) esas alınır. Aşağıdaki eski özetlerde Aras'ın kendiliğinden ihbar ettiği, Nil'in Clark'ın kaybını/kardeşliğini baştan bildirdiği, tek başına Clark fotoğrafının arkası veya ağaçlıklı sorgu gibi ifadeler geçiyorsa **güncelliğini yitirmiştir**. Otopark kamera sürekliliği açık karar olarak işaretlenmiştir.
+
 **Atlas 4.8 · 21 Ekim 2026 · Aşama 3 / ikinci taslak öncesi**
 
 > Kaynak: `world.json`, `KITAP_I_SAHNE_ATLASI.md`, `KANON_KARARLARI_2026-10-20.md` ve `KANON_KARARLARI_46_76.md`. Kontrol edilen kapsam: **12 bölüm, 66 sahne, 25 zaman çizelgesi kaydı**. Bu denetim yazılmış romanın satır satır editörlüğü değil, kesinleşmiş olay ve sahne planının süreklilik denetimidir.
