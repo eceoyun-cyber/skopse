@@ -1421,7 +1421,7 @@ Julian şefi sarhoş etmeyi dener; Nil maskeli Aurelian'la sanat konuşur, Blake
 
 **Ek notlar / yazar bilgisi**
 
-Sanat eserlerinin gerçek adları ve koleksiyonun envanteri açık. Balo davetinin Aurelian tarafından Julian'a kurulan bilinçli tuzak olup olmadığı birinci kitapta AÇIK. Nil'in sanat hamisi ve hizmetçisinin özel adları da henüz AÇIK. 09.02a sahnesinde anahtar planının ilk hamlesinden sonra Nil ve Julian güvenlik şüphesini dağıtmak amacıyla çift rolü yaparken ilk kez öpüşür; 09.03'te Nil maskeli Aurelian'la sanat üzerine görüşür. 09.03 dikkat dağıtma amaçlı Nil–Julian ilk öpüşmesi, 09.04 maskeli CEO ile sanat sohbeti ve 09.05 güvenlik şefinin etkisizleştirilmesi farklı olaylardır.
+Sanat eserlerinin gerçek adları ve koleksiyonun envanteri açık. Balo davetinin Aurelian tarafından Julian'a kurulan bilinçli tuzak olup olmadığı birinci kitapta AÇIK. Nil'in sanat hamisi ve hizmetçisinin özel adları da henüz AÇIK. 09.03 sahnesinde Nil ve Julian, anahtar planının ilk hamlesinin ardından dikkat dağıtmak için çift rolü yaparken ilk kez öpüşür; 09.04'te Nil maskeli Aurelian'la sanat üzerine görüşür. 09.03 dikkat dağıtma amaçlı Nil–Julian ilk öpüşmesi, 09.04 maskeli CEO ile sanat sohbeti ve 09.05 güvenlik şefinin etkisizleştirilmesi farklı olaylardır.
 
 **Bağlı atlas kayıtları:** Paradise / Cen.net Ağacı (`paradise`); Aurelian A. / 77 (`77`); Nil Clayton (`nil`); Julian Junes (`julian`); Blake (`blake`); Cen.net Özel Güvenlik Şefi (`ozel_guvenlik_sefi`).
 
