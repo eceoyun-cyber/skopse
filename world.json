@@ -641,7 +641,7 @@
         "Sahne": "Paradise sızması",
         "Diğer adları": "Cen.net Ağacı · Cen.net Genel Merkezi",
         "Yerleşke": "Yönetim, araştırma ve sunucular",
-        "Konutlar": "Özel personel konutları yakınında",
+        "Konutlar": "Gümüşyaka ayrı bir seçkin mahalledir; şirket lojmanı değildir.",
         "Yükseklik": "Skopse'nin en yüksek binası",
         "Kat sayısı": "100",
         "99. kat": "CEO özel koleksiyonu · 31 Aralık maskeli balo",
@@ -1229,16 +1229,16 @@
       "id": "clark_evi",
       "name": "Nil ve Clark'ın Evi",
       "type": "places",
-      "tagline": "YENİ ŞEHİR · PERSONEL KONUTU",
-      "summary": "Nil ile Clark'ın yaşadığı, Paradise/Cen.net yerleşkesine yakın korumalı personel konutu. Clark'ın fiziksel kitapları, CD'leri ve az sayıdaki basılı fotoğrafı burada.",
+      "tagline": "GÜMÜŞYAKA · ÖZEL KİRALIK DAİRE",
+      "summary": "Nil ve Clark, Tünek'in karşısındaki Gümüşyaka mahallesinde Clark'ın kiraladığı pahalı ve güvenlikli dairede yaşar. Şirket lojmanı değildir.",
       "image": "MEKAN_NIL_CLARK_EVI_KESIN.webp",
       "meta": {
         "Atmosfer": "Sıcak yaşanmışlık ve ansızın boşalmış ev; gizli şirket tehdidi",
         "Bölümler": "02, 07"
       },
       "sections": {
-        "genel": "Nil ile Clark'ın yaşadığı, Paradise/Cen.net yerleşkesine yakın korumalı personel konutu. Clark'ın fiziksel kitapları, CD'leri ve az sayıdaki basılı fotoğrafı burada.",
-        "gecmis": "Köken/önceki tarih yalnız mevcut kanondaki ölçüde belirlenmiştir.",
+        "genel": "Nil ve Clark, Tünek'in karşısındaki Gümüşyaka mahallesinde Clark'ın kiraladığı pahalı ve güvenlikli dairede yaşar. Şirket lojmanı değildir.",
+        "gecmis": "Clark Cen.net araştırma bölümüne girdikten sonra Nil ile Gümüşyaka'ya taşınır. Daireyi kendisi kiralar.",
         "iliskiler": "Bağlantılı atlas kayıtları: nil, clark, yeni_sehir, paradise.",
         "yetenekler": "Vietnam fotoğrafı, Nil'in çektiği Clark fotoğrafının arkasındaki 1866 kartı, Shakespeare'in Hamlet kitabı. 7. bölümde evin çevresinde kuşkulu siyah araçlar bulunur.",
         "notlar": "Nil 7. bölümde eve girmek ister, Blake tehlikeli bulduğu için onu uzaklaştırır. Ev hem Cen.net hem Angels tarafından birbirinden bağımsız gözetlenir; Nil yalnız Cen.net'in araçlarını gördüğünü düşünür. Nil ve Blake gerçek ikili gözetimi bilmez."
@@ -1705,9 +1705,9 @@
       "body": "Kızıl saçlı Blake ile Clark, Nil'in çevresinde ilk kez yüz yüze gelir. Clark'ın temkinli, denetimli koruyuculuğu ile Blake'in Sifon'dan gelen doğrudan bağlılığı arasında gerilim doğar; ikisinin de Nil'in hayatındaki yeri bu karşılaşmayla belirginleşir."
     },
     {
-      "when": "Yıllar önce · tarih açık",
-      "title": "Cen.net yerleşkesine taşınma",
-      "body": "Clark, Cen.net'in araştırma bölümüne girdikten sonra Nil ile beraber Paradise / Cen.net Ağacı yakınındaki korumalı personel konutlarına taşınır."
+      "when": "Clark Cen.net araştırma bölümüne girdikten sonra",
+      "title": "Gümüşyaka'ya taşınma",
+      "body": "Clark ve Nil, Tünek'in karşısındaki Gümüşyaka mahallesinde Clark'ın kendi kiraladığı pahalı, güvenlikli daireye taşınır. Burası Cen.net yerleşkesi ya da şirket lojmanı değildir."
     },
     {
       "when": "Nil ve Blake'in gençlikleri · Vesna olayından önce",
