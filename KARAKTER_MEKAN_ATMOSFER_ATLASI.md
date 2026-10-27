@@ -1380,7 +1380,7 @@ Bağlantılı atlas kayıtları: yeni_sehir, julian, nil, blake, angels.
 
 **Yetenekler / işlev**
 
-İçeride Blake'in Cen.net güvenlik planları, Julian'ın annesine dair itirafı, sanat davetiyesi ve analog com-link hazırlığı birikir. Güvenlik planlarının yanı sıra iş çıkışı sohbetleri, havuz ve mutfak karşılaşmaları, ikili dışarı çıkmalar ve hayatın sürmesi taslakta görünür olacak; dışarıdaki sosyal hayatın villaya yansıması ve iş ile özel hayatın birbirine karışması ağırlıklı olacak; ev arkadaşlığı ile gündelik alışkanlıklar bunları destekleyecek, gece yakınlaşmaları ve mahrem sahnelerse sınırlı kalacak. Blake ve Nil'in doğal temasını Julian gözleyip geçmişte bir ilişki olabileceğini sezer, tesadüfi bir söz şüphe uyandırır ama kesin bilgi edinmez.
+Villada Blake'in Cen.net güvenlik planları, Julian'ın annesine dair özel itirafı, sanat davetiyesi ve analog iletişim hazırlığı birikir. Ancak burası yalnızca operasyon masası değildir: Julian'ın reklam ve sosyete yükümlülükleri, Blake'in Sifon'daki onarım ve kayıp arayışı, Nil'in araştırmaları sürdükçe dışarıdaki hayat villaya taşınır. İş ve özel hayat iç içe geçer; ortak yemekler, mutfak alışkanlıkları, havuz çevresindeki karşılaşmalar ve ev arkadaşlığı hissi bu gündelik akışı destekler. Gece yakınlaşmaları, uzun mahrem konuşmalar ve romantik anlar daha düşük yoğunluktadır; haftaların tamamı bunların etrafında dönmez. Julian, Nil ile Blake'in rahat fiziksel alışkanlıklarından ve tesadüfi bir sözden aralarında eskiden romantik bir şeyler yaşanmış olabileceğini sezer, fakat kesin bilgi edinmez.
 
 **Ek notlar / yazar bilgisi**
 
