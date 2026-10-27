@@ -1,6 +1,6 @@
-# SKOPSE — Kesin Kanon Zaman Çizelgesi
+# SKOPSE — Atlas 5.0 / Güncel Kanon Zaman Çizelgesi
 
-> **Atlas 4.9 · 27 Ekim 2026**. Bu metin yayınlanan atlasın `timeline` dizisindeki **36** kaydın tam referansıdır. Kronolojik konumu belirsiz veya yazar sırrı olan maddeler açıkça etiketlenmiştir; romanda kesin yıl belirtilmeyen sahnelere yeni takvim yılı atanmaz.
+> **27 Ekim 2026 · 14 bölüm / 67 sahne / 37 kronoloji kaydı.** Tarihler yeniden yazılmadı; yalnızca bölüm sınırları ve sahne numaraları güncellendi. **31 Aralık** sızma (10. bölüm) ve 100. kat yüzleşmesi (11. bölüm) ayrı kayıtlar olarak yer alır. 16 Kasım sonrası 7–8. bölümlerin kesin ara günleri henüz belirlenmemiştir. [Eski–yeni sahne numarası haritası](KITAP_I_14_BOLUM_DAGILIMI_2026-10-27.md).
 
 ## 01 — Julian'ın Nephilim olarak kabul arayışı
 
@@ -108,7 +108,7 @@ Yaklaşık iki yıl önce Cen.net araştırmacısı Vesna öldürülür. Nil hem
 
 ## 14 — Daniil'in lisans kaybı ve Blake'le karşılıklı yardım
 
-**Zaman:** Bölüm 12'den önce · tarih açık
+**Zaman:** Bölüm 14'den önce · tarih açık
 
 Daniil acil yoksul bir hastayı, önemsiz yarası olan nüfuzlu hastanın önüne aldığı için sahte malpraktis dosyasıyla lisansından olur. Blake kliniğini kurmasına yardımcı olur; daha sonra Daniil ağır yaralı Blake'in hayatını kurtarır. Eski diploması klinik duvarında asılıdır.
 
@@ -204,23 +204,23 @@ Nil ve Julian Angels bağlantılı villaya önce birlikte ulaşır. Blake, Sifon
 
 ## 26 — Eski evin gözetimi, park konuşması ve tamamlanan antrenman
 
-**Zaman:** 14–16 Kasım · bölüm 7, sahne 07.01–07.04
+**Zaman:** 14–16 Kasım · 7. bölüm, 07.01–07.04
 
 14 Kasım Perşembe ilk villa sabahı: kahvaltı, giriş/çıkış ve ağ güvenliği. 15 Kasım Cuma: Nil ve Blake eski evi uzaktan kontrol eder, gözetim araçlarını görür, parkta Clark'ı konuşur; villada antrenman yaparlar, Julian sonradan katılır. 16 Kasım Cumartesi: üçlü Cen.net bilgilerini birleştirerek ortak araştırmaya başlar. Yazar sırrı: Eski evi Cen.net ve Angels ayrı ayrı izler; Angels Nil ve Blake'i görür, Cen.net görmez. YAZAR SIRRI: 15 Kasım'da Angels ikiliyi görür, Cen.net görmez; karakterler bunu öğrenmez ve okura o sahnede açıklanmaz.
 
 ---
 
-## 27 — Cennet Ağacı → Julian'ın itirafı → ikinci Sifon
+## 27 — Cennet Ağacı planı → Julian'ın itirafı → ikinci Sifon
 
-**Zaman:** 16 Kasım sonrasındaki günü kesinleşmemiş dönem · bölüm 7, sahne 07.05–07.11
+**Zaman:** 16 Kasım sonrası · 7–8. bölümler, 07.05–08.05
 
-KESİN SIRA: 16 Kasım ortak araştırmasının ardından (07.05) Cennet Ağacı'nın katları, 31 Aralık balosu ve 99–100. kat arasındaki mekanik anahtar planı öğrenilir; (07.06) Julian yalnız Nil'e Nephilim olduğunu ve annesinin hapsedildiğine inandığını anlatır; (07.07–07.09) ancak bundan sonra Nil ile Blake ikinci Sifon ziyaretinde üç kaybı, aranan kadını, Kemal'in sevk takibini ve Nadejda'nın Ölü Frekans'ını araştırır. Nil–Blake'in geçmişteki romantik yakınlığı burada açıklığa kavuşur. (07.10–07.11) villada Julian'la değerlendirme ve değişen ilişkiler. Eski '17 Kasım Sifon / 19–20 Kasım kule / 21 Kasım itiraf' tarihleri geçersizdir; kesin yeni günler belirlenmedi. 07.04'te siyah/gri araçlar, depo ve sevk hatları yalnız araştırma izidir; kesin kanıt değildir. İkinci taslakta yazılan son sahne 07.04, sonraki kayıtlar onaylı plandır. Villada ortak çalışma, dışarıdaki sosyal bağlar ve özel hayat iç içe sürer; ev arkadaşlığı görünür, romantik ve mahrem yakınlaşmalar daha sınırlı kalır.
+KESİN SIRA: 16 Kasım ortak araştırmasının ardından (07.05) Cennet Ağacı'nın katları, 31 Aralık balosu ve 99–100. kat arasındaki mekanik anahtar planı öğrenilir; (07.06) Julian yalnız Nil'e Nephilim olduğunu ve annesinin hapsedildiğine inandığını anlatır; (08.01–08.03) ancak bundan sonra Nil ile Blake ikinci Sifon ziyaretinde üç kaybı, aranan kadını, Kemal'in sevk takibini ve Nadejda'nın Ölü Frekans'ını araştırır. Nil–Blake'in geçmişteki romantik yakınlığı burada açıklığa kavuşur. (08.04–08.05) villada Julian'la değerlendirme ve değişen ilişkiler. Eski '17 Kasım Sifon / 19–20 Kasım kule / 21 Kasım itiraf' tarihleri geçersizdir; kesin yeni günler belirlenmedi. 07.04'te siyah/gri araçlar, depo ve sevk hatları yalnız araştırma izidir; kesin kanıt değildir. İkinci taslakta yazılan son sahne 07.04, sonraki kayıtlar onaylı plandır. Villada ortak çalışma, dışarıdaki sosyal bağlar ve özel hayat iç içe sürer; ev arkadaşlığı görünür, romantik ve mahrem yakınlaşmalar daha sınırlı kalır. 7. bölüm Julian'ın Nil'e Clark hakkında verdiği incitici karşılıkla 07.06'da biter; ikinci Sifon yeni 8. bölümün 08.01 sahnesinde başlar.
 
 ---
 
 ## 28 — Julian'ın Clark karşılığı
 
-**Zaman:** Cennet Ağacı planından sonra, ikinci Sifon'dan önce · sahne 07.06
+**Zaman:** 16 Kasım sonrası kesin günü açık · 7. bölüm, 07.06
 
 Julian, yalnız Nil'e yaklaşık 200 yaşında Nephilim olduğunu, melek annesinin hapsedildiğine ve insan babasının öldürüldüğüne inandığını anlatır. Nil anlatılanların doğruluğunu sorgulayınca Julian Clark'ın da Nil'den sırlar sakladığını hatırlatır; ikisi incinir. Blake bu kişisel sırrı öğrenmez. Julian'ın annesinin hapsedildiği, babasının öldürüldüğü anlatı Angels'ın öğrettikleridir, doğrulanmış geçmiş değildir.
 
@@ -228,15 +228,15 @@ Julian, yalnız Nil'e yaklaşık 200 yaşında Nephilim olduğunu, melek annesin
 
 ## 29 — Giriş rolü kararı ve tarihsel sıralama
 
-**Zaman:** Bölüm 8 öncesi · kesin gün açık
+**Zaman:** Bölüm 9 öncesi · kesin gün açık
 
-Cennet Ağacı'nın mekanik anahtar ve 31 Aralık balosu planı 07.05'te, Julian'ın Nephilim/anne itirafı 07.06'da, ikinci Sifon ziyareti 07.07–07.09'da geçer. Ancak sonra 08.01'de Nil sanat hamisi, Blake sınırlı güvenlik görevlisi, Julian gerçek davetli olarak belirlenir. Kesin Kasım ara günleri uydurulmaz; fiziksel davetiye 08.02'de rol seçiminden sonra bizzat alınır.
+Cennet Ağacı'nın mekanik anahtar ve 31 Aralık balosu planı 07.05'te, Julian'ın Nephilim/anne itirafı 07.06'da, ikinci Sifon ziyareti 08.01–08.03 sahnelerinde geçer. Ancak sonra 09.01'de Nil sanat hamisi, Blake sınırlı güvenlik görevlisi, Julian gerçek davetli olarak belirlenir. Kesin Kasım ara günleri uydurulmaz; fiziksel davetiye 09.02'de rol seçiminden sonra bizzat alınır.
 
 ---
 
 ## 30 — Orijinal fiziksel balo davetiyesi
 
-**Zaman:** Kasım sonu–Aralık başı · bölüm 8, sahne 08.02
+**Zaman:** Kasım sonu–Aralık başı · 9. bölüm, 09.02
 
 İkinci Sifon ziyaretinden sonra, 22–27 Kasım için planlanan giriş rolleri belirlenir: Julian davetli, Blake sınırlı yetkili güvenlik görevlisi, Nil yurtdışındaki kadın sanat hamisi kimliğindedir. Nil hizmetçiye çevrim içi rüşvet verir; orijinal kağıt davetiyeyi Eski Şehir'deki isimsiz posta kutusundan bizzat alır. Bu davetiye tek başına giriş garantisi değildir.
 
@@ -244,57 +244,67 @@ Cennet Ağacı'nın mekanik anahtar ve 31 Aralık balosu planı 07.05'te, Julian
 
 ## 31 — Tek galeri ve son hazırlıklar
 
-**Zaman:** Aralık başı–30 Aralık · bölüm 8, sahne 08.03–08.06
+**Zaman:** Aralık başı–30 Aralık · 9. bölüm, 09.03–09.06
 
 Nil, sanat hamisi rolü ve gerçek davetiye planından sonra yalnız bir bağımsız kamusal galeriye gider; erken tarihte ayrı bir galeri/sosyete ziyareti yoktur. Blake Sifon onarımını, kayıpları ve sınırlı güvenlik erişimini araştırır; Nil analog iletişimi uyarlar. Aralık son haftasında roller ve kıyafetler netleşir; 30 Aralık'ta Blake Sifon görevlerini devrederek operasyonda kalır.
 
 ---
 
-## 32 — 99. kat balosu ve 100. kat çatışması
+## 32 — 99. kat balosu: sızma, ilk öpüşme, şeytan güvenlik şefi
 
-**Zaman:** 31 Aralık · bölüm 9
+**Zaman:** 31 Aralık gecesi · 10. bölüm
 
-31 Aralık: üçlü ayrı kimliklerle 99. kat balosuna girer. Nil galeride asansörün teknik güvenliğini inceler; Julian özel güvenlik şefini sarhoş etmeyi dener, başaramaz. Blake şefi tenha yere çeker; şefin şeytan olduğu ortaya çıkar. Nil ve Julian dövüşe katılır; Julian'ın kutsal elektriği şefi öldürür, Blake doğaüstünü ilk kez açıkça görür. Mekanik anahtar alınır; şefin iletişim kesilmesi zaman baskısı yaratır. Nil–Julian ilk öpücüğü dikkat dağıtmak içindir; Blake görmez.
+Nil sahte sanat hamisi olarak orijinal fiziksel davetiyeyle, Julian kendi adıyla, Blake o gece ele geçirdiği sınırlı yetkili güvenlik kimliğiyle 99. kat balosuna ayrı ayrı girer. Nil asansörün teknik güvenliğini inceler. Julian güvenlik şefini sarhoş edip anahtarı alma girişiminde başarısız olur (10.02). Nil ile Julian kimlik kuşkusunu dağıtmak için ilk kez öpüşür, Blake görmez (10.03). Nil 10.04'te maskeli Aurelian'la sanat konuşur; adamın CEO olduğunu bilmez. Blake şefi tenha yere çeker. Şeytan olduğu açığa çıkan özel güvenlik şefi, Julian'ın kutsal elektriğiyle 10.05'te ölür. Blake doğaüstünü ilk kez görür. Mekanik anahtar alınır; şefin iletişiminin kesilmesi baskı yaratır. Bölüm burada biter.
 
 ---
 
-## 33 — NEXARIEL'in hükmü
+## 33 — 100. kat: Clark'ın izi, Aurelian ve Nil'in kanatları
 
-**Zaman:** Balo sonrası · bölüm 10
+**Zaman:** 31 Aralık gecesi · 11. bölüm
+
+Özel asansör mekanik anahtarla açılır (11.01). Nil CEO'nun sade ofisindeki eski masanın bilgisayarından Clark'ın Aurelian'la görüşmesini doğrular, konuşmanın içeriğini bulamaz (11.02). Aurelian saklananlara seslenir; Nil onun aşağıdaki maskeli sanat konuğu olduğunu anlar. Clark'ın yerini gerçekten bilmediğini söyler ve Nil'in içindeki olağan dışı kaynağı ister (11.03). Nil reddedince Blake'in saldırıları ve Julian'ın kutsal elektriği etkisiz kalır; yıldırım camları kırar (11.04). Hamlet'in 'Atla. Uç.' yönlendirmesiyle Nil'in kanatları ilk kez açılır; Julian ile Blake'i taşıyarak Yeni Şehir Onj kıyısındaki eski servis yapısının çatısına kontrolsüz ve sert biçimde iner (11.05). Aurelian yenilmemiştir.
+
+---
+
+## 34 — NEXARIEL'in hükmü
+
+**Zaman:** 31 Aralık sonrası · 12. bölüm
 
 Nil ve Julian yardım için meleklere döner. NEXARIEL insan kanatlarını günah sayarak Nil'i; onu savununca Julian'ı da hapseder. Com-link'lerine el konur; Blake onları gizlice takip etmiştir. Julian sınavları geçmediği için Blake'in merkeze giremeyeceğini söyler. Blake sınavları ilk kez öğrenir, öfkelenir, doktor ister ve sonra kabullenmiş gibi davranıp gizlice takip eder. Julian'ı tanıyan Angels üyeleri yasak Nephilim olduğu için onu savunmaz.
 
 ---
 
-## 34 — Blake'in zindan kurtarması
+## 35 — Blake'in zindan kurtarması
 
-**Zaman:** Bölüm 11
+**Zaman:** 13. bölüm
 
 Blake insan hizmetkârları sorgular, yeraltına girer ve eski demir hücrelerin kilitlerini açar. Julian mekân bilgisini kullanır. NEXARIEL son anda gürler ama üçlü kaçmayı başarır. Eski bakım tünellerine servis görevlisi kılığında girer; sera ve kilisenin arka demir servis kapısından Eski Şehir'e çıkarlar. Bu kurtarma Blake ve Julian'ın birbirine saygısını artırır; Julian NEXARIEL'i reddeder ama diğer başmeleklerin adilliğini hala sorgular.
 
 ---
 
-## 35 — Daniil ve Hamlet'in ilk konuşması
+## 36 — Daniil ve Hamlet'in ilk konuşması
 
-**Zaman:** Bölüm 12
+**Zaman:** 14. bölüm
 
-Doktor sinir sistemine bütünleşmiş çipi saptar, ciddi risk söyler. Hamlet 'Dur! Ölmek istemiyorum!' deyince Nil ameliyatı durdurur ve çip kalır. Hamlet ekrana aktarılır, Clark'ın Bella ile kaçtığını, Ophelia'nın varlığını hissederek Clark'ın yaşadığını açıklar. Meleklerden kaçtıktan sonra Blake'in Eski Şehir tamir atölyesinde Daniil kararını birlikte alırlar; Hamlet ameliyathanedeki tıbbi monitörde görünür, bilinç kaynağı çipte kalır. Daniil önce tıbbi sonra bilimsel, öfkeli ve temkinli yaklaşır; Hamlet'in bilinç iddiasını sorgularken yaşama isteğini etik açıdan gözetir. Nil Clark'ın çip takmasına kırılır ancak bir gerekçesi olduğuna inanmak ister. Hamlet'in yaşam isteğini ameliyatta yalnız Nil zihninde duyar; Daniil, Julian ve Blake ancak 12.04 monitörde sesini işitir.
+Doktor sinir sistemine bütünleşmiş çipi saptar, ciddi risk söyler. Hamlet 'Dur! Ölmek istemiyorum!' deyince Nil ameliyatı durdurur ve çip kalır. Hamlet ekrana aktarılır, Clark'ın Bella ile kaçtığını, Ophelia'nın varlığını hissederek Clark'ın yaşadığını açıklar. Meleklerden kaçtıktan sonra Blake'in Eski Şehir tamir atölyesinde Daniil kararını birlikte alırlar; Hamlet ameliyathanedeki tıbbi monitörde görünür, bilinç kaynağı çipte kalır. Daniil önce tıbbi sonra bilimsel, öfkeli ve temkinli yaklaşır; Hamlet'in bilinç iddiasını sorgularken yaşama isteğini etik açıdan gözetir. Nil Clark'ın çip takmasına kırılır ancak bir gerekçesi olduğuna inanmak ister. Hamlet'in yaşam isteğini ameliyatta yalnız Nil zihninde duyar; Daniil, Julian ve Blake ancak 14.04 monitörde sesini işitir.
 
 ---
 
-## 36 — Üçlü ittifak; Clark hâlâ kayıp
+## 37 — Üçlü ittifak; Clark hâlâ kayıp
 
-**Zaman:** Kitap I finali
+**Zaman:** Kitap I finali · 14. bölüm
 
 Nil Clark'ı, Julian annesini aramak; Blake melek-şeytan gerçeğini insanlara duyurup düzeni değiştirmek için birlikte kalırlar. Clark bulunmaz. Yalnız yazar gerçeği: Nil'in çipi çıkarılsaydı Nil kesin ölürdü; hiçbir karakter ve okur o anda bilmez. Final Daniil'in kliniğinde Hamlet'in tıbbi monitörü karşısında geçer; dört karakter birlikte çalışma kararı verir.
 
 
-## Temel kurallar
+## Olay örgüsünün korunacak eşikleri
 
-- Nil 12 yaşındayken Clark 26 yaşındadır; zaten Cen.net çalışanı ve Gümüşyaka'daki özel dairenin kiracısıdır.
-- Vesna yaklaşık iki yıl önce öldü. Nil hem kendi hem Blake'in dijital izlerini gizledi. Nil önce 05.03'te Julian'a, sonra 06.04'te Blake'e itiraf etti.
-- Clark 30 Ekim'de kayboldu; Nil o ilk günlerde Blake'i aramadı. Romandaki ilk yeniden temas 13 Kasım'da Sifon'dadır.
-- 07.01–07.04 yazıldı; 07.05 ve sonrası kesin olay sırası taşısa da roman metni henüz yazılmadı.
-- 07.05 kule planı → 07.06 Nephilim/anne gerçeği olarak Julian'ın inandığı anlatı → 07.07–07.09 ikinci Sifon → 08.01 giriş rolleri → 08.02 posta kutusundan fiziki davetiye → 08.03 tek galeri.
-- 31 Aralık öpüşmesi 09.03'tür; 09.04'te Nil Aurelian'ın maskeli sanat sohbetini yaşar. Blake henüz öpüşmeyi bilmez.
-- Bella'nın döngü/önceki yaşam bilgisi sadece yazar sırrıdır; Clark ve Nil bu gerçeği bilmez.
+- **2 Kasım:** Diadolas sorgusu 01.04; Nil Clark'ın üç gündür kayıp olduğunu okura ilk kez açıklar. Blake'le bu dönemde temas kurulmaz.
+- **2/3 Kasım ve 4 Kasım:** Gümüşyaka'daki Hanoi çerçevesinin arkasındaki 1866 kartı (02.02); basılı tarih araştırması (02.03); Lejla'nın üniversite arşivi (03.01–03.02).
+- **9–12 Kasım:** Julian, üç Angels sınavı, Vesna itirafı ve NEXARIEL'in ilk açıklamaları (04–05).
+- **13 Kasım:** Nil ile Blake'in ilk yeniden buluşması, Vesna gerçeğinin Blake'e itirafı, Sifon baskını; Julian ile Nil önce villaya, Blake gece yarısına doğru ayrı gelir. Altıncı bölüm burada sona erer.
+- **14–16 Kasım:** Yazılmış 07.01–07.04; ardından **07.05 kule planı → 07.06 Julian'ın Nephilim/anne konuşması**. 7. bölüm Nil'in incinmesiyle kapanır.
+- **Kesin ara günleri açık:** **08.01–08.03 ikinci Sifon** (üç kayıp, Kemal, Nadejda ve Nil–Blake geçmişinin okura açılması), **08.04–08.05 dönüş ve villa hayatı**; 8. bölüm Nil'in hareketlerini kısıtlamasıyla biter.
+- **Kasım sonu–30 Aralık:** **09.01** giriş rolleri → **09.02** hizmetçi ve posta kutusundan orijinal davetiye → **09.03** tek sanat galerisi → **09.04–09.06** Sifon/güvenlik, provalar, analog cihazlar ve son karar.
+- **31 Aralık:** **10.01–10.05**, 99. kat sızması, ilk öpüşme (10.03), maskeli sanat sohbeti (10.04), şeytan şefin ölümü/anahtar (10.05). Ardından **11.01–11.05**, 100. kat, Clark'ın görüşme kaydı, Aurelian yüzleşmesi, ilk kanatlar ve Onj kıyısına iniş.
+- **Sonraki olaylar:** **12.01–12.04** NEXARIEL'in hükmü → **13.01–13.06** Blake'in kurtarması → **14.01–14.06** Daniil, Hamlet, Clark/Ophelia bilgisi ve bağımsız üçlü ittifakı. Clark birinci kitapta bulunmaz.
