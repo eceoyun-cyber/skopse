@@ -228,7 +228,7 @@
 **Mekan:** Nil'in hizmetçiyle çevrim içi pazarlığı; Eski Şehir'de eski binadaki kısa süreli kiralık isimsiz posta kutusu
 
 1. Nil gerçek kadın sanat hamisinin yurt dışındaki ev personelini araştırır; hizmetçiye çevrim içi ulaşır ve Clark'ın parasını kullanarak yüksek rüşvet pazarlığı yapar.
-2. Nil Gümüşyaka'daki evinden ve villadan ayrı, Eski Şehir'de eski bir binanın isimsiz kiralık posta kutusunu ayarlar. Hizmetçi orijinal FİZİKSEL davetiyeyi bu kutuya bıraktırır; Nil yalnız dijital görsel veya kopyayla yetinmez.
+2. Nil Gümüşyaka'daki evinden ve villadan ayrı, Eski Şehir'de eski bir binanın isimsiz kiralık posta kutusunu ayarlar. Hizmetçi orijinal FİZİKSEL davetiyeyi bu kutuya bırakır; Nil yalnız dijital görsel veya kopyayla yetinmez.
 3. Nil bizzat posta kutusuna giderek zarfı teslim alır; davetli adını, etkinlik bilgilerini ve fiziksel doğrulama ayrıntılarını inceler. Gerçek davetiye kimlik kontrolünden kesin geçeceği anlamına gelmez.
 4. Hizmetçi ve sanat hamisiyle ilgili yeni özel isim uydurulmaz; gerçek hamisi bu plandan habersizdir.
 5. Bu, ön görüşme ve pazarlıkla başlayıp Nil'in kutuya bizzat gidişi, zarfı açması ve kimlik/etkinlik ayrıntılarını denetlemesiyle tamamlanan bağımsız dramatize edilmiş sahnedir; 31 Aralık girişine özetlenerek atlanmaz.
