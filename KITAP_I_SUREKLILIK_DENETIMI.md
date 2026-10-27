@@ -1,5 +1,8 @@
 # SKOPSE — Kitap I Süreklilik ve Mantık Denetimi
 
+> **27 Ekim 2026 güncel durum:** Aktif atlas verisi `world.json` içinde **12 bölüm, 67 sahne ve 30 zaman çizelgesi kaydı** bulunur. Bu belgedeki “66 sahne”, “25 kayıt”, 07.01a/07.02a gibi eski numaralar ve geçersiz tarihli sıra açıklamaları tarihsel denetim kayıtlarıdır; **aktif sahne planı değildir**. Geçerli sıralama: 07.02 Kuşatılmış Eski Ev → 07.05 Cennet Ağacı → 07.06 Julian'ın itirafı → 07.07–07.09 ikinci Sifon. Blake'in kesin görünümü kızıl saçlıdır; mevcut `BLAKE_KESIN.webp` dosyasındaki siyah saçlı portre **değiştirilmesi gereken eski görseldir**.
+
+
 > **27 Ekim 2026 güncel denetim:** [Karar 1–22 uzlaştırması](KITAP_I_KARARLAR_01_22_UZLASTIRMA_2026-10-27.md) ve [onaylı yeniden yazım planı](KITAP_I_YENIDEN_YAZIM_ONAYLI_PLAN_2026-10-27.md) eski 07–08 kronolojisine, çift galeri ziyaretine ve balo güvenlik şefinin kesin öldürüldüğü taslağa üstün gelir. Karar 23 ve balo içindeki açık detaylar sonraki yazım aşamasına bırakıldı.
 
 > KESİN KARAR C (26 Ekim 2026): Diadolas'ta Nil ile Aras'ın ilk karşılaşması, kovalamacanın bir bölümü ve otoparkta Aras'ın elektroşokla etkisizleştirilmesi güvenlik kameralarına kısmen kaydolur. Nil Aras'ı taşımaz veya sürüklemez; B2 otoparkındaki otomatların arkasında, kameraların görmediği noktada düştüğü yerde kelepçeler ve uyanmasını bekleyip sorgular. Sorgunun hiçbir bölümü kaydedilmez. Cen.net'in Nil'i daha sonra izlemesinde kısmi görüntüler rol oynar; Nil bu takip zincirini o aşamada bilmez. Eski ağaçlıklı servis alanına taşıma/sorgulama planı geçersizdir.
