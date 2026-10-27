@@ -6,7 +6,7 @@
 
 Nil ile Julian Sifon baskınından sonra villaya **birlikte, Blake olmadan** gider. Blake yaralılar, kayıplar ve topluluk güvenliğini denetlemek için Sifon'da kalır, gece yarısı civarında **ayrı** gelir. Nil onu bekler ve yaralarını sorar; Blake Nil'i uyumaya ikna eder. **Altıncı bölüm Blake'in villaya dönüşüyle biter, yedinci bölüm 14 Kasım sabahında başlar.** Üçünün aynı arabayla gelmesi veya Blake'in motosiklet yolculuğunda bulunması yanlış olur.
 
-## Bölüm 7 — Gizli Ağ (6 sahne)
+## Bölüm 7 — Katmanlar (6 sahne)
 
 | Güncel sahne | Olay | Yazım durumu / kesinlik |
 |---|---|---|
