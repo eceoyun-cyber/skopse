@@ -1917,7 +1917,7 @@ Clark çipi önce gizlenme/tespitten sakınma ve ardından insanların ilahi pot
 
 **İlişkiler / çevre**
 
-Clark Bella'nın desteğiyle Nil'e zarar vermeden çipi çıkarmanın yöntemini arar; Bella seçkin insanlara uygun yeni bir versiyon ister. Aurelian çipi zorla almak ister; NEXARIEL kanatları günah sayıp Nil'i hapseder.
+Clark Bella'nın kaynaklarıyla çip etkilerini anlamak, kendi dönüşümüne çare bulmak ve Nil'i zarar vermeden korumak için araştırır. Bella desteğini kendi evren döngüsü/fizik araştırmasının asıl bağını açıklamadan sağlar; seçkin insan potansiyeli söylemi varsa dışarıya sunduğu gerekçe olarak kalır. Aurelian Nil'in içindeki olağan dışı kaynağı zorla almak ister; NEXARIEL kanatları günah sayıp Nil'i hapseder.
 
 **Ek notlar / yazar bilgisi**
 
