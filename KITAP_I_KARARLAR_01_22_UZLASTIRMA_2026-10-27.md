@@ -11,8 +11,8 @@
 | 03 | 1866 tarihli **çift kanatlı sembollü kart**, Nil ile Clark'ın **Hanoi'de birlikte çekildikleri fotoğrafın çerçevesinin arkasındadır**. Solo Clark fotoğrafı / kanatlı piramit kart tasviri geçersiz. Odada en çok üç kişisel çerçeve: genç Clark'ın aile fotoğrafı; Hanoi'deki Nil+Clark; varsa Nil+Clark+**kızıl saçlı** Blake. | 02; karakter/mekan |
 | 04 | Nil–Blake geçmişi **13 Kasım ilk Sifon baskını sırasında sezdirilir**, **15 Kasım antrenmanında güçlenir**, **17 Kasım ikinci Sifon ziyaretinde romantik/fiziksel geçmiş olduğu kesinleşir**. Karakterler birbirlerine zaten bildikleri geçmişi yapay biçimde anlatmaz. | 06–07 |
 | 05 | 12 Kasım yedi isim sınavında Nil **yaklaşık beşini** tanır: ikisini araştırma/soruşturma, ikisini okul çevresindeki aile soyadı, birini haber/sokak bağlantısı yoluyla; tanışıklık düzeyleri farklıdır. Mevcut yedi dosyaya eşleme **açık**; isim/suç uydurulmaz. | 05.02 |
-| 06 | 15 Kasım eski ev **Cen.net ve Angels tarafından bağımsız** gözetlenir. **Angels Nil ve Blake'i görür ama müdahale etmez; Cen.net görmez.** Müdahalesizliğin nedeni henüz açık. Nil ve Blake yalnız Cen.net gözetiminden kuşkulanır. | 07, yazar sırrı |
-| 07 | Julian villayı «eski dostlar / güvenilir bağlantılar» diye açıklar. Blake arkasında örgütlü, güçlü, gizli **dünyevi** bir çevre sezebilir; **tarikatın varlığını, melekleri, şeytanları, Nephilim'i bilmez**. Villa Angels tarafından zaten bilinir, bu çevreden gizlenemez; Blake sistem kaynaklı sızıntı ve Cen.net riskini azaltır. **Angels adı geçici çalışma adıdır; ileride değişecek.** | 06–07, karakter/mekan |
+| 06 | 15 Kasım eski ev **Cen.net ve Angels tarafından bağımsız** gözetlenir. **Angels Nil ve Blake'i görür ama müdahale etmez; Cen.net görmez.** Müdahalesizliğin nedenini açıklamak gerekmiyor. Nil ve Blake **Angels tarafından görüldüklerini fark etmez, görülmediklerini sanırlar**; yalnız Cen.net gözetiminden kuşkulanır. | 07, yazar sırrı |
+| 07 | Julian villayı «eski dostlar / güvenilir bağlantılar» diye açıklar. Blake arkasında örgütlü, güçlü, gizli **dünyevi** bir çevre sezebilir; **tarikatın varlığını, melekleri, şeytanları, Nephilim'i bilmez**. Villa Angels tarafından zaten bilinir, bu çevreden gizlenemez; Villa **Nexariel ve meleklerin sağladığı doğaüstü koruma** altındadır; Cen.net'in baskın sonrası villayı hemen bulamamasının temel nedeni budur. Blake sistem kaynaklı sızıntı ve Cen.net riskini ayrıca azaltır. **Angels adı geçici çalışma adıdır; ileride değişecek.** | 06–07, karakter/mekan |
 | 08 | Julian Cen.net'in **reklam/tanıtım yüzüdür, yönetici değildir**. Balo/sanat/sosyete erişimini o; fiziksel güvenlik ve vardiyaları Blake; dijital altyapıyı Nil araştırır. Julian'a gizli araştırma erişimi verilmez. | 07–08 |
 | 09 | 31 Aralık girişinde **gerçek fiziksel davetiye + davetli listesi** eşleşir; maskeli balonun mahremiyet uygulaması nedeniyle **rutin yüz tanıma yoktur**. Kimlik taklidi yine risklidir. | 08–09 |
 | 10 | Blake seçtiği güvenlik görevlisinin vardiya/erişim alanlarını araştırır; Nil sınırlı dijital kimlik/erişim hazırlığı yapar; Blake etkinlikte fiziksel üniforma/kimliği ele geçirir. **Sınırsız bina erişimi yok**; kızıl saçları ve görünürlüğü hesaba katılır. Eski plandaki iki görevlinin etkisizleştirilmesi detayı ayrıca teyit edilmeden zorunlu sayılmaz. | 08–09 |
@@ -25,9 +25,9 @@
 | 17 | Nil, Julian'ın kişisel/doğaüstü kimliğini Blake'e açıklamaz; ancak ortak güvenliği ilgilendiren **somut riskleri** onunla paylaşır. | 07–08 |
 | 18 | Julian'ın Nil'e ilgisi **aralık boyunca kademeli** derinleşir; rahat flört azalır. **İlk öpücük yalnızca 31 Aralık balosunda**; Blake romantik yakınlığın boyutunu bilmez. | 08–09 |
 | 19 | Blake operasyona **Sifon'un üç kaybı, Vesna'nın ölümü, Nil'in güvenliği** nedeniyle katılır. Sifon'da sorumlulukların sürmesini önceden düzenler. | 08 |
-| 20 | **99–100 özel asansörünün mekanik anahtarı** önceden kesin olarak kimin elinde bilinmez; özel güvenlik şefi olabileceği tahmin edilir. **Balo gecesi** Julian şefi sarhoş etmeye çalışır, başarısız olur; Blake şefi başka alana çağırır; **Julian ve Blake birlikte döverek etkisiz hale getirir ve üzerinden anahtarı alır.** Şefin öldüğü veya Blake'in bu anda doğaüstünü gördüğü **bu kararla onaylanmış değildir**; eski 09.04'teki böyle ayrıntılar ayrıca ele alınacaktır. | 07–09 |
+| 20 | **99–100 özel asansörünün mekanik anahtarı** önceden kesin olarak kimin elinde bilinmez; güvenlik şefi olabileceği tahmin edilir. **31 Aralık'ta** Julian şefi sarhoş etmeye çalışır, başarısız olur. Blake acil güvenlik uyarısı bahanesiyle şefi tenha alana çeker ve saldırır. Şef **şeytandır**, olağanüstü gücüyle Blake'i zorlar; **Nil ve Julian da çatışmaya katılır**. **Julian'ın elinden çıkan kutsal elektrik/yıldırım şefi öldürür**; üçlü mekanik anahtarı alır. **Blake bu anda doğaüstünü ilk kez açıkça görür.** | 07–09 |
 | 21 | Şefin etkinlikte kısa süreli özel görüşmeler için ayrılması olağandır; kayboluşu **hemen** fark edilmez ama kendisine ulaşılamaması şüpheyi artırır. **Kısa ve daralan zaman penceresi** vardır. | 09 |
-| 22 | Şefle ilgilenilirken Nil **99. kat galerisinde teknik/asansör güvenlik incelemesindedir**; Blake ve Julian'la kısa menzilli analog haberleşir; şefin etkisiz hale getirilişini **görmez**. | 09 |
+| 22 | **31 Aralık balosunda Nil 99. kat galerisinde teknik/asansör güvenliğini inceler ve analog haberleşme kullanır; ancak güvenlik şefiyle çatışma başladığında Blake ve Julian'ın yanına gelerek savaşa katılır.** Eski 'Nil çatışmayı görmez' notu kullanıcının yeni kesin kararıyla geçersizdir. | 09 |
 
 ## 31 Aralık balosuna girişe kadar uygulanacak kronolojik sahne akışı
 
@@ -35,9 +35,10 @@
 - **12 Kasım:** Yedi isim sınavı; Nil yaklaşık beşine farklı kanallardan aşinadır (05).
 - **13 Kasım:** Blake'le yeniden temas, ilk Sifon ziyareti ve baskın; romantik geçmişin ilk ince ipuçları (04). Aynı gece villaya kaçış; Julian eski dostları der, Blake dünyevi gizli bağlantı ihtimalini sezer (01, 07).
 - **14 Kasım:** Villa kahvaltısı; Blake/Julian arasında Cen.net reklam yüzü gerilimi; teknik güvenlik incelemesi. Aynı tartışma sonradan ayrı sahne olarak tekrarlanmaz (07–08).
-- **15 Kasım:** Eski eve uzaktan yaklaşma; Angels görür ve müdahale etmez, Cen.net görmez; Nil ve Blake bu ayrımı bilmez. Güvenli bankta geçmiş ve Clark; villada antrenman ve artan yakınlık imaları (04, 06).
+- **15 Kasım:** Eski eve uzaktan yaklaşma; Angels görür ve müdahale etmez, Cen.net görmez; Nil ve Blake Angels tarafından görülmediklerini sanır. Neden müdahale edilmediği açıklanmak zorunda değildir. Güvenli bankta geçmiş ve Clark; villada antrenman ve artan yakınlık imaları (04, 06).
 - **16 Kasım:** Ortak saha/dijital araştırma, Sifon tanıklarına yönelme.
 - **17 Kasım:** İkinci Sifon, Kemal, üç kayıp ve Nadejda; aranan kadının Nil olabileceği iki kişi arasında açıkça konuşulur; Ölü Frekans'ın iki sinyali; Nil–Blake geçmişi okur için kesinleşir (04, 14–15).
+- **17 Kasım sonrası:** Nil, aranan kadın olabileceğini öğrendiği için villadan çıkışlarını ciddi biçimde azaltır; bir süre sonra kapalı kalmaktan sıkılıp dışarı çıkar, bunun zamanı ve bağlamı sahne aşamasında belirlenecek.
 - **18 Kasım:** Villada debrief; Julian'ın şirket içi kayıt tarama teklifi Nil tarafından iz bırakma gerekçesiyle reddedilir. Nil/Blake şüpheyi uygun bilgi sınırıyla paylaşır.
 - **19–20 Kasım:** Cennet Ağacı 100 kat planı, 99. kat balo fırsatı, özel mekanik anahtarın sahibinin bilinmemesi. Julian sosyal, Blake fiziksel, Nil teknik araştırma; 31 Aralık'a kadar bekleme gerekçesi (08, 11, 20).
 - **21 Kasım:** Julian yalnız Nil'e bildiği geçmişi ve Nephilim kimliğini açıklar; Blake bilmez; Nil ortak güvenlik risklerini Blake'ten saklamaz (12, 16–17).
@@ -51,12 +52,19 @@
 ## Henüz kararlaştırılmamışlar / kullanıcı onayı gerektirenler
 
 1. Yedi suçlu dosyasının **hangi beşinin** Nil'e hangi kanaldan tanıdık olduğu; mevcut isim listesiyle eşleştirme.
-2. Angels'ın **15 Kasım** Nil ve Blake'i görmesine rağmen müdahale etmemesinin gerçek nedeni; yazar sırrı olarak açık.
+2. Angels'ın **15 Kasım** neden müdahale etmediğinin açıklanması **zorunlu değil**; ikili görüldüklerini fark etmez.
 3. Angels'ın **yeni adı**; şimdilik geçici çalışma etiketi, karakterlerin bildiği bir ad değil.
 4. Analog iletişimin **kapsama, kesinti, dinlenme, tespit** ayrıntıları (Karar 23 seçilmedi).
-5. **31 Aralık balosuna girdikten sonraki** güvenlik şefi çatışmasının doğaüstü boyutu, şefin akıbeti ve Blake'in ilk doğaüstü ifşasının zamanı: eski 09.04 metninde ölüm ve Julian'ın güçlerini göstermesi var; son kullanıcı anlatımında birlikte dövüp anahtarı alma var. Kullanıcı yeniden ele alana dek **eski 09.04 kesin çözüm diye kullanılmaz**.
+5. **31 Aralık şef çatışması artık kesin:** Şef şeytan; Blake onu tenha yere çeker; üçü savaşır; Julian'ın kutsal elektrik/yıldırımıyla şef ölür; Blake doğaüstünü görür. Ayrıntılı koreografi yazımda netleştirilebilir.
 6. Julian'ın davetinin tuzak olup olmadığı; sanat hamisi/hizmetçisinin özel adları; davetiye teslimi ve kimlik doğrulamanın teknik alt ayrıntıları.
 
 ## Uygulama kuralı
 
 Bu belge ile onaylı yeniden yazım planı **normatif** kaynaktır. Eski atlas ve `world.json` içindeki kronolojik taslak parçaları buna göre düzenlenir; çelişen eski ifadeler **geçersiz**, henüz seçilmemiş olaylar **açık** sayılır. Gelecekteki sahne yazımı bu kararları dramatik neden-sonuç içinde işler; karar tablosu doğrudan romana taşınmaz.
+
+## 27 Ekim — kullanıcının sonraki açık düzeltmeleri
+
+- **Şefin ölümü ve Julian'ın kutsal elektriği/yıldırımı kesin kanondur.** Şefin şeytani gücü nedeniyle üçü birlikte savaşır; Blake ilk kez açık doğaüstü güç görür. Nil'in çatışmaya katılması, eski 'görmez' notunun yerini alır.
+- **Angels'ın 15 Kasım müdahalesizliği açıklanmak zorunda değildir.** Nil ve Blake Angels'ın kendilerini gördüğünü fark etmez.
+- **Villa Nexariel ve meleklerce doğaüstü olarak korunur**; Cen.net'in hemen bulamamasının temel açıklaması budur.
+- **17 Kasım'dan sonra Nil dışarı çıkışlarını azaltır; sonra bir noktada sıkılıp dışarı çıkar.** Tarihi, amacı ve sonucu henüz seçilmedi.
