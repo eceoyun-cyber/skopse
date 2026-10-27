@@ -53,7 +53,7 @@
 - Julian'ın 31 Aralık doğrudan davetinin Aurelian tarafından kurulmuş bilinçli bir tuzak olup olmadığı.
 - Hamlet'in tıbbi monitör dışındaki cihaz erişiminin kapsamı; Aurelian'ın kesin insan ve şeytani adları.
 - Bella'nın döngülerin tam mekanizmasını ve hangi geçmiş yaşamların anılarını taşıdığı; yeni karakter/özel adlar yazardan karar gelmeden sabitlenmez.
-- **Görsel bakım:** `BLAKE_KESIN.webp` eski siyah saçlı portre olarak işaretlenmiştir; kanondaki ateş kızılı saçla uyumlu yeni onaylı görselin dosyaya işlenmesi ayrıca gerekir. Otomatik yeni portre üretimi/var olan portrelerin silinmesi yapılmadı.
+- **Görsel doğrulaması:** `BLAKE_KESIN.webp` doğrudan açılarak kontrol edildi; saç rengi kızıldır. `main` ve `sürüm2umarm` dallarında aynı görsel SHA'sı bulunur. Önceki siyah saçlı portre uyarısı yanlıştı; görseli değiştirmek gerekmez.
 
 ## 5. Kontrol ilkeleri
 
