@@ -5,7 +5,7 @@ const $=id=>document.getElementById(id);
 const names={sehir:'Şehir',karakterler:'Karakterler',sirketler:'Şirketler',zaman:'Zaman Çizelgesi',sozluk:'Sözlük',bolumler:'Bölümler ve Sahneler'};
 const esc=x=>String(x??'').replace(/[&<>"']/g,s=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[s]));
 const norm=s=>String(s??'').toLocaleLowerCase('tr').normalize('NFD').replace(/[\u0300-\u036f]/g,'');
-const IMAGE_VERSION='atlas44';
+const IMAGE_VERSION='atlas49-20261027-blake-red';
 const DATA_VERSION='atlas47-20261027-scene-order';
 const imagePath=e=>{const src=(e?.image||world.images?.[e?.id]||'').replace(/^assets\//,'');return /_KESIN\.webp$/i.test(src)?src+'?v='+IMAGE_VERSION:src;};
 const image=(e,cls='',loading='lazy')=>{let src=imagePath(e);return src?`<img class="${cls}" src="${esc(src)}" data-fallback="${esc(world.imageFallbacks?.[e?.id]||'')}" loading="${loading}" alt="${esc(e.name)}">`:''};
