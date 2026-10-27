@@ -70,7 +70,8 @@
         "daniil_muayene",
         "onj_servis_catisi",
         "eski_sehir_posta_kutusu",
-        "eski_tamir_atolyesi"
+        "eski_tamir_atolyesi",
+        "gumusyaka"
       ],
       "status": "Güncel kanon",
       "shortLabel": "Ana karakter"
@@ -106,7 +107,8 @@
         "bella",
         "ophelia",
         "hamlet",
-        "clark_evi"
+        "clark_evi",
+        "gumusyaka"
       ],
       "status": "Güncel kanon",
       "shortLabel": "Cen.net araştırmacısı"
@@ -511,7 +513,8 @@
         "diadolas",
         "cennet",
         "villa",
-        "clark_evi"
+        "clark_evi",
+        "gumusyaka"
       ],
       "status": "Güncel şehir",
       "shortLabel": "Korunaklı kıyı"
@@ -539,7 +542,8 @@
         "yeni_sehir",
         "eski_sehir",
         "derman",
-        "harman"
+        "harman",
+        "gumusyaka"
       ],
       "status": "Açılış metni",
       "shortLabel": "En yüksek kuleler"
@@ -1226,6 +1230,34 @@
       "shortLabel": "Arşive erişim sağlar"
     },
     {
+      "id": "gumusyaka",
+      "name": "Gümüşyaka",
+      "type": "places",
+      "tagline": "TÜNEK'İN KARŞISI · GÜVENLİKLİ KONUT MAHALLESİ",
+      "summary": "Tünek'in karşısında yer alan, Clark'ın Nil'le tanışmadan önce de yaşadığı özel kiralık dairenin bulunduğu mahalle. Cen.net lojmanı değildir.",
+      "meta": {
+        "Konum": "Tünek'in karşısı, Yeni Şehir",
+        "Konut": "Özel kiralık, pahalı ve güvenlikli daire",
+        "Önemli kişiler": "Clark Clayton, Nil Clayton"
+      },
+      "sections": {
+        "genel": "Gümüşyaka, Tünek'in karşısındaki yerleşim mahallesidir. Clark, Nil'i 12 yaşında yanına aldığında 26 yaşındadır; Cen.net'te zaten çalışmaktadır ve burada kendi kiraladığı dairede yaşamaktadır. Nil onun mevcut evine gelir; sonradan birlikte buraya taşınmazlar.",
+        "gecmis": "Clark'ın Nil'i yanına almasından önce de Gümüşyaka'da yaşadığı kesindir. Mahallenin kuruluş tarihi ve diğer ayrıntıları henüz belirlenmemiştir.",
+        "iliskiler": "Nil ve Clark'ın evinin bulunduğu mahalledir; Tünek ve Yeni Şehir ile coğrafi ilişkisi vardır.",
+        "yetenekler": "Güvenlikli konut dokusu ve Tünek'e karşı konumuyla şehirdeki sınıfsal ayrımın gündelik yüzünü gösterir.",
+        "notlar": "Gümüşyaka'yı ayrı bir mahalle olarak göster. Clark'ın evi şirket lojmanı veya Nil'i aldıktan sonra taşındığı yeni bir adres olarak anlatılmamalıdır. Evin gözetimi ve fotoğraf/kartvizit ayrıntıları ayrı 'Nil ve Clark'ın Evi' kaydında tutulur."
+      },
+      "related": [
+        "clark_evi",
+        "clark",
+        "nil",
+        "tunek",
+        "yeni_sehir"
+      ],
+      "status": "İkinci taslak kesin kanonu",
+      "shortLabel": "Nil ve Clark'ın mahallesi"
+    },
+    {
       "id": "clark_evi",
       "name": "Nil ve Clark'ın Evi",
       "type": "places",
@@ -1247,7 +1279,8 @@
         "nil",
         "clark",
         "yeni_sehir",
-        "paradise"
+        "paradise",
+        "gumusyaka"
       ],
       "status": "KESİN MEKÂN ÇERÇEVESİ",
       "shortLabel": "Clark'ın kitaplarla dolu evi"
@@ -1923,6 +1956,10 @@
     }
   ],
   "authorNotes": [
+    {
+      "title": "27 Ekim 2026 — Gümüşyaka ayrı mekan kaydı",
+      "body": "Gümüşyaka Tünek'in karşısındaki mahalledir. Clark 26 yaşında Nil'i 12 yaşındayken yanına aldığında zaten Cen.net'te çalışmakta ve Gümüşyaka'daki özel kiralık dairesinde yaşamaktadır. Nil onun mevcut evine gelir; taşınma veya şirket lojmanı anlatısı geçersizdir."
+    },
     {
       "title": "27 Ekim 2026 — Yayımlanan atlasın ikinci taslak kapsamı",
       "body": "İkinci taslakta 1–6. bölümlerin metni ve 7. bölümün 07.01 (14 Kasım villa sabahı), 07.02 (15 Kasım eski ev/park), 07.03 (15 Kasım antrenman, Julian sonradan katılır) ve 07.04 (16 Kasım ortak Cen.net araştırması) sahneleri yazılmıştır. 07.04'te siyah/gri araçlar ve eski depo/sevk hattı araştırma izidir; Cen.net suçuna ilişkin kesin kanıt değildir. 07.05 ve sonrası şimdilik onaylı PLAN olup yazılmış ikinci taslak metni değildir. Romanın gizli gerçekleri okura erken açıklanmaz. Ev Gümüşyaka'da Clark'ın önceden kiraladığı özel dairedir; Clark Nil'le tanıştığında zaten Cen.net'te çalışmaktadır. Güncel sahne sırası ve kararlar, eski arşiv notlarına üstündür."
