@@ -1,68 +1,66 @@
-# SKOPSE — Süreklilik Denetimi ve Açık Kararlar
+# SKOPSE — Atlas 5.0 / Süreklilik Denetimi ve Açık Kararlar
 
-> **Atlas 4.9 · 27 Ekim 2026**. Önceki 66 sahneye dayalı Atlas 4.8 süreklilik belgesi yerine kullanılan güncel denetim. Etkin veri: 12 bölüm, **67 sahne**, **36 zaman kaydı**, **59 varlık**. Önceki numaralar GitHub geçmişinde kalır.
+> **27 Ekim 2026 · geçerli yapı: 14 bölüm / 67 sahne / 37 zaman kaydı / 59 varlık.** Önceki Atlas 4.9'un 12 bölümlük listesi güncel değildir. 67 sahnenin içerikleri korunarak iki yeni bölüm sınırı oluşturuldu. [Eski ve yeni numaraların tam karşılığı](KITAP_I_14_BOLUM_DAGILIMI_2026-10-27.md).
 
-## 1. Kaynak üstünlüğü ve kapsam
+## 1. Kanon üstünlüğü ve yazılmış metin sınırı
 
-1. 'İkinci Taslağa Hazırlık' sohbetinde sonradan alınan kesin kararlar;
-2. 26–27 Ekim ikinci taslak düzeltmeleri;
-3. Eski 01–76 kesin kanon kararlarının bunlarla çelişmeyen kısımları;
-4. Eski taslak arşivleri yalnız tarihsel başvuru.
+1. En son **İkinci Taslağa Hazırlık** kararları ve onaylanan 14 bölümlük dağılım.
+2. 26–27 Ekim ikinci taslak düzeltmeleri.
+3. Eski 01–76 numaralı kesin kararların yukarıdaki kararlara aykırı olmayan kısımları.
+4. Tarihsel taslak dosyaları yalnız başvuru; güncel anlatı kaynağı `world.json`.
 
-**Yazılmış ikinci taslak:** Bölüm 01–06 ve 07.01–07.04. **Henüz yazılmamış onaylı plan:** 07.05–12.06. Bölüm 08–12 olayları kararlaştırılmış olması yazılmış roman metni oldukları anlamına gelmez.
+**Yazılmış ikinci taslak:** 01–06 bölümleri ve 07.01–07.04. **Yalnızca onaylı plan:** 07.05–14.06. Kesin bölüm sınırı çizmek veya bir sahneyi yeniden numaralamak, yazılmamış sahneyi yazılmış kılmaz. Bölüm kelime hedefleri de metinden ölçülmüş gerçek uzunluklar değildir.
 
-## 2. Bölüm ve sahne sayım denetimi
+## 2. Güncel 14 bölümlük sayım
 
-| Bölüm | Sahne | Kimlikler | Yazım durumu |
-|---|---:|---|---|
-| 01 · Başlatma | 4 | 01.01, 01.02, 01.03, 01.04 | İkinci taslak metni yazıldı |
-| 02 · Tanılama | 3 | 02.01, 02.02, 02.03 | İkinci taslak metni yazıldı |
-| 03 · Anormallik | 2 | 03.01, 03.02 | İkinci taslak metni yazıldı |
-| 04 · Kimlik Doğrulama | 3 | 04.01, 04.02, 04.03 | İkinci taslak metni yazıldı |
-| 05 · Güvenlik İhlali | 5 | 05.01, 05.02, 05.03, 05.04, 05.05 | İkinci taslak metni yazıldı |
-| 06 · Bağlantı Kuruldu | 7 | 06.01, 06.02, 06.03, 06.03a, 06.04, 06.05, 06.06 | İkinci taslak metni yazıldı |
-| 07 · Gizli Ağ | 11 | 07.01, 07.02, 07.03, 07.04, 07.05, 07.06, 07.07, 07.08, 07.09, 07.10, 07.11 | 07.01–07.04 yazıldı · 07.05–07.11 plan |
-| 08 · Yetki Yükseltme | 6 | 08.01, 08.02, 08.03, 08.04, 08.05, 08.06 | Onaylı plan · henüz ikinci taslak metni değil |
-| 09 · Sızma | 10 | 09.01, 09.02, 09.03, 09.04, 09.05, 09.06, 09.07, 09.08, 09.09, 09.10 | Onaylı plan · 31 Aralık |
-| 10 · Sistem Hatası | 4 | 10.01, 10.02, 10.03, 10.04 | Onaylı plan · henüz ikinci taslak metni değil |
-| 11 · Kontrolün Ele Geçirilmesi | 6 | 11.01, 11.02, 11.03, 11.04, 11.05, 11.06 | Onaylı plan · henüz ikinci taslak metni değil |
-| 12 · Sistemden Çıkış | 6 | 12.01, 12.02, 12.03, 12.04, 12.05, 12.06 | Onaylı plan · henüz ikinci taslak metni değil |
+| Bölüm | Sahne | Yeni kimlikler | Durum | Esnek yazım hedefi |
+|---|---:|---|---|---|
+| 01 · Başlatma | 4 | 01.01, 01.02, 01.03, 01.04 | İkinci taslak metni yazıldı | 4–6 bin |
+| 02 · Tanılama | 3 | 02.01, 02.02, 02.03 | İkinci taslak metni yazıldı | 4–6 bin |
+| 03 · Anormallik | 2 | 03.01, 03.02 | İkinci taslak metni yazıldı | 3–5 bin |
+| 04 · Kimlik Doğrulama | 3 | 04.01, 04.02, 04.03 | İkinci taslak metni yazıldı | 4–6 bin |
+| 05 · Güvenlik İhlali | 5 | 05.01, 05.02, 05.03, 05.04, 05.05 | İkinci taslak metni yazıldı | 7–10 bin |
+| 06 · Bağlantı Kuruldu | 7 | 06.01, 06.02, 06.03, 06.03a, 06.04, 06.05, 06.06 | İkinci taslak metni yazıldı | 8–11 bin |
+| 07 · Gizli Ağ | 6 | 07.01, 07.02, 07.03, 07.04, 07.05, 07.06 | 07.01–07.04 ikinci taslak yazıldı · 07.05–07.06 onaylı plan | 8–10 bin |
+| 08 · Ölü Frekans | 5 | 08.01, 08.02, 08.03, 08.04, 08.05 | Onaylı plan · henüz ikinci taslak metni değil | 7–9 bin |
+| 09 · Yetki Yükseltme | 6 | 09.01, 09.02, 09.03, 09.04, 09.05, 09.06 | Onaylı plan · henüz ikinci taslak metni değil | 7–9 bin |
+| 10 · Sızma | 5 | 10.01, 10.02, 10.03, 10.04, 10.05 | Onaylı plan · 31 Aralık, 99. kat | 8–11 bin |
+| 11 · Kök Erişim | 5 | 11.01, 11.02, 11.03, 11.04, 11.05 | Onaylı plan · 31 Aralık, 100. kat | 7–10 bin |
+| 12 · Sistem Hatası | 4 | 12.01, 12.02, 12.03, 12.04 | Onaylı plan · henüz ikinci taslak metni değil | 5–7 bin |
+| 13 · Kontrolün Ele Geçirilmesi | 6 | 13.01, 13.02, 13.03, 13.04, 13.05, 13.06 | Onaylı plan · henüz ikinci taslak metni değil | 6–9 bin |
+| 14 · Sistemden Çıkış | 6 | 14.01, 14.02, 14.03, 14.04, 14.05, 14.06 | Onaylı plan · henüz ikinci taslak metni değil | 7–10 bin |
 
-## 3. Kayıtlar arası kritik eşikler
+**Toplam:** 67 sahne. Bölüm 7, 07.06'da Julian'ın incitici Clark karşılığıyla kapanır. Bölüm 8, 08.05'te Sifon sonrası kısıtlı dışarı çıkış ve villa ilişkileriyle kapanır. Bölüm 10, 10.05'te şeytan güvenlik şefinin ölümü ve mekanik anahtarın alınmasıyla, bölüm 11 ise 11.05'te Nil'in kanatlanıp Onj kıyısına inmesiyle kapanır.
 
-- **Evin mülkiyeti ve konumu:** Clark, Nil'le tanışmadan önce zaten Cen.net'te çalışır ve Gümüşyaka'da kendi özel kiralık dairesinde yaşar. Gümüşyaka Tünek'in karşısındaki mahalledir; ev şirket lojmanı değildir.
-- **Açılış bilgileri:** Nil'in ilk üç paragrafı dokunulmaz; Aras'ı elektroşokla etkisizleştirdikten sonra gelen sorguda Clark'ın 3 günlük kaybı ilk kez okura söylenir. Nil'in Clark'a 'abi' demesi 02.02 Hanoi fotoğrafıyla ilk kez açıklanır.
-- **Diadolas güvenliği:** İlk karşılaşma, kovalamacanın bir bölümü ve elektroşok kısmen kameradadır. Aras düşüş yerinden sürüklenmez; otomatların arkasındaki kelepçeleme ve sorgu kamera dışındadır. Aras'ın kendiliğinden ihbarı yok; Cen.net sorgusunda gördüğünü açıklamıştır.
-- **Clark'ın odası:** En fazla üç kişisel çerçeveli fotoğraf. 1866 kartı fotoğraf kağıdının değil Hanoi çerçevesinin arkasındadır. Nil'e bilerek bırakılmış mesaj değildir.
-- **Bilgi araştırması:** 02.03 dijital arama → Clark'ın basılı Skopse Tarihi kitabı → arşive gitme kararı. Lejla'dan izin 03.01'de alınır; Nil 02.03'te Angels'ın kuruluşunu bilmez. Julian'ın iki asırlık fotoğraf tekrarını önce aile benzerliği sanır.
-- **Vesna:** Ölüm yaklaşık iki yıl önce; Nil her ikisinin izlerini silip Blake'e yalan söyler. 05.03 Julian'a, 06.04 Blake'e itiraf. Blake'in Vesna ile romantik ilişkisi yok; Nil'le bağları uzaklaşmıştır. Clark kaybolunca Nil Blake'le ilk günden temas etmez; 06.03 ilk yüz yüze dönüş.
-- **Villa:** 13 Kasım gecesi Nil ve Julian birlikte, Blake ayrı gelir. 14 Kasım 07.01 kahvaltı, 15 Kasım 07.02 ev/park ve 07.03 antrenman/Julian'ın katılımı, 16 Kasım 07.04 ortak araştırma. Araç/depo/sevk izleri kesin suç kanıtı değildir.
-- **15 Kasım görünmeyen gözetim — YAZAR SIRRI:** Angels Nil ve Blake'i görür, Cen.net görmez; ikili fark edilmediklerini sanır. Bu bilgi 07.02'de anlatıcı veya karakter açıklamasına dönüşmez, yalnız yazar sırrında bulunur.
-- **Yedinci bölüm sırası:** 07.05 Cennet Ağacı/anahtar/balo planı → 07.06 Julian'ın annesi ve Nephilim gerçeği (Julian'ın inandığı anlatı) → 07.07–07.09 ikinci Sifon → 07.10–07.11 villa değerlendirmesi. 07.08 Kemal'in tehlikeli sevk takibidir, eski 07.04a değil.
-- **Julian'ın duygusal karşılığı:** Nil'in Angels'ın yalan söyleyebileceği sözlerine, Clark'ın Nil'den sakladıklarını hatırlatarak savunma refleksiyle karşılık verir. Nil incinir; güven ilişkisinde iz bırakır, şakayla kapanmaz. Julian Clark'ın bütün sırlarını bilmez.
-- **Balo hazırlığı:** 08.01 kimlikler → 08.02 hizmetçi rüşveti ve Eski Şehir posta kutusundan gerçek davetiyenin bizzat alınması → 08.03 tek galeri → Aralık güvenlik ve analog iletişim. 31 Aralık'ta Julian davetli, Nil gerçek davetiyeli sahte sanat hamisi, Blake etkinlik gecesi ele geçirilmiş sınırlı yetkili güvenlik kimliğindedir.
-- **İlk öpüşme / maskeli CEO:** Nil–Julian'ın ilk ve tek kesin öpüşmesi 09.03; Blake görmez. 09.04 maskeli Aurelian sanat sohbeti; 09.05 Julian'ın kutsal elektriğiyle şeytan güvenlik şefi ölür. 09.02a aktif sahne değildir.
-- **Kanatlar ve kaçış:** 09.10 kontrolsüz süzülüş ve Onj Yeni Şehir kıyısına iniş; 10.01 çatıda yeni tartışma başlar, uçuş tekrarlanmaz. Blake doğaüstünü 09.05'te ilk kez görür, Angels'ın sınavlarından geçmediği için değil sınavlara hiç girmediği için merkeze alınmaz.
-- **Klinik:** 12.03 Hamlet'in durdurma çağrısı sadece Nil'in zihnindedir, çip çıkarılmaz. 12.04 monitör ilk ortak iletişimdir. Daniil ölüm riskini kesin öngörmez; çıkarılsaydı Nil'in kesin öleceği yalnız yazara ait sırdır.
-- **Bella:** İnsan, siyah saçlı ve 30'larında görünür. Döngüleri ve geçmiş yaşantıları hatırlar; fizik/kuantum araştırmasıyla tekrarı kırmayı hedefler. Bu gerçek Nil'e ve Clark'a açıklanmaz; Bella'yı salt melek-şeytan sınıf savaşı aktörü olarak göstermeyin.
+## 3. Değiştirilmeyecek açıklama ve bilgi eşikleri
 
-## 4. Henüz açık olan sorular (yeni kanon uydurulmayacak)
+- **Açılış:** Kullanıcının yazdığı ilk üç paragraf değiştirilmez. Clark'ın üç günlük kaybı okura yalnız 01.04 Diadolas sorgusunda ilk kez söylenir. Nil'in Clark'a 'abi' demesi ilk kez 02.02 Hanoi çerçevesinde anlaşılır. Nil dedektiftir, üstün fiziksel dövüşçü değildir.
+- **Diadolas güvenlik kameraları:** İlk karşılaşma, kovalamacanın bir bölümü ve elektroşok kısmen kayıttadır. Aras düştüğü yerden sürüklenmez; B2 otomatlarının arkasındaki kelepçeleme ve sorgu kayıtta değildir. Aras Clark'a susma sözünü ancak Cen.net kendisini sorgulayınca bozar; gönüllü ihbar etmez. Cen.net'in Aras'ı öldürmesi yazar sırrıdır.
+- **Gümüşyaka:** Clark Nil'le tanışmadan önce Cen.net çalışanıdır ve Gümüşyaka'daki kendi özel kiralık dairesinde yaşar. Nil 12 ve Clark 26 yaşındayken bu eve gelir; Cen.net lojmanı veya sonradan yapılan taşınma yoktur. Nil'in biyolojik ebeveynleri hayattadır.
+- **Fotoğraflar ve kart:** Clark'ın odasında en fazla üç kişisel çerçeve olabilir: yaklaşık 15 yaş aile fotoğrafı, Nil ile Hanoi fotoğrafı, varsa Nil–Clark–kızıl saçlı Blake üçlü selfiesi. **1866 çift kanatlı kartı Hanoi fotoğrafının kağıdında değil çerçevenin arkasındadır**; Nil'e bırakılmış bilinçli mesaj değildir.
+- **Fiziksel tarih araştırması:** 02.03 dijital arama, Clark'ın basılı `Skopse Tarihi` kitabı ve üniversite arşivine karar. Prof. Dr. Lejla Hadžić'e başvuru 03.01'de, Julian'ın eski fotoğraflardaki aynı yüzüne rastlama 03.02'dedir. Nil Nephilim/Angels'ın tam gerçeğini henüz bilmez.
+- **Vesna:** Yaklaşık iki yıl önce öldürüldü, Blake'in sevgilisi değildir. Nil hem kendisinin hem Blake'in dijital izlerini gizlice siler. Julian 05.03'te, Blake 06.04'te öğrenir. Blake ile Nil yıllardır tanışsalar da iki yıllık kırgınlıktan sonra **ilk yeniden görüşme 06.03** Sifon'dadır; Nil Clark kaybolur kaybolmaz Blake'i aramaz.
+- **13 Kasım gece sonu:** Sifon baskınından sonra Nil ve Julian villaya birlikte gider, Blake yaralılar ve topluluğun güvenliğini kontrol edip gece yarısına doğru **ayrı** gelir; Nil onu bekler, Blake onu dinlenmeye ikna eder. Altıncı bölüm burada biter.
+- **14–16 Kasım / 7. bölüm:** 07.01 ilk villa sabahı → 07.02 15 Kasım kuşkulu eski ev ve park → 07.03 Nil–Blake antrenmanına Julian'ın sonradan katılması → 07.04 16 Kasım ortak araştırma (araç/depo/sevk izleri kesin kanıt değil). **YAZAR SIRRI:** 15 Kasım Angels ikiliyi fark eder, Cen.net etmez; Nil ve Blake bunu bilmez.
+- **7. bölüm sonu:** 07.05 Cennet Ağacı katları/mekanik anahtar ve 31 Aralık maskeli balo planı. 07.06 Julian'ın yaklaşık iki yüz yıllık Nephilim geçmişi ve annesinin hapsedildiğine inandığı anlatı. Nil Angels'ın doğruyu söylemeyebileceğini öne sürünce Julian Clark'ın sakladıklarını örnek vererek Nil'i incitir. **Bu gerilim hemen espriyle çözümlenmez**; Blake Julian'ın sırrını bilmez.
+- **8. bölüm:** 08.01–08.03 **ikinci Sifon**; üç kayıp, aranan kadın, Nil–Blake'in geçmiş yakınlığının okura ilk açılması, Kemal'in tehlikeli sevk takibi (08.02), Nadejda'nın iki sinyalli Ölü Frekans'ı (08.03). 08.04–08.05 villa değerlendirmesi/gündelik hayat. Nil kendisinin hedef olabileceği kuşkusuyla dışarı çıkışını kısıtlar. Julian'ın özel sırrı ile Nadejda'nın asıl uyarısı açıklanmaz. **16 Kasım sonrası kesin ara günler açık.**
+- **9. bölüm hazırlığı:** 09.01 ayrı roller: Julian gerçek davetli, Nil yurt dışındaki sanat hamisi, Blake sınırlı yetkili güvenlik. 09.02 hizmetçiye rüşvet; **orijinal fiziksel davetiye** Eski Şehir posta kutusuna bırakılır, Nil **bizzat gidip alır**. 09.03 tek bağımsız sanat galerisi; 09.04–09.06 Sifon, güvenlik, kıyafet/kimlik provaları ve analog haberleşme, 30 Aralık'ta geri çekilme kararı. Nil–Julian ilk öpüşmesi henüz YOK.
+- **10. bölüm / 99. kat:** 31 Aralık 10.01 ayrı girişler, 10.02 Julian'ın güvenlik şefini sarhoş edememesi, **10.03 Nil–Julian ilk öpüşme**, 10.04 maskeli Aurelian'la sanat sohbeti, **10.05 şeytan güvenlik şefinin Julian'ın kutsal elektriğiyle ölümü** ve mekanik anahtar. Blake ilk kez doğaüstünü açıkça görür; balodaki öpüşmeyi görmez.
+- **11. bölüm / 100. kat:** 11.01 anahtarlı asansör, 11.02 Clark'ın CEO'yla gerçekten görüştüğünün ispatı, 11.03 maskeli konuk Aurelian'ın karşılarına çıkıp Clark'ın yerini gerçekten bilmediğini söylemesi, 11.04 işe yaramayan saldırılar/camların kırılması, **11.05 'Atla. Uç.' ve ilk kanatlar**. Nil iki kişiyi taşıyıp Yeni Şehir Onj kıyısına uzun süzülüşle iner. Aurelian yenilmez; Blake'in ve Julian'ın gücünün yetmediği görülür.
+- **12. bölüm / hüküm:** 12.01 çatıda şok ve Blake'e bilgi; 11.05 inişi tekrar dramatize edilmez. Blake meleklerin sınavlarını daha önce hiç bilmez ve geçmemiştir; Julian girişini bu gerekçeyle reddeder. 12.02 gizlice kiliseye takibi; 12.03 NEXARIEL insanın kanatlı olmasını günah sayıp Nil'i, Nil'i savunduğu için Julian'ı hapseder, com-link'leri aldırır. 12.04 Blake'in kuşkusu.
+- **13. bölüm / kurtarma:** 13.01–13.02 ayrı ama iletişim kurulabilen demir parmaklıklı zindanlar; Julian annesinin ne koşulda yaşadığını kendisi düşünmeye başlar. 13.03 Blake'in insan bakım/servis görevlilerinden bilgi toplaması, 13.04 Nil'in bedenine müdahale planını duyması, 13.05 kilitleri kendi becerisiyle açması, 13.06 Julian'ın bildiği geçitlerden botanik sera ve kilisenin arka servis kapısına kaçış.
+- **14. bölüm / klinik:** 14.01 Daniil'e ortak karar, 14.02 sırt çipinin tespiti ve hayati risk, 14.03 Hamlet'in **yalnız Nil'in zihnine** 'Dur! Ölmek istemiyorum!' demesi ve çipin çıkarılmaması, 14.04 tıbbi monitörde ilk ortak iletişim, 14.05 Clark/Ophelia/Bella bağlantıları, 14.06 üçlü bağımsız ittifak. Daniil çip çıkarılsa Nil'in kesin öleceğini bilmez; bu yalnız yazar sırrıdır. Nil Clark'ı affetmiş sayılmaz.
+- **Bella:** İnsan, siyah saçlı, 30'larında görünür. Evrenin tekrar döngülerini hatırlar ve kırmak için fizik/kuantum araştırmalarına kaynak sağlar; bu motivasyon Clark ve Nil'e açıklanmaz. Nil, Clark ve Bella kaderle seçilmiş kişiler değildir.
 
-- 07.05–07.11'in 16 Kasım sonrası kesin günleri; olay sırası kesindir, ara takvim günleri değil.
-- Sanat hamisi ve hizmetçisinin adları, ülkesi/kurumu gibi ek ayrıntılar (Karar 37 açık); kafenin özel adı.
-- Julian'ın 31 Aralık doğrudan davetinin Aurelian tarafından kurulmuş bilinçli bir tuzak olup olmadığı.
-- Hamlet'in tıbbi monitör dışındaki cihaz erişiminin kapsamı; Aurelian'ın kesin insan ve şeytani adları.
-- Bella'nın döngülerin tam mekanizmasını ve hangi geçmiş yaşamların anılarını taşıdığı; yeni karakter/özel adlar yazardan karar gelmeden sabitlenmez.
-- **Görsel doğrulaması:** `BLAKE_KESIN.webp` doğrudan açılarak kontrol edildi; saç rengi kızıldır. `main` ve `sürüm2umarm` dallarında aynı görsel SHA'sı bulunur. Önceki siyah saçlı portre uyarısı yanlıştı; görseli değiştirmek gerekmez.
+## 4. Açık bırakılan kararlar
 
-## 5. Kontrol ilkeleri
+- 16 Kasım sonrası 7–8. bölüm olaylarının takvimde kesin günleri; eski 17/19/20/21 Kasım sırası geçersiz.
+- Sanat hamisi ve hizmetçisinin adları, kafenin özel adı; Julian'ın 31 Aralık davetinin kasıtlı tuzak olup olmadığı.
+- Bella'nın hatırladığı döngülerin tam mekanizması, Aurelian'ın kesin adları, Hamlet'in klinik dışı erişim sınırları.
+- Önerilen bölüm kelime hedefleri bir yazım yardımıdır. Özgün metni satır satır ölçmeden yazılmış bölümlerin gerçek kelime sayısını iddia etmeyin.
 
-`world.json` tek etkin veri kaynağıdır. Yazılı sahne, varlık, zaman çizelgesi belgeleri aynı kaynaktan yeniden üretilmiştir. Kaldırılan 07.04a ve 09.02a gibi kimliklerin **aktif sahne kayıtlarında** bulunmaması gerekir; eski karar belgelerindeki tarihsel atıflar güncel kanon sayılmaz. Nihai roman metni ve GitHub veri atlası iki ayrı şey olduğundan yazılmış taslak metni doğrulamak için ayrıca özgün taslak dosyası gerekir.
+## 5. Seçenek kodu / tarihsel dosya kullanımı
 
-## 6. Açıklamasız seçenek kodu kullanmama kuralı
+Bölüm özetleri, sahne olayları, kronoloji ve mekan kayıtlarında tek başına **seçenek harfleri** kullanılmaz. Her eski karar, seçilen seçeneğin anlamı ve ağırlığı tam cümleyle ifade edilerek anlatılır. Örneğin 08.05'te villa iş ve sosyal yaşamın iç içe geçtiği bir yerdir; ev arkadaşlığı alışkanlıkları destekleyicidir, romantik/mahrem geceler düşük yoğunlukta kalır. Bu kuralın özgün seçilmiş açıklamaları [Karar 62](KANON_KARARLARI_46_76.md) içinde de yer alır.
 
-Bölüm özetleri, sahne olayları, sahne notları, mekan açıklamaları ve zaman çizelgesinde eski çoktan seçmeli kararların **yalnız harfleri** kullanılmaz. Karar kaynağına başvurmadan da anlaşılabilmesi için **seçilen yaklaşımın kendisi ve ağırlığı** tam cümlelerle yazılır. Kodlar yalnız tarihsel karar dosyalarında bulunabilir; orada da seçeneğin içeriği açıkça açıklanmalıdır.
-
-**Örnek — Villa gecesi (07.11), eski Karar 62:** Sosyal hayatın villada sürmesi ve işin özel hayatla karışması **ön plandadır**; ev arkadaşlığının gündelik alışkanlıkları **destekleyicidir**; gece yakınlaşmaları ve mahrem/romantik sahneler **sınırlı** tutulur. Böylece tek bir gece gereksiz uzun duygusal konuşmalarla doldurulmaz. Kararların özgün seçenek metni [Karar 62](KANON_KARARLARI_46_76.md) altında açıkça yazılmıştır.
-
-**27 Ekim 2026 denetimi:** Etkin `world.json` içindeki 67 sahne ve 36 zaman kaydı taranmıştır. 07.11 sahne notu, villa mekan açıklaması ve yazar notundaki kısaltmalar çözümlenmiştir. Kamera çekimi için kullanılan tek harfli eski tercih etiketi ise görüntülenen sahnelerde doğrudan kuralın adıyla değiştirilmiştir. Zaman çizelgesinde açıklamasız harfli seçenek kaydı saptanmamıştır.
+Eski numara kullanan eski karar belgeleri **tarihsel referans** olarak işaretlenmelidir. Önceki 66 sahnelik/12 bölümlük kayıtlar güncel kanon sayılmaz; yeni 14 bölümlük numaraların tamamı [eşleştirme dosyasındadır](KITAP_I_14_BOLUM_DAGILIMI_2026-10-27.md). `world.json` sitenin etkin kanon kaynağıdır; [sahne atlası](KITAP_I_SAHNE_ATLASI.md), [olay planı](KITAP_I_YENIDEN_YAZIM_ONAYLI_PLAN_2026-10-27.md) ve [zaman çizelgesi](ZAMAN_CIZELGESI_KESIN_KANON_2026-10-27.md) aynı yeni numaraları kullanır.
