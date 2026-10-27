@@ -1,39 +1,38 @@
 # SKOPSE — Dünya Atlası
 
-**Güncel kanon: Atlas 4.9 · 27 Ekim 2026.** Yayımlanan veri: **59 kayıt** (18 karakter, 25 mekan, 8 şirket, 2 topluluk, 6 kavram), **36 zaman kaydı**, **12 bölüm / 67 sahne**.
+**Güncel kanon: Atlas 5.0 · 27 Ekim 2026.** Yayımlanan veri: **59 varlık** (18 karakter, 25 mekan, 8 şirket, 2 topluluk, 6 kavram), **37 kronoloji kaydı**, **14 bölüm / 67 sahne**.
 
-**Atlas sitesi:** https://eceoyun-cyber.github.io/skopse/
+**Yayımlanan atlas:** https://eceoyun-cyber.github.io/skopse/
 
-## Etkin veri ve yazılmış taslak ayrımı
+## Yeni 14 bölümlük yapı
 
-`world.json`, sitenin aktif karakter, şehir/mekan, şirket, zaman çizelgesi, kavram ve bölüm/sahne kaynağıdır. `index.html`, `app.js`, `styles.css` ile aynı dizinde olmalıdır. **1–6. bölümler ve 07.01–07.04 metin olarak yazılmış**, **07.05–12.06 ise onaylanmış plandır.** Plan sahneleri bitmiş roman metni olarak sunulmaz.
+**1–6. bölümler değişmedi.** Eski 7. bölüm, yeni **07 — Gizli Ağ (6 sahne)** ile **08 — Ölü Frekans (5 sahne)** olarak bölündü. Eski 8. bölüm yeni **09 — Yetki Yükseltme** oldu. Eski 9. bölüm, **10 — Sızma (5 sahne, 99. kat)** ve **11 — Kök Erişim (5 sahne, 100. kat)** şeklinde ayrıldı. Eski 10, 11 ve 12. bölümler sırasıyla **12 — Sistem Hatası**, **13 — Kontrolün Ele Geçirilmesi** ve **14 — Sistemden Çıkış** adlarıyla devam eder.
 
-- [67 sahnenin ayrıntılı güncel atlası](KITAP_I_SAHNE_ATLASI.md)
-- [59 karakter/mekan/kurum/kavram kaydı](KARAKTER_MEKAN_ATMOSFER_ATLASI.md)
-- [36 maddelik güncel zaman çizelgesi](ZAMAN_CIZELGESI_KESIN_KANON_2026-10-27.md)
-- [Güncel süreklilik denetimi ve açık noktalar](KITAP_I_SUREKLILIK_DENETIMI.md)
-- [İkinci taslak açılış kararları](IKINCI_TASLAK_KARARLARI_2026-10-26.md)
-- [Daha önceki 46–76 kararları (tarihsel numaralandırma)](KANON_KARARLARI_46_76.md)
-- [Daha eski kanon kararları (tarihsel referans)](KANON_KARARLARI_2026-10-20.md)
+**Yazılmış ikinci taslak:** 01–06 bölümleri ve 07.01–07.04. **Henüz yalnızca plan:** 07.05'ten 14.06'ya kadar. Sahne kimliklerinin değişmesi yazılmış roman metninin otomatik güncellendiği anlamına gelmez. Bir sahnenin yerinin değişmesi, olayın zamanını, neden–sonuç ilişkisini veya karakterlerin bildiklerini değiştirmez.
 
-## Güncel kesin sahne sırası
+- [14 bölümün tamamı ve eski–yeni 67 sahne numarası eşleştirmesi](KITAP_I_14_BOLUM_DAGILIMI_2026-10-27.md)
+- [67 sahne ve yeni bölüm özetlerinin ayrıntılı atlası](KITAP_I_SAHNE_ATLASI.md)
+- [Karakter, mekan ve dünya kayıtları](KARAKTER_MEKAN_ATMOSFER_ATLASI.md)
+- [37 kayıtlı zaman çizelgesi](ZAMAN_CIZELGESI_KESIN_KANON_2026-10-27.md)
+- [Güncel olay planı](KITAP_I_YENIDEN_YAZIM_ONAYLI_PLAN_2026-10-27.md)
+- [Süreklilik denetimi, bilgi eşikleri ve açık kararlar](KITAP_I_SUREKLILIK_DENETIMI.md)
+- [Bölüm 1–3 ikinci taslak kararları](IKINCI_TASLAK_KARARLARI_2026-10-26.md)
+- [Karar 1–22 tarihsel uzlaştırma ve geçiş](KITAP_I_KARARLAR_01_22_UZLASTIRMA_2026-10-27.md)
+- [Karar 46–76, tarihsel karar kaydı](KANON_KARARLARI_46_76.md)
+- [Önceki kanon kararları, tarihsel arşiv](KANON_KARARLARI_2026-10-20.md)
 
-02 Kasım Diadolas Aras → 2/3 Kasım Gümüşyaka, Hanoi çerçevesinin arkasındaki 1866 kartı → 4 Kasım üniversite arşivi → 9–12 Kasım Julian/Angels sınavları → 13 Kasım Sifon'da Blake ile ilk yeniden temas, Vesna itirafı ve baskın → 13 Kasım gece villaya ayrı varış → 14–16 Kasım 07.01–07.04 (yazılmış) → **07.05 Cennet Ağacı planı → 07.06 Julian'ın annesi/Nephilim geçmişi → 07.07–07.09 ikinci Sifon → 07.10–07.11 villa** → 08.01 giriş rolleri → 08.02 hizmetçi üzerinden **orijinal davetiyenin Eski Şehir posta kutusundan Nil tarafından bizzat alınması** → 08.03 **tek** sanat galerisi → Aralık sonu hazırlıkları → 31 Aralık 99. katta balo → 09.03 Nil–Julian ilk öpüşmesi → 09.04 Aurelian'la sanat sohbeti → 09.05 şeytan özel güvenlik şefinin ölümü → 100. kat → Nil'in uçuşu → NEXARIEL hapsi → Blake'in kurtarması → Daniil/Hamlet finali.
+## Kesin olay sırası — yeni sahne kimlikleri
 
-**Eski kimliklere dikkat:** Güncel 7. bölüm 07.01–07.11 olarak numaralandırılmıştır. `06.03a` hâlâ aktif ve geçerlidir, ama `07.04a`, `07.07a`, `09.02a` vb. önceki ara numaralar aktif sahne değildir. `07.08` Kemal'in takibidir, `09.03` ilk öpüşmedir. 7. bölümün 16 Kasım sonrası kesin ara tarihleri henüz kararlaştırılmadı; tarih uydurmayın.
+02 Kasım Diadolas (01.01–01.04) → 2/3 Kasım Hanoi çerçevesi ve 1866 kartı (02.01–02.03) → 4 Kasım arşiv (03.01–03.02) → Julian ve üç Angels sınavı (04–05) → 13 Kasım Blake ile Sifon'da ilk yeniden görüşme, Vesna itirafı, baskın ve villaya ayrı varış (06) → 14–16 Kasım villa/eski ev/antrenman/araştırma (07.01–07.04, **yazılmış**) → 07.05 Cennet Ağacı planı → 07.06 Julian'ın Nephilim/anne geçmişi ve Nil'in incinmesi → **08.01–08.03 ikinci Sifon** → 08.04–08.05 villaya dönüş → 09.01 üç giriş rolünün belirlenmesi → 09.02 hizmetçi üzerinden **orijinal fiziksel davetiyenin Nil tarafından Eski Şehir posta kutusundan bizzat alınması** → 09.03 tek sanat galerisi → 09.04–09.06 Aralık araştırma ve provaları → 31 Aralık **10.01–10.05 99. kat balosu**, 10.03 ilk öpüşme, 10.04 maskeli sanat sohbeti, 10.05 şeytan şefin ölümü ve anahtar → **11.01–11.05 100. kat**, Aurelian yüzleşmesi ve Nil'in kanatlanarak kaçışı → **12** NEXARIEL'in hükmü → **13** Blake'in kurtarması → **14** Daniil, Hamlet ve ittifak.
 
-## Karakter, şehir ve sır sürekliliği
+16 Kasım sonrası 7. ve 8. bölüm olaylarının **kesin ara günleri henüz açık**. Kasım sonundan 30 Aralık'a uzanan 9. bölüm hazırlık aşamasıdır. Yeni kelime hedefleri yalnız tahmini yazım önerisidir, yazılmış metnin ölçülen kelime sayısı değildir. Yeni sahne eklenmedi veya çıkarılmadı.
 
-Gümüşyaka Tünek'in karşısında ayrı bir mahalle kaydıdır. Clark Nil'i 12 yaşındayken yanına aldığında 26 yaşındaydı, zaten Cen.net'te çalışıyor ve **Gümüşyaka'da kendi özel kiralık evinde** yaşıyordu; konut lojman değildir. Clark'ın çalışma odasında en fazla üç kişisel fotoğraf olabilir. Kartvizit Hanoi fotoğrafının **çerçevesinin arkasındadır**, fotoğraf kağıdında değil. Skopse'de fiziksel kütüphaneler azdır; Clark'ın tarihi kitabından sonra arşiv erişimi Bölüm 03'tedir.
+## Kanon ve görsel notları
 
-Vesna yaklaşık **iki yıl önce öldü**; Nil hem kendisinin hem Blake'in dijital delillerini silip Blake'den sakladı, önce Bölüm 05'te Julian'a, sonra Bölüm 06'da Blake'e itiraf etti. Nil, Clark'ın kaybolduğu ilk günlerde Blake'e başvurmadı. Blake'in saç rengi **ateş kızılıdır**. 7. bölümde Nil–Blake geçmişini okur ikinci Sifon ziyaretinde öğrenir. Julian annesinin hapsedildiği ve babasının öldürüldüğü hikayeye inanır; bu mutlak doğrulanmış gerçek değildir.
+Nil 12 ve Clark 26 yaşındayken Nil, Clark'ın **Gümüşyaka'da önceden kiralamış olduğu özel daireye** gelir; bu ev Cen.net lojmanı değildir. Hanoi fotoğrafındaki 1866 kartviziti fotoğraf kağıdının değil **çerçevenin arkasındadır**. Skopse'de fiziksel kitap koleksiyonları nadirdir; Nil üniversite arşivine 3. bölümde gider.
 
-**YAZAR SIRRI:** Bella farklı evren döngülerini hatırlar ve fizik/kuantum araştırmalarıyla döngüleri kırmak ister; Clark ve Nil onun bu bilgisini bilmez. Bilgi seviyeleri okuyucuya erken sızdırılmayacak. Diğer yazar sırları ayrıca güncel kayıtlarda etiketlenmiştir.
+Vesna yaklaşık iki yıl önce öldü. Nil kendisinin ve Blake'in dijital izlerini silip yalan söyledi; Julian 05.03'te, Blake 06.04'te itirafı öğrenir. Blake'e ilk yeniden yüz yüze temas 06.03'te olur. Blake'in seçilmiş kızıl saçlı `BLAKE_KESIN.webp` portresi **doğrulandı ve korunuyor**. Julian'ın annesi hakkında anlattıkları kendi inandığı Angels öyküsüdür, kanıtlanmış kesin geçmiş değildir. **Bella'nın evren döngüsü bilgisi yazar sırrıdır**; Nil ve Clark bunu bilmez.
 
-## Yayın ve dosyalar
+## Yayın
 
-GitHub Pages yayını **`sürüm2umarm`** dalının kökünden yapılacak şekilde daha önce ayarlanmıştır; `main` ve yayın dalı bu atlas güncellemesinde ayrı ayrı eşitlenmiştir. Ayarın değişmiş olması ihtimalinde GitHub → Settings → Pages bölümünden güncel yayın kaynağını doğrulayın. Siteyi yenilerken gerekirse **Ctrl+Shift+R** kullanın.
-
-Görsel eşleştirmeleri `world.json`, `image-manifest.json` ve `SECILI_GORSELLER.md` içinde tutulur. Görseller değiştirilmeden korundu. **`BLAKE_KESIN.webp` doğrudan görsel incelemeyle doğrulanmıştır: Blake kızıl saçlıdır ve seçili portre güncel kanonla uyumludur. Görsel değişikliği gerekmez.** Diğer seçilmiş portreler ve NEXARIEL görseli korunur.
-
-**Bu depo kamuya açık:** Karakter kartları, bölüm özetleri ve yazar sırları spoiler içerir; okurdan ziyade yazarlık çalışma arşivi olarak kullanılmalıdır.
+GitHub Pages daha önce `sürüm2umarm` dalından yayımlanacak şekilde ayarlanmıştır. Bu değişiklik kapsamında `main` ve `sürüm2umarm` dosya içerikleri eşitlenmektedir. `world.json` sitenin tek etkin anlatı verisidir. Bölüm numaraları, sayıları, arama ve gezinme bu veriden oluşturulur. Tarayıcı eski görünümü tutuyorsa sert yenileme (`Ctrl+Shift+R`) deneyin. Eski tarihsel karar dosyalarında geçen numaralar güncel sahne kimlikleri değil, eski bir atlas sürümünün kayıtları olabilir.
