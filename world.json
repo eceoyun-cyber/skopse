@@ -376,7 +376,7 @@
       "name": "Vesna",
       "type": "characters",
       "tagline": "ESKİ CEN.NET ARAŞTIRMACISI",
-      "summary": "İki yıl önce Cen.net'ten kaçmak için Blake'ten yardım isteyen kadın araştırmacı. Blake başlangıçta bunu reddeder, ancak mekanına baskın yapılınca olaya dahil olur. Vesna öldürülür; Nil yalnızca Blake'in dijital izlerini temizler. Cinayet çözülemez.",
+      "summary": "Yaklaşık iki yıl önce öldürülen Cen.net araştırmacısı. Ölümünden sonra Nil kendisini ve Blake'i ilişkilendiren dijital kanıtları gizlice siler; bu sırrı Blake ancak 6. bölümde öğrenir.",
       "image": "VESNA_KESIN.webp",
       "meta": {
         "Soyadı": "Henüz belirlenmedi",
@@ -385,8 +385,8 @@
       },
       "sections": {
         "genel": "Vesna, Cen.net'ten ayrılmaya çalışırken Blake'ten yardım isteyen araştırmacıdır. Ölümü Blake'in şirkete yönelik tutumunu etkiler.",
-        "gecmis": "Blake başlangıçta yardım etmeyi reddeder. Mekanına baskın yapılınca olaya karışır. Vesna öldürülür; Nil Blake'in dijital izlerini temizler.",
-        "iliskiler": "Blake ve Nil, Vesna'nın ölümünden etkilenen iki kişidir.",
+        "gecmis": "Vesna, Cen.net'ten ayrılmak için Blake'ten yardım ister. Blake ilk anda reddeder; kendi mekanına yapılan baskından sonra olaya dahil olur. Yaklaşık iki yıl önce Vesna öldürülür. Nil hem kendisini hem Blake'i cinayetle ilişkilendiren dijital kanıtları gizlice siler ve Blake'e geride iz kalmadığını söyleyerek yalan söyler. Blake bir şey saklandığından kuşkulanır fakat gerçeği Nil'in 6. bölümdeki itirafına kadar öğrenmez.",
+        "iliskiler": "Vesna Blake'in sevgilisi değildir; Blake, kendi halkından yardım isteyen birini geri çeviremediği için dahil olmuştur. Olay Nil ile Blake'in iki yıl süren uzaklaşmasının dönüm noktasıdır.",
         "notlar": "Soyadı, araştırma konusu ve ölümünün ayrıntıları henüz belirlenmedi. Ana komployla doğrudan bağlantı kurulmuş değildir."
       },
       "related": [
@@ -1245,7 +1245,7 @@
         "gecmis": "Clark'ın Nil'i yanına almasından önce de Gümüşyaka'da yaşadığı kesindir. Mahallenin kuruluş tarihi ve diğer ayrıntıları henüz belirlenmemiştir.",
         "iliskiler": "Nil ve Clark'ın evinin bulunduğu mahalledir; Tünek ve Yeni Şehir ile coğrafi ilişkisi vardır.",
         "yetenekler": "Güvenlikli konut dokusu ve Tünek'e karşı konumuyla şehirdeki sınıfsal ayrımın gündelik yüzünü gösterir.",
-        "notlar": "Gümüşyaka'yı ayrı bir mahalle olarak göster. Clark'ın evi şirket lojmanı veya Nil'i aldıktan sonra taşındığı yeni bir adres olarak anlatılmamalıdır. Evin gözetimi ve fotoğraf/kartvizit ayrıntıları ayrı 'Nil ve Clark'ın Evi' kaydında tutulur."
+        "notlar": "Gümüşyaka'yı ayrı bir mahalle olarak göster. Clark'ın evi şirket lojmanı veya Nil'i aldıktan sonra taşındığı yeni bir adres olarak anlatılmamalıdır. Evin gözetimi ve fotoğraf/kartvizit ayrıntıları ayrı 'Nil ve Clark'ın Evi' kaydında tutulur. Gümüşyaka ayrı bir şehir/mekan atlası girdisidir; Nil ve Clark'ın eviyle aynı şey değil, evin bulunduğu mahalledir."
       },
       "related": [
         "clark_evi",
@@ -1272,8 +1272,8 @@
         "genel": "Nil ve Clark, Tünek'in karşısındaki Gümüşyaka mahallesinde Clark'ın kiraladığı pahalı ve güvenlikli dairede yaşar. Şirket lojmanı değildir.",
         "gecmis": "Clark, Nil'le tanıştığında zaten Cen.net'te çalışmaktadır ve Gümüşyaka'daki özel kiralık dairede yaşamaktadır. Nil'i yanına aldıktan sonra birlikte buraya taşınmaları söz konusu değildir; Nil Clark'ın mevcut evine gelir.",
         "iliskiler": "Bağlantılı atlas kayıtları: nil, clark, yeni_sehir, paradise.",
-        "yetenekler": "Hanoi'de Nil ve Clark'ın birlikte çekildiği fotoğrafın ÇERÇEVESİNİN ARKASINDA bulunan 1866 tarihli çift kanatlı piramit kartı; Clark'ın basılı kitapları, eski müzik cihazları ve kişisel fotoğrafları. Nil'in tek başına çektiği Clark fotoğrafı yoktur. 15 Kasım'da evin çevresinde kuşkulu araçlar görülür.",
-        "notlar": "Nil 7. bölümde eve girmek ister, Blake tehlikeli bulduğu için onu uzaklaştırır. Ev hem Cen.net hem Angels tarafından birbirinden bağımsız gözetlenir; Nil yalnız Cen.net'in araçlarını gördüğünü düşünür. Nil ve Blake gerçek ikili gözetimi bilmez."
+        "yetenekler": "Clark'ın eski kitapları, pikap ve müzik cihazları, az sayıdaki kişisel çerçeveli fotoğraf: yaklaşık 15 yaşında ailesiyle fotoğrafı; Nil ile Hanoi/Vietnam'da birlikte fotoğrafı; varsa Nil, Clark ve kızıl saçlı Blake'in birlikte olduğu selfie benzeri fotoğraf. Nil olmadan Blake-Clark fotoğrafı, Clark'ın tek başına portresi veya rastgele toplantı fotoğrafları yoktur. 1866 tarihli çift kanatlı sembollü kartvizit Hanoi fotoğrafının kağıdında değil ÇERÇEVESİNİN ARKASINDADIR. 15 Kasım'da ev çevresinde kuşkulu araçlar görülür.",
+        "notlar": "Nil 7. bölümde eve girmek ister, Blake tehlikeli bulduğu için onu uzaklaştırır. Ev hem Cen.net hem Angels tarafından birbirinden bağımsız gözetlenir; Nil yalnız Cen.net'in araçlarını gördüğünü düşünür. Nil ve Blake gerçek ikili gözetimi bilmez. Clark'ın çalışma odasındaki fotoğraflar özel ve sınırlıdır; bu odanın dekoru sıradan kurumsal başarı fotoğraflarıyla doldurulmaz."
       },
       "related": [
         "nil",
@@ -1297,11 +1297,11 @@
         "Bölümler": "03"
       },
       "sections": {
-        "genel": "Nil'in geçmişte kayıp kızını aramasına yardım ettiği hocadan erişim aldığı, 1866 kayıtlarını ve Julian'ın iki yüzyıla yayılan fotoğraflarını incelediği fiziksel arşiv. Prof. Dr. Lejla Hadžić'in yönettiği fiziksel tarihî arşivde okuma salonu eski kanadın yüksek tavanlı bölümündedir; sınırlı koleksiyon alt katta iklim kontrolüyle korunur.",
+        "genel": "Nil'in geçmişte kayıp kızını aramasına yardım ettiği hocadan erişim aldığı, 1866 kayıtlarını ve Julian'ın iki yüzyıla yayılan fotoğraflarını incelediği fiziksel arşiv. Prof. Dr. Lejla Hadžić'in yönettiği fiziksel tarihî arşivde okuma salonu eski kanadın yüksek tavanlı bölümündedir; sınırlı koleksiyon alt katta iklim kontrolüyle korunur. Skopse'de fiziksel kitaplı kütüphaneler azdır; kapsamlı tarihsel kaynaklara erişim üniversite kurumları ve seçkin arşiv çevreleri üzerinden gerçekleşir.",
         "gecmis": "Köken/önceki tarih yalnız mevcut kanondaki ölçüde belirlenmiştir.",
         "iliskiler": "Bağlantılı atlas kayıtları: nil, universite_hocasi, julian, akademik_elitizm.",
         "yetenekler": "Eski fotoğraflar, kanatlı piramit sembolünün tekrarları; dijital tarihin kirlenmesinin alternatifi.",
-        "notlar": "Üniversitenin özel adı henüz açık; eski kanatta yüksek tavanlı görkemli tarihî okuma salonu, aşağıda Lejla Hadžić'in erişim izni verdiği iklim kontrollü belge/fotoğraf depoları vardır."
+        "notlar": "Üniversitenin özel adı henüz açık; eski kanatta yüksek tavanlı görkemli tarihî okuma salonu, aşağıda Lejla Hadžić'in erişim izni verdiği iklim kontrollü belge/fotoğraf depoları vardır. Burası genel erişimli büyük şehir kütüphanesi değil, özel izin gerektiren üniversite arşividir."
       },
       "related": [
         "nil",
@@ -1745,7 +1745,7 @@
     {
       "when": "2 yıl önce",
       "title": "Vesna ölümü ve kopuş",
-      "body": "Vesna adlı Cen.net araştırmacısı öldürülür. Nil kendisiyle Blake'i korumak için dijital kanıtları siler ve Blake'e yalan söyler. Blake sezdiği bu sırdan bağımsız olarak iki yıl Cen.net'e karşı operasyonlar yürütür. Vesna Blake'in sevgilisi değildir; Blake halkından yardım isteyen kadını geri çeviremediği için yardım etmişti."
+      "body": "Yaklaşık iki yıl önce Cen.net araştırmacısı Vesna öldürülür. Nil hem kendisini hem Blake'i cinayetle ilişkilendiren dijital kanıtları gizlice siler; Blake'e geride iz kalmadığını söyler. Blake saklanan bir şey olduğundan şüphelenir fakat Nil'in 6. bölümdeki itirafına kadar gerçeği bilmez. Nil önce 5. bölümde Julian'a açılır. Blake ile Nil bu iki yıl boyunca uzaklaşır ve birlikte çalışmalarını büyük ölçüde bırakırlar; Blake Cen.net'e karşı Sifon'da bağımsız mücadele yürütür. Vesna Blake'in sevgilisi değildir."
     },
     {
       "when": "Bölüm 12'den önce · tarih açık",
@@ -1785,7 +1785,7 @@
     {
       "when": "2 Kasım gecesi–4 Kasım Pazartesi · bölüm 2–3",
       "title": "1866 kartı ve fiziksel arşiv",
-      "body": "2'yi 3 Kasım'a bağlayan gece Nil, Clark'la Hanoi'de birlikte çekildikleri fotoğrafın çerçevesinin arkasında 1866 tarihli çift kanatlı kartı bulur. 4 Kasım'da nadir fiziksel kaynaklara sahip kütüphane/üniversite arşivinde araştırma yapar; Angels, 1866 depremi ve Julian'ın eski fotoğraflardaki değişmeyen yüzüyle ilgili izler birikir."
+      "body": "2'yi 3 Kasım'a bağlayan gece Nil, Gümüşyaka'daki evde Clark'la Hanoi'de birlikte çekildikleri fotoğrafın ÇERÇEVESİNİN ARKASINDA 1866 tarihli çift kanatlı kartviziti bulur. Dijital kaynaklarda sembolü çözemez; Clark'ın basılı Skopse Tarihi kitabından deprem sonrası Yeni Şehir, kapalı eski yerleşimci çevreleri ve bazı üniversitelerin kökenini öğrenir. 4 Kasım'da Prof. Dr. Lejla Hadžić'in izniyle üniversitenin tarihî okuma salonu ve alt kattaki kısıtlı arşivinde araştırır; Julian'ın eski fotoğraflardaki yüzüyle ilgili izler birikir. Nil bu aşamada doğaüstü açıklamayı bilmez."
     },
     {
       "when": "9–12 Kasım · bölüm 4–5",
@@ -1956,6 +1956,10 @@
     }
   ],
   "authorNotes": [
+    {
+      "title": "27 Ekim 2026 — İkinci taslak bağlantılı kanon denetimi",
+      "body": "Vesna cinayetinin dijital izleri hem Nil hem Blake'i ilgilendirir; Nil önce 5. bölümde Julian'a, 6. bölümde Blake'e itiraf eder. Clark'ın Gümüşyaka'daki evi Cen.net lojmanı değildir. 02.01'in eski Cen.net çalışanları konutu ifadesi geçersizdir. Hanoi fotoğrafının ÇERÇEVESİNİN ARKASINDA 1866 kartviziti bulunur; çerçeveler en fazla üç anlamlı kişisel fotoğrafla sınırlıdır. Clark'ın Skopse Tarihi kitabındaki deprem sonrası şehir/üniversite tarihi ve kısıtlı üniversite arşivleri 02–03 araştırma zincirinin parçasıdır. Bu notlar yeni sahne icat etmez; yazılmış ikinci taslak ile gelecek planlar ayrıdır."
+    },
     {
       "title": "27 Ekim 2026 — Gümüşyaka ayrı mekan kaydı",
       "body": "Gümüşyaka Tünek'in karşısındaki mahalledir. Clark 26 yaşında Nil'i 12 yaşındayken yanına aldığında zaten Cen.net'te çalışmakta ve Gümüşyaka'daki özel kiralık dairesinde yaşamaktadır. Nil onun mevcut evine gelir; taşınma veya şirket lojmanı anlatısı geçersizdir."
@@ -2222,7 +2226,8 @@
         "Clark'ın fiziksel kitapları arasında William Shakespeare'in Hamlet'i vardır; 12. bölümde Hamlet ve Ophelia adlarının kaynağına dönüşecek erken ipucu.",
         "Vietnam gezisinden Nil ve Clark'ın birlikte fotoğrafı bulunur; evde sınırlı sayıda gerçek basılı fotoğraf vardır.",
         "1866 depremi, yeniden inşa ve eski seçkin çevrelerin arşiv izleri araştırılır; dijital kaynakların çarpıtılabilmesi fiziksel arşive yöneltir.",
-        "1866 hem Skopse depremi hem depremden hemen sonra Angels'ın kuruluş yılıdır; fotoğraf arkasındaki kart Clark'ın kişisel araştırmasından tesadüfen kalmıştır."
+        "1866 hem Skopse depremi hem depremden hemen sonra Angels'ın kuruluş yılıdır; fotoğraf arkasındaki kart Clark'ın kişisel araştırmasından tesadüfen kalmıştır.",
+        "Clark'ın Skopse Tarihi kitabı deprem sonrası Yeni Şehir'in oluşumunu, eski yerleşimcilerin kapalı çevrelerini ve bugünkü bazı üniversitelerin temellerini açıklar; bu bilgi kartvizitin sembolünü çözmez."
       ],
       "scenes": [
         {
@@ -2232,10 +2237,10 @@
             "Nil Clayton",
             "Clark Clayton (anı)"
           ],
-          "location": "Nil ile Clark'ın Yeni Şehir'de paylaştığı ev",
+          "location": "Gümüşyaka, Nil ve Clark'ın özel kiralık dairesi",
           "atmosphere": "Yokluğun ve somut anıların melankolisi.",
           "events": [
-            "Nil, Cen.net çalışanlarının yaşadığı Tünek yakınındaki konuta döner; dışarıdaki teknolojik reklamlar ile evin fiziksel kitaplar, pikap, kasetçalar, radyo ve ahşap mobilyalarından oluşan burjuva/eski dünyası arasındaki karşıtlık kurulur.",
+            "Nil, Tünek'in karşısındaki Gümüşyaka mahallesinde Clark'ın Nil'le tanışmadan önce de kiraladığı özel daireye döner. Bu ev Cen.net lojmanı değildir; dışarıdaki teknolojik reklamlarla evin fiziksel kitapları, pikap, kasetçalar, radyo ve ahşap mobilyaları arasında karşıtlık kurulur.",
             "Nil dün evin ve Clark'ın odasının dosyalarını, çekmecelerini, anahtarlarını aramış; Clark'ın bilgisayarına erişmeyi başaramamıştır. Evin dağınıklığı bu önceki aramanın sonucudur.",
             "Nil son sarılmalarını hatırlar; geçmiş anekdotlarıyla betimleme tekrarı yapılmaz. Clark'ın abisi olduğu bu aşamada açıklanmaz.",
             "Nil Clark'ın çalışma odasındaki az sayıdaki çerçeveli fotoğrafa yönelir; sahne incelemeye başladığı yerde kesilir."
@@ -2266,8 +2271,8 @@
           "atmosphere": "AI ile kirlenmiş dijital tarih karşısında dark-academia kaynak araştırması.",
           "events": [
             "Nil 1866 tarihini ve çift kanatlı sembolü internette arar; sembolü bulamaz, tarihsel bilgi yüzeysel kalır.",
-            "Evdeki nadir basılı tarih kitaplarında 1866 depremi ve sonrasındaki yeniden yapılandırma hakkında bilgi bulur; kartın sembolü hala çözülemez. Angels'ın kuruluşunu öğrenmez.",
-            "Skopse'de geniş fiziksel koleksiyonlar nadirdir; üniversite kütüphanesi Nil'in erişebileceği en kapsamlı kaynaktır. Nil oraya gitmesi gerektiğine karar verir; Lejla'yı arama veya izin isteme BU SAHNEDE YOKTUR."
+            "Clark'ın basılı Skopse Tarihi kitabında 1866 depremi, ardından Yeni Şehir'in yeniden kurulması, geride kalan eski yerleşimcilerin kapalı topluluklar oluşturması ve bugün de hizmet veren bazı üniversitelerin temelleri anlatılır. Nil sembolün anlamını veya Angels'ın kuruluşunu henüz öğrenmez.",
+            "Skopse'de kapsamlı fiziksel kitap koleksiyonları çok azdır; güvenilir eski belgeler akademik seçkinlerin erişebildiği üniversite arşivlerinde korunur. Nil üniversiteye gitmeye karar verir; Lejla'yı arama veya izin isteme bu sahnede yoktur."
           ]
         }
       ]
