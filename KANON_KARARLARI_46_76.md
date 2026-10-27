@@ -1,5 +1,8 @@
 # SKOPSE — İkinci Taslak Öncesi Kesin Kararlar 46–76
 
+> **27 Ekim 2026 — ATLAS 4.9 ÖNCELİK NOTU:** Bu dosya önceki kararların **tarihsel kaydıdır**; aşağıda anlatılan 59/66 sahneli eski atlas sayıları ve 07.04a, 09.02a gibi ara numaralar artık güncel bölüm sırası değildir. **Aktif kaynak:** [world.json](world.json) (12 bölüm / 67 sahne, 36 zaman kaydı), [güncel sahne atlası](KITAP_I_SAHNE_ATLASI.md), [karakter/mekan atlası](KARAKTER_MEKAN_ATMOSFER_ATLASI.md), [onaylı plan](KITAP_I_YENIDEN_YAZIM_ONAYLI_PLAN_2026-10-27.md). 'İkinci Taslağa Hazırlık' sohbetinde verilen son kararlar bu metindeki eski çelişkili satırlara üstündür. Vesna olayı iki yıl önce; Clark'ın evi Gümüşyaka özel kiralık daire; 07.05 kule planı → 07.06 Julian'ın annesi → 07.07–07.09 ikinci Sifon; ilk öpüşme 09.03. Bella'nın evren döngüsü ve fizik/kuantum araştırması yazar sırrıdır.
+
+
 > Atlas 4.8 · 21 Ekim 2026. Bu dosya yazar kanonudur; sırlar okura erken aktarılmaz. **Aşama 1:** kararlar 12 bölüm / 59 sahneye işlendi. **Aşama 2:** eklenen 7 ara sahneyle güncel plan **12 bölüm / 66 sahne** oldu. GitHub Pages yayın dalı bu aşamalarda değiştirilmedi.
 
 ### Karar 46 — Blake'in Nil'e duyguları
