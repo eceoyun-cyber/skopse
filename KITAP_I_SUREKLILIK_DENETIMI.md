@@ -19,15 +19,15 @@
 | 02 · Tanılama | 3 | 02.01, 02.02, 02.03 | İkinci taslak metni yazıldı | 4–6 bin |
 | 03 · Anormallik | 2 | 03.01, 03.02 | İkinci taslak metni yazıldı | 3–5 bin |
 | 04 · Kimlik Doğrulama | 3 | 04.01, 04.02, 04.03 | İkinci taslak metni yazıldı | 4–6 bin |
-| 05 · Güvenlik İhlali | 5 | 05.01, 05.02, 05.03, 05.04, 05.05 | İkinci taslak metni yazıldı | 7–10 bin |
+| 05 · Erişim Denetimi | 5 | 05.01, 05.02, 05.03, 05.04, 05.05 | İkinci taslak metni yazıldı | 7–10 bin |
 | 06 · Bağlantı Kuruldu | 7 | 06.01, 06.02, 06.03, 06.03a, 06.04, 06.05, 06.06 | İkinci taslak metni yazıldı | 8–11 bin |
-| 07 · Gizli Ağ | 6 | 07.01, 07.02, 07.03, 07.04, 07.05, 07.06 | 07.01–07.04 ikinci taslak yazıldı · 07.05–07.06 onaylı plan | 8–10 bin |
+| 07 · Katmanlar | 6 | 07.01, 07.02, 07.03, 07.04, 07.05, 07.06 | 07.01–07.04 ikinci taslak yazıldı · 07.05–07.06 onaylı plan | 8–10 bin |
 | 08 · Ölü Frekans | 5 | 08.01, 08.02, 08.03, 08.04, 08.05 | Onaylı plan · henüz ikinci taslak metni değil | 7–9 bin |
 | 09 · Yetki Yükseltme | 6 | 09.01, 09.02, 09.03, 09.04, 09.05, 09.06 | Onaylı plan · henüz ikinci taslak metni değil | 7–9 bin |
 | 10 · Sızma | 5 | 10.01, 10.02, 10.03, 10.04, 10.05 | Onaylı plan · 31 Aralık, 99. kat | 8–11 bin |
 | 11 · Kök Erişim | 5 | 11.01, 11.02, 11.03, 11.04, 11.05 | Onaylı plan · 31 Aralık, 100. kat | 7–10 bin |
-| 12 · Sistem Hatası | 4 | 12.01, 12.02, 12.03, 12.04 | Onaylı plan · henüz ikinci taslak metni değil | 5–7 bin |
-| 13 · Kontrolün Ele Geçirilmesi | 6 | 13.01, 13.02, 13.03, 13.04, 13.05, 13.06 | Onaylı plan · henüz ikinci taslak metni değil | 6–9 bin |
+| 12 · Erişim Reddedildi | 4 | 12.01, 12.02, 12.03, 12.04 | Onaylı plan · henüz ikinci taslak metni değil | 5–7 bin |
+| 13 · Arka Kapı | 6 | 13.01, 13.02, 13.03, 13.04, 13.05, 13.06 | Onaylı plan · henüz ikinci taslak metni değil | 6–9 bin |
 | 14 · Sistemden Çıkış | 6 | 14.01, 14.02, 14.03, 14.04, 14.05, 14.06 | Onaylı plan · henüz ikinci taslak metni değil | 7–10 bin |
 
 **Toplam:** 67 sahne. Bölüm 7, 07.06'da Julian'ın incitici Clark karşılığıyla kapanır. Bölüm 8, 08.05'te Sifon sonrası kısıtlı dışarı çıkış ve villa ilişkileriyle kapanır. Bölüm 10, 10.05'te şeytan güvenlik şefinin ölümü ve mekanik anahtarın alınmasıyla, bölüm 11 ise 11.05'te Nil'in kanatlanıp Onj kıyısına inmesiyle kapanır.
