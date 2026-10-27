@@ -71,7 +71,14 @@ B+C+D: Eski Şehir'de alkol, uyuşturucu, şiddet, yasa dışı ticaret ve dayan
 
 ### Karar 62 — Villadaki ayın dengesi
 
-B+D ağır; A orta; C az: Karakterler dışarıdaki sosyal/iş hayatlarını sürdürür, hazırlık ile özel hayat iç içedir, ev arkadaşlığı görünür, sırf romantik mahrem sahneler baskın olmaz.
+**Seçeneklerin tam karşılıkları:**
+
+- **A — Ev arkadaşlığı ve gündelik alışkanlıklar:** Destekleyici düzeyde yer alacak.
+- **B — Villa yalnızca çalışma alanı değil, sosyal hayatın da parçası:** Belirgin ağırlık taşıyacak.
+- **C — Geceler, yakınlaşmalar ve kişisel alanlar:** Düşük yoğunlukta tutulacak; romantik ve mahrem sahneler hikayenin merkezini işgal etmeyecek.
+- **D — İş ve özel hayat birbirine karışıyor:** Belirgin ağırlık taşıyacak.
+
+**Seçilmiş birleşimin uygulanışı:** Nil, Blake ve Julian villada çalışırken dışarıdaki arkadaşlıklarını, sorumluluklarını ve toplumsal yaşamlarını sürdürecekler. İş planları yemek, mutfak ve havuz çevresindeki gündelik alışkanlıklarla iç içe geçecek; romantik yakınlaşmalar hikayeye doğal ölçüde katılacak, tek bir gece uzun dramatik konuşmalarla doldurulmayacak.
 
 ### Karar 63 — Yan karakterlerin kapsamı
 
