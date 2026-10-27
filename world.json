@@ -2624,7 +2624,7 @@
           ]
         },
         {
-          "id": "07.06",
+          "id": "07.02",
           "title": "Kuşatılmış eski ev",
           "characters": [
             "Nil Clayton",
@@ -2646,7 +2646,37 @@
           "authorSecret": "Evi hem Cen.net hem Angels birbirinden bağımsız izler. Nil ve Blake yalnız Cen.net gözetimi olduğunu varsayar; gerçekte Angels ekibini fark etmezler. Clark'ın eski gizli servetini ikisi de bilmez."
         },
         {
+          "id": "07.03",
+          "title": "Antrenman: eski yakınlığın izleri",
+          "characters": [
+            "Nil Clayton",
+            "Blake"
+          ],
+          "location": "Villa / saha",
+          "atmosphere": "Nedensel, somut, karaktere özgü.",
+          "events": [
+            "15 Kasım",
+            "Nil'in eski evden dönünce artan huzursuzluğu Blake'in savunma/antrenman çalışmasına yol açar; Nil fiziksel güç kazanmaz.",
+            "13 Kasım baskınında başlayan romantik geçmiş ipuçları güçlenir; kesin bilgi 17 Kasım Sifon'da."
+          ]
+        },
+        {
           "id": "07.04",
+          "title": "Ortak araştırma: Sifon tanıklarına yönelmek",
+          "characters": [
+            "Nil Clayton",
+            "Blake"
+          ],
+          "location": "Villa / saha",
+          "atmosphere": "Nedensel, somut, karaktere özgü.",
+          "events": [
+            "16 Kasım",
+            "Nil'in elindeki teknik veriler, Blake'in iki yıllık Cen.net araştırması ve Julian'ın sosyal bilgileri birleştirilir.",
+            "Eski eve girilemediğinden Sifon tanıklarına gitmeye karar verilir."
+          ]
+        },
+        {
+          "id": "07.05",
           "title": "Sifon'a dönmek ve Kemal",
           "characters": [
             "Nil Clayton",
@@ -2675,7 +2705,7 @@
           ]
         },
         {
-          "id": "07.04a",
+          "id": "07.06",
           "title": "Kemal'in iz sürdüğü sokak",
           "characters": [
             "Nil Clayton",
@@ -2699,7 +2729,7 @@
           ]
         },
         {
-          "id": "07.05",
+          "id": "07.07",
           "title": "Nadejda'nın Ölü Frekans falı",
           "characters": [
             "Nil Clayton",
@@ -2723,7 +2753,7 @@
           "authorSecret": "İkinci sinyal Hamlet'tir; Nil, Blake ve Nadejda bunun kimliğini açıklamaz."
         },
         {
-          "id": "07.07",
+          "id": "07.08",
           "title": "Villaya dönüş ve iz bırakmama",
           "characters": [
             "Nil Clayton",
@@ -2743,7 +2773,7 @@
           ]
         },
         {
-          "id": "07.07a",
+          "id": "07.09",
           "title": "Gecenin sonunda üç kişi",
           "characters": [
             "Nil Clayton",
@@ -2765,7 +2795,7 @@
           ]
         },
         {
-          "id": "07.02",
+          "id": "07.10",
           "title": "Cennet Ağacı'nın kat planı ve anahtar",
           "characters": [
             "Nil Clayton",
@@ -2788,7 +2818,7 @@
           ]
         },
         {
-          "id": "07.03",
+          "id": "07.11",
           "title": "Julian'ın annesini anlatması",
           "characters": [
             "Nil Clayton",
