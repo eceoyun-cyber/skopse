@@ -1750,9 +1750,9 @@
       "body": "13 Kasım Blake'le yeniden buluşma, Vesna itirafı, Cen.net baskını, üç kayıp ve aynı gece Angels bağlantılı villaya kaçış. Blake'in tarikat/doğaüstü bilgisi yoktur; Nil–Blake yakınlığı ilk kez sezdirilir. Sifon onarım ve kayıp araştırması aralık boyunca sürer."
     },
     {
-      "when": "14 Kasım–30 Aralık · bölüm 7–8",
+      "when": "Kasım ortası–30 Aralık · bölüm 7–8",
       "title": "Villada hazırlık ve Sifon'a dönüş",
-      "body": "13 Kasım gece Nil ve Julian villaya önce gelir, Blake yaralıları kontrol edip gece yarısında ayrı gelir; 14 Kasım ilk sabah; 15 Kasım gözetlenen ev, park, Blake–Julian katılımlı antrenman; 16 Kasım araştırma; 17 Kasım Kemal, üç kayıp, aranan kadın, Nadejda iki sinyal, Nil–Blake geçmişinin okura kesin açıklanması; 18 Kasım yeni bulgular; 19–20 Kasım kule ve balo; 21 Kasım Julian'ın Nil'e özel Nephilim itirafı, Clark'ın da sır sakladığı karşılığı; 22–27 Kasım roller. Kasım sonu–Aralık başı hizmetçiye rüşvet ve Eski Şehir posta kutusundan orijinal fiziksel davetiye; Aralık başında TEK galeri; Aralık ortası Blake'in güvenlik/Sifon araştırması; son hafta analog haberleşme ve provalar; 30 Aralık Blake'in devam kararı ve görev devri."
+      "body": "13 Kasım villa, 14 Kasım ilk sabah, 15 Kasım eski ev–park–antrenman, 16 Kasım araştırma; SONRA Cennet Ağacı katları ve 31 Aralık balosu planı; SONRA Julian Nil'e annesi ve Nephilim geçmişini anlatır, Clark karşılığını verir; SONRA Nil ve Blake ikinci Sifon ziyaretinde Kemal, üç kayıp, aranan kadın ve Nadejda'yla karşılaşır, Nil–Blake geçmişi kesinleşir; SONRA villada yeni bulgular değerlendirilir ve giriş rolleri belirlenir. Kasım sonu/Aralık başı orijinal davetiye, tek galeri, güvenlik ve Sifon hazırlıkları, provalar, 30 Aralık son karar. Önceki 17/19–21 Kasım ara tarihleri yeniden belirlenecek."
     },
     {
       "when": "31 Aralık · bölüm 9",
@@ -1790,14 +1790,14 @@
       "body": "15 Kasım eski ev ve park sonrası Nil–Blake antrenmanı yazıldı; Julian sonlara doğru katılır. Villa raporu bunun devamı, 16 Kasım araştırma yazıldı; sıradaki 17 Kasım Sifon."
     },
     {
-      "when": "21 Kasım",
+      "when": "Kasım ortası · kule planından sonra, ikinci Sifon'dan önce (kesin gün açık)",
       "title": "Julian'ın Clark karşılığı",
       "body": "Julian, Nil'e annesinin hapsedildiğini ve Angels'ın onu yetiştirdiğini anlatır. Nil'in yalan ihtimalini gündeme getirmesine Julian, Clark'ın da Nil'den sırlar sakladığını hatırlatarak istemeden karşılık verir. İkisi incinir; Blake sırrı öğrenmez."
     },
     {
       "when": "Kasım sonu–Aralık başı",
       "title": "Orijinal fiziksel balo davetiyesi",
-      "body": "Nil yurtdışındaki sanat hamisinin hizmetçisiyle çevrim içi rüşvet pazarlığı yapar, Clark'ın parasını kullanır. Hizmetçi orijinal davetiyeyi Eski Şehir'de kiralanan isimsiz posta kutusuna yollar; Nil bizzat alıp doğrular. Giriş garantisi değildir."
+      "body": "Nil yurtdışındaki sanat hamisinin hizmetçisiyle çevrim içi rüşvet pazarlığı yapar, Clark'ın parasını kullanır. Hizmetçi orijinal davetiyeyi Eski Şehir'de kiralanan isimsiz posta kutusuna yollar; Nil bizzat alıp doğrular. Giriş garantisi değildir. Rol seçimi ve ikinci Sifon ziyaretinden sonradır."
     },
     {
       "when": "Aralık başı–30 Aralık",
@@ -2011,6 +2011,11 @@
     {
       "title": "Atlas 4.8 — süreklilik denetimi ve bilgi duvarları",
       "body": "Süreklilik denetimi 66 sahnede 07.04/07.04a Kemal takip tekrarını, 07.07/07.07a Julian'ın anı duyması tekrarını, 09.01/09.02a öpüşmenin yanlış sıraya alınmasını, 10.01'de inişin ikinci kez yaşanmış gibi görünmesini, 12.03'te Hamlet'i başkalarının duyma ihtimalini, 07.01a'da henüz açıklanmamış baloya hazırlık yapıyor gibi durmayı ve sosyal görünürlük/gözetim riskini düzeltti. 06.03a/06.04 Julian ayrılma sırası tutarlı hale getirildi; 11.03–11.04 Blake'in sızma süresine ve NEXARIEL gözlemine sınır notları kondu. 07.01a genel sosyal gözlem; 08.02a gerçek davetiye sonrası hedefli sanat hazırlığıdır. Çözümsüz kanonlar (Karar 37 isimleri, Julian balo davetinin tuzak olup olmadığı, Hamlet'in ileriki ağ erişim sınırı) icat edilmedi."
+    },
+    {
+      "date": "2026-10-27",
+      "topic": "Bölümler ve Sahneler sıra düzeltmesi",
+      "text": "Kullanıcının en son açık düzeltmesi: villa → Cennet Ağacı planı → Julian annesini anlatır → ikinci Sifon. Eski 17 Kasım Sifon, 19–20 Kasım plan, 21 Kasım Julian sabit tarihleri bu sıraya ters düştüğünden yeniden tarihlendirilmeli; henüz yeni kesin gün uydurulmadı. world.json chapters[6].scenes fiziksel olarak yeniden sıralandı; önceki Markdown planındaki kronoloji de bu son düzeltmeyle çelişiyor."
     }
   ],
   "legacy": "eski-hikaye-haritasi.html",
@@ -2608,7 +2613,7 @@
       "number": "07",
       "title": "Gizli Ağ",
       "status": "Ayrıntılı plan",
-      "summary": "14 Kasım ilk villa sabahı; 15 Kasım kuşatılmış eski ev, park, Blake–Julian katılımlı antrenman ve öğle değerlendirmesi; 16 Kasım ortak araştırma; 17 Kasım Sifon, Kemal, Nadejda'nın Ölü Frekans'ı ve Nil–Blake romantik geçmişinin kesinleşmesi; 18 Kasım villa değerlendirmesi; 19–20 Kasım Cennet Ağacı ve balo fırsatı; 21 Kasım Julian'ın Nil'e özel Nephilim itirafı ve Clark üzerinden karşılığı. 22–27 Kasım rol seçimi 8. bölüm hazırlığına geçiştir.",
+      "summary": "13 Kasım gece villaya varıştan sonra 14 Kasım ilk sabah, 15 Kasım kuşatılmış eski ev–park–antrenman, 16 Kasım ortak araştırma gelir. Ardından Cennet Ağacı katları, 31 Aralık balosu ve mekanik anahtar araştırılır; sonra Julian eski fotoğraflardan hareketle Nil'e Nephilim olduğunu, annesinin hapsedildiğine inandığını anlatır ve Clark'ın da Nil'den sır sakladığını hatırlatır. Ancak BUNDAN SONRA Nil ve Blake ikinci kez Sifon'a gider; Kemal, götürülen üç kişi, aranan kadın, Nadejda'nın Ölü Frekans'ı ve Nil–Blake geçmişinin okura kesinleşmesi işlenir. Villaya dönünce yeni Sifon bilgileri değerlendirilir. Sonrasında baloya giriş rolleri seçilir. Önceki 17 Kasım Sifon / 19–21 Kasım kule–Julian tarihlemesi bu yeni sahne sırasıyla çeliştiğinden kesin tarih olarak kullanılmayacak; yeni günler ayrıca netleştirilecek.",
       "points": [
         "Villa zengin konut bölgesinde havuzlu evdir; Julian işine Cen.net'te devam eder ve sık sık yoktur.",
         "Nil ve Julian, Aurelian'ın şeytani kimliğini ve meleklerle bağlarını Blake'ten saklar; Blake neden Julian'ın işin içinde olduğunu sorgular.",
@@ -2630,8 +2635,7 @@
         "Julian'ın Nephilimliğinin Angels'ta yasak olduğu, tarihte başka Nephilimler olduğu, çocukluktan itibaren önce kendini günah görüp sonra istisna saydığı kanondur. Angels'ta kendisini savunacak gerçek dost çevresi yok; bir iki çocukluk tanıdığı var.",
         "Julian Nil ve Blake'in arasında eskiden bir şeyler olabileceğini sezer, kesin öğrenmez. Kemal sokak çocukları ağıyla sevk ipucu ararken kendi başına davranıp bir arkadaşını tehlikeye atar; Sifon hala saldırıdan toparlanmaktadır.",
         "Villa ay boyunca sadece operasyon alanı değildir; Julian'ın sosyete işleri, Blake'in Sifon onarımı ve Nil'in araştırmaları ve dışarıdaki yaşam sürer.",
-        "21 Kasım Julian, Angels'ın yalan söylemiş olabileceği imasına Clark'ın da Nil'den önemli şeyler sakladığını hatırlatarak karşılık verir; Nil incinir, güvenleri etkilenir; iki ilişki eşitlenmez.",
-        "GÜNCEL SIRA: 14 Kasım ilk villa sabahı; 15 Kasım eski ev–park–antrenman–öğle değerlendirmesi; 16 Kasım araştırma; 17 Kasım ikinci Sifon, Kemal, Nadejda ve eski romantik geçmişin kesinleşmesi; 18 Kasım yeni bilgilerin villa değerlendirmesi; 19–20 Kasım kule ve balo; 21 Kasım Julian'ın geçmişi ve Clark karşılığı; 22–27 Kasım rol seçimi. 07.01a gibi iptal edilmiş eski sosyal galeri taslağı bu bölümde kullanılmaz."
+        "KULLANICININ SON SIRA DÜZELTMESİ: Villa → eski ev/antrenman/araştırma → Cennet Ağacı balo planı → Julian'ın annesini/Nephilim geçmişini Nil'e anlatması → ikinci Sifon ziyareti (Kemal, Nadejda, Nil–Blake geçmişi) → villa değerlendirmesi → giriş rolleri. Önceki 17/19/21 Kasım tarihleri bu sıralamayla uyumsuzdur; kesin tarih atanmadan önce revize edilecek."
       ],
       "scenes": [
         {
@@ -2721,6 +2725,57 @@
           "draftStatus": "YAZILDI — 16 Kasım ortak araştırma; 15 Kasım antrenmanından sonra"
         },
         {
+          "id": "07.10",
+          "title": "Cennet Ağacı'nın kat planı ve anahtar",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes",
+            "Blake"
+          ],
+          "location": "Villa; ortak planlama alanı",
+          "atmosphere": "Operasyonel, somut güvenlik detayları ve ekonomik ihtişam.",
+          "events": [
+            "Cennet Ağacı 100 kat: halka açık lift yaklaşık 50'ye kadar, 51–90 araştırma ve Clark'ın katı, 91–98 yönetim, 99 CEO koleksiyonu, 100 CEO ofisi.",
+            "99–100 özel asansörüne klasik mekanik anahtar gerekir; anahtarın CEO veya sürekli yanında görülen kişisel güvenlik şefinde olabileceği TAHMİN edilir.",
+            "Julian CEO'nun 31 Aralık'ta 99. kattaki büyük maskeli yılbaşı balosunu düzenlediğini ve kendisinin davet edildiğini hatırlatır.",
+            "Hedef 100. kattaki ofis; Julian'ın tekrar doğrudan davet edilmesinin tuzak olup olmadığı belirsiz.",
+            "Julian'ın geleneksel baloya doğrudan davetinin bir tuzak olup olmadığı birinci kitapta kesinleştirilmeyecek; karakterler olasılığı tartışabilir.",
+            "19–20 Kasım: Anahtarın kimde olduğu kesin bilinmez; güvenlik şefi tahmin edilir. 31 Aralık balosu nadir 99. kat erişimidir; bazı geçişler açılır, bazı kontroller sıkılaşır. Julian sosyal, Blake fiziksel, Nil dijital araştırma yapar.",
+            "Cennet Ağacı katları, 99. kat maskeli balosu ve mekanik anahtar, ikinci Sifon ziyaretinden ÖNCE araştırılır; özel güvenlik şefindeki anahtar henüz tahmindir."
+          ],
+          "open": [
+            "Anahtarın kimde bulunduğuna ilişkin görüş 7. bölümde sadece varsayım.",
+            "Julian'ın davetinin bilinçli tuzak olup olmadığı açık."
+          ]
+        },
+        {
+          "id": "07.11",
+          "title": "Julian'ın annesini anlatması",
+          "characters": [
+            "Nil Clayton",
+            "Julian Junes"
+          ],
+          "location": "Villa; özel sohbet alanı",
+          "atmosphere": "İnanç, aile kaybı ve biriken tereddüt.",
+          "events": [
+            "Julian Nil'e yaklaşık iki yüz yaşında Nephilim olduğunu anlatır.",
+            "Melek annesinin melekler tarafından neresi bilinmeyen bir yerde tutulduğunu, insan babasının da öldürüldüğünü söyler.",
+            "Meleklerin kendisini aileden kopardıktan sonra yetiştirdiğini, bu düzene gerçekten inandığını gösterir.",
+            "Julian'ın yüzünün kusursuz ama insanlar için hatırlaması güç olduğunu açıklar; Nil'in arşivde onu tanıyabilmesi ikisini şaşırtır.",
+            "Nil annesinin bir itaat aracı olarak kullanılıyor olabileceğini söyler; Julian savunmaya geçer, gerçeğe hazır değildir.",
+            "Blake bu konuşmada bulunmaz; Julien'in kökenini henüz bilmez.",
+            "Sohbet Nil'in eski arşiv fotoğraflarında Julian'ın hiç yaşlanmayan yüzünü sormasıyla başlar; Julian Nephilim sırrını, ardından annesinin esaretini ve babasının ölümünü anlatır. Nil Angels'a bağlılığını sorgulayınca annesinin itaat aracı olarak tutuluyor olabileceğini söyler; Julian karşı çıkar.",
+            "Julian Nephilimliğin Angels'ta yasak, kendisinin cemaatteki tek Nephilim olduğunu anlatabilir; eskiden kendini bir günah sayarken yıllar içinde kendini düzenin istisnası olarak görmeye başlamıştır. NEXARIEL dışında başmeleklerle görüşmemiştir; diğerlerinin iyiliğine dair yargısı kesin değildir.",
+            "Bu kişisel sohbette Nil ve Julian birbirini daha iyi tanır; romantik duygu sakince büyür, hemen şaka veya öpüşmeyle kesilmez. Julian'ın Nil'e karşı alışıldık flört rahatlığını yitirmesinin erken işaretleri olabilir.",
+            "21 Kasım: Julian ailesine olanların büyük felaketi önlemek için zorunlu olduğuna inandırılmıştır; kendisini büyütenleri sever. Nil'e sır verir; Blake'e söylememesini ister. Nil ortak güvenlik risklerini Blake'e aktarır ama Nephilim kimliğini saklar.",
+            "Nil'in 'Seni yetiştirenler sana yalan söylemiş olabilir' sözlerine Julian istemeden Clark'ın da Nil'den sır sakladığını hatırlatır; Nil incinir, Julian fark eder; Blake'e Nephilim sırrı açıklanmaz.",
+            "21 Kasım: Nil'in Angels'ın yalan söylemiş olabileceği itirazına Julian Clark'ın da Nil'den sırlar sakladığını hatırlatarak istemeden karşılık verir. Nil incinir; Julian bunu fark eder. Bu konuşma aralarındaki güveni değiştirir, hemen şakayla geçiştirilmez.",
+            "Julian, eski fotoğraflardan başlayan özel konuşmada annesi ve Nephilim geçmişini Nil'e ikinci Sifon ziyaretinden ÖNCE anlatır; Blake bunu öğrenmez.",
+            "Nil'in Angels'ın yalan söylemiş olabileceği sözlerine Julian Clark'ın da Nil'den sır sakladığını hatırlatır; söz ikisini de incitir ve aralarındaki güveni etkiler."
+          ],
+          "authorSecret": "Nil'in Julian'ın fotoğraflarını tanımasında Hamlet'in rolü vardır."
+        },
+        {
           "id": "07.05",
           "title": "Sifon'a dönmek ve Kemal",
           "characters": [
@@ -2741,7 +2796,8 @@
             "Nil'in Sifon'dayken gördüğü bir nesne, duyduğu söz ya da Blake'le doğal sohbet, gençliklerinde kısa süreli romantik/fiziksel yakınlaşma yaşadıklarını okura ilk kez gösterir; Nil eski hislerinin yeniden canlandığına hemen hükmetmez.",
             "17 Kasım: Nil ve Blake aranan kadının Nil olabileceğini açıkça konuşur, kesin kanıtları yoktur. Geçmiş romantik/fiziksel yakınlıkları okur için burada kesinleşir.",
             "17 Kasım sonrası Nil villadan çıkışlarını ciddi biçimde azaltır; bir süre sonra sıkılıp dışarı çıkar. Tarihi ve bağlamı henüz açık.",
-            "17 Kasım: Nil ve Blake eski kulüp çevresinde gençliklerindeki romantik/fiziksel yakınlığı hatırlar; okur bu geçmişi ilk kez kesin olarak öğrenir."
+            "17 Kasım: Nil ve Blake eski kulüp çevresinde gençliklerindeki romantik/fiziksel yakınlığı hatırlar; okur bu geçmişi ilk kez kesin olarak öğrenir.",
+            "Bu ikinci Sifon ziyareti, Cennet Ağacı balo planı ve Julian'ın anne itirafından SONRA gelir. Baskın yaralıları, üç kayıp ve özellikle bir kadının arandığı bilgisi burada öğrenilir."
           ],
           "open": [
             "Baskın emrindeki kadının Nil olduğuna dair kesin belge yok."
@@ -2813,7 +2869,8 @@
             "Nil ve Blake Sifon baskınında bir kadın arandığını, evin çevresindeki araçları aktarır.",
             "Nadejda'nın ikinci sinyal uyarısını Julian'a söylemezler; Blake'in şakasına Nil 'Boşver' der.",
             "Julian şirket içinden bir arama emri olup olmadığını sorgulamayı önerir, Nil izlenebilir olacağı için reddeder.",
-            "Julian, Blake ile Nil'in yıllardan gelen bedensel rahatlığını görüp aralarında yalnız arkadaşlıktan fazlası olmuş olabileceğini belirsizce sezer. Şüpheyi artıran tesadüfi eski anı göndermesi bu sahnede duyulmaz; hemen sonraki 07.07a'da duyulur."
+            "Julian, Blake ile Nil'in yıllardan gelen bedensel rahatlığını görüp aralarında yalnız arkadaşlıktan fazlası olmuş olabileceğini belirsizce sezer. Şüpheyi artıran tesadüfi eski anı göndermesi bu sahnede duyulmaz; hemen sonraki 07.07a'da duyulur.",
+            "Nil ve Blake Sifon'dan döndükten sonra yeni kayıp/kadın/sevk bilgilerini Julian'la değerlendirir; Cennet Ağacı kat planı ilk kez burada keşfedilmez."
           ],
           "notes": [
             "07.07a sahnesindeki yarım sözle güçlenen kuşku bu sahnede kesinleşmez veya tekrarlanmaz."
@@ -2840,96 +2897,63 @@
             "B+D baskın, A destek, C düşük yoğunlukta; tek gecenin içinde zorla uzun dramatik konuşmalar yaratma.",
             "Julian'ın şüphesinin kaynağı gözlem ve belirsiz bir sözdür, kesin bilgi değildir."
           ]
-        },
-        {
-          "id": "07.10",
-          "title": "Cennet Ağacı'nın kat planı ve anahtar",
-          "characters": [
-            "Nil Clayton",
-            "Julian Junes",
-            "Blake"
-          ],
-          "location": "Villa; ortak planlama alanı",
-          "atmosphere": "Operasyonel, somut güvenlik detayları ve ekonomik ihtişam.",
-          "events": [
-            "Cennet Ağacı 100 kat: halka açık lift yaklaşık 50'ye kadar, 51–90 araştırma ve Clark'ın katı, 91–98 yönetim, 99 CEO koleksiyonu, 100 CEO ofisi.",
-            "99–100 özel asansörüne klasik mekanik anahtar gerekir; anahtarın CEO veya sürekli yanında görülen kişisel güvenlik şefinde olabileceği TAHMİN edilir.",
-            "Julian CEO'nun 31 Aralık'ta 99. kattaki büyük maskeli yılbaşı balosunu düzenlediğini ve kendisinin davet edildiğini hatırlatır.",
-            "Hedef 100. kattaki ofis; Julian'ın tekrar doğrudan davet edilmesinin tuzak olup olmadığı belirsiz.",
-            "Julian'ın geleneksel baloya doğrudan davetinin bir tuzak olup olmadığı birinci kitapta kesinleştirilmeyecek; karakterler olasılığı tartışabilir.",
-            "19–20 Kasım: Anahtarın kimde olduğu kesin bilinmez; güvenlik şefi tahmin edilir. 31 Aralık balosu nadir 99. kat erişimidir; bazı geçişler açılır, bazı kontroller sıkılaşır. Julian sosyal, Blake fiziksel, Nil dijital araştırma yapar."
-          ],
-          "open": [
-            "Anahtarın kimde bulunduğuna ilişkin görüş 7. bölümde sadece varsayım.",
-            "Julian'ın davetinin bilinçli tuzak olup olmadığı açık."
-          ]
-        },
-        {
-          "id": "07.11",
-          "title": "Julian'ın annesini anlatması",
-          "characters": [
-            "Nil Clayton",
-            "Julian Junes"
-          ],
-          "location": "Villa; özel sohbet alanı",
-          "atmosphere": "İnanç, aile kaybı ve biriken tereddüt.",
-          "events": [
-            "Julian Nil'e yaklaşık iki yüz yaşında Nephilim olduğunu anlatır.",
-            "Melek annesinin melekler tarafından neresi bilinmeyen bir yerde tutulduğunu, insan babasının da öldürüldüğünü söyler.",
-            "Meleklerin kendisini aileden kopardıktan sonra yetiştirdiğini, bu düzene gerçekten inandığını gösterir.",
-            "Julian'ın yüzünün kusursuz ama insanlar için hatırlaması güç olduğunu açıklar; Nil'in arşivde onu tanıyabilmesi ikisini şaşırtır.",
-            "Nil annesinin bir itaat aracı olarak kullanılıyor olabileceğini söyler; Julian savunmaya geçer, gerçeğe hazır değildir.",
-            "Blake bu konuşmada bulunmaz; Julien'in kökenini henüz bilmez.",
-            "Sohbet Nil'in eski arşiv fotoğraflarında Julian'ın hiç yaşlanmayan yüzünü sormasıyla başlar; Julian Nephilim sırrını, ardından annesinin esaretini ve babasının ölümünü anlatır. Nil Angels'a bağlılığını sorgulayınca annesinin itaat aracı olarak tutuluyor olabileceğini söyler; Julian karşı çıkar.",
-            "Julian Nephilimliğin Angels'ta yasak, kendisinin cemaatteki tek Nephilim olduğunu anlatabilir; eskiden kendini bir günah sayarken yıllar içinde kendini düzenin istisnası olarak görmeye başlamıştır. NEXARIEL dışında başmeleklerle görüşmemiştir; diğerlerinin iyiliğine dair yargısı kesin değildir.",
-            "Bu kişisel sohbette Nil ve Julian birbirini daha iyi tanır; romantik duygu sakince büyür, hemen şaka veya öpüşmeyle kesilmez. Julian'ın Nil'e karşı alışıldık flört rahatlığını yitirmesinin erken işaretleri olabilir.",
-            "21 Kasım: Julian ailesine olanların büyük felaketi önlemek için zorunlu olduğuna inandırılmıştır; kendisini büyütenleri sever. Nil'e sır verir; Blake'e söylememesini ister. Nil ortak güvenlik risklerini Blake'e aktarır ama Nephilim kimliğini saklar.",
-            "Nil'in 'Seni yetiştirenler sana yalan söylemiş olabilir' sözlerine Julian istemeden Clark'ın da Nil'den sır sakladığını hatırlatır; Nil incinir, Julian fark eder; Blake'e Nephilim sırrı açıklanmaz.",
-            "21 Kasım: Nil'in Angels'ın yalan söylemiş olabileceği itirazına Julian Clark'ın da Nil'den sırlar sakladığını hatırlatarak istemeden karşılık verir. Nil incinir; Julian bunu fark eder. Bu konuşma aralarındaki güveni değiştirir, hemen şakayla geçiştirilmez."
-          ],
-          "authorSecret": "Nil'in Julian'ın fotoğraflarını tanımasında Hamlet'in rolü vardır."
         }
       ],
       "draftSceneOrder": [
         {
-          "date": "14 Kasım",
+          "order": 1,
           "scene": "07.01",
-          "status": "onaylı ikinci taslak"
+          "status": "Güncel onaylı olay sırası; 16 Kasım sonrası gün numaraları yeniden tarihlendirilecek"
         },
         {
-          "date": "15 Kasım",
-          "scene": "07.02, 07.03 ve öğle değerlendirmesi",
-          "status": "yazıldı; Julian deneyimli dövüşçü olarak katılır"
+          "order": 2,
+          "scene": "07.02",
+          "status": "Güncel onaylı olay sırası; 16 Kasım sonrası gün numaraları yeniden tarihlendirilecek"
         },
         {
-          "date": "16 Kasım",
+          "order": 3,
+          "scene": "07.03",
+          "status": "Güncel onaylı olay sırası; 16 Kasım sonrası gün numaraları yeniden tarihlendirilecek"
+        },
+        {
+          "order": 4,
           "scene": "07.04",
-          "status": "yazıldı"
+          "status": "Güncel onaylı olay sırası; 16 Kasım sonrası gün numaraları yeniden tarihlendirilecek"
         },
         {
-          "date": "17 Kasım",
-          "scene": "07.05, 07.06, 07.07",
-          "status": "sohbette taslak; revizyona açık"
-        },
-        {
-          "date": "18 Kasım",
-          "scene": "07.08",
-          "status": "sohbette taslak; revizyona açık"
-        },
-        {
-          "date": "19–20 Kasım",
+          "order": 5,
           "scene": "07.10",
-          "status": "sohbette taslak; revizyona açık"
+          "status": "Güncel onaylı olay sırası; 16 Kasım sonrası gün numaraları yeniden tarihlendirilecek"
         },
         {
-          "date": "21 Kasım",
+          "order": 6,
           "scene": "07.11",
-          "status": "Clark karşılığı revizyonda zorunlu"
+          "status": "Güncel onaylı olay sırası; 16 Kasım sonrası gün numaraları yeniden tarihlendirilecek"
         },
         {
-          "date": "22–27 Kasım",
-          "scene": "08.01",
-          "status": "rol seçimi; sekizinci bölüm hazırlığı"
+          "order": 7,
+          "scene": "07.05",
+          "status": "Güncel onaylı olay sırası; 16 Kasım sonrası gün numaraları yeniden tarihlendirilecek"
+        },
+        {
+          "order": 8,
+          "scene": "07.06",
+          "status": "Güncel onaylı olay sırası; 16 Kasım sonrası gün numaraları yeniden tarihlendirilecek"
+        },
+        {
+          "order": 9,
+          "scene": "07.07",
+          "status": "Güncel onaylı olay sırası; 16 Kasım sonrası gün numaraları yeniden tarihlendirilecek"
+        },
+        {
+          "order": 10,
+          "scene": "07.08",
+          "status": "Güncel onaylı olay sırası; 16 Kasım sonrası gün numaraları yeniden tarihlendirilecek"
+        },
+        {
+          "order": 11,
+          "scene": "07.09",
+          "status": "Güncel onaylı olay sırası; 16 Kasım sonrası gün numaraları yeniden tarihlendirilecek"
         }
       ]
     },
@@ -2937,7 +2961,7 @@
       "number": "08",
       "title": "Yetki Yükseltme",
       "status": "Ayrıntılı plan",
-      "summary": "22–27 Kasım giriş rolleri belirlenir: Julian gerçek davetli, Blake sınırlı yetkili güvenlik görevlisi, Nil yurt dışındaki kadın sanat hamisi. Kasım sonu–Aralık başında Nil hizmetçiye Clark'ın parasından rüşvet teklif ederek orijinal fiziksel davetiyeyi Eski Şehir'deki isimsiz posta kutusuna gönderir, bizzat alır ve kontrol eder. Aralık başında yalnız bir bağımsız galeri ziyareti yapar; ortasında Blake'in Sifon ve güvenlik araştırmaları sürer; son haftada kıyafet, rol ve analog haberleşme provaları yapılır. 30 Aralık Blake devam etmeyi seçer; 31 Aralık ayrı kimliklerle giriş yapılır.",
+      "summary": "İkinci Sifon dönüşü ve yeni bulguların değerlendirilmesinden sonra giriş rolleri belirlenir: Julian gerçek davetli, Blake sınırlı yetkili güvenlik görevlisi, Nil yurt dışındaki kadın sanat hamisi. Kasım sonu–Aralık başında Nil hizmetçiye Clark'ın parasından rüşvet teklif ederek orijinal fiziksel davetiyeyi Eski Şehir'deki isimsiz posta kutusuna gönderir, bizzat alır ve kontrol eder. Aralık başında yalnız bir bağımsız galeri ziyareti yapar; ortasında Blake'in Sifon ve güvenlik araştırmaları sürer; son haftada kıyafet, rol ve analog haberleşme provaları yapılır. 30 Aralık Blake devam etmeyi seçer; 31 Aralık ayrı kimliklerle giriş yapılır.",
       "points": [
         "VIP giriş: dijital veya süslü fiziksel orijinal davetiye + kimlik kontrolü; biyometrik doğrulama yok.",
         "Nil başka ülkedeki yeni yıl sanat etkinliğinde beklenen, gelmeyecek ünlü kadın sanat hamisinin kimliğine bürünür; gerçek kişi bu plandan habersizdir.",
@@ -2956,7 +2980,7 @@
       "scenes": [
         {
           "id": "08.01",
-          "title": "22–27 Kasım: balo fırsatı ve giriş rollerinin seçilmesi",
+          "title": "İkinci Sifon dönüşünden sonra: baloya giriş rollerinin seçilmesi",
           "characters": [
             "Nil Clayton",
             "Julian Junes",
@@ -2966,8 +2990,8 @@
           "atmosphere": "Elit eski tarz debdebe ile operasyonel soğukkanlılık.",
           "events": [
             "Julian kendi adıyla davetli, Blake sınırlı yetkili güvenlik personeli, Nil yurt dışındaki kadın sanat hamisinin kimliğiyle girmeyi planlar.",
-            "99. kat balosu ve mekanik anahtarlı özel asansör daha önce 19–20 Kasım'da keşfedilmiştir; burada aynı keşif tekrarlanmaz.",
-            "Julian'ın daveti, Blake'in güvenlik araştırması ve Nil'in davetli kimliği seçimi operasyonun üç ayrı ayağıdır."
+            "Julian'ın daveti, Blake'in güvenlik araştırması ve Nil'in davetli kimliği seçimi operasyonun üç ayrı ayağıdır.",
+            "Cennet Ağacı planı ve Julian'ın annesi konuşması ikinci Sifon'dan önce yapılmıştır; burada yalnız giriş rolleri belirlenir."
           ]
         },
         {
