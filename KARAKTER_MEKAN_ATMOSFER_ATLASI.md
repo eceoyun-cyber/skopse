@@ -1921,7 +1921,7 @@ Clark Bella'nın desteğiyle Nil'e zarar vermeden çipi çıkarmanın yöntemini
 
 **Ek notlar / yazar bilgisi**
 
-Nil'in çipi sinir sistemiyle bütünleşmiştir. Daniil çıkarılmasının ciddi hayati risk taşıdığını görür, kesin öleceğini bilmez. YAZAR SIRRI: çıkarılırsa Nil KESİNLİKLE ölecek, o anda okur ve hiçbir karakter bilmez. 12. bölümde Nil çıkarılmasını durdurur; çip bedende kalır.
+Nil'in çipi sinir sistemiyle bütünleşmiştir. Daniil çıkarılmasının ciddi hayati risk taşıdığını görür, kesin öleceğini bilmez. YAZAR SIRRI: çıkarılırsa Nil KESİNLİKLE ölecek, o anda okur ve hiçbir karakter bilmez. 12. bölümde Nil çıkarılmasını durdurur; çip bedende kalır. Bella'nın döngü araştırması ve çip projesini finanse etme sebebinin bütünü Clark'ın bilgisi değildir; çipler kader tarafından seçilmiş insanları işaretlemez.
 
 **Bağlı atlas kayıtları:** Nil Clayton (`nil`); Clark Clayton (`clark`); Hamlet (`hamlet`); Bella (`bella`); NEXARIEL (`nexariel`).
 
