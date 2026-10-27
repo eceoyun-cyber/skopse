@@ -7,9 +7,9 @@
 
 ## Öncelik 1 — Olayın mantığını doğrudan etkileyen açıklar
 
-1. **Angels'ın 15 Kasım'da müdahale etmemesi.** İkiliyi görüp Cen.net'ten önce fark ettikleri kesin; *neden* izlemekle yetindikleri henüz açık. Karakterler bunu bilmez. İlerideki açıklamayla tutarlı bir yazar nedeni seçilmeli; şimdilik gerekçe icat edilmemeli.
-2. **13 Kasım baskınından sonra Cen.net'in takibi.** Cen.net Nil'i Sifon'a kadar izlemişken, neden villanın yerini hemen saptayamıyor? Kaçış rotası, takip kaybı, Blake'in güvenlik önlemleri ve Julian'ın bağlantılarının görünürlüğü birbirini desteklemeli. Angels'ın villayı bildiği gizlenmemeli.
-3. **Nil'in hedef olabileceği şüphesinin sonuçları.** 17 Kasım'da Nil ve Blake bunu açıkça konuşuyor. 18 Kasım değerlendirmesi ve sonraki sahnelerde planın nasıl değiştiği *gösterilmeli*: daha dikkatli ulaşım, haberleşme, kayıt izi veya güvenlik tedbirleri. İhtimali dile getirip unutmak çelişki yaratır.
+1. **Angels'ın 15 Kasım'da müdahale etmemesi — eksik değil.** Angels ikiliyi görür; Nil ve Blake görüldüklerini fark etmez ve görülmediklerini sanır. Neden müdahale edilmediğinin açıklanması gerekmiyor.
+2. **13 Kasım baskınından sonra villanın bulunamaması — açıklığa kavuştu.** Villa Nexariel ve meleklerin doğaüstü koruması altındadır; Cen.net bu nedenle hemen bulamaz. Blake'in teknik önlemleri ek korumadır, temel gerekçe değildir. Angels villayı zaten bilir.
+3. **Nil'in hedef olabileceği şüphesinin sonucu — kararlaştırıldı.** 17 Kasım sonrasında Nil villadan dışarı çıkışlarını ciddi biçimde azaltır. Bir süre sonra sıkılıp dışarı çıkacak; bu çıkışın zamanı ve bağlamı henüz belirlenmedi.
 4. **Julian'ın sosyal erişimi ile şirket içi yetki ayrımı.** 19–20 Kasım kat planı hangi kamusal bilgi, geçmiş balo deneyimi ve Nil/Blake araştırmasıyla doğrulanıyor? Julian'a yönetici veya gizli sistem yetkisi verilmemeli.
 5. **Sanat hamisi taklidi için bilgi güvenliği.** Fiziksel davetiyenin listeyle eşleşmesi kararlaştırıldı; hizmetçinin teslimat izi, posta kutusu, haminin gerçek seyahati ve davetli listesiyle kimlik uyuşmazlığı riskleri sahnede ikna edici olmalı. Rutin yüz tanıma olmaması bütün kontrollerin yokluğu değildir.
 6. **Blake'in görevli kimliği ve erişim sınırı.** Personel seçimi, vardiya bilgisi, Nil'in dijital hazırlığı, kızıl saç/görünüş, fiziksel kimliğin ne zaman alındığı ve 99. kata hangi güzergahla ulaşılacağı aynı mantık zincirinde kalmalı. İki muhafızın etkisizleştirilmesi gibi eski ayrıntılar otomatik kabul edilmemeli.
@@ -27,7 +27,7 @@
 12. **Yedi isim sınavı:** Beş tanışıklığın hangi dosyalara denk geldiği henüz belirlenmedi; mevcut yedi suç/dosya listesiyle eşleştirilmeden özel ad icat edilmez.
 13. **Tarikatın yeni adı:** Angels geçici yazar etiketi; karakterlerin bildiği ad değildir.
 14. **Analog cihazların kapsama ve tespit ayrıntıları:** Karar 23 seçilmedi; baloya girişe kadar cihazların mutlak güvenli olmadığını bilmek yeterli.
-15. **Güvenlik şefinin akıbeti, Blake'in doğaüstünü ne zaman gördüğü, ilk öpücüğün balo içindeki kesin anı:** Bunlar **baloya girdikten sonraki** sahnelerin konusu. Eski atlasın ölüm ve yıldırım versiyonu yeni kullanıcı anlatımıyla çeliştiği için kesin sayılmaz.
+15. **Güvenlik şefinin akıbeti ve Blake'in doğaüstünü ilk görmesi — kesinleşti:** Blake şeytan şefi tenha alana çeker; üçü savaşır; Julian'ın kutsal elektrik/yıldırımı şefi öldürür. Blake bunu görür. Nil önce galeridedir, ardından dövüşe katılır. İlk öpücük 31 Aralık balosunda kalır.
 
 ## Önerilen sonraki yazım kontrolü
 
