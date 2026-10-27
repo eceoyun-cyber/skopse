@@ -1,5 +1,7 @@
 # SKOPSE — Kitap I / Sahne Atlası
 
+> **27 Ekim 2026 — ONAYLI KARAR 1–22 UZLAŞTIRMASI:** [Güncel kronoloji, sahne sırası, bilgi sınırları ve 31 Aralık giriş planı](KITAP_I_KARARLAR_01_22_UZLASTIRMA_2026-10-27.md) ile [onaylı yeniden yazım planı](KITAP_I_YENIDEN_YAZIM_ONAYLI_PLAN_2026-10-27.md) **önceliklidir**. Aşağıdaki eski 07/08 numaraları, iki ayrı galeri ziyareti, aralık başında villaya taşınma, Julian'ın yönetici erişimi, Blake'in tarikatı bildiği varsayımı, kartın solo Clark fotoğrafı/kanatlı piramit tasviri ve 09.04'te şefin kesin öldürülmesi gibi ifadeler **geçersizdir**. 31 Aralık balosunun girişinden sonraki açık ayrıntılar kullanıcıyla sahne aşamasında netleştirilecektir. **Angels geçici çalışma adıdır.**
+
 > KESİN KARAR C (26 Ekim 2026): Diadolas'ta Nil ile Aras'ın ilk karşılaşması, kovalamacanın bir bölümü ve otoparkta Aras'ın elektroşokla etkisizleştirilmesi güvenlik kameralarına kısmen kaydolur. Nil Aras'ı taşımaz veya sürüklemez; B2 otoparkındaki otomatların arkasında, kameraların görmediği noktada düştüğü yerde kelepçeler ve uyanmasını bekleyip sorgular. Sorgunun hiçbir bölümü kaydedilmez. Cen.net'in Nil'i daha sonra izlemesinde kısmi görüntüler rol oynar; Nil bu takip zincirini o aşamada bilmez. Eski ağaçlıklı servis alanına taşıma/sorgulama planı geçersizdir.
 
 > **26 Ekim 2026 — İkinci taslak düzeltmesi:** Bölüm 01–03 açılış, Aras'ın ifadesi, Clark'ın kardeşliğinin açıklanma zamanı, Hanoi çerçevesi, evin aranmış olması ve üniversite arşivine yönelme konularında [İkinci Taslak Kararları](IKINCI_TASLAK_KARARLARI_2026-10-26.md) ile güncellenmiş [`world.json`](world.json) esas alınır. Aşağıdaki eski özetlerde Aras'ın kendiliğinden ihbar ettiği, Nil'in Clark'ın kaybını/kardeşliğini baştan bildirdiği, tek başına Clark fotoğrafının arkası veya ağaçlıklı sorgu gibi ifadeler geçiyorsa **güncelliğini yitirmiştir**. Otopark kamera sürekliliği C seçeneğiyle kesinleşmiştir; ilk karşılaşma, kovalamacanın bir kısmı ve elektroşok kısmen kaydedilir, otomat arkasındaki sorgu kaydedilmez.
@@ -926,7 +928,7 @@
 - Hamlet (Nil'in zihninde): 'Mısır.'
 - Hamlet: 'Firavun.'
 
-### Sahne 09.04 — Şefi uzaklaştırıp öldürmek
+### Sahne 09.04 — Şefi uzaklaştırıp anahtarı almak (eski ayrıntılar geçersiz)
 
 **Karakterler:** Blake; Julian Junes; Nil Clayton; Özel güvenlik şefi (şeytan)
 
@@ -936,10 +938,9 @@
 
 **Olaylar:**
 - Blake yetkili güvenlik personeli kılığıyla acil tehdit ihbarı verip şefi tenha yere çeker.
-- Nil ile Julian saldırıya katılır; şef tahmin edilemeyecek kadar güçlü çıkar.
-- Julian Blake'in gözleri önünde elinden kutsal alevli yıldırım fırlatır.
-- Şef yanarken şeytani bedenine dönüşür fakat kendi güçlerini sergileyemeden yanıp ölür.
-- Üçlü cesedi saklar ve eski tip mekanik asansör anahtarını alır.
+- **27 Ekim kesin karar:** Julian ve Blake şefi birlikte dövüp etkisiz hale getirir, mekanik anahtarı üzerinden alırlar; Nil 99. kat galerisinde teknik incelemededir, bu olayı görmez.
+- Şefin ölümünün ve Blake'in doğaüstü güçleri burada görmesinin gerçekleşip gerçekleşmeyeceği **AÇIK**; önceki ölüm ve yıldırım taslağı kesin değildir.
+- Şefin yokluğu hemen fark edilmez, fakat kısa süre sonra iletişim kesilmesi şüphe uyandırır.
 - Blake 'Bana anlatacağınız çok şey var' tutumundadır ama zaman kalmaz.
 
 ### Sahne 09.05 — Anahtarla 100. kata çıkış
