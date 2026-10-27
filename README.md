@@ -34,6 +34,6 @@ Vesna yaklaşık **iki yıl önce öldü**; Nil hem kendisinin hem Blake'in diji
 
 GitHub Pages yayını **`sürüm2umarm`** dalının kökünden yapılacak şekilde daha önce ayarlanmıştır; `main` ve yayın dalı bu atlas güncellemesinde ayrı ayrı eşitlenmiştir. Ayarın değişmiş olması ihtimalinde GitHub → Settings → Pages bölümünden güncel yayın kaynağını doğrulayın. Siteyi yenilerken gerekirse **Ctrl+Shift+R** kullanın.
 
-Görsel eşleştirmeleri `world.json`, `image-manifest.json` ve `SECILI_GORSELLER.md` içinde tutulur. Görseller değiştirilmeden korundu. Özellikle **`BLAKE_KESIN.webp` eski siyah saçlı portre olduğundan kanona uymayan bakım kalemi** olarak işaretlidir; onaylı kızıl saçlı görselle değiştirilene kadar bu çelişki sürer. Diğer seçilmiş portreler ve NEXARIEL görseli korunur.
+Görsel eşleştirmeleri `world.json`, `image-manifest.json` ve `SECILI_GORSELLER.md` içinde tutulur. Görseller değiştirilmeden korundu. **`BLAKE_KESIN.webp` doğrudan görsel incelemeyle doğrulanmıştır: Blake kızıl saçlıdır ve seçili portre güncel kanonla uyumludur. Görsel değişikliği gerekmez.** Diğer seçilmiş portreler ve NEXARIEL görseli korunur.
 
 **Bu depo kamuya açık:** Karakter kartları, bölüm özetleri ve yazar sırları spoiler içerir; okurdan ziyade yazarlık çalışma arşivi olarak kullanılmalıdır.
