@@ -1786,8 +1786,8 @@
     },
     {
       "when": "15 Kasım 2026",
-      "title": "Eski evin gözetimi, park konuşması ve EKSİK antrenman",
-      "body": "Nil ve Blake eski eve uzaktan yaklaşır; bankta Clark'ı konuşur. Villada spor/savunma antrenmanı kronolojik olarak bundan sonra gelir ve henüz yazılmamıştır; 15 Kasım değerlendirmesi ile 16 Kasım araştırmasından önce tamamlanacaktır."
+      "title": "Eski evin gözetimi, park konuşması ve tamamlanan antrenman",
+      "body": "15 Kasım eski ev ve park sonrası Nil–Blake antrenmanı yazıldı; Julian sonlara doğru katılır. Villa raporu bunun devamı, 16 Kasım araştırma yazıldı; sıradaki 17 Kasım Sifon."
     }
   ],
   "glossary": [
@@ -2675,7 +2675,13 @@
             "İki yıllık uzaklıkla geçmiş fiziksel alışkanlıklar birlikte hissedilir; romantik geçmiş okur için 17 Kasım'a kadar kesinleştirilmez.",
             "Bu sahne 15 Kasım villadaki değerlendirme ile 16 Kasım ortak araştırmadan ÖNCE yazılacaktır."
           ],
-          "draftStatus": "EKSİK — henüz yazılmadı; sıradaki sahne"
+          "draftStatus": "YAZILDI — 15 Kasım antrenmanı; Julian katılımlı son revizyon",
+          "revisionNotes": [
+            "Julian yaklaşık 200 yaşında, dövüş bilir; Nil'den temel teknik öğrenmez. Blake sert/pratik, Julian kontrollü/deneyimli.",
+            "Nil–Blake yakınlığı sezdirilir; eski romantik ilişki 17 Kasım öncesinde kesin açıklanmaz.",
+            "Julian antrenman sonunda yemeğe çağırır, şüpheli araçları yemek sonrası konuşmayı önerir. 15 Kasım villa raporu bunun devamı; varış/davet/rapor tekrarlanmaz.",
+            "16 Kasım araştırma yazıldı; sıradaki sahne 17 Kasım Sifon."
+          ]
         },
         {
           "id": "07.04",
