@@ -1984,8 +1984,12 @@
   ],
   "authorNotes": [
     {
+      "title": "27 Ekim 2026 — Atlas 5.0 onaylı bölüm başlığı düzeltmeleri",
+      "body": "Bölüm 05: 'Güvenlik İhlali' yerine 'Erişim Denetimi' (Angels'ın üç sınavıyla kimin erişime kabul edileceği); 07: 'Gizli Ağ' yerine 'Katmanlar' (Cennet Ağacı'nın fiziksel katları ve Julian'ın gizli geçmişinin katmanları); 12: 'Sistem Hatası' yerine 'Erişim Reddedildi' (Blake'in Angels erişiminden dışlanması ve Nil ile Julian'ın hapsedilmesi); 13: 'Kontrolün Ele Geçirilmesi' yerine 'Arka Kapı' (Blake'in normal izin ve korumaları atlayarak servis geçitleri üzerinden kurtarma yapması). Bölümler, 67 sahnenin numaraları, olay ve bölüm sınırları değişmedi. Eski başlıklar yalnız bu değişiklik kaydında ve tarihsel arşivde geçerlidir."
+    },
+    {
       "title": "27 Ekim 2026 — Atlas 5.0 / 14 bölüm, 67 sahne — ONAYLI",
-      "body": "Yazarın onayıyla eski 12 bölüm/67 sahne düzeni, 14 bölüm/aynı 67 sahne olarak yeniden bölümlendi. 01–06 sınırları korunur. Eski 07.01–07.06 yeni 07.01–07.06 (Gizli Ağ); eski 07.07–07.11 yeni 08.01–08.05 (Ölü Frekans); eski 08.01–08.06 yeni 09.01–09.06 (Yetki Yükseltme); eski 09.01–09.05 yeni 10.01–10.05 (Sızma); eski 09.06–09.10 yeni 11.01–11.05 (Kök Erişim); eski 10/11/12. bölümler yeni 12/13/14. bölümlerdir. Güncel sahne atıflarında yeni kimlikler geçerlidir. Yazılmış ikinci taslak yalnız 01–06 ve 07.01–07.04; geri kalanı plan. Hedef kelime aralıkları metin sayımı değildir. Kesin olay ve takvim sırası değiştirilmedi."
+      "body": "Yazarın onayıyla eski 12 bölüm/67 sahne düzeni, 14 bölüm/aynı 67 sahne olarak yeniden bölümlendi. 01–06 sınırları korunur. Eski 07.01–07.06 yeni 07.01–07.06 (Katmanlar); eski 07.07–07.11 yeni 08.01–08.05 (Ölü Frekans); eski 08.01–08.06 yeni 09.01–09.06 (Yetki Yükseltme); eski 09.01–09.05 yeni 10.01–10.05 (Sızma); eski 09.06–09.10 yeni 11.01–11.05 (Kök Erişim); eski 10/11/12. bölümler yeni 12/13/14. bölümlerdir. Güncel sahne atıflarında yeni kimlikler geçerlidir. Yazılmış ikinci taslak yalnız 01–06 ve 07.01–07.04; geri kalanı plan. Hedef kelime aralıkları metin sayımı değildir. Kesin olay ve takvim sırası değiştirilmedi."
     },
     {
       "title": "27 Ekim 2026 — Seçenek kodlarının açık dille yazılması",
@@ -2449,7 +2453,7 @@
     },
     {
       "number": "05",
-      "title": "Güvenlik İhlali",
+      "title": "Erişim Denetimi",
       "status": "İkinci taslak metni yazıldı",
       "summary": "Nil, Julian'ın refakatinde Angels'ın herkese aynı şekilde uyguladığı üç geleneksel sınavla yüzleşir: 'Kaderine Güven' trafik sınavı; 'Yedi İsim' adlı ahlaki seçim; ve eski kiliseye bağlı botanik serada 'Günah Çıkarma'. Nil, Vesna cinayetindeki delilleri silip Blake'e yalan söylediğini itiraf eder. Ardından yeraltına inerek kablolar ve ekranlarla kendi isteğiyle bütünleşmiş melek NEXARIEL'le tanışır. NEXARIEL, Clark'ın araştırmasının tehlikesini anlatır, Cen.net CEO'sunun şeytani doğasına ilişkin eski kayıtlar gösterir ve Nil'i vazgeçirmeye çalışır. Julian'ın ısrarıyla Nil'e yardım etmelerine izin verilir. Onj Köprüsü ve Eski Şehir'deki adliye sınavlarının ardından Nil sıcak serada uyur, Julian onu gözetir; sera–kilise–taş geçit–modern asansör rotasıyla yeraltına iner. NEXARIEL tarihî belgeleri savaş görüntüleriyle destekler, Nil bu seçilmiş kaynaklara temkinle yaklaşır. Julian'ın Nil'e ilk çok hafif ilgisi, seradaki itirafın ve Nil'in uyuyakalmasının ardından doğar; Nil'in duygusal anı hemen mizahla kırılmaz.",
       "points": [
@@ -2740,7 +2744,7 @@
     },
     {
       "number": "07",
-      "title": "Gizli Ağ",
+      "title": "Katmanlar",
       "status": "07.01–07.04 ikinci taslak yazıldı · 07.05–07.06 onaylı plan",
       "summary": "Nil, Blake ve Julian 13 Kasım gecesindeki ayrı gelişlerinin ardından villada ortak bir düzen kurmaya çalışır. 14 Kasım'da kahvaltı ve ağ/giriş güvenliği konuşulur. 15 Kasım'da Nil ile Blake Gümüşyaka'daki eski evi gözetler, siyah otomobil ve gri minibüsten kuşkulanıp içeri girmez; parkta Clark ve çocukluklarına ilişkin konuşurlar. Antrenmana Julian sonradan katılır, Nil birden güçlü dövüşçüye dönüşmez. 16 Kasım ortak Cen.net araştırmasında araç, depo ve sevk bilgileri ancak şüphe düzeyindedir. Henüz yazılmamış 07.05'te Cennet Ağacı katları, 31 Aralık balosu ve 99–100. kat özel asansöründeki mekanik anahtar ihtimali araştırılır. 07.06'da Julian Nil'e yaklaşık iki yüz yaşında bir Nephilim olduğunu, annesinin hapsedildiğine ve babasının öldürüldüğüne inandığını açıklar; bunlar kendisine öğretilen, henüz doğrulanmamış bilgilerdir. Nil Angels'ın ona yalan söylemiş olabileceğini söyleyince Julian istemeden Clark'ın da Nil'den sır sakladığını hatırlatır. Nil incinir, karşılıklı güven sarsılır. Bölüm bu çözülmemiş duygusal karşılıkla biter; ikinci Sifon ziyareti yeni 8. bölümdedir.",
       "points": [
@@ -3590,7 +3594,7 @@
     },
     {
       "number": "12",
-      "title": "Sistem Hatası",
+      "title": "Erişim Reddedildi",
       "status": "Onaylı plan · henüz ikinci taslak metni değil",
       "summary": "Cennet Ağacı'ndan kaçan Nil, Julian ve Blake kanatların ortaya çıkışı karşısında sarsılır. Julian hâlâ meleklerin cevap verebileceğine inanarak NEXARIEL'e gitmeyi önerir; Blake buna karşıdır, öncelikle doktora gidilmesini ister. Nil ve Julian doğaüstü gerçeği Blake'e anlatır, ardından meleklere başvurmaya karar verirler. Blake güvenmediği için gizlice takip eder. NEXARIEL, Clark'ın araştırmasının bir insana melek kanatları kazandıracak kadar ilerlediğini öğrenince şaşırır, öfkelenir ve bunu günah sayarak Nil'in hapsedilmesini emreder. Julian onu savununca kendisi de hapsedilir; ikilinin com-link cihazlarına el konulur. Çatıda Julian, daha önce Angels'ı ve sınavlarını hiç bilmeyen Blake'e sınavları geçmediği için merkeze gelemeyeceğini söyler. Blake bunca sırrın ardından öfkeyle karşı çıkıp Nil'i doktora yönlendirmeye çalışır, sonra kabullenmiş görünerek onları gizlice takip eder. Nil'in bedene yabancılaşması yorgunluğundan daha kalıcıdır.",
       "points": [
@@ -3697,7 +3701,7 @@
     },
     {
       "number": "13",
-      "title": "Kontrolün Ele Geçirilmesi",
+      "title": "Arka Kapı",
       "status": "Onaylı plan · henüz ikinci taslak metni değil",
       "summary": "Blake, kilisenin çevresini gözlemleyip meleklerin insan hizmetkârlarından bazılarını yakalayarak sorgular; öğrendiklerini birleştirip yeraltı merkezine sızar. Nil ve Julian, ileri teknoloji yerine eski taş duvarlar ve demir parmaklıklardan oluşan birbirine yakın ama ayrı zindan hücrelerinde tutulmaktadır. Julian annesini düşünerek 'Acaba onu nasıl bir yerde tutuyorlar?' diye söze girer. Blake, görevlilerin Nil'in bedenini açıp içindekini çıkarmak ve üzerinde deney yapmak istediğini duyar; bunun Aurelian'ın planına benzediğini anlar. Kendi becerisiyle hücre kilitlerini açar. Ardından Julian merkezin geçitlerini bilerek kaçışlarına yol gösterir. NEXARIEL son anda gök gürültüsünü andıran sesiyle onları fark eder, fakat üçlü dışarı çıkmayı başarır. Blake bakım personelini sistematik izleyip sorgular ve bir görevli kılığıyla eski tünellerden girer; kaçış Nil'in uyuduğu seradan geçip kilisenin arka demir servis kapısından Eski Şehir sokağına açılır. Julian'ın Angels'tan tanıdığı bir iki dostu bile onu savunmaz; yasak Nephilim kimliğine ilişkin önyargı görünürleşir. Blake'in onları kurtarması Julian ve Blake arasında iki taraflı saygı doğurur.",
       "points": [
