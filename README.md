@@ -6,7 +6,7 @@
 
 ## Yeni 14 bölümlük yapı
 
-**1–6. bölümler değişmedi.** Eski 7. bölüm, yeni **07 — Gizli Ağ (6 sahne)** ile **08 — Ölü Frekans (5 sahne)** olarak bölündü. Eski 8. bölüm yeni **09 — Yetki Yükseltme** oldu. Eski 9. bölüm, **10 — Sızma (5 sahne, 99. kat)** ve **11 — Kök Erişim (5 sahne, 100. kat)** şeklinde ayrıldı. Eski 10, 11 ve 12. bölümler sırasıyla **12 — Sistem Hatası**, **13 — Kontrolün Ele Geçirilmesi** ve **14 — Sistemden Çıkış** adlarıyla devam eder.
+**1–6. bölümler değişmedi.** Eski 7. bölüm, yeni **07 — Katmanlar (6 sahne)** ile **08 — Ölü Frekans (5 sahne)** olarak bölündü. Eski 8. bölüm yeni **09 — Yetki Yükseltme** oldu. Eski 9. bölüm, **10 — Sızma (5 sahne, 99. kat)** ve **11 — Kök Erişim (5 sahne, 100. kat)** şeklinde ayrıldı. Eski 10, 11 ve 12. bölümler sırasıyla **12 — Erişim Reddedildi**, **13 — Arka Kapı** ve **14 — Sistemden Çıkış** adlarıyla devam eder.
 
 **Yazılmış ikinci taslak:** 01–06 bölümleri ve 07.01–07.04. **Henüz yalnızca plan:** 07.05'ten 14.06'ya kadar. Sahne kimliklerinin değişmesi yazılmış roman metninin otomatik güncellendiği anlamına gelmez. Bir sahnenin yerinin değişmesi, olayın zamanını, neden–sonuç ilişkisini veya karakterlerin bildiklerini değiştirmez.
 
