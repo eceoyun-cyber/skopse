@@ -1238,7 +1238,7 @@
       },
       "sections": {
         "genel": "Nil ve Clark, Tünek'in karşısındaki Gümüşyaka mahallesinde Clark'ın kiraladığı pahalı ve güvenlikli dairede yaşar. Şirket lojmanı değildir.",
-        "gecmis": "Clark Cen.net araştırma bölümüne girdikten sonra Nil ile Gümüşyaka'ya taşınır. Daireyi kendisi kiralar.",
+        "gecmis": "Clark, Nil'le tanıştığında zaten Cen.net'te çalışmaktadır ve Gümüşyaka'daki özel kiralık dairede yaşamaktadır. Nil'i yanına aldıktan sonra birlikte buraya taşınmaları söz konusu değildir; Nil Clark'ın mevcut evine gelir.",
         "iliskiler": "Bağlantılı atlas kayıtları: nil, clark, yeni_sehir, paradise.",
         "yetenekler": "Vietnam fotoğrafı, Nil'in çektiği Clark fotoğrafının arkasındaki 1866 kartı, Shakespeare'in Hamlet kitabı. 7. bölümde evin çevresinde kuşkulu siyah araçlar bulunur.",
         "notlar": "Nil 7. bölümde eve girmek ister, Blake tehlikeli bulduğu için onu uzaklaştırır. Ev hem Cen.net hem Angels tarafından birbirinden bağımsız gözetlenir; Nil yalnız Cen.net'in araçlarını gördüğünü düşünür. Nil ve Blake gerçek ikili gözetimi bilmez."
@@ -1687,7 +1687,7 @@
     {
       "when": "12 yıl önce · Nil 12, Clark 26 yaşında",
       "title": "Clark, Nil’i yanına alır",
-      "body": "Clark, 12 yaşındaki Nil'i biyolojik ailesinin bulunduğu Sifon'dan çıkarıp yanına alır; Clark 26 yaşındadır. Nil'in ailesi hayattadır ve Nil geçmişini hatırlar. Clark ile Nil kan bağı olmadan aile ve kardeşlik ilişkisi kurar. Nil'in geçmişinin ayrıntıları çevreye açıkça anlatılmaz."
+      "body": "Clark, 12 yaşındaki Nil'i biyolojik ailesinin bulunduğu Sifon'dan çıkarıp yanına alır; Clark 26 yaşındadır ve o sırada zaten Cen.net'te çalışmaktadır. Nil, Clark'ın Tünek'in karşısındaki Gümüşyaka mahallesinde önceden yaşadığı özel kiralık daireye gelir; birlikte yeni eve taşınmazlar. Nil'in biyolojik ailesi hayattadır ve Nil geçmişini hatırlar. Clark ile Nil kan bağı olmadan aile ve kardeşlik ilişkisi kurar."
     },
     {
       "when": "Nil 12 yaşında · Clark'la yaşamaya başladıktan yaklaşık 8 ay sonra",
@@ -1703,11 +1703,6 @@
       "when": "Nil 14, Blake 16 yaşında · okul olaylarıyla aynı dönem",
       "title": "Clark ve Blake'in ilk gergin yüz yüze karşılaşması",
       "body": "Kızıl saçlı Blake ile Clark, Nil'in çevresinde ilk kez yüz yüze gelir. Clark'ın temkinli, denetimli koruyuculuğu ile Blake'in Sifon'dan gelen doğrudan bağlılığı arasında gerilim doğar; ikisinin de Nil'in hayatındaki yeri bu karşılaşmayla belirginleşir."
-    },
-    {
-      "when": "Clark Cen.net araştırma bölümüne girdikten sonra",
-      "title": "Gümüşyaka'ya taşınma",
-      "body": "Clark ve Nil, Tünek'in karşısındaki Gümüşyaka mahallesinde Clark'ın kendi kiraladığı pahalı, güvenlikli daireye taşınır. Burası Cen.net yerleşkesi ya da şirket lojmanı değildir."
     },
     {
       "when": "Nil ve Blake'in gençlikleri · Vesna olayından önce",
