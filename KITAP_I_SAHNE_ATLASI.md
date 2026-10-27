@@ -680,19 +680,17 @@ Cennet Ağacı'na girmek için fiziksel beceri ve Cen.net güvenliğini bilen bi
 
 **Olay akışı**
 
-1. Nil ve Blake eski eve gizlice yaklaşır, yakınlarda kuşkulu siyah araçları görür.
+1. 15 Kasım'da Nil ve Blake, Gümüşyaka'daki eski eve uzaktan yaklaşır; çevrede siyah otomobil ve gri minibüs gibi gözetim izlenimi veren araçlar görür. Araçların kurum bağlantısını henüz kesinleştiremezler.
 2. Nil eve girmeyi ister, Blake aşırı riskli olduğundan kararlı hatta fiziksel biçimde onu uzaklaştırır.
 3. Güvenli mesafede bankta çocuklukları ve Clark hakkında konuşurlar.
 4. Blake Clark'ı bir parça kibirli bulurdu ama Nil'e daha iyi hayat vermesine minnettardır; Nil Clark'ın kendisine ve okul arkadaşlarına sıcak, Blake'e mesafeli oluşunu hatırlar.
 5. Nil, Diadolas takibi ve Sifon baskını nedeniyle dışarıdaki siyah araçların yalnız Cen.net'e ait olduğunu düşünür; gerçekte hem Cen.net hem Angels bağımsız gözetim yapmaktadır.
 6. Blake ve Nil'in zaten güçlü olan dostluğunu aniden dramatik romantik gerilime çevirme; eskiden yaşadıkları yakınlığı bastırmış ve iki yıl uzak kalmış olsalar da temasları alışkanlıkla doğal kalır.
 7. Nil baskının ve takibin kendi araştırmasıyla bağlantısını düşünüp sonuçlardan huzursuz olabilir; Blake eski evin önündeki riskte onu kararlı biçimde uzaklaştırır.
-8. 15 Kasım: Angels Nil ve Blake'i görür, Cen.net görmez. İkili yalnız Cen.net'ten kuşkulanır; Angels'ın müdahale etmeme nedeni açık. Eski evden sonra antrenmanda Nil–Blake yakınlığı daha belirgin sezdirilir.
-9. Angels ikiliyi görür; Nil ve Blake fark edilmediklerini sanır. Müdahale edilmeme nedeni açıklanmak zorunda değildir.
 
 **YAZAR SIRRI — sahnede erken açıklama**
 
-Evi hem Cen.net hem Angels birbirinden bağımsız izler. Nil ve Blake yalnız Cen.net gözetimi olduğunu varsayar; gerçekte Angels ekibini fark etmezler. Clark'ın eski gizli servetini ikisi de bilmez.
+15 Kasım gözetiminde Angels Nil ve Blake'i fark eder ama müdahale etmez; Cen.net onları bu ziyaret sırasında görmez. Nil ve Blake kendi hareketlerinin fark edilmediğini sanır, yalnız Cen.net gözetiminden kuşkulanır. Angels'ın onları gördüğü ve ikinci gözetim zinciri bu aşamada anlatıcı veya karakter bilgisi olarak AÇIKLANMAZ.
 
 ---
 
@@ -710,7 +708,7 @@ Evi hem Cen.net hem Angels birbirinden bağımsız izler. Nil ve Blake yalnız C
 2. Blake villanın güvenli antrenman alanında Nil'e spor/savunma çalıştırır; Nil fiziksel olarak güçlü dövüşçüye dönüşmez.
 3. İki yıllık uzaklıkla geçmiş fiziksel alışkanlıklar birlikte hissedilir; romantik geçmiş okur için ikinci Sifon ziyaretine kadar kesinleştirilmez.
 4. Bu antrenman 15 Kasım sahnesinde Draft 2 kapsamında yazılmıştır; 16 Kasım ortak araştırmasından önce gerçekleşir.
-5. Julian antrenmanın sonuna deneyimli dövüşçü olarak katılır; ardından öğle yemeği ve mevcut değerlendirme sahnesine geçilir.
+5. Julian antrenmanın sonuna doğru gelir; yaklaşık iki yüz yıllık saha deneyimi sayesinde acemi değildir, Nil'den temel dövüş öğrenmez. Blake'in sert/pratik tekniğine karşı ekonomik ve kontrollü yaklaşır. İkisini öğle yemeğine çağırır; sabahki gözetim araçlarını yemekten sonra konuşacaklardır. Mevcut yemek/değerlendirme sahnesinde aynı davet ve konuşma tekrar edilmez.
 
 ---
 
@@ -727,8 +725,9 @@ Evi hem Cen.net hem Angels birbirinden bağımsız izler. Nil ve Blake yalnız C
 1. 16 Kasım: önceki gün eski evin çevresindeki kuşkulu araçların görülmesi ve villadaki antrenmanın ardından Nil, Blake ve Julian birlikte Cen.net araştırmasını sürdürür.
 2. Nil'in elindeki teknik izler, Blake'in iki yıllık Cen.net güvenlik/lojistik verileri ve Julian'ın kamuya açık sosyal bilgileri çapraz incelenir; üçü aynı bilgiye baştan sahip değildir.
 3. Nil'in dikkatini çeken siyah/gri araçlar ile eski depo ve sevk hattı kayıtları bir araştırma izidir. Bunlar Cen.net'in belirli bir suçu işlediğine dair kesin kanıt veya doğrudan suçüstü bulgusu değildir.
-4. Eski eve girilemediğinden Clark'ın bilgisayarı veya odasından yeni veri elde edilmiş sayılmaz; analiz mevcut bulgularla sınırlıdır.
-5. Bu sahne 07.01–07.04 arasında yazılmış Draft 2'nin son doğrulanmış sahnesidir. 07.05 Cennet Ağacı kat/anahtar planı bundan sonra gelir; ikinci Sifon ziyareti 07.06 Julian itirafından da sonradır.
+4. Eski yük istasyonu yakınındaki depo ve sevk ihtimali ile Blake'in Sifon tanıklarına yeniden danışma gereği, sonraki araştırmaya somut gerekçe oluşturur. Bu, 07.07–07.09 ziyareti tamamlanmış veya gerçekleşmiş gibi göstermez.
+5. Eski eve girilemediğinden Clark'ın bilgisayarı veya odasından yeni veri elde edilmiş sayılmaz; analiz mevcut bulgularla sınırlıdır.
+6. Bu sahne 07.01–07.04 arasında yazılmış Draft 2'nin son doğrulanmış sahnesidir. 07.05 Cennet Ağacı kat/anahtar planı bundan sonra gelir; ikinci Sifon ziyareti 07.06 Julian itirafından da sonradır.
 
 ---
 
@@ -912,6 +911,7 @@ Baskıncıların aradığı kadın Nil'dir; Nil, Blake ve Kemal'in bunu kesin g�
 3. Blake ile Nil'in kişisel alanı paylaşma ve dokunma alışkanlıkları eski dostluklarının doğal devamıdır; ikisi bu davranışları özel olarak yorumlamaz.
 4. Julian, eski bir zamana yapılan yarım bir göndermeyi tesadüfen duyar ve aralarında geçmişte romantik bir şey olabileceğini sezer; kesin öğrenmez, konu açmaz.
 5. Julian'ın Nil'e ilgisi yavaş ilerler; ağır annelik/aile sohbetinin hemen ardından zoraki espri veya romantik itiraf konmaz. Blake ise Nil-Julian çekimini fark etmez.
+6. İkinci Sifon ziyaretinde kendisinin hedef olabileceğinden kuşkulanması üzerine Nil villa dışına çıkışlarını bir süre ciddi biçimde azaltır. Daha sonra sıkılmasına rağmen tekrar dışarı çıkacağı sahnenin günü/bağlamı henüz açık; burada gerçekleşmiş gibi yazılmaz.
 
 **Sahne notları**
 
