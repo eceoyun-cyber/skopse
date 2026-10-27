@@ -8,7 +8,7 @@ Bu dosyalar seçilmiş ve güncel atlas tarafından kullanılan görsellerdir. *
 - **Nil Clayton** — `NIL_KESIN.webp`
 - **Clark Clayton** — `CLARK_KESIN.webp`
 - **Julian Junes** — `JULIAN_KESIN.webp`
-- **Blake** — `BLAKE_KESIN.webp`
+- **Blake** — `BLAKE_KESIN.webp` (**ESKİ siyah saçlı portre; güncel ateş kızılı saç kanonuyla çelişiyor. Dosya henüz değiştirilmedi.**)
 - **Aras Stojanovski** — `ARAS_KESIN.webp`
 - **Vesna** — `VESNA_KESIN.webp`
 - **Nadejda** — `NADEJDA_KESIN.webp`
@@ -59,3 +59,7 @@ GitHub dosyaları ile ChatGPT'nin **Kütüphane / Proje dosyaları birbirinden a
 **Nexariel'in Kütüphanedeki seçilmiş orijinal üretimi:** `image-gen-4(20261019-234349).png` (son ekranlı/kablolu tasarım; kullanıcı tarafından seçildi). Korunmalıdır.
 
 Eski adlar yeniden adlandırma commit'inde GitHub geçmişinden geri alınabilir. Eski, kullanılmayan illüstrasyonlar `_KESIN` olarak işaretlenmedi.
+
+## Atlas 4.9 · 27 Ekim 2026 mekan notu
+
+Gümüşyaka şehir atlasına bağımsız mahalle olarak eklendi; henüz kendisine özel seçilmiş bir görseli yoktur. `MEKAN_NIL_CLARK_EVI_KESIN.webp` Gümüşyaka mahallesinin değil Nil ve Clark'ın özel kiralık dairesinin görselidir. Var olan diğer seçilmiş portreler korunur.
