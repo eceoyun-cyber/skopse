@@ -1655,14 +1655,14 @@
   ],
   "timeline": [
     {
+      "when": "Julian'ın çocukluğundan roman başlangıcına · yaklaşık iki yüzyıllık geçmiş",
+      "title": "Julian'ın Nephilim olarak kabul arayışı",
+      "body": "Julian, yaklaşık iki yüzyıllık yaşamının çocukluk döneminden itibaren Angels tarafından yetiştirilir. Melek annesinin günahı yüzünden hapsedildiğine, insan babasının meleklerce öldürüldüğüne inanır; bunlar kendisine öğretilen anlatıdır, doğruluğu kesinleştirilmiş değildir. Nephilim oluşunu uzun süre günah olarak görür, daha sonra düzen içinde kendini bir istisna olarak kabul eder. NEXARIEL'den emir alır, diğer başmeleklerle doğrudan görüşmez; inancı ve kendisini yetiştirenlere bağlılığı gerçektir."
+    },
+    {
       "when": "Savaş sonrası",
       "title": "Skopse yeniden şekilleniyor",
       "body": "Göçler, şirket ağları ve ayrıcalıklı altyapılar kentin çehresini değiştirir."
-    },
-    {
-      "when": "1866",
-      "title": "Büyük deprem ve Angels'ın kuruluşu",
-      "body": "Skopse'de büyük deprem yaşanır. Angels'ın kanatlı piramit simgesiyle anılan gizli cemiyeti depremin hemen ardından, aynı yıl kurulur; Nil bu bağlantıyı arşiv araştırmasında adım adım çözer."
     },
     {
       "when": "Her yıl · ekim başı ve sonu",
@@ -1670,19 +1670,39 @@
       "body": "Yeni Şehir'deki elektronik surlar kıyıdaki yatları, konutları ve restoranları korurken suyun etkisini Eski Şehir'e yönlendirir. Tarihi sağlam yapılar sığınak olur; bazı insanlar yarım kalmış metro tünellerine geçer."
     },
     {
-      "when": "Clark 14–15 yaşlarında · yazar sırrı",
+      "when": "1866",
+      "title": "Büyük deprem ve Angels'ın kuruluşu",
+      "body": "Skopse'de büyük deprem yaşanır. Angels'ın kanatlı piramit simgesiyle anılan gizli cemiyeti depremin hemen ardından, aynı yıl kurulur; Nil bu bağlantıyı arşiv araştırmasında adım adım çözer."
+    },
+    {
+      "when": "Clark 16–17 yaşlarında · yaklaşık 21–22 yıl önce · yazar sırrı",
       "title": "Clark'ın gizli serveti",
-      "body": "Clark dijital bir sistemden büyük miktarda para çalıp henüz Nil'le tanışmadan varlıklı hâle gelir; Nil ve Blake bilmez."
+      "body": "Clark henüz 16–17 yaşındayken dijital bir sistemden büyük miktarda para çalar ve Nil'le tanışmasından yıllar önce maddi bağımsızlık kazanır. Bu servetin kaynağı Nil ve Blake tarafından bilinmez. Eski 14–15 yaş kaydı geçersizdir."
     },
     {
-      "when": "Julian'ın çocukluğu–kitap başlangıcı · yaklaşık 200 yıl",
-      "title": "Julian'ın Nephilim olarak kabul arayışı",
-      "body": "Angels'ın yasak saydığı tek Nephilim Julian, uzun süre varoluşunu günah görür; yıllar sonra kendisini düzen içinde bir istisna olarak kabullenir. Emirlerini hep NEXARIEL'den alır, diğer başmeleklerle doğrudan görüşmez; inancı gerçektir."
+      "when": "Nil 12, Blake 14 yaşında · yaklaşık 12 yıl önce",
+      "title": "Nil ile Blake'in Sifon'daki ilk tanışması",
+      "body": "Nil ile kendisinden iki yaş büyük Blake, Sifon sokaklarında çocukken tanışır. Nil'in sokak bilgisi ve Blake'in Sifon'a bağlılığı bu ortak geçmişe dayanır. Clark'ın Nil'i yanına alması bu bağı sona erdirmez."
     },
     {
-      "when": "12 yıl önce",
+      "when": "12 yıl önce · Nil 12, Clark 26 yaşında",
       "title": "Clark, Nil’i yanına alır",
-      "body": "Nil 12, Clark 26 yaşındadır. Ortak hayatları böyle başlar."
+      "body": "Clark, 12 yaşındaki Nil'i biyolojik ailesinin bulunduğu Sifon'dan çıkarıp yanına alır; Clark 26 yaşındadır. Nil'in ailesi hayattadır ve Nil geçmişini hatırlar. Clark ile Nil kan bağı olmadan aile ve kardeşlik ilişkisi kurar. Nil'in geçmişinin ayrıntıları çevreye açıkça anlatılmaz."
+    },
+    {
+      "when": "Nil 12 yaşında · Clark'la yaşamaya başladıktan yaklaşık 8 ay sonra",
+      "title": "Blake'in Nil'i okul çıkışında yeniden bulması",
+      "body": "Clark'ın Nil'i Sifon'dan alıp yeni hayatına taşımasından yaklaşık sekiz ay sonra Blake onu okul çıkışında bulur. Nil ile Blake'in çocukluk bağı yeniden temas kurmalarını sağlar; bu, Blake'in Nil'i ilk kez tanıdığı an değildir."
+    },
+    {
+      "when": "Nil 14, Clark 28, Blake 16 yaşında · yaklaşık 10 yıl önce",
+      "title": "Okul zorbalığı ve Clark'ın Nil'i savunması",
+      "body": "Nil okulda geçmişi ve aile konumu üzerinden zorbalığa uğrar. Okul yönetiminin de Nil'in geçmişini aleyhine kullanmaya çalıştığı süreçte Clark, Doctor Clayton olarak kamusal biçimde Nil'in kendi ailesinden ve kardeşi olduğunu sahiplenir; bunu hem Nil'i korumak hem okulun baskısını kesmek için stratejik olarak yapar. Clark'ın ağırlığı soylu kökenden değil, zekası ve Cen.net'teki konumundan gelir."
+    },
+    {
+      "when": "Nil 14, Blake 16 yaşında · okul olaylarıyla aynı dönem",
+      "title": "Clark ve Blake'in ilk gergin yüz yüze karşılaşması",
+      "body": "Kızıl saçlı Blake ile Clark, Nil'in çevresinde ilk kez yüz yüze gelir. Clark'ın temkinli, denetimli koruyuculuğu ile Blake'in Sifon'dan gelen doğrudan bağlılığı arasında gerilim doğar; ikisinin de Nil'in hayatındaki yeri bu karşılaşmayla belirginleşir."
     },
     {
       "when": "Yıllar önce · tarih açık",
