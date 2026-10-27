@@ -1,84 +1,39 @@
 # SKOPSE — Dünya Atlası
 
-> **27 Ekim 2026 güncel durum:** Aktif atlas verisi `world.json` içinde **12 bölüm, 67 sahne ve 30 zaman çizelgesi kaydı** bulunur. Bu belgedeki “66 sahne”, “25 kayıt”, 07.01a/07.02a gibi eski numaralar ve geçersiz tarihli sıra açıklamaları tarihsel denetim kayıtlarıdır; **aktif sahne planı değildir**. Geçerli sıralama: 07.02 Kuşatılmış Eski Ev → 07.05 Cennet Ağacı → 07.06 Julian'ın itirafı → 07.07–07.09 ikinci Sifon. Blake'in kesin görünümü kızıl saçlıdır; mevcut `BLAKE_KESIN.webp` dosyasındaki siyah saçlı portre **değiştirilmesi gereken eski görseldir**.
+**Güncel kanon: Atlas 4.9 · 27 Ekim 2026.** Yayımlanan veri: **59 kayıt** (18 karakter, 25 mekan, 8 şirket, 2 topluluk, 6 kavram), **36 zaman kaydı**, **12 bölüm / 67 sahne**.
 
+**Atlas sitesi:** https://eceoyun-cyber.github.io/skopse/
 
-> KESİN KARAR C (26 Ekim 2026): Diadolas'ta Nil ile Aras'ın ilk karşılaşması, kovalamacanın bir bölümü ve otoparkta Aras'ın elektroşokla etkisizleştirilmesi güvenlik kameralarına kısmen kaydolur. Nil Aras'ı taşımaz veya sürüklemez; B2 otoparkındaki otomatların arkasında, kameraların görmediği noktada düştüğü yerde kelepçeler ve uyanmasını bekleyip sorgular. Sorgunun hiçbir bölümü kaydedilmez. Cen.net'in Nil'i daha sonra izlemesinde kısmi görüntüler rol oynar; Nil bu takip zincirini o aşamada bilmez. Eski ağaçlıklı servis alanına taşıma/sorgulama planı geçersizdir.
+## Etkin veri ve yazılmış taslak ayrımı
 
-> **26 Ekim 2026 — İkinci taslak düzeltmesi:** Bölüm 01–03 açılış, Aras'ın ifadesi, Clark'ın kardeşliğinin açıklanma zamanı, Hanoi çerçevesi, evin aranmış olması ve üniversite arşivine yönelme konularında [İkinci Taslak Kararları](IKINCI_TASLAK_KARARLARI_2026-10-26.md) ile güncellenmiş [`world.json`](world.json) esas alınır. Aşağıdaki eski özetlerde Aras'ın kendiliğinden ihbar ettiği, Nil'in Clark'ın kaybını/kardeşliğini baştan bildirdiği, tek başına Clark fotoğrafının arkası veya ağaçlıklı sorgu gibi ifadeler geçiyorsa **güncelliğini yitirmiştir**. Otopark kamera sürekliliği C seçeneğiyle kesinleşmiştir; ilk karşılaşma, kovalamacanın bir kısmı ve elektroşok kısmen kaydedilir, otomat arkasındaki sorgu kaydedilmez.
+`world.json`, sitenin aktif karakter, şehir/mekan, şirket, zaman çizelgesi, kavram ve bölüm/sahne kaynağıdır. `index.html`, `app.js`, `styles.css` ile aynı dizinde olmalıdır. **1–6. bölümler ve 07.01–07.04 metin olarak yazılmış**, **07.05–12.06 ise onaylanmış plandır.** Plan sahneleri bitmiş roman metni olarak sunulmaz.
 
-## Güncel sürüm ve çalışma kaynağı
+- [67 sahnenin ayrıntılı güncel atlası](KITAP_I_SAHNE_ATLASI.md)
+- [59 karakter/mekan/kurum/kavram kaydı](KARAKTER_MEKAN_ATMOSFER_ATLASI.md)
+- [36 maddelik güncel zaman çizelgesi](ZAMAN_CIZELGESI_KESIN_KANON_2026-10-27.md)
+- [Güncel süreklilik denetimi ve açık noktalar](KITAP_I_SUREKLILIK_DENETIMI.md)
+- [İkinci taslak açılış kararları](IKINCI_TASLAK_KARARLARI_2026-10-26.md)
+- [Daha önceki 46–76 kararları (tarihsel numaralandırma)](KANON_KARARLARI_46_76.md)
+- [Daha eski kanon kararları (tarihsel referans)](KANON_KARARLARI_2026-10-20.md)
 
-**Atlas 4.8 · 21 Ekim 2026**. Güncel atlasın ana verisi `world.json`, görünümü `styles.css`, uygulama mantığı `app.js`, giriş sayfası `index.html` dosyalarındadır. Hepsi depo **kökünde** bulunur. `index.html` bunları dış dosyalar olarak yükler; eski tek dosyalı sürümün README'sindeki yönergeler bu sürüm için geçerli değildir.
+## Güncel kesin sahne sırası
 
-34 seçilmiş portre/mekân illüstrasyonu `_KESIN.webp` ekiyle işaretlenmiştir. Silme/karıştırma riski açısından `SECILI_GORSELLER.md` dosyasını kullanın. **`NEXARIEL_KESIN.webp` kesin seçilmiş görseldir**.
+02 Kasım Diadolas Aras → 2/3 Kasım Gümüşyaka, Hanoi çerçevesinin arkasındaki 1866 kartı → 4 Kasım üniversite arşivi → 9–12 Kasım Julian/Angels sınavları → 13 Kasım Sifon'da Blake ile ilk yeniden temas, Vesna itirafı ve baskın → 13 Kasım gece villaya ayrı varış → 14–16 Kasım 07.01–07.04 (yazılmış) → **07.05 Cennet Ağacı planı → 07.06 Julian'ın annesi/Nephilim geçmişi → 07.07–07.09 ikinci Sifon → 07.10–07.11 villa** → 08.01 giriş rolleri → 08.02 hizmetçi üzerinden **orijinal davetiyenin Eski Şehir posta kutusundan Nil tarafından bizzat alınması** → 08.03 **tek** sanat galerisi → Aralık sonu hazırlıkları → 31 Aralık 99. katta balo → 09.03 Nil–Julian ilk öpüşmesi → 09.04 Aurelian'la sanat sohbeti → 09.05 şeytan özel güvenlik şefinin ölümü → 100. kat → Nil'in uçuşu → NEXARIEL hapsi → Blake'in kurtarması → Daniil/Hamlet finali.
 
-## Hikâye kanonu
+**Eski kimliklere dikkat:** Güncel 7. bölüm 07.01–07.11 olarak numaralandırılmıştır. `06.03a` hâlâ aktif ve geçerlidir, ama `07.04a`, `07.07a`, `09.02a` vb. önceki ara numaralar aktif sahne değildir. `07.08` Kemal'in takibidir, `09.03` ilk öpüşmedir. 7. bölümün 16 Kasım sonrası kesin ara tarihleri henüz kararlaştırılmadı; tarih uydurmayın.
 
-- `world.json` — tüm karakterler, mekânlar, zaman çizelgesi, kavramlar ve **12 bölümün 66 ayrı sahnesi** (`chapters[].scenes`). Sahne alanları: `characters`, `location`, `atmosphere`, `events`; gerektiğinde `dialogue`, `notes`, `open`, `authorSecret`.
-- `KITAP_I_SAHNE_ATLASI.md` — 12 bölümün her sahnesinin **karakterler / mekân / atmosfer / olaylar** başlıklarıyla tam yazılı arşivi, replik notları, açık sorular, yazar sırları.
-- `KARAKTER_MEKAN_ATMOSFER_ATLASI.md` — karakter, yeni ve eski mekân, ilgili atmosfer ve kurgu kararlarının tam metin referansı.
-- `KITAP_I_SUREKLILIK_DENETIMI.md` — 66 sahnenin zaman, bilgi, güvenlik ve romantizm süreklilik raporu.
-- `KANON_KARARLARI_46_76.md` — ikinci taslak öncesinde verilen 46–76 numaralı kesin kararların ve yazım kurallarının ayrıntılı kaydı.
-- `KANON_KARARLARI_2026-10-20.md` — 12 bölümün kesin kararları, Hamlet–Ophelia ve Clark–Bella kanonu, açıklanmaması gereken yazar sırları; `world.json` ile birlikte güncel tutulur.
-- `eski-hikaye-haritasi.html` — daha eski taslak ve tarihsel arşiv; güncel kanonun yerine geçmez.
-- `image-manifest.json` — görsel kaynak listesi; yollar depo köküne göredir.
+## Karakter, şehir ve sır sürekliliği
 
-## Yayınlama
+Gümüşyaka Tünek'in karşısında ayrı bir mahalle kaydıdır. Clark Nil'i 12 yaşındayken yanına aldığında 26 yaşındaydı, zaten Cen.net'te çalışıyor ve **Gümüşyaka'da kendi özel kiralık evinde** yaşıyordu; konut lojman değildir. Clark'ın çalışma odasında en fazla üç kişisel fotoğraf olabilir. Kartvizit Hanoi fotoğrafının **çerçevesinin arkasındadır**, fotoğraf kağıdında değil. Skopse'de fiziksel kütüphaneler azdır; Clark'ın tarihi kitabından sonra arşiv erişimi Bölüm 03'tedir.
 
-GitHub Pages'in 21 Ekim 2026 itibarıyla yayımladığı dal **`sürüm2umarm`** (`/(root)`) dalıdır. **`main` dalındaki değişiklikler siteye otomatik yansımaz.** Yeni kanon düzenlemelerini yayına almak için `sürüm2umarm` dalıyla da senkronize edin veya Pages kaynağını değiştirin. Yayın dalını GitHub → Settings → Pages kısmında kontrol edin.
+Vesna yaklaşık **iki yıl önce öldü**; Nil hem kendisinin hem Blake'in dijital delillerini silip Blake'den sakladı, önce Bölüm 05'te Julian'a, sonra Bölüm 06'da Blake'e itiraf etti. Nil, Clark'ın kaybolduğu ilk günlerde Blake'e başvurmadı. Blake'in saç rengi **ateş kızılıdır**. 7. bölümde Nil–Blake geçmişini okur ikinci Sifon ziyaretinde öğrenir. Julian annesinin hapsedildiği ve babasının öldürüldüğü hikayeye inanır; bu mutlak doğrulanmış gerçek değildir.
 
-Projenin herkese açık GitHub Pages adresi: https://eceoyun-cyber.github.io/skopse/
+**YAZAR SIRRI:** Bella farklı evren döngülerini hatırlar ve fizik/kuantum araştırmalarıyla döngüleri kırmak ister; Clark ve Nil onun bu bilgisini bilmez. Bilgi seviyeleri okuyucuya erken sızdırılmayacak. Diğer yazar sırları ayrıca güncel kayıtlarda etiketlenmiştir.
 
-**Dikkat:** `index.html`, `world.json`, `app.js`, `styles.css` ve bağlantılı `.webp` görselleri aynı dal/kök konumunda birlikte bulunmalıdır. Sayfa `world.json` dosyasını tarayıcıda `fetch` ile aldığı için yerel `file://` açılışında çalışmayabilir; GitHub Pages gibi HTTP sunucusu üzerinden açın.
+## Yayın ve dosyalar
 
-## Dosya güvenliği
+GitHub Pages yayını **`sürüm2umarm`** dalının kökünden yapılacak şekilde daha önce ayarlanmıştır; `main` ve yayın dalı bu atlas güncellemesinde ayrı ayrı eşitlenmiştir. Ayarın değişmiş olması ihtimalinde GitHub → Settings → Pages bölümünden güncel yayın kaynağını doğrulayın. Siteyi yenilerken gerekirse **Ctrl+Shift+R** kullanın.
 
-GitHub'daki `_KESIN` görsel adları ile ChatGPT Kütüphanesi'ndeki `image-gen-...` dosyaları ayrı şeylerdir. Depodaki adlandırma, Kütüphane'deki orijinalleri otomatik olarak yeniden adlandırmaz.
+Görsel eşleştirmeleri `world.json`, `image-manifest.json` ve `SECILI_GORSELLER.md` içinde tutulur. Görseller değiştirilmeden korundu. Özellikle **`BLAKE_KESIN.webp` eski siyah saçlı portre olduğundan kanona uymayan bakım kalemi** olarak işaretlidir; onaylı kızıl saçlı görselle değiştirilene kadar bu çelişki sürer. Diğer seçilmiş portreler ve NEXARIEL görseli korunur.
 
-## Sahne sahne kullanım
-
-Sitede **Bölümler & Sahneler** sayfasını açın. Bölüm özetinin altındaki her sahne kartı tıklanarak **Karakterler / Mekân / Atmosfer / Olaylar** alanlarına açılır. Açık kalan kararlar ve yazar sırları ayrı işaretlidir; arama sahnelerin adlarını ve içeriklerini de tarar.
-
-**Görseller korunmuştur.** Önceden seçilmiş 16 `_KESIN.webp` görseli değiştirilmedi. 12 yeni mekân görseli `_KESIN.webp` adıyla eklendi; 100. kat ofisi ve Daniil'in eski yeraltı kliniği 1200 × 900 yüksek kaliteli WebP görselleriyle tamamlandı. İkisi de Yeni Şehir / Eski Şehir'in mat illüstratif estetiğini temel alır; mekân kartlarına ve `image-manifest.json` içine bağlandı. Yeni karakterlerin bazıları hâlâ görselsizdir. Birinci kitap sonu: çip çıkarılmaz, Clark bulunmaz, üçlü ittifaka devam eder.
-
-**Uyarı:** Atlas yaratıcı çalışma ve yazar sırları içerir; GitHub'daki açık dosyalar ve GitHub Pages metinleri okura spoiler verebilir.
-
-**Karakter portreleri (Atlas 4.3):** Kemal, Cen.net özel güvenlik şefi, sanat hamisi, hizmetçisi ve üniversite hocası için ayrı, yazısız, 1024 × 1536 çözünürlüklü beş yeni `_KESIN.webp` dosyası eklendi. Önceden seçilmiş karakter ve mekân görselleri değiştirilmedi. Hamlet, Ophelia, Daniil ve Aurelian henüz portresiz bırakıldı.
-
-## Atlas 4.4 — kullanım ve bakım iyileştirmeleri
-
-- Karakter/mekân kartlarında teknik resim dosyası adları ve boş görsel alanları meta bilgi olarak gösterilmez. Dosya eşleştirmeleri `entity.image`, `world.images` ve `image-manifest.json` içinde tutulur; karakterlerin gerçek fiziksel tarifleri korunur.
-- Bölümler & Sahneler sayfasında 12 bölümlük yatay hızlı gezinme, bölüm başına **Tüm sahneleri aç/kapat** ve **Bölüm seçimi** dönüşü vardır.
-- Karakter ve mekânın bilgi sekmeleri, bütün sayfa yeniden oluşturulmadan değiştirilir. Sol/sağ ok ile sekmeler arasında geçilebilir.
-- Arama 12 sonuç sınırına ulaştığında toplam eşleşme sayısını açıkça belirtir. Mobilde yatay karakter/mekân listesini kaydırma işareti bulunur.
-- İçeriğe geç bağlantısı mevcut sayfayı değiştirmez; menü ve arama odağı/klavye etkileşimleri iyileştirildi. Eski, artık kullanılmayan arama penceresi CSS'i kaldırıldı.
-- **Değişmeyenler:** Kanon, 12 bölümün 59 sahnesi, 34 seçilmiş karakter/mekân görseli ve ilgili `_KESIN.webp` dosyaları.
-
-## Atlas 4.5 — yayımlama ve kanon eşitliği
-
-- Karar 01–36 ve 38–45 kesinleşmiş sahne, karakter, mekân, zaman çizelgesi ve kanon kayıtlarına işlendi. Karar 37 (sanat hamisi/hizmetçi isimleri) açık kaldı.
-- Bölüm 03 sahne 03.01'de Prof. Dr. Lejla Hadžić, üniversitenin tarihî okuma salonu ve alt kattaki iklim kontrollü arşiv açıkça yer alır. Daniil'in 12.04 sahnesinde ekran görüşmesine katıldığı kesinleşmiştir.
-- Yayınlanan `world.json` için önbellek yenileme sürümü kullanılır. Yeni sürümü görmek için sayfayı yeniden açın veya Ctrl+Shift+R ile zorunlu yenileyin.
-- Seçilmiş tüm `_KESIN.webp` görselleri değiştirilmeden korunmuştur.
-
-
-## Atlas 4.6 — ikinci taslak öncesi kesin kararlar
-
-- Karar 46–76; karakterler, mekanlar, 12 bölümün özet ve 59 mevcut sahnesi ile 25 maddelik zaman çizelgesine işlendi. **Yeni sahne eklenmedi; bu sonraki ayrı adımdır.**
-- Nil–Blake–Julian romantik geçmiş ve ilk öpüşme; Nephilim yasağı ve Julian'ın inancı; Sifon'un haftalara yayılan toparlanması; Kemal ve Daniil'in geçmişi/sorumlulukları dahil.
-- Türkçe anlatım ve diyalog üslubu kuralları `world.json → authorNotes` ve [karar kaydı](KANON_KARARLARI_46_76.md) içindedir.
-- **Yayın uyarısı:** `main` ile Pages'in `sürüm2umarm` dalı farklı tarihsel içeriklere sahip ve ayrışmış durumdadır. Bu adım yalnız `main` üzerinde yapıldı; yayın dalı üstüne yazılmadı.
-
-
-## Atlas 4.7 — ikinci taslak yeni sahne planı
-
-- Karar 46–76 korunarak **7 yeni ara sahne** eklendi. Güncel: 12 bölüm / **66 sahne**. Kimlikler: `06.03a`, `07.01a`, `07.04a`, `07.07a`, `08.02a`, `08.03a`, `09.02a`.
-- Eklenenler Sifon gece yaşamı, Kemal'in tehlikeli takibi, Yeni Şehir sosyal/sanat hayatı, villadaki operasyon ve yaşam dengesi, balodaki ilk öpüşmedir. Var olan 59 sahne numarası değiştirilmedi.
-- Ana plan: `world.json`. Ayrıntılar: `KITAP_I_SAHNE_ATLASI.md`; önceki kararların bağımsız kaydı: `KANON_KARARLARI_46_76.md`.
-- Siteyi yayınlayan `sürüm2umarm` dalıyla `main` geçmişi ayrışmıştır; bu işlem yalnız `main` dalındadır. Görsellere ve kod dosyalarına dokunulmadı.
-
-
-## Atlas 4.8 — süreklilik denetimi
-
-12 bölüm / 66 sahne korunarak 11 ilgili sahnede olay tekrarları, kronoloji, karakter bilgi eşikleri ve güvenlik gerekçeleri netleştirildi. [Denetim raporu](KITAP_I_SUREKLILIK_DENETIMI.md) hazırlanmıştır. Yeni hikaye kararı, bölüm veya yeni sahne eklenmedi; yazar sırları ve görseller korunmuştur. `main` güncellenir, ayrı Pages dalı ayrıca yayınlanmadı.
+**Bu depo kamuya açık:** Karakter kartları, bölüm özetleri ve yazar sırları spoiler içerir; okurdan ziyade yazarlık çalışma arşivi olarak kullanılmalıdır.
