@@ -1,4 +1,4 @@
-/* SKOPSE Atlas 4.9 — GitHub Pages, root-level world.json, no external dependencies. */
+/* SKOPSE Atlas 5.0 — GitHub Pages, root-level world.json, no external dependencies. */
 (()=>{'use strict';
 let world, byId=new Map(), page='anasayfa', selected='nil', tab='genel', slide=0;
 const $=id=>document.getElementById(id);
@@ -6,7 +6,7 @@ const names={sehir:'Şehir',karakterler:'Karakterler',sirketler:'Şirketler',zam
 const esc=x=>String(x??'').replace(/[&<>"']/g,s=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[s]));
 const norm=s=>String(s??'').toLocaleLowerCase('tr').normalize('NFD').replace(/[\u0300-\u036f]/g,'');
 const IMAGE_VERSION='atlas49-20261027-blake-red';
-const DATA_VERSION='atlas49-20261027-canon-sync2';
+const DATA_VERSION='atlas50-20261027-14chapters';
 const imagePath=e=>{const src=(e?.image||world.images?.[e?.id]||'').replace(/^assets\//,'');return /_KESIN\.webp$/i.test(src)?src+'?v='+IMAGE_VERSION:src;};
 const image=(e,cls='',loading='lazy')=>{let src=imagePath(e);return src?`<img class="${cls}" src="${esc(src)}" data-fallback="${esc(world.imageFallbacks?.[e?.id]||'')}" loading="${loading}" alt="${esc(e.name)}">`:''};
 const link=(pg,id)=>`#${pg}${id?'/'+encodeURIComponent(id):''}`;
@@ -62,7 +62,7 @@ function home(){
       ${tile('sirketler','03','Şirketler','Cen.net ve diğer ekonomik güçler.')}
       ${tile('zaman','04','Zaman Çizelgesi','Olayların bilinen sıralaması.')}
       ${tile('sozluk','05','Sözlük','Dinar, holofon, tenayar ve kavramlar.')}
-      ${tile('bolumler','06','Bölümler & Sahneler','12 bölümün sahne sahne karakter, mekân, atmosfer ve olay kararları.')}
+      ${tile('bolumler','06','Bölümler & Sahneler','14 bölüm ve 67 sahnenin güncel karakter, mekân, atmosfer ve olay kararları.')}
     </nav>`;
 }
 let slideLoading=false;
