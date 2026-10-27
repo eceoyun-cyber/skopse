@@ -58,3 +58,11 @@
 ## 5. Kontrol ilkeleri
 
 `world.json` tek etkin veri kaynağıdır. Yazılı sahne, varlık, zaman çizelgesi belgeleri aynı kaynaktan yeniden üretilmiştir. Kaldırılan 07.04a ve 09.02a gibi kimliklerin **aktif sahne kayıtlarında** bulunmaması gerekir; eski karar belgelerindeki tarihsel atıflar güncel kanon sayılmaz. Nihai roman metni ve GitHub veri atlası iki ayrı şey olduğundan yazılmış taslak metni doğrulamak için ayrıca özgün taslak dosyası gerekir.
+
+## 6. Açıklamasız seçenek kodu kullanmama kuralı
+
+Bölüm özetleri, sahne olayları, sahne notları, mekan açıklamaları ve zaman çizelgesinde eski çoktan seçmeli kararların **yalnız harfleri** kullanılmaz. Karar kaynağına başvurmadan da anlaşılabilmesi için **seçilen yaklaşımın kendisi ve ağırlığı** tam cümlelerle yazılır. Kodlar yalnız tarihsel karar dosyalarında bulunabilir; orada da seçeneğin içeriği açıkça açıklanmalıdır.
+
+**Örnek — Villa gecesi (07.11), eski Karar 62:** Sosyal hayatın villada sürmesi ve işin özel hayatla karışması **ön plandadır**; ev arkadaşlığının gündelik alışkanlıkları **destekleyicidir**; gece yakınlaşmaları ve mahrem/romantik sahneler **sınırlı** tutulur. Böylece tek bir gece gereksiz uzun duygusal konuşmalarla doldurulmaz. Kararların özgün seçenek metni [Karar 62](KANON_KARARLARI_46_76.md) altında açıkça yazılmıştır.
+
+**27 Ekim 2026 denetimi:** Etkin `world.json` içindeki 67 sahne ve 36 zaman kaydı taranmıştır. 07.11 sahne notu, villa mekan açıklaması ve yazar notundaki kısaltmalar çözümlenmiştir. Kamera çekimi için kullanılan tek harfli eski tercih etiketi ise görüntülenen sahnelerde doğrudan kuralın adıyla değiştirilmiştir. Zaman çizelgesinde açıklamasız harfli seçenek kaydı saptanmamıştır.
