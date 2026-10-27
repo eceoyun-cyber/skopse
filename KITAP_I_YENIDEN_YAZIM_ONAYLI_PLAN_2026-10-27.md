@@ -1,5 +1,27 @@
 # SKOPSE — Kitap I / Yeniden yazım için onaylanan plan (27 Ekim 2026)
 
+## 27 Ekim 2026 — İkinci taslak yazım sırası / ZORUNLU SAHNE KONTROLÜ
+
+**Kesin süreklilik:** 13 Kasım gecesi Sifon baskınından sonra **Nil ve Julian villaya birlikte, Blake olmadan gider**. Blake Sifon'da çatışma sonrası insanların güvenliğini ve yaralıları kontrol edip **gece yarısı civarında sonradan gelir**. Nil uyumaz, onu bekler, geldiğinde yaralarını ve Sifon'daki durumu sorar; **Blake onu uyumaya ikna eder**. **Altıncı bölüm Blake'in villaya gelişiyle biter; yedinci bölüm 14 Kasım sabahı başlar.** Üçünün aynı arabayla gelmesi, Blake'in Nil'in araç yolculuğunda bulunması yanlıştır.
+
+**Yedinci bölümün fiili yazım çizelgesi (onaylanan metin ile yazılmamış metin ayrı tutulur):**
+
+| Sıra | Tarih | Sahne | Yazım durumu |
+|---|---|---|---|
+| 1 | 14 Kasım | Nil'in sabah uyanması; Blake'in geç gelişi kısa anılar; Julian kahvaltısı, güvenlik ve eski eve gitme kararı | **YAZILDI — kullanıcı ikinci versiyonu onayladı** |
+| 2 | 15 Kasım sabah | Nil ve Blake'in Clark'ın eski evine uzaktan yaklaşması; siyah gözetim araçları; Blake'in Nil'i durdurması; park bankında Clark ve çocukluk konuşması | **YAZILDI — taslak 2** |
+| 3 | **15 Kasım, eve dönüşün ardından** | **Nil–Blake spor/savunma antrenmanı; fiziksel alışkanlık ve eski romantik yakınlığın güçlenen ama henüz kesinleşmeyen ipuçları** | **EKSİK — HENÜZ YAZILMADI. SIRADAKİ YAZILACAK SAHNE BUDUR. ATLAMA.** |
+| 4 | 15 Kasım öğleden sonra | Villaya dönüş, Julian'la gözetim değerlendirmesi ve araştırma planı | **YAZILDI; antrenmanla geçiş ve zamanlama gerektiğinde uyarlanacak** |
+| 5 | 16 Kasım | Blake'in iki yıllık Cen.net saha kayıtları, Nil'in dijital araştırması, Julian'ın sosyal bilgileri; Sifon'da tanık/depo izi | **YAZILDI; henüz önceki boşluğu kapatmadan ileri gidilmeyecek** |
+| 6 | 17 Kasım | İkinci Sifon ziyareti, Kemal, kayıp üç kişi, Nadejda'nın iki sinyali, Nil'in hedef olabileceği şüphesi; Nil–Blake romantik geçmişinin okura kesinleşmesi | **HENÜZ YAZILMADI** |
+| 7 | 18 Kasım | Villa değerlendirmesi, Julian'ın şirket bağlantıları üzerinden bilgi arama teklifi ve iz riski | **HENÜZ YAZILMADI** |
+| 8 | 19–20 Kasım | Cennet Ağacı katları, yılbaşı balosu fırsatı ve mekanik anahtar | **HENÜZ YAZILMADI** |
+| 9 | 21 Kasım | Julian'ın Nil'e özel Nephilim itirafı; Blake bilmez | **HENÜZ YAZILMADI** |
+
+**Sıra kuralı:** Kullanıcı «bir sonraki sahne» dediğinde yalnızca **en erken eksik sahneyi** yaz; sahne kümesi içindeki antrenman, bank konuşması vb. dramatik parçaları atlama. Yeni tarihe geçmeden önce önceki tarihin zorunlu sahnelerinin yazıldığını denetle. **Yazıldı** ifadesi yalnız gerçekten sohbet içinde üretilmiş metin için kullanılır. Taslakta eklenmiş ancak onaylanmamış depo/araç hattı gibi ayrıntılar kendiliğinden kesin kanon olmaz. 15 Kasım gözetiminde **Angels ikiliyi görür, Cen.net görmez; Nil ve Blake görüldüklerini bilmez.** 17 Kasım'dan önce romantik geçmiş okura açıkça ilan edilmez.
+
+
+
 ## Durum
 > **27 Ekim ek kesin kararlar:** [Karar 1–22 uzlaştırması](KITAP_I_KARARLAR_01_22_UZLASTIRMA_2026-10-27.md) bu planla birlikte uygulanır; çelişen eski satırlar geçersizdir. 31 Aralık balosuna girişten sonraki açık ayrıntılar sahne aşamasına bırakılmıştır.
 Kullanıcı tarafından onaylanan çalışma kanonu. Bölüm 7 baştan, tek tek sahneler halinde yeniden yazılacak. Bu dosya önceki dağınık 07/08 sahne sıralamasına göre güncel önceliğe sahiptir. 14 ana sahne KÜMESİ vardır; yazarken gerekirse kendi içinde bölünebilir. Kararlar ve olaylar tek tek bağımsız sahneye dönüştürülmeyecek. GitHub'daki diğer karakter/olay kanonları yürürlüktedir; bu dosya onları geçersiz kılmaz.
@@ -8,7 +30,7 @@ Kullanıcı tarafından onaylanan çalışma kanonu. Bölüm 7 baştan, tek tek 
 30 Ekim Çarşamba Clark kaybolur; 2 Kasım Cumartesi Aras; 2→3 Kasım gecesi Hanoi fotoğrafının çerçevesinin arkasında 1866 çift kanatlı kart; 4 Kasım kütüphane; 9 Kasım balo ve 9→10 Kasım Julian'ın otel süiti; 10 Kasım sabahı Julian'ı telefonla arama ve kafe; 11 Kasım trafik sınavı; 12 Kasım yedi isim ve botanik sınavları, Angels, Julian Nil'de kalır; 13 Kasım Blake'le Sifon buluşması ve gece baskın/villaya kaçış; 14 Kasım ilk villa sabahı. 31 Aralık Cennet Ağacı 99. kattaki YILBAŞI maskeli balosu, 9 Kasım balosundan ayrıdır.
 
 ## 14 ana sahne kümesi
-1. **13 Kasım Çarşamba gece — Villaya varış.** Nil, Julian, Blake Sifon baskınından sonra Angels bağlantılı villaya sığınır. Blake giriş/çıkış güvenliğini inceler, Sifon'daki yaralı ve kayıplarla haberleşir. Villa Angels tarafından bilinir, mutlak güvenli değildir.
+1. **13 Kasım Çarşamba gece — Villaya varış.** Nil ve Julian baskından sonra villaya önce birlikte ulaşır; Blake Sifon'da yaralıların ve insanların güvenliğini sağladıktan sonra gece yarısı civarında ayrı gelir. Nil onu uyumadan bekler, Blake onu uyumaya ikna eder; bu geliş altıncı bölümün sonudur. Blake giriş/çıkış güvenliğini inceler, Sifon'daki yaralı ve kayıplarla haberleşir. Villa Angels tarafından bilinir, mutlak güvenli değildir.
 2. **14 Kasım Perşembe — İlk sabah.** Julian'ın kahvaltısı; Blake villanın ağını, kameralarını, girişlerini ve kaçış yollarını sorgular, Nil teknik güvenliğe yardım eder. Blake Julian'ın Cen.net reklam yüzü olmasını ve halen şirkette çalışmasını burada sorgular; bu güvensizlik için daha sonra tekrarlanan bağımsız tartışma yazılmayacak. Nil, Sifon baskınında kimin arandığını bilmedikleri için eski evinin izlenip izlenmediğini kontrol etmek ister; evde Clark'ın araştırma malzemeleri de vardır. İlk karar uzaktan kontrol etmektir.
 3. **15 Kasım Cuma — Eski ev, hatıralar ve spor.** Nil ve Blake eve uzaktan yaklaşır; siyah gözetim araçlarını fark eder. Nil içeri girmek ister, Blake engeller. Güvenli bankta Clark'ı ve ortak çocukluklarını farklı açılardan konuşurlar. Nil'in huzursuzluğu üzerine Blake villanın güvenli antrenman alanında ona spor/savunma çalıştırır; Nil güçlü dövüşçüye dönüşmez. Blake ile Nil'in eski yakınlığı davranışlarda daha belirgin görülür; **13 Kasım baskınında ilk sezdirilen** romantik geçmiş **17 Kasım ikinci Sifon'da kesinleşir**, burada henüz açık edilmez. Yazar sırrı: ev hem Cen.net hem Angels tarafından ayrı ayrı izlenmektedir; **Angels Nil ve Blake'i görür, müdahale etmez; Cen.net görmez**. Nil ve Blake yalnız Cen.net'ten kuşkulanır. Müdahale etmeme gerekçesi açıklanmak zorunda değil; Nil ve Blake Angels'ın kendilerini gördüğünü fark etmez, görülmediklerini sanır.
 4. **16 Kasım Cumartesi — İlk ortak araştırma.** Eve erişilemediğinden Nil elindeki verileri Blake'in iki yıllık Cen.net güvenlik araştırması ve Julian'ın bilgileriyle birleştirir. Sifon tanıklarına ihtiyaç doğar. Blake'in Sifon'daki sorumlulukları sürer.
