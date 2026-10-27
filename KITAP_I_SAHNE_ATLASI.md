@@ -1,3 +1,5 @@
+**27 Ekim 2026 — 15 Kasım antrenman sahnesi son revizyon / geçiş notu:** 15 Kasım park konuşmasından sonra Nil–Blake villa antrenmanı YAZILDI. Sahnenin geçerli son versiyonunda Julian ikisini antrenman salonunda bulur; yaklaşık 200 yaşındaki Julian dövüşü zaten bilir, Nil'den temel savunma öğrenmez. Blake'in Sifon kaynaklı pratik, sert ve doğrudan yöntemiyle Julian'ın deneyimli, kontrollü ve ekonomik tekniği karşılaştırılır. Julian, Nil–Blake'in eski fiziksel alışkanlıklarını fark eder; aralarındaki eski romantik ilişki 17 Kasım'dan önce okura kesin açıklanmaz. Antrenman bitiminde Julian onları yemeğe çağırır ve sabah Clark'ın evinde görülen araçları yemek sonrası değerlendirmeyi önerir. Daha önce yazılan 15 Kasım villa raporu/yemek sahnesi BU DAVETİN DOĞRUDAN DEVAMI olarak ele alınmalı: yeniden villa varışı, yeniden davet, ikinci kez aynı rapor ya da aynı araç tartışması yazılmamalı. 16 Kasım ortak araştırma YAZILDI. Sıradaki yazılacak sahne 17 Kasım Sifon ziyareti; 15–16 Kasım arasında başka zorunlu eksik sahne yoktur. Bu not sahne atlasındaki eski 07.xx numaralı uzun vadeli planı yeniden numaralandırmaz.
+
 # SKOPSE — Kitap I / Sahne Atlası
 
 ## 27 Ekim 2026 — İkinci taslak yazım sırası / ZORUNLU SAHNE KONTROLÜ
@@ -10,9 +12,9 @@
 |---|---|---|---|
 | 1 | 14 Kasım | Nil'in sabah uyanması; Blake'in geç gelişi kısa anılar; Julian kahvaltısı, güvenlik ve eski eve gitme kararı | **YAZILDI — kullanıcı ikinci versiyonu onayladı** |
 | 2 | 15 Kasım sabah | Nil ve Blake'in Clark'ın eski evine uzaktan yaklaşması; siyah gözetim araçları; Blake'in Nil'i durdurması; park bankında Clark ve çocukluk konuşması | **YAZILDI — taslak 2** |
-| 3 | **15 Kasım, eve dönüşün ardından** | **Nil–Blake spor/savunma antrenmanı; fiziksel alışkanlık ve eski romantik yakınlığın güçlenen ama henüz kesinleşmeyen ipuçları** | **EKSİK — HENÜZ YAZILMADI. SIRADAKİ YAZILACAK SAHNE BUDUR. ATLAMA.** |
+| 3 | **15 Kasım, eve dönüşün ardından** | **Nil–Blake spor/savunma antrenmanı; fiziksel alışkanlık ve eski romantik yakınlığın güçlenen ama henüz kesinleşmeyen ipuçları** | **YAZILDI — Julian'ın katıldığı son revizyon geçerli** |
 | 4 | 15 Kasım öğleden sonra | Villaya dönüş, Julian'la gözetim değerlendirmesi ve araştırma planı | **YAZILDI; antrenmanla geçiş ve zamanlama gerektiğinde uyarlanacak** |
-| 5 | 16 Kasım | Blake'in iki yıllık Cen.net saha kayıtları, Nil'in dijital araştırması, Julian'ın sosyal bilgileri; Sifon'da tanık/depo izi | **YAZILDI; henüz önceki boşluğu kapatmadan ileri gidilmeyecek** |
+| 5 | 16 Kasım | Blake'in iki yıllık Cen.net saha kayıtları, Nil'in dijital araştırması, Julian'ın sosyal bilgileri; Sifon'da tanık/depo izi | **YAZILDI — sıradaki sahne 17 Kasım** |
 | 6 | 17 Kasım | İkinci Sifon ziyareti, Kemal, kayıp üç kişi, Nadejda'nın iki sinyali, Nil'in hedef olabileceği şüphesi; Nil–Blake romantik geçmişinin okura kesinleşmesi | **HENÜZ YAZILMADI** |
 | 7 | 18 Kasım | Villa değerlendirmesi, Julian'ın şirket bağlantıları üzerinden bilgi arama teklifi ve iz riski | **HENÜZ YAZILMADI** |
 | 8 | 19–20 Kasım | Cennet Ağacı katları, yılbaşı balosu fırsatı ve mekanik anahtar | **HENÜZ YAZILMADI** |
