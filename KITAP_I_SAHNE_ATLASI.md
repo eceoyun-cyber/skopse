@@ -1,5 +1,27 @@
 # SKOPSE — Kitap I / Sahne Atlası
 
+## 27 Ekim 2026 — İkinci taslak yazım sırası / ZORUNLU SAHNE KONTROLÜ
+
+**Kesin süreklilik:** 13 Kasım gecesi Sifon baskınından sonra **Nil ve Julian villaya birlikte, Blake olmadan gider**. Blake Sifon'da çatışma sonrası insanların güvenliğini ve yaralıları kontrol edip **gece yarısı civarında sonradan gelir**. Nil uyumaz, onu bekler, geldiğinde yaralarını ve Sifon'daki durumu sorar; **Blake onu uyumaya ikna eder**. **Altıncı bölüm Blake'in villaya gelişiyle biter; yedinci bölüm 14 Kasım sabahı başlar.** Üçünün aynı arabayla gelmesi, Blake'in Nil'in araç yolculuğunda bulunması yanlıştır.
+
+**Yedinci bölümün fiili yazım çizelgesi (onaylanan metin ile yazılmamış metin ayrı tutulur):**
+
+| Sıra | Tarih | Sahne | Yazım durumu |
+|---|---|---|---|
+| 1 | 14 Kasım | Nil'in sabah uyanması; Blake'in geç gelişi kısa anılar; Julian kahvaltısı, güvenlik ve eski eve gitme kararı | **YAZILDI — kullanıcı ikinci versiyonu onayladı** |
+| 2 | 15 Kasım sabah | Nil ve Blake'in Clark'ın eski evine uzaktan yaklaşması; siyah gözetim araçları; Blake'in Nil'i durdurması; park bankında Clark ve çocukluk konuşması | **YAZILDI — taslak 2** |
+| 3 | **15 Kasım, eve dönüşün ardından** | **Nil–Blake spor/savunma antrenmanı; fiziksel alışkanlık ve eski romantik yakınlığın güçlenen ama henüz kesinleşmeyen ipuçları** | **EKSİK — HENÜZ YAZILMADI. SIRADAKİ YAZILACAK SAHNE BUDUR. ATLAMA.** |
+| 4 | 15 Kasım öğleden sonra | Villaya dönüş, Julian'la gözetim değerlendirmesi ve araştırma planı | **YAZILDI; antrenmanla geçiş ve zamanlama gerektiğinde uyarlanacak** |
+| 5 | 16 Kasım | Blake'in iki yıllık Cen.net saha kayıtları, Nil'in dijital araştırması, Julian'ın sosyal bilgileri; Sifon'da tanık/depo izi | **YAZILDI; henüz önceki boşluğu kapatmadan ileri gidilmeyecek** |
+| 6 | 17 Kasım | İkinci Sifon ziyareti, Kemal, kayıp üç kişi, Nadejda'nın iki sinyali, Nil'in hedef olabileceği şüphesi; Nil–Blake romantik geçmişinin okura kesinleşmesi | **HENÜZ YAZILMADI** |
+| 7 | 18 Kasım | Villa değerlendirmesi, Julian'ın şirket bağlantıları üzerinden bilgi arama teklifi ve iz riski | **HENÜZ YAZILMADI** |
+| 8 | 19–20 Kasım | Cennet Ağacı katları, yılbaşı balosu fırsatı ve mekanik anahtar | **HENÜZ YAZILMADI** |
+| 9 | 21 Kasım | Julian'ın Nil'e özel Nephilim itirafı; Blake bilmez | **HENÜZ YAZILMADI** |
+
+**Sıra kuralı:** Kullanıcı «bir sonraki sahne» dediğinde yalnızca **en erken eksik sahneyi** yaz; sahne kümesi içindeki antrenman, bank konuşması vb. dramatik parçaları atlama. Yeni tarihe geçmeden önce önceki tarihin zorunlu sahnelerinin yazıldığını denetle. **Yazıldı** ifadesi yalnız gerçekten sohbet içinde üretilmiş metin için kullanılır. Taslakta eklenmiş ancak onaylanmamış depo/araç hattı gibi ayrıntılar kendiliğinden kesin kanon olmaz. 15 Kasım gözetiminde **Angels ikiliyi görür, Cen.net görmez; Nil ve Blake görüldüklerini bilmez.** 17 Kasım'dan önce romantik geçmiş okura açıkça ilan edilmez.
+
+
+
 > **27 Ekim 2026 — ONAYLI KARAR 1–22 UZLAŞTIRMASI:** [Güncel kronoloji, sahne sırası, bilgi sınırları ve 31 Aralık giriş planı](KITAP_I_KARARLAR_01_22_UZLASTIRMA_2026-10-27.md) ile [onaylı yeniden yazım planı](KITAP_I_YENIDEN_YAZIM_ONAYLI_PLAN_2026-10-27.md) **önceliklidir**. Aşağıdaki eski 07/08 numaraları, iki ayrı galeri ziyareti, aralık başında villaya taşınma, Julian'ın yönetici erişimi, Blake'in tarikatı bildiği varsayımı, kartın solo Clark fotoğrafı/kanatlı piramit tasviri ve 09.04'te şefin kesin öldürülmesi gibi ifadeler **geçersizdir**. 31 Aralık balosunun girişinden sonraki açık ayrıntılar kullanıcıyla sahne aşamasında netleştirilecektir. **Angels geçici çalışma adıdır.**
 
 > KESİN KARAR C (26 Ekim 2026): Diadolas'ta Nil ile Aras'ın ilk karşılaşması, kovalamacanın bir bölümü ve otoparkta Aras'ın elektroşokla etkisizleştirilmesi güvenlik kameralarına kısmen kaydolur. Nil Aras'ı taşımaz veya sürüklemez; B2 otoparkındaki otomatların arkasında, kameraların görmediği noktada düştüğü yerde kelepçeler ve uyanmasını bekleyip sorgular. Sorgunun hiçbir bölümü kaydedilmez. Cen.net'in Nil'i daha sonra izlemesinde kısmi görüntüler rol oynar; Nil bu takip zincirini o aşamada bilmez. Eski ağaçlıklı servis alanına taşıma/sorgulama planı geçersizdir.
