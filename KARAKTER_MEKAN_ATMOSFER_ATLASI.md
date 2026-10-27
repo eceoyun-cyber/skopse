@@ -184,7 +184,7 @@ Nil'in 26 yaşındaki çocukluk dostu; Vesna'nın ölümü sonrası iki yıldır
 - **Nil ile tanışma:** Nil 12 · Blake 14
 - **Bölge:** Batak / Sifon
 - **Geçmiş:** Vesna vakası
-- **Görünüm:** Ateş kızılı saç, açık mavi gözler; koyu kapüşon ve yüz maskesi kullanabilir. Siyah saçlı eski portre geçersizdir.
+- **Görünüm:** Ateş kızılı saç, açık mavi gözler; koyu kapüşon ve yüz maskesi kullanabilir. Seçili BLAKE_KESIN.webp portresi kızıl saçlıdır ve doğrulanmıştır.
 - **Nil'le geçmiş:** Gençlikte kısa romantik yakınlaşma, iki yıllık uzaklaşma
 
 **Genel**
@@ -209,7 +209,7 @@ Birinci kitap sonunda Blake'in hedefi melek-şeytan düzeninin gizli gerçekleri
 
 **Bağlı atlas kayıtları:** Nil Clayton (`nil`); Batan Yaka / Batak (`batak`); Sifon (`sifon`); Cen.net (`cennet`); Vesna (`vesna`); Kemal (`kemal`); Cen.net Özel Güvenlik Şefi (`ozel_guvenlik_sefi`); Gizli Angels Villası (`villa`); Angels Taş Zindanı (`angels_zindan`); Blake'in Eski Tamir Atölyesi (`eski_tamir_atolyesi`).
 
-**Görsel eşleştirmesi:** `BLAKE_KESIN.webp` (görsel dosya adlandırması; görünüm kararları metin kanonuna tabidir).
+**Görsel eşleştirmesi:** `BLAKE_KESIN.webp` (doğrudan doğrulandı: kızıl saçlı; güncel karakter kanonuna uygundur).
 
 ---
 
