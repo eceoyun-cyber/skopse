@@ -8,7 +8,7 @@ Bu dosyalar seçilmiş ve güncel atlas tarafından kullanılan görsellerdir. *
 - **Nil Clayton** — `NIL_KESIN.webp`
 - **Clark Clayton** — `CLARK_KESIN.webp`
 - **Julian Junes** — `JULIAN_KESIN.webp`
-- **Blake** — `BLAKE_KESIN.webp` (**ESKİ siyah saçlı portre; güncel ateş kızılı saç kanonuyla çelişiyor. Dosya henüz değiştirilmedi.**)
+- **Blake** — `BLAKE_KESIN.webp` (**DOĞRULANDI: kızıl saçlı portre, güncel kanonla uyumlu; değiştirmeyin.**)
 - **Aras Stojanovski** — `ARAS_KESIN.webp`
 - **Vesna** — `VESNA_KESIN.webp`
 - **Nadejda** — `NADEJDA_KESIN.webp`
