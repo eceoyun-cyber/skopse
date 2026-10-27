@@ -12,15 +12,15 @@
 | 02 | Tanılama | 3 | 02.01–02.03 | İkinci taslak metni yazıldı | 4–6 bin |
 | 03 | Anormallik | 2 | 03.01–03.02 | İkinci taslak metni yazıldı | 3–5 bin |
 | 04 | Kimlik Doğrulama | 3 | 04.01–04.03 | İkinci taslak metni yazıldı | 4–6 bin |
-| 05 | Güvenlik İhlali | 5 | 05.01–05.05 | İkinci taslak metni yazıldı | 7–10 bin |
+| 05 | Erişim Denetimi | 5 | 05.01–05.05 | İkinci taslak metni yazıldı | 7–10 bin |
 | 06 | Bağlantı Kuruldu | 7 | 06.01–06.06 | İkinci taslak metni yazıldı | 8–11 bin |
-| 07 | Gizli Ağ | 6 | 07.01–07.06 | 07.01–07.04 ikinci taslak yazıldı · 07.05–07.06 onaylı plan | 8–10 bin |
+| 07 | Katmanlar | 6 | 07.01–07.06 | 07.01–07.04 ikinci taslak yazıldı · 07.05–07.06 onaylı plan | 8–10 bin |
 | 08 | Ölü Frekans | 5 | 08.01–08.05 | Onaylı plan · henüz ikinci taslak metni değil | 7–9 bin |
 | 09 | Yetki Yükseltme | 6 | 09.01–09.06 | Onaylı plan · henüz ikinci taslak metni değil | 7–9 bin |
 | 10 | Sızma | 5 | 10.01–10.05 | Onaylı plan · 31 Aralık, 99. kat | 8–11 bin |
 | 11 | Kök Erişim | 5 | 11.01–11.05 | Onaylı plan · 31 Aralık, 100. kat | 7–10 bin |
-| 12 | Sistem Hatası | 4 | 12.01–12.04 | Onaylı plan · henüz ikinci taslak metni değil | 5–7 bin |
-| 13 | Kontrolün Ele Geçirilmesi | 6 | 13.01–13.06 | Onaylı plan · henüz ikinci taslak metni değil | 6–9 bin |
+| 12 | Erişim Reddedildi | 4 | 12.01–12.04 | Onaylı plan · henüz ikinci taslak metni değil | 5–7 bin |
+| 13 | Arka Kapı | 6 | 13.01–13.06 | Onaylı plan · henüz ikinci taslak metni değil | 6–9 bin |
 | 14 | Sistemden Çıkış | 6 | 14.01–14.06 | Onaylı plan · henüz ikinci taslak metni değil | 7–10 bin |
 
 **Hedef toplamı:** 85.000–119.000 kelime. Bu zorunlu bir kota değildir.
@@ -313,7 +313,7 @@ Nil, son Onj taşkınından birkaç gün sonra Tünek/Yeni Şehir'de lüks bir o
 
 ---
 
-## Bölüm 05 — Güvenlik İhlali
+## Bölüm 05 — Erişim Denetimi
 
 **Durum:** İkinci taslak metni yazıldı  
 **Sahne:** 5  
@@ -590,7 +590,7 @@ Cennet Ağacı'na girmek için fiziksel beceri ve Cen.net güvenliğini bilen bi
 
 ---
 
-## Bölüm 07 — Gizli Ağ
+## Bölüm 07 — Katmanlar
 
 **Durum:** 07.01–07.04 ikinci taslak yazıldı · 07.05–07.06 onaylı plan  
 **Sahne:** 6  
@@ -1276,7 +1276,7 @@ Clark Bella'nın yardımıyla kaçtığından Aurelian'ın elinde gerçekten bir
 
 ---
 
-## Bölüm 12 — Sistem Hatası
+## Bölüm 12 — Erişim Reddedildi
 
 **Durum:** Onaylı plan · henüz ikinci taslak metni değil  
 **Sahne:** 4  
@@ -1381,7 +1381,7 @@ Cennet Ağacı'ndan kaçan Nil, Julian ve Blake kanatların ortaya çıkışı k
 
 ---
 
-## Bölüm 13 — Kontrolün Ele Geçirilmesi
+## Bölüm 13 — Arka Kapı
 
 **Durum:** Onaylı plan · henüz ikinci taslak metni değil  
 **Sahne:** 6  
