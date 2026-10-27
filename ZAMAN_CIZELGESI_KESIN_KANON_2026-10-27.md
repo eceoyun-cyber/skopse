@@ -206,7 +206,7 @@ Nil ve Julian Angels bağlantılı villaya önce birlikte ulaşır. Blake, Sifon
 
 **Zaman:** 14–16 Kasım · bölüm 7, sahne 07.01–07.04
 
-14 Kasım Perşembe ilk villa sabahı: kahvaltı, giriş/çıkış ve ağ güvenliği. 15 Kasım Cuma: Nil ve Blake eski evi uzaktan kontrol eder, gözetim araçlarını görür, parkta Clark'ı konuşur; villada antrenman yaparlar, Julian sonradan katılır. 16 Kasım Cumartesi: üçlü Cen.net bilgilerini birleştirerek ortak araştırmaya başlar. Yazar sırrı: Eski evi Cen.net ve Angels ayrı ayrı izler; Angels Nil ve Blake'i görür, Cen.net görmez.
+14 Kasım Perşembe ilk villa sabahı: kahvaltı, giriş/çıkış ve ağ güvenliği. 15 Kasım Cuma: Nil ve Blake eski evi uzaktan kontrol eder, gözetim araçlarını görür, parkta Clark'ı konuşur; villada antrenman yaparlar, Julian sonradan katılır. 16 Kasım Cumartesi: üçlü Cen.net bilgilerini birleştirerek ortak araştırmaya başlar. Yazar sırrı: Eski evi Cen.net ve Angels ayrı ayrı izler; Angels Nil ve Blake'i görür, Cen.net görmez. YAZAR SIRRI: 15 Kasım'da Angels ikiliyi görür, Cen.net görmez; karakterler bunu öğrenmez ve okura o sahnede açıklanmaz.
 
 ---
 
