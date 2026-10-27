@@ -10,15 +10,15 @@
 | 02 | Tanılama | 3 | 02.01–02.03 | İkinci taslak metni yazıldı | 4.000–6.000 |
 | 03 | Anormallik | 2 | 03.01–03.02 | İkinci taslak metni yazıldı | 3.000–5.000 |
 | 04 | Kimlik Doğrulama | 3 | 04.01–04.03 | İkinci taslak metni yazıldı | 4.000–6.000 |
-| 05 | Güvenlik İhlali | 5 | 05.01–05.05 | İkinci taslak metni yazıldı | 7.000–10.000 |
+| 05 | Erişim Denetimi | 5 | 05.01–05.05 | İkinci taslak metni yazıldı | 7.000–10.000 |
 | 06 | Bağlantı Kuruldu | 7 | 06.01–06.06 | İkinci taslak metni yazıldı | 8.000–11.000 |
-| 07 | Gizli Ağ | 6 | 07.01–07.06 | 07.01–07.04 ikinci taslak yazıldı · 07.05–07.06 onaylı plan | 8.000–10.000 |
+| 07 | Katmanlar | 6 | 07.01–07.06 | 07.01–07.04 ikinci taslak yazıldı · 07.05–07.06 onaylı plan | 8.000–10.000 |
 | 08 | Ölü Frekans | 5 | 08.01–08.05 | Onaylı plan · henüz ikinci taslak metni değil | 7.000–9.000 |
 | 09 | Yetki Yükseltme | 6 | 09.01–09.06 | Onaylı plan · henüz ikinci taslak metni değil | 7.000–9.000 |
 | 10 | Sızma | 5 | 10.01–10.05 | Onaylı plan · 31 Aralık, 99. kat | 8.000–11.000 |
 | 11 | Kök Erişim | 5 | 11.01–11.05 | Onaylı plan · 31 Aralık, 100. kat | 7.000–10.000 |
-| 12 | Sistem Hatası | 4 | 12.01–12.04 | Onaylı plan · henüz ikinci taslak metni değil | 5.000–7.000 |
-| 13 | Kontrolün Ele Geçirilmesi | 6 | 13.01–13.06 | Onaylı plan · henüz ikinci taslak metni değil | 6.000–9.000 |
+| 12 | Erişim Reddedildi | 4 | 12.01–12.04 | Onaylı plan · henüz ikinci taslak metni değil | 5.000–7.000 |
+| 13 | Arka Kapı | 6 | 13.01–13.06 | Onaylı plan · henüz ikinci taslak metni değil | 6.000–9.000 |
 | 14 | Sistemden Çıkış | 6 | 14.01–14.06 | Onaylı plan · henüz ikinci taslak metni değil | 7.000–10.000 |
 
 **Toplam öneri:** 85.000–119.000 kelime. Bu uzunluklar zorunlu kural veya ölçülmüş taslak kelime sayısı değildir. Sahne sayısı da süreyle birebir orantılı değildir. Örneğin Yedi İsim dosyalarının okunması tek sahnede çok fazla anlatı ağırlığı taşır.
@@ -26,13 +26,13 @@
 ## Yeni bölüm sınırları
 
 - **İlk altı bölüm aynen korunur.** 06.03a Sifon gece yaşamı sahnesi de korunur; eski romantik geçmiş ikinci Sifon'a kadar açıklanmaz. Altıncı bölüm Blake'in villaya gece yarısına yakın **ayrı varışıyla** biter.
-- **07 — Gizli Ağ:** Eski 07.01–07.06. 14 Kasım villa sabahı, 15 Kasım eski ev/park/antrenman, 16 Kasım araştırma, 07.05 Cennet Ağacı/anahtar ve 07.06 Julian'ın Nephilim/annesi konuşması. **Nil'in Clark karşılığından incinmesi bölüm sonudur.** 07.01–07.04 yazılmış, 07.05–07.06 plan.
+- **07 — Katmanlar:** Eski 07.01–07.06. 14 Kasım villa sabahı, 15 Kasım eski ev/park/antrenman, 16 Kasım araştırma, 07.05 Cennet Ağacı/anahtar ve 07.06 Julian'ın Nephilim/annesi konuşması. **Nil'in Clark karşılığından incinmesi bölüm sonudur.** 07.01–07.04 yazılmış, 07.05–07.06 plan.
 - **08 — Ölü Frekans:** Eski 07.07–07.11; yeni 08.01–08.05. İkinci Sifon, Kemal, Nadejda, aranan kadın ve Nil–Blake romantik geçmişinin okura ilk kez kesinleşmesi. Villadaki değerlendirme/ilişki değişimi ve Nil'in dışarı çıkışlarını azaltması bölüm kapanışıdır.
 - **09 — Yetki Yükseltme:** Eski 08.01–08.06; yeni 09.01–09.06. Giriş rollerinin belirlenmesi, Nil'in hizmetçi ve Eski Şehir posta kutusundan **orijinal fiziksel davetiyeyi bizzat alması**, tek sanat galerisi, Sifon/güvenlik takibi, analog haberleşme ve 30 Aralık kararı. Kasım sonundan Aralık sonuna kadar uzanır; birbirini tekrar eden dolgu sahneleri oluşturulmaz.
 - **10 — Sızma:** Eski 09.01–09.05; yeni 10.01–10.05. 31 Aralık 99. kat balosu. **10.03 Nil–Julian ilk öpüşmesi**, 10.04 maskeli Aurelian sanat sohbeti, 10.05 şeytan güvenlik şefinin ölümü ve anahtarın ele geçirilmesi. **Bölüm anahtarla kapanır.**
 - **11 — Kök Erişim:** Eski 09.06–09.10; yeni 11.01–11.05. Anahtarlı özel asansörle 100. kata çıkış, Clark'ın görüşme kaydı, Aurelian'ın teklif/tehdidi, etkisiz saldırılar, Hamlet'in 'Atla. Uç.' çağrısı, Nil'in ilk kanatları ve Onj kıyısına kaçış. **Bölüm çatıda sert inişle kapanır.**
-- **12 — Sistem Hatası:** Eski 10.01–10.04. Çatı tartışması, Blake'in habersiz takibi ve NEXARIEL'in günah hükmü.
-- **13 — Kontrolün Ele Geçirilmesi:** Eski 11.01–11.06. Zindanlar, Blake'in insan becerisiyle sızması ve kurtarması, Julian'ın annesini sorgulamaya başlaması.
+- **12 — Erişim Reddedildi:** Eski 10.01–10.04. Çatı tartışması, Blake'in habersiz takibi ve NEXARIEL'in günah hükmü.
+- **13 — Arka Kapı:** Eski 11.01–11.06. Zindanlar, Blake'in insan becerisiyle sızması ve kurtarması, Julian'ın annesini sorgulamaya başlaması.
 - **14 — Sistemden Çıkış:** Eski 12.01–12.06. Daniil, ameliyatın durması, Hamlet'in monitöre aktarılması, Clark–Ophelia–Bella bağlantıları ve bağımsız üçlü ittifak.
 
 ## Bütün 67 sahnenin eski ve yeni numarası
