@@ -12,7 +12,7 @@
 
 ## Güncel olay kümeleri ve ilgili sahneler
 
-## Bölüm 07 — Gizli Ağ (6 sahne)
+## Bölüm 07 — Katmanlar (6 sahne)
 
 **Dramatik işlev ve kapanış:** Nil, Blake ve Julian 13 Kasım gecesindeki ayrı gelişlerinin ardından villada ortak bir düzen kurmaya çalışır. 14 Kasım'da kahvaltı ve ağ/giriş güvenliği konuşulur. 15 Kasım'da Nil ile Blake Gümüşyaka'daki eski evi gözetler, siyah otomobil ve gri minibüsten kuşkulanıp içeri girmez; parkta Clark ve çocukluklarına ilişkin konuşurlar. Antrenmana Julian sonradan katılır, Nil birden güçlü dövüşçüye dönüşmez. 16 Kasım ortak Cen.net araştırmasında araç, depo ve sevk bilgileri ancak şüphe düzeyindedir. Henüz yazılmamış 07.05'te Cennet Ağacı katları, 31 Aralık balosu ve 99–100. kat özel asansöründeki mekanik anahtar ihtimali araştırılır. 07.06'da Julian Nil'e yaklaşık iki yüz yaşında bir Nephilim olduğunu, annesinin hapsedildiğine ve babasının öldürüldüğüne inandığını açıklar; bunlar kendisine öğretilen, henüz doğrulanmamış bilgilerdir. Nil Angels'ın ona yalan söylemiş olabileceğini söyleyince Julian istemeden Clark'ın da Nil'den sır sakladığını hatırlatır. Nil incinir, karşılıklı güven sarsılır. Bölüm bu çözülmemiş duygusal karşılıkla biter; ikinci Sifon ziyareti yeni 8. bölümdedir.
 
@@ -432,7 +432,7 @@
 
 ---
 
-## Bölüm 12 — Sistem Hatası (4 sahne)
+## Bölüm 12 — Erişim Reddedildi (4 sahne)
 
 **Dramatik işlev ve kapanış:** Cennet Ağacı'ndan kaçan Nil, Julian ve Blake kanatların ortaya çıkışı karşısında sarsılır. Julian hâlâ meleklerin cevap verebileceğine inanarak NEXARIEL'e gitmeyi önerir; Blake buna karşıdır, öncelikle doktora gidilmesini ister. Nil ve Julian doğaüstü gerçeği Blake'e anlatır, ardından meleklere başvurmaya karar verirler. Blake güvenmediği için gizlice takip eder. NEXARIEL, Clark'ın araştırmasının bir insana melek kanatları kazandıracak kadar ilerlediğini öğrenince şaşırır, öfkelenir ve bunu günah sayarak Nil'in hapsedilmesini emreder. Julian onu savununca kendisi de hapsedilir; ikilinin com-link cihazlarına el konulur. Çatıda Julian, daha önce Angels'ı ve sınavlarını hiç bilmeyen Blake'e sınavları geçmediği için merkeze gelemeyeceğini söyler. Blake bunca sırrın ardından öfkeyle karşı çıkıp Nil'i doktora yönlendirmeye çalışır, sonra kabullenmiş görünerek onları gizlice takip eder. Nil'in bedene yabancılaşması yorgunluğundan daha kalıcıdır.
 
@@ -498,7 +498,7 @@
 
 ---
 
-## Bölüm 13 — Kontrolün Ele Geçirilmesi (6 sahne)
+## Bölüm 13 — Arka Kapı (6 sahne)
 
 **Dramatik işlev ve kapanış:** Blake, kilisenin çevresini gözlemleyip meleklerin insan hizmetkârlarından bazılarını yakalayarak sorgular; öğrendiklerini birleştirip yeraltı merkezine sızar. Nil ve Julian, ileri teknoloji yerine eski taş duvarlar ve demir parmaklıklardan oluşan birbirine yakın ama ayrı zindan hücrelerinde tutulmaktadır. Julian annesini düşünerek 'Acaba onu nasıl bir yerde tutuyorlar?' diye söze girer. Blake, görevlilerin Nil'in bedenini açıp içindekini çıkarmak ve üzerinde deney yapmak istediğini duyar; bunun Aurelian'ın planına benzediğini anlar. Kendi becerisiyle hücre kilitlerini açar. Ardından Julian merkezin geçitlerini bilerek kaçışlarına yol gösterir. NEXARIEL son anda gök gürültüsünü andıran sesiyle onları fark eder, fakat üçlü dışarı çıkmayı başarır. Blake bakım personelini sistematik izleyip sorgular ve bir görevli kılığıyla eski tünellerden girer; kaçış Nil'in uyuduğu seradan geçip kilisenin arka demir servis kapısından Eski Şehir sokağına açılır. Julian'ın Angels'tan tanıdığı bir iki dostu bile onu savunmaz; yasak Nephilim kimliğine ilişkin önyargı görünürleşir. Blake'in onları kurtarması Julian ve Blake arasında iki taraflı saygı doğurur.
 
