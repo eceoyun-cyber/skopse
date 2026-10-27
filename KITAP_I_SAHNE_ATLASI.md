@@ -928,20 +928,23 @@
 - Hamlet (Nil'in zihninde): 'Mısır.'
 - Hamlet: 'Firavun.'
 
-### Sahne 09.04 — Şefi uzaklaştırıp anahtarı almak (eski ayrıntılar geçersiz)
+### Sahne 09.04 — Şeytan güvenlik şefinin ölümü ve mekanik anahtar
 
 **Karakterler:** Blake; Julian Junes; Nil Clayton; Özel güvenlik şefi (şeytan)
 
 **Mekân:** 99. kattan uzak, misafir gözünden saklı güvenlik bölümü
 
-**Atmosfer:** Bir anda şiddetlenen, Blake için gerçekliğin kırıldığı doğaüstü çatışma.
+**Atmosfer:** Şefin insanüstü gücüyle tırmanan, Blake'in doğaüstünü ilk kez gördüğü ölümcül çatışma.
 
 **Olaylar:**
-- Blake yetkili güvenlik personeli kılığıyla acil tehdit ihbarı verip şefi tenha yere çeker.
-- **27 Ekim kesin karar:** Julian ve Blake şefi birlikte dövüp etkisiz hale getirir, mekanik anahtarı üzerinden alırlar; Nil 99. kat galerisinde teknik incelemededir, bu olayı görmez.
-- Şefin ölümünün ve Blake'in doğaüstü güçleri burada görmesinin gerçekleşip gerçekleşmeyeceği **AÇIK**; önceki ölüm ve yıldırım taslağı kesin değildir.
-- Şefin yokluğu hemen fark edilmez, fakat kısa süre sonra iletişim kesilmesi şüphe uyandırır.
-- Blake 'Bana anlatacağınız çok şey var' tutumundadır ama zaman kalmaz.
+- Julian güvenlik şefini sarhoş ederek anahtarı alma girişiminde başarısız olur.
+- Blake güvenlik görevlisi kılığıyla acil tehdit uyarısı bahanesiyle şefi tenha yere çeker ve saldırır.
+- Şef gerçekte şeytandır; normal insan gibi dövüşmez ve olağanüstü gücüyle Blake'i zorlar.
+- Nil önce 99. kat galerisinde teknik incelemededir; çatışmaya yetişir. Julian da katılır; **üçü birlikte savaşır**.
+- **Julian'ın elinden çıkan kutsal elektrik/yıldırım şefi öldürür.** Blake ilk kez doğaüstü bir güce açıkça tanık olur.
+- Üçlü şefin üzerinden 99–100 özel asansörünün mekanik anahtarını alır.
+- Şefin yokluğu hemen fark edilmez; iletişim kurulamaması zaman penceresini daraltır.
+- Blake'in soruları vardır ama acil tehlike nedeniyle açıklamalar ertelenir.
 
 ### Sahne 09.05 — Anahtarla 100. kata çıkış
 
