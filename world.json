@@ -1,5 +1,5 @@
 {
-  "version": "4.8",
+  "version": "4.9",
   "title": "SKOPSE",
   "strapline": "Mutant Bir Şehir",
   "intro": "Skopse, Onj Nehri’nin iki kıyısında büyüyen, teknolojinin ve eşitsizliğin aynı sokaklara sığdığı bir kenttir. Yeni Şehir taşkınlardan korunurken Eski Şehir her ekimde yeniden su altında kalır.",
@@ -48,8 +48,8 @@
       },
       "sections": {
         "genel": "Nil, Clark ile aynı evde yaşayan 24 yaşında genç bir kadındır. Clark kaybolunca şirket kayıtlarını araştırır ve Aras'ın peşine düşer. İnsanları ve küçük tutarsızlıkları dikkatle gözler; kolay güvenmese de akıl yürütmeyi öfkenin önüne koyar. Clark’ın kayboluşu hafif bir terk edilme korkusuna dokunur fakat kişiliğinin tümünü belirlemez.",
-        "gecmis": "Nil 12 yaşındayken Clark (26) onu sokaklardan alıp yanına getirmiştir. Blake ile sokak yıllarından tanışır. Çocukluk deneyimleri ona geçitleri, insan ilişkilerini ve Batak’ın gayriresmi ekonomisini okumayı öğretmiştir.",
-        "iliskiler": "Clark onun abisi ve en güvendiği kişidir. Blake çocukluğundan beri tanıdığı, gerektiğinde birlikte risk alabildiği eski dostudur. Aras ile tanışmaları güvensizlik ve fiziksel bir arbede üzerinden gerçekleşir. Julian'ı önce 1866 kartı nedeniyle gala dönüşünde otel süitinde sorgular; önce reddedilir, ertesi gün kahvede Angels sınavlarına çağrılır. Blake'le Sifon'da yeniden bir araya gelir. Gençliklerinde Blake'le arkadaşlıktan öte fiziksel ve romantik bir yakınlık yaşadılar; arkadaşlıkları bozulmasın diye sürdürmediler. Hemen ardından Vesna olayı ve iki yıllık uzaklaşma geldi. Clark'ın Blake'e mesafesi de Nil'in bu geçmişi bastırmasına katkıda bulundu. Yeniden bir araya gelince fiziksel yakınlıklarını yadırgamaz; Blake'in bazen romantik sayılabilecek davranışlarını eski arkadaşlığın doğal parçası olarak görür. Sifon'a ikinci ziyaret sırasında anısı veya doğal bir konuşma, okura geçmişlerini ilk kez gösterir. Julian'ın çekiciliğini ilk görüşte fark eder, onun rahat flörtlerine karşılık verebilir ama başta ciddi bulmaz. Julian'ı tanıdıkça ilgisi derinleşir. 31 Aralık balosunda şüphe dağıtmak için başlayan rolün içinden gerçek ilk öpüşmeleri doğar; sonrasındaki çatışmalar yüzünden ilk kitapta bunu hiç konuşamazlar.",
+        "gecmis": "Nil 12 yaşındayken Clark (26) onu sokaklardan alıp yanına getirmiştir. Blake ile sokak yıllarından tanışır. Çocukluk deneyimleri ona geçitleri, insan ilişkilerini ve Batak’ın gayriresmi ekonomisini okumayı öğretmiştir. Clark, Nil'i yanına aldığında 26 yaşındadır; Nil'in biyolojik anne ve babası hayattadır ve Nil onları açıkça hatırlar. Nil'i sahiplenmesinin koşullarında para karşılığı alma gerçeği bulunur, ancak Nil bunu kendi anlatısında 'satın alındım' diye ifade etmez. Gümüşyaka'daki eve geldiğinde Clark zaten Cen.net çalışanı ve bu dairenin kiracısıdır.",
+        "iliskiler": "Clark kan bağı olmamasına rağmen onun abisi ve en güvendiği kişidir; bu bağın niteliği romanda ilk kez 02.02'de Hanoi fotoğrafıyla açıklanır. Blake çocukluğundan beri tanıdığı, gerektiğinde birlikte risk alabildiği eski dostudur. Aras ile tanışmaları güvensizlik ve fiziksel bir arbede üzerinden gerçekleşir. Julian'ı önce 1866 kartı nedeniyle gala dönüşünde otel süitinde sorgular; önce reddedilir, ertesi gün kahvede Angels sınavlarına çağrılır. Blake'le Sifon'da yeniden bir araya gelir. Gençliklerinde Blake'le arkadaşlıktan öte fiziksel ve romantik bir yakınlık yaşadılar; arkadaşlıkları bozulmasın diye sürdürmediler. Hemen ardından Vesna olayı ve iki yıllık uzaklaşma geldi. Clark'ın Blake'e mesafesi de Nil'in bu geçmişi bastırmasına katkıda bulundu. Yeniden bir araya gelince fiziksel yakınlıklarını yadırgamaz; Blake'in bazen romantik sayılabilecek davranışlarını eski arkadaşlığın doğal parçası olarak görür. Sifon'a ikinci ziyaret sırasında anısı veya doğal bir konuşma, okura geçmişlerini ilk kez gösterir. Julian'ın çekiciliğini ilk görüşte fark eder, onun rahat flörtlerine karşılık verebilir ama başta ciddi bulmaz. Julian'ı tanıdıkça ilgisi derinleşir. 31 Aralık balosunda şüphe dağıtmak için başlayan rolün içinden gerçek ilk öpüşmeleri doğar; sonrasındaki çatışmalar yüzünden ilk kitapta bunu hiç konuşamazlar.",
         "yetenekler": "Sıradan ön kol erişim implantının yanında, Clark'ın sırtına gizlice yerleştirdiği Nil'in genetik koduna özel Hamlet çipi bulunur. Kişiliğine göre melekî güçler uyanır: 9. bölümde Hamlet'in 'Atla. Uç.' yönlendirmesiyle kanatları çıkar, Julian ve Blake'i 100. kattan uçarak kurtarır; kanatlar yeniden sırtına çekilebilir. İlahi/dijital/sinirsel bağlantının daha ileri olasılıkları açık. İlk uçuşu Hezarfen gibi yüksekten süzülüştür; Julian ve Blake'le Yeni Şehir Onj kıyısındaki servis yapısının çatısına sert iner, uçuşu henüz kontrol etmez. İlk kanatlanma ona uzun süreli fiziksel acı vermez; iki kişiyi taşıyarak yaptığı kontrolsüz süzülüş kısa süreli yorgunluk ve güçsüzlük yaratır. Asıl uzun süren etki, sırtına geri çekilmiş kanatların varlığını bilmenin doğurduğu bedene yabancılaşma ve yeni bir dönüşümden korkmadır. Merakı korkusuyla birlikte sürer.",
         "notlar": "Nil başta çipten habersizdir. 10. bölümde Julian'la Angels'a gidince meleklerce günahkâr görülerek hapsedilir; 11. bölümde Blake kurtarır. 12. bölümde Daniil hayati riski açıklar, Hamlet 'Dur! Ölmek istemiyorum!' diye seslenir, Nil çipi çıkarttırmaz. GERÇEK yalnız yazarın bildiği: çip çıkarılsaydı Nil kesin ölecekti; okur/karakterler bilmez. Nil sonunda Clark'ı aramaya devam eder. Diadolas otoparkındaki ilk temas kameralara kısmen yakalanır; Cen.net Nil'i takip eder ve Sifon baskınında özellikle onu hedefler. Nil bunu kesin kanıtlayamaz; eski evinin gözetimini de yalnız Cen.net'e bağlar, Angels'ın ikinci takibini bilmez. Finalde Clark'ın Hamlet'i rızası olmadan yerleştirdiğini öğrenmesi güvenini ciddi biçimde kırar. Yine de Clark'ın bir nedeni olduğuna inanmak ister; onu affetmiş değildir. Onu hem bulup anlamak hem de yüzleşmek için aramaya devam eder, önce kendi bedeninin ve Hamlet'in durumunu anlamaya öncelik verir."
       },
@@ -94,9 +94,9 @@
       "sections": {
         "genel": "Clark çipin ilahi potansiyeli uyandırabileceğini keşfedince ilk deneyi kendi üzerinde yapar; etkiler zamanla ortaya çıkar. Melekler ve şeytanlar çalışmalarından haberdar olur. Melekler ısrarla aralarına katılmasını ister ancak tarikatlarına güvenmez. Şeytanların daha da tehlikeli olacağını bilerek Nil’i korumak amacıyla kaybolur. Kayboluşunun gerçek hedefi, geliştirdiği teknolojinin dönüşüm etkilerini geri çevirecek bir tedavi bulmaktır.",
         "gecmis": "Clark genç yaşta (16–17) dijital sisteme sızıp büyük para çalarak servet edinmiştir (yalnız yazar sırrı; Nil/Blake bilmiyor). Nil'i 12 yaşındayken yanına almıştır. Clark Cen.net araştırmacısı olarak insanların içsel üstün gücünü açığa çıkarmaya yönelir. İlk prototip Ophelia'yı kendi genetik koduna, ikinci Hamlet'i Nil'inkine göre üretir; ikisini bedenlerine yerleştirir. Melekler ve şeytanlar araştırmadan haberdardır. Clark kaybolduğunda Nil'in melekî kanatlar çıkaracağını bilmez. Clark, Nil'le tanıştığında zaten Cen.net'te çalışmakta ve Gümüşyaka'daki kendi kiraladığı dairede yaşamaktadır; Nil'i yanına aldıktan sonra taşınmazlar.",
-        "iliskiler": "Nil'e karşı sevgi dolu ama rızasız müdahalesi nedeniyle ağır vicdan azabı taşır. Blake'i Nil için kötü etki sanıp mesafeli davranmıştır; Nil'in okul arkadaşlarına sıcak davranırdı. Clark, Bella adlı varlıklı insan hayırseverle gizlice çalışır; Bella seçilmiş insan aristokrasisi isterken Clark Nil'in çipini zarar vermeden çıkarma yolunu ve kendi dönüşümüne çare arar. Clark ve Bella birbirinden sır saklar. Clark'ın Blake'i Nil için iyi bir etki saymaması Nil'in geçmişte Blake'le yaşadığı yakınlaşmayı bastırmasında pay sahibidir. Hamlet'in rızasız yerleştirilmesinin öğrenilmesi Nil'le gelecekteki güven krizinin temelidir; Nil hala Clark'ın önemli bir gerekçesi olduğuna inanmak ister.",
+        "iliskiler": "Nil'e karşı sevgi dolu ama rızasız müdahalesi nedeniyle ağır vicdan azabı taşır. Blake'i Nil için kötü etki sanıp mesafeli davranmıştır; Nil'in okul arkadaşlarına sıcak davranırdı. Clark, Bella adlı varlıklı insan hayırseverle gizlice çalışır; Bella kendi gizli bilimsel amacını Clark'a açıklamaz; Clark Nil'in çipini zarar vermeden çıkarma yolunu ve kendi dönüşümüne çare arar. Clark ve Bella birbirinden sır saklar. Clark'ın Blake'i Nil için iyi bir etki saymaması Nil'in geçmişte Blake'le yaşadığı yakınlaşmayı bastırmasında pay sahibidir. Hamlet'in rızasız yerleştirilmesinin öğrenilmesi Nil'le gelecekteki güven krizinin temelidir; Nil hala Clark'ın önemli bir gerekçesi olduğuna inanmak ister.",
         "yetenekler": "Genetik araştırma, ağ güvenliği ve sinirsel teknolojide uzmandır. Başlangıç amacı melek ve şeytanların tespitinden saklanmaktır; daha sonra ilahi potansiyelin çiple uyanabileceğini anlar. Kaçışından sonra deneyin kendisinde şeytani yönde güçler ortaya çıkardığını gözlemler; buna çare arar.",
-        "notlar": "Kendi isteğiyle Bella'nın desteğiyle ortadan kayboldu, hayatta ve ilk kitabın sonunda bulunmaz. Ophelia ile Clark'ta şeytani özellikler belirir; Nil'in Hamlet'le melekî güçlere ulaşacağını kaybolurken bilmiyordu. Çipin kesin ölümcül çıkarma sonucunu da bilmiyor. Şirket yöneticisi Aurelian Clark'ın yerini gerçekten bilmez. Hamlet Ophelia'nın varlığını hisseder. 1866 ve kanatlı piramit kartı Nil'e kasıtlı ipucu değildir; Clark'ın eski kişisel araştırmasından kalmıştır."
+        "notlar": "Kendi isteğiyle Bella'nın desteğiyle ortadan kayboldu, hayatta ve ilk kitabın sonunda bulunmaz. Ophelia ile Clark'ta şeytani özellikler belirir; Nil'in Hamlet'le melekî güçlere ulaşacağını kaybolurken bilmiyordu. Çipin kesin ölümcül çıkarma sonucunu da bilmiyor. Şirket yöneticisi Aurelian Clark'ın yerini gerçekten bilmez. Hamlet Ophelia'nın varlığını hisseder. 1866 ve kanatlı piramit kartı Nil'e kasıtlı ipucu değildir; Clark'ın eski kişisel araştırmasından kalmıştır. Bella'nın evren döngülerine ilişkin bilgisi ve gizli motivasyonu Clark'ın bilgisi değildir. Clark aristokrat bir aileden gelmez; konumu ve tehlikeli itibarı üstün zekası ile Cen.net'teki işi üzerinden doğmuştur."
       },
       "related": [
         "nil",
@@ -117,24 +117,26 @@
       "id": "bella",
       "name": "Bella",
       "type": "characters",
-      "tagline": "KÖKLÜ AİLE · GİZEMLİ HAYIRSEVER",
-      "summary": "Melek veya şeytan olmayan, eski ve varlıklı bir aileden gelen insan. İnsanların ilahi varlıklardan üstün olabileceğine inanır; Clark'ın şifa araştırmasını desteklerken seçilmiş bir insan aristokrasisi yaratmayı hedefler.",
+      "tagline": "KÖKLÜ AİLE · GİZLİ EVREN DÖNGÜSÜ ARAŞTIRMASI",
+      "summary": "Siyah saçlı, 30'larında görünen, köklü ve varlıklı aileden gelen insan. Clark'a araştırma kaynağı sağlayan gizemli hayırsever; evrenin tekrarlarına dair bildiklerini Clark ve Nil'den gizler.",
       "image": "BELLA_KESIN.webp",
       "meta": {
         "Tür": "İnsan",
         "Toplumsal konum": "Old money · köklü aile",
         "İdeoloji": "İnsan üstünlüğü / Überhumanizm (çalışma terimi)",
-        "Hedef": "Seçkin yeni insan aristokrasisi",
+        "Hedef": "Tekrarlanan evren döngüsünü kırmak (yalnız yazar)",
         "Ad": "Bella (soyadı açıklanmıyor)",
         "Geçmiş": "Yazar sırrı · romanda açıklanmayacak",
-        "Görünüm": "Siyah saçlı, aristokratik duruşlu, 30'larında görünen kadın"
+        "Görünüm": "Siyah saçlı, aristokratik duruşlu, 30'larında görünen kadın",
+        "Asıl araştırma": "YAZAR SIRRI · evrenin döngüleri, tekrarlar, fizik/kuantum",
+        "Görünürdeki tutum": "İnsan potansiyeli ve seçkin araştırma desteği"
       },
       "sections": {
-        "genel": "Bella, insanların meleklerle ve şeytanlarla yarışacak, hatta onları aşacak bir potansiyele sahip olduğuna inanır. Ancak bu güçleri tüm insanlara dağıtmayı reddeder; yeni bir üstün insan aristokrasisi için seçici, hiyerarşik bir sistem tasarlar. İnsanların özgürleşmesini savunurken kimin bu gücü hak ettiğine kendisinin karar vermesini doğal görür.",
-        "gecmis": "Eski para sahibi köklü bir aileden gelir. Ailesinin melekler ve şeytanlar hakkındaki bilgileri nereden öğrendiği, aile geçmişi ve diğer hikâyelerle/alternatif evrenlerle ilgili arka planı bilinçli olarak açıklanmıyor. Yazarın ayrı kurgu bütününe ait olan bu sırın ayrıntıları SKOPSE atlasında üretilmeyecek.",
-        "iliskiler": "Clark'a araştırmaları sırasında laboratuvar, güvenlik ve kaynak sunar; görünürde hiçbir karşılık istemez. Clark'ın şifa arayışıyla Bella'nın seçilmiş insanları dönüştürecek bir teknoloji geliştirme hedefi örtüşmez. Bella gerçek planının kapsamını Clark'tan gizler, Clark da ondan bazı sonuçları saklar.",
-        "yetenekler": "Kuşaklar boyu birikmiş aile kaynakları ve seçkin çevreler üzerinden araştırma desteği ve koruma sağlayabilir. Aday seçiminde zekâ, biyolojik uyumluluk ve iradeyi değerlendiriyormuş gibi tarafsız bir sistem savunur; köklü ailelere fiilen ayrıcalık tanıyarak sınıfsal önyargısını bilimsellik kisvesiyle sürdürür.",
-        "notlar": "Görünürde karşılıksız yardım + seçkinler için daha güvenli, ilahi potansiyeli uyandıran yeni çip hedefi birlikte seçildi; bu anlaşmanın ayrıntıları henüz geliştirilebilir. Clark başlangıçta Nil'deki çipi saklar, sonrasında kendi şeytani dönüşümünü ve gücün soydan bağımsız olabildiğine ilişkin bulguları da gizler. Bella'nın aile geçmişi kasıtlı yazar sırrıdır; isim dışındaki kimlik ayrıntıları uydurulmayacak."
+        "genel": "Bella eski para ve kültürel prestije dayanan aristokratik çevrelerden gelen, güçlü maddi ve akademik bağlantılara sahip bir insandır. Clark'ın çip/genetik araştırmalarına kaynak aktarır. Dışarıya verdiği gerekçeler insan potansiyeli ve seçici bilimsel araştırma üzerine kuruludur; bunlar onun asıl gündeminin tamamı değildir. Onu yalnızca melek/şeytan savaşının veya basit bir üstün insan sınıfı kurma planının temsilcisi olarak sabitleme.",
+        "gecmis": "YAZAR SIRRI: Bella daha önceki varoluşları/evren döngülerini hatırlar. Farklı gerçekliklerin yeniden kurulup tekrar etmesini bilir; fizik, kuantum ve döngülerin kırılmasına ilişkin araştırmalarının arkasında bu bilgi vardır. Clark'ın çalışmalarını daha büyük bir döngüyü sona erdirme ihtimalinin parçası olarak finanse eder. Bu gerçeği ne Nil'e ne Clark'a anlatır. Geçmiş yaşamlarına ait kesin kişi adları, döngü mekanizmasının fiziksel açıklaması ve ayrıntıları ayrıca onaylanmadıkça üretilmez.",
+        "iliskiler": "Clark'a laboratuvar ve maddi kaynak sağlar; Clark'ın kendi bedenindeki dönüşümü geri çevirmek, Nil'i korumak ve çipin etkilerini anlamak için yürüttüğü araştırma Bella'nın tüm amacı değildir. Bella, evren tekrarları ve önceki yaşamlarıyla ilgili bildiklerini Clark'tan saklar. Clark da bütün deneysel sonuçlarını onunla paylaşmaz. Nil Bella'yı ve ortaklığın gerçek kapsamını başlangıçta bilmez.",
+        "yetenekler": "Eski aile serveti, arşiv/akademi bağlantıları, araştırma finansmanı ve bilimsel ekipleri bir araya getirme kapasitesi. Fizik ve kuantum çalışmalarını yönlendirebilir; döngülere dair anıları doğaüstü 'seçilmiş kişi' kaderine bağlanmaz.",
+        "notlar": "KESİN YAZAR SIRRI: Bella tekrar eden evrenlerden haberdardır ve geçmiş yaşamları hatırlar. Gizli hedefi döngüyü kırmaktır; bu bilgi Clark ve Nil'e aktarılmayacak. Önceki atlasın üstün insan aristokrasisi planı Bella'nın tartışmasız nihai amacı gibi yazılamaz; varsa yalnızca görünür yaklaşımı/araştırma çevresinin sınıfsal bakışı olarak korunur. Bella sahnelerine bunun bilgisini zamansız şekilde ekleme. Fizik/kuantum mekanizmasının kesin ayrıntıları ve diğer evrenlerle bağlantılı özel adlar açık bırakılır."
       },
       "related": [
         "clark",
@@ -142,7 +144,7 @@
         "gizleme_cipi",
         "akademik_elitizm"
       ],
-      "status": "Güncel karakter · arka plan yazar sırrı",
+      "status": "Güncel kanon · temel motivasyon yazar sırrı",
       "shortLabel": "İnsan üstünlüğü savunucusu"
     },
     {
@@ -165,7 +167,7 @@
         "gecmis": "Julian'a çocukluğundan beri anlatılanlara göre insan babası melekler tarafından öldürülmüş, melek annesi ise günah sayılan birliktelik nedeniyle hapsedilmiştir. Julian buna içtenlikle inanır; olayların gerçek biçimi kesinleşmiş değildir. Annesinin yerini bilmez ve onu bulabileceğine dair umudunu korur. Emirlerini NEXARIEL'den almıştır, diğer başmeleklerle doğrudan konuşmamıştır. İlk kitap sonunda NEXARIEL'in acımasızlığını sorgular ama bütün melek hiyerarşisini bir anda reddetmez.",
         "iliskiler": "Clark’ı tarikat adına gözlemiştir. Nil’in araştırmaları sırasında onu başlangıçta dışarıda tutmak ister, sonra tarikat davetine aracılık eder. Nil'i önce otel süitinden kovar, sonra Angels'ın talimatıyla üç klasik sınava çağırır. Serada Nil'in uyuyuşunu sessizce gözetir. Blake'le Cen.net reklam yüzü oluşu yüzünden sık sık alaycı biçimde çatışır. Yeni Şehir sosyetesinde çekici, çok çapkın ve davetlerin aranan ismidir; çok sayıda yüzeysel flörtü ve ilişkisi vardır. Nil'i ilk görüşte özel bir aşk olarak görmez. 5. bölümde Nil'in Günah Çıkarma sınavında içini döküp serada uyuyakalması onda çok hafif ilk duygusal kıpırtıyı yaratır; zamanla büyür. Julian gerçekten duygusal ilgi duymaya başladıkça normalde rahat olduğu flörtlerde, özellikle Nil'le, bocalar ve başkalarıyla flörtü belirgin biçimde azalır. 31 Aralık balosunda görünürde rol gereği başlayan ilk öpüşmeleri gerçeğe dönüşür; ardından konuşmaya fırsat bulamazlar. Blake ve Nil'in geçmişte bir şey yaşadığını davranışlarından sezer, villada tesadüfi bir söz kuşkusunu artırır ama emin olmaz ve sormaz. Blake'le dünya görüşleri çatışır, hapisten kurtarılmasıyla ona saygısı artar; Blake'i içeri kabul etmemiş olmanın mahcubiyetini de taşır. Angels'ta çocukluğundan beri tanıdığı bir iki gerçek dost vardır; ancak hiçbirine her şeyi açamaz. Onu severler ama gerektiğinde NEXARIEL'e karşı savunmazlar, bazıları diğer bir 'yasak varlığı' savunduğu için ayıplar.",
         "yetenekler": "Doğaüstü güzelliği sıradan insanlarca kusursuz algılanırken yüzünün hatırlanmasını güçleştirir. Nil'in 200 yıllık fotoğraflarda onu ayırt edebilmesi Hamlet'e bağlıdır, henüz ikisi de bilmez. Atmosfer/hava kontrolü ve avucundan fırlattığı kutsal alevli yıldırım vardır; yıldırım alt düzey şeytan olan şefi öldürür ama Aurelian'ı yaralayamaz.",
-        "notlar": "7. bölümde Nephilim geçmişini Nil'e açıklar, Blake'ten saklar. 9. bölümde Blake'in önünde yıldırım kullanır. 10. bölümde Nil'i savunur, onunla beraber hapsedilir. 11. bölümde annesinin nerede tutulduğunu kendi kendine sorar ve kaçış geçitlerini bilir. Birinci kitap sonunda annesini bulmaya karar verir. Eski Şehir kilisesinden NEXARIEL'e iniş sera–kilise–taş geçit–modern asansör üzerindendir. Meleklerin bildiği, Cen.net'ten gizli lüks villayı güvenli sayar; meleklerle kopuşun ardından artık güvenli sayılmaz. 7. bölümde fotoğraflar hakkında Nil'in sorusundan sonra ailesinin geçmişini anlatır. 11. bölüm kaçışında botanik seraya çıkan eski yolları bilir. Julian'ın Angels kurallarını uygulaması yalnız kişisel rekabet veya kıskançlıktan kaynaklanmaz. Çatıdaki tartışmada Blake'e 'sınavları geçmedin, gelemezsin' diyerek girişini engeller; Blake sınavlara daha önce girmemiştir, hatta bu sınavlardan yeni haberdar olur. Julian'ın Angels içinde bulunması yasak Nephilim statüsünün kabul gördüğü anlamına gelmez; insan da tam melek de olmadığı için daha alt rütbeli meleklerin alayını veya kıskançlığını çeker. Julian önce NEXARIEL'in otoritesini reddeder; diğer başmelekleri bilmediği için nihai hükmünü vermez. 09.02a sahnesi baloda Nil'le ilk öpüşmesini 09.02 anahtar başarısızlığı ile 09.03 maskeli Aurelian sohbetinin arasına yerleştirir. Daha önce villada öpüşmezler."
+        "notlar": "7. bölümde Nephilim geçmişini Nil'e açıklar, Blake'ten saklar. 9. bölümde Blake'in önünde yıldırım kullanır. 10. bölümde Nil'i savunur, onunla beraber hapsedilir. 11. bölümde annesinin nerede tutulduğunu kendi kendine sorar ve kaçış geçitlerini bilir. Birinci kitap sonunda annesini bulmaya karar verir. Eski Şehir kilisesinden NEXARIEL'e iniş sera–kilise–taş geçit–modern asansör üzerindendir. Meleklerin bildiği, Cen.net'ten gizli lüks villayı güvenli sayar; meleklerle kopuşun ardından artık güvenli sayılmaz. 7. bölümde fotoğraflar hakkında Nil'in sorusundan sonra ailesinin geçmişini anlatır. 11. bölüm kaçışında botanik seraya çıkan eski yolları bilir. Julian'ın Angels kurallarını uygulaması yalnız kişisel rekabet veya kıskançlıktan kaynaklanmaz. Çatıdaki tartışmada Blake'e 'sınavları geçmedin, gelemezsin' diyerek girişini engeller; Blake sınavlara daha önce girmemiştir, hatta bu sınavlardan yeni haberdar olur. Julian'ın Angels içinde bulunması yasak Nephilim statüsünün kabul gördüğü anlamına gelmez; insan da tam melek de olmadığı için daha alt rütbeli meleklerin alayını veya kıskançlığını çeker. Julian önce NEXARIEL'in otoritesini reddeder; diğer başmelekleri bilmediği için nihai hükmünü vermez. 09.03 sahnesinde balodaki ilk öpüşme 09.02 anahtar girişiminin başarısızlığından sonra, 09.04'teki maskeli Aurelian sohbetinden önce yaşanır. Daha önce villada öpüşmezler. 07.06'da Nil'in 'Sana yalan söylüyor olabilirler' itirazına savunma refleksiyle Clark'ın sakladıklarını örnek verir; Nil'in incindiğini fark eder, duygusal gerilim hemen şakayla çözülmez. Annesinin esareti ve babasının ölümü hakkında bildikleri Angels'ın öğrettiği anlatıdır, teyit edilmiş mutlak gerçek değildir."
       },
       "related": [
         "nil",
@@ -200,10 +202,10 @@
       },
       "sections": {
         "genel": "Blake 26 yaşında, Sifon/Batak çevresinde örgütlü ve sahayı tanıyan, stratejik bir yeraltı figürüdür. Sadece öfkeli veya kaba kuvvete başvuran biri değildir; Cen.net'in güvenlik ve vardiya sistemlerini ayrıntılı bilir.",
-        "gecmis": "Vesna adlı Cen.net araştırmacısının öldürülmesi yaklaşık iki yıl önce olmuştur. Nil kendisiyle Blake'i korumak için cinayete dair dijital delilleri silmiş, Blake'e iz yok demiştir. Blake bir şey saklandığını sezmiş ve iki yıldır Cen.net'e karşı sabotaj/sızma girişimlerini sürdürmüştür. Vesna Blake'in aşık olduğu biri değildi; Blake, kendi halkından yardım isteyen birini geri çevirmeye gönlü razı olmadığı için yardım etti. Vesna romantik kayıp olarak anlatılmaz. Blake gençliğinde Nil'e aşık oldu, duygularını arkadaşlıklarını riske atmamak için bastırdı; Nil'le kısa bir dönem fiziksel ve romantik yakınlaştılar, sonra arkadaşlığı korumak için bıraktılar. Hemen ardından Vesna vakası ve iki yıllık kopuş yaşandı. Blake hislerinin geçtiğine inansa da tamamen geçmedi; henüz bunu yeni baştan bir aşka dönüştürme niyetinde değil.",
+        "gecmis": "Vesna adlı Cen.net araştırmacısının öldürülmesi yaklaşık iki yıl önce olmuştur. Nil kendisiyle Blake'i korumak için cinayete dair dijital delilleri silmiş, Blake'e iz yok demiştir. Blake bir şey saklandığını sezmiş ve iki yıldır Cen.net'e karşı sabotaj/sızma girişimlerini sürdürmüştür. Vesna Blake'in aşık olduğu biri değildi; Blake, kendi halkından yardım isteyen birini geri çevirmeye gönlü razı olmadığı için yardım etti. Vesna romantik kayıp olarak anlatılmaz. Blake gençliğinde Nil'e aşık oldu, duygularını arkadaşlıklarını riske atmamak için bastırdı; Nil'le kısa bir dönem fiziksel ve romantik yakınlaştılar, sonra arkadaşlığı korumak için bıraktılar. Hemen ardından Vesna vakası ve iki yıllık kopuş yaşandı. Blake hislerinin geçtiğine inansa da tamamen geçmedi; henüz bunu yeni baştan bir aşka dönüştürme niyetinde değil. Nil'le iki yıllık aralarının açılması, Clark kaybolur kaybolmaz Blake'e gitmesini gerektirecek bir yakınlık olmadığı anlamına gelir: romanın 1. bölümünde Nil Blake'e mesaj atmaz, aramaz, gitmez; ilk yeniden yüz yüze temas 06.03'te gerçekleşir.",
         "iliskiler": "Nil'i çocukluğundan beri tanır. Julian'a önce mesafelidir. 9. bölümde doğaüstünün gerçekliğini öğrenir ve Nil'in melek kanatlarıyla uçuşunu görür. 10. bölümde meleklerin yardımına güvenmez, Nil ve Julian'ı gizlice takip eder; 11'de onları kurtarır. Kemal, 15–16 yaşında kurnaz ve sokakları bilen genç dostudur; Sifon baskını sonrasında tanıklık edip götürülenlerin izini araştırır. Julian'ın Cen.net bağlantısı yüzünden aristokratik iğnelemelerine iğnelemeyle karşılık verir; ona kolay güvenmez. Nil'le kişisel alan ve temas konusunda rahatlığı eski dostluk ve kısa romantik geçmişin doğal devamıdır; bariz çekim bakışmaları veya sürekli mahcup sessizlikler yoktur. Bazen Nil'e fark etmeden romantik davranır, Nil bunu olağan görür. Julian ile Nil arasındaki ilk öpüşmeyi veya gelişen çekimi fark etmez: özellikle balo gecesi ilk kez öğrendiği melek/şeytan gerçeği ve kaçış, bütün dikkatini dağıtır. 10. bölümde Julian'ın Angels sınavları gerekçesiyle onu merkeze almaması üzerine öfkelenir; daha önce Angels'ın sınavlarından habersizdir. Nil'in kendisine sır saklamasından kırılır ama nedenini anlar, onu doktora götürmeye çalışır, sonunda kabullenmiş görünerek gizlice izler. 11. bölümde Julian'ı da kurtardıktan sonra ikisi arasında karşılıklı saygı doğar; Julian'ın saflığını görüp onu daha çok kollar, atışmaları sona ermez. Daniil'in lisansı kaybedildikten sonra kliniğini kurmasına Blake yardım etti; ilerleyen zamanda Daniil ağır yaralı Blake'in hayatını kurtardı.",
         "yetenekler": "Saha takibi, güvenlik planlama, muhafız kıyafetiyle sızma, uyuşturma/anestezi uygulama, eski mekanik kilit açma, kaynak ve insan ağı yönetme. NEXARIEL merkezinde gözlemleri ve insan hizmetkâr sorgularıyla gizli girişe ulaşır; Nil ve Julian'ın hücrelerini kendisi açar. Kilise personelini sistematik izler, bakım görevlilerini ve hizmetkârları sorgular; kılık değiştirerek ana asansör yerine tarihî bakım tünellerinden girer. Julian'la Nil'i seradan kilisenin arka demir servis kapısına ulaştırır.",
-        "notlar": "Birinci kitap sonunda Blake'in hedefi melek-şeytan düzeninin gizli gerçeklerini halka duyurmak ve devrimci mücadeleyi sürdürmektir. Kemal 15–16 yaşındaki sokak arkadaşıdır; 7. bölümde baskına tanıklığı, kayıpların izini sürmesi ve Nil'le tanışması kesinleşmiştir. Sifon baskınında yaralananlar, götürülenler ve onarım sorumluluğu Blake'in üzerindedir; villa hazırlıkları sırasında Sifon'a dönüp işlerin yürümesini sağlar. Topluluk baskına alışık ve hazırlıklıdır ama anında toparlanmaz; yılbaşından önce büyük ölçüde ayağa kalkar. Kemal'in sokak çocuklarıyla yürüttüğü araştırmanın tehlikeye dönüşmesi Blake'in koruyuculuğunu sınar."
+        "notlar": "Birinci kitap sonunda Blake'in hedefi melek-şeytan düzeninin gizli gerçeklerini halka duyurmak ve devrimci mücadeleyi sürdürmektir. Kemal 15–16 yaşındaki sokak arkadaşıdır; 7. bölümde baskına tanıklığı, kayıpların izini sürmesi ve Nil'le tanışması kesinleşmiştir. Sifon baskınında yaralananlar, götürülenler ve onarım sorumluluğu Blake'in üzerindedir; villa hazırlıkları sırasında Sifon'a dönüp işlerin yürümesini sağlar. Topluluk baskına alışık ve hazırlıklıdır ama anında toparlanmaz; yılbaşından önce büyük ölçüde ayağa kalkar. Kemal'in sokak çocuklarıyla yürüttüğü araştırmanın tehlikeye dönüşmesi Blake'in koruyuculuğunu sınar. Güncel ikinci taslakta ilk yeniden temas 13 Kasım/06.03 Sifon'dadır; Nil'in Clark kaybolunca Blake'le daha önce görüştüğü yazılamaz. Özel güvenlik şefinin şeytan oluşunu ve melek/şeytan gerçeğini ancak 9. bölümde doğrudan görür."
       },
       "related": [
         "nil",
@@ -387,7 +389,7 @@
         "genel": "Vesna, Cen.net'ten ayrılmaya çalışırken Blake'ten yardım isteyen araştırmacıdır. Ölümü Blake'in şirkete yönelik tutumunu etkiler.",
         "gecmis": "Vesna, Cen.net'ten ayrılmak için Blake'ten yardım ister. Blake ilk anda reddeder; kendi mekanına yapılan baskından sonra olaya dahil olur. Yaklaşık iki yıl önce Vesna öldürülür. Nil hem kendisini hem Blake'i cinayetle ilişkilendiren dijital kanıtları gizlice siler ve Blake'e geride iz kalmadığını söyleyerek yalan söyler. Blake bir şey saklandığından kuşkulanır fakat gerçeği Nil'in 6. bölümdeki itirafına kadar öğrenmez.",
         "iliskiler": "Vesna Blake'in sevgilisi değildir; Blake, kendi halkından yardım isteyen birini geri çeviremediği için dahil olmuştur. Olay Nil ile Blake'in iki yıl süren uzaklaşmasının dönüm noktasıdır.",
-        "notlar": "Soyadı, araştırma konusu ve ölümünün ayrıntıları henüz belirlenmedi. Ana komployla doğrudan bağlantı kurulmuş değildir."
+        "notlar": "Soyadı, araştırma konusu ve ölümünün ayrıntıları henüz belirlenmedi. Ana komployla doğrudan bağlantı kurulmuş değildir. Nil yalnız Blake'in değil kendi dijital izlerini de silmiştir; Blake'in bunu 6. bölümde öğrenmesine dek bilgi asimetrisi korunur."
       },
       "related": [
         "blake",
@@ -443,7 +445,7 @@
         "gecmis": "Üçüncü Dünya Savaşı’ndan sonra göçlerle büyümüş; farklı dilleri, kökenleri ve sınıfları aynı kıyılarda toplamıştır.",
         "iliskiler": "Şehrin sistemleri Cen.net’in yazılım standartlarına, diğer büyük şirketlerin enerji, sağlık, gıda ve kredi hizmetlerine bağımlıdır.",
         "yetenekler": "Şehir yılda iki kez, ekim başı ve sonunda Onj taşkınları yaşar. Yeni Şehir’in elektronik surları akıntıyı Eski Şehir’e yönlendirir.",
-        "notlar": "“Skopse denilen mutant yaşamına devam eder.” Açılışın ana kent imgesi. Köklü ailelerin akademik/kültürel prestiji ve yeni şirket zenginlerinin ekonomik gücü arasındaki sınıf çatışması ilerleyen bölümlerde belirginleşir."
+        "notlar": "“Skopse denilen mutant yaşamına devam eder.” Açılışın ana kent imgesi. Köklü ailelerin akademik/kültürel prestiji ve yeni şirket zenginlerinin ekonomik gücü arasındaki sınıf çatışması ilerleyen bölümlerde belirginleşir. 1866 sonrası bazı üniversitelerin temelleri ve Yeni Şehir'in kurulması Clark'ın basılı Skopse Tarihi kitabından öğrenilir; Nil 2. bölümde Angels'ın kuruluşunu veya kartvizitin gerçek anlamını öğrenmez."
       },
       "related": [
         "eski_sehir",
@@ -451,7 +453,8 @@
         "onJ",
         "tunek",
         "batak",
-        "akademik_elitizm"
+        "akademik_elitizm",
+        "gumusyaka"
       ],
       "status": "Güncel şehir",
       "shortLabel": "Savaş sonrası megakent"
@@ -594,7 +597,7 @@
         "gecmis": "Kentsel dönüşüm projelerinin bazıları yıllarca tamamlanmamıştır.",
         "iliskiler": "Blake’in çevresi, Nadejda’nın dolaştığı yerler, gezgin topluluklar.",
         "yetenekler": "Geçici barınma, küçük ticaret, yer altı geçişleri.",
-        "notlar": "Sifon bütün Batak’ın adı değildir; onun içindeki özgül merkezdir. Yeni 06.03a sahnesi baskın öncesindeki kulübün gece hayatını Nil'in bakışıyla gösterir; 07.04a sahnesinde baskın sonrası Kemal'in takibi ve onarımdaki hasar görünür."
+        "notlar": "Sifon bütün Batak’ın adı değildir; onun içindeki özgül merkezdir. 06.03a sahnesi baskın öncesindeki kulübün gece hayatını Nil'in bakışıyla gösterir; 07.07–07.08 sahnelerinde baskın sonrası Kemal'in takibi ve onarımdaki hasar görünür."
       },
       "related": [
         "batak",
@@ -656,7 +659,7 @@
         "gecmis": "Cen.net savaş sonrası dijital altyapı üzerindeki etkisini büyüttü. Paradise, şirketin yüksek güvenlikli merkezi olarak bu yapının parçasıdır.",
         "iliskiler": "31 Aralık 99. kat maskeli gala sayesinde Nil sanat hamisi, Julian davetli, Blake güvenlik kılığında girer. Güvenlik şefinden alınan mekanik anahtarla 100'e çıkılır; Clark'ın Aurelian'la görüştüğü saptanır. Nil son anda kanatlanıp kırılmış camdan Julian ile Blake'i kurtarır.",
         "yetenekler": "Korumalı araştırma tesisleri, sunucular, erişim kontrolü ve fiziksel-dijital güvenlik katmanları; sızma sırasında muhafızlar devreye girer. Nil'in güçleri ilk kez belirginleşir, Julian da güçlerini kullanır.",
-        "notlar": "99–100 arasındaki VIP özel asansör mekanik anahtar gerektirir; personel konukları taşır. CEO ofisi çok az eşyalı, antika masa ve panoramik camlarla çevrilidir. 9. bölümde camları Julian'ın yıldırımı kırar."
+        "notlar": "99–100 arasındaki VIP özel asansör mekanik anahtar gerektirir; personel konukları taşır. CEO ofisi çok az eşyalı, antika masa ve panoramik camlarla çevrilidir. 9. bölümde camları Julian'ın yıldırımı kırar. Gümüşyaka'daki ev şirket merkezinin lojmanı değildir. Nil'in 07.04'te birleştirdiği araç/depo sevk izleri teknik şüphe olarak kalır; doğrudan suç kanıtı haline gelmez."
       },
       "related": [
         "cennet",
@@ -1120,7 +1123,7 @@
         "gecmis": "Sifon/Batak topluluğunda büyümüştür. Ailesi ve ayrıntılı özgeçmişi henüz belirlenmedi.",
         "iliskiler": "Blake'le yakın ve şakalaşabilen bir dostluğu vardır. 7. bölümde Blake'in yanında dönen Nil'le tanışır; askerlerin aradığı kişinin Nil olabileceğini bilmez. Kemal, bölgedeki yaşıt sokak çocuklarıyla güçlü bir bilgi ağına sahiptir. Çocukların kuryelik, hurda, sokak ve geçit bilgisini yetişkinlerden daha rahat birleştirir. Ancak yetişkinlerin göremediklerini görmesi onu tecrübeli bir savaşçı yapmaz.",
         "yetenekler": "Çevreyi, insan ağını ve gizli geçitleri bilir; baskın sırasında saklanıp askerlerin bir kadın aradığını duyar, sonra Cen.net'in götürdüğü insanların izini ve isimlerini toplar. Kayıpları araştırırken kendi başına hareket eder, bir arkadaşını da tehlikeye atar; önemli bir sevk ipucuna yaklaşır ancak Cen.net'in dikkatini çekerek başını belaya sokar. Bunun bedeli ve Blake'in müdahalesi ileriki sahne ayrıntılandırmasında ele alınacak; tek başına büyük sırları çözmez.",
-        "notlar": "Sifon baskınından sonra haber taşır, yaralılarla ve mahalle onarımıyla ilgilenir; baskında aranan kadının Nil olduğuna dair kesin bilgisi yoktur. 07.04a sahnesi Kemal'in yaşıtı bir sokak çocuğunu da tehlikeye atan bağımsız takibinin görünür sonucudur; olay Nil ve Blake'in katılımıyla, tek başına önemli bütün sırları çözmeden kalır."
+        "notlar": "Sifon baskınından sonra haber taşır, yaralılarla ve mahalle onarımıyla ilgilenir; baskında aranan kadının Nil olduğuna dair kesin bilgisi yoktur. 07.08 sahnesi Kemal'in yaşıtı bir sokak çocuğunu da tehlikeye atan bağımsız takibinin görünür sonucudur; olay Nil ve Blake'in katılımıyla, tek başına önemli bütün sırları çözmeden kalır."
       },
       "related": [
         "blake",
@@ -1145,7 +1148,7 @@
         "gecmis": "Önceki geçmişi ve kişisel adı henüz belirlenmedi.",
         "iliskiler": "Aurelian'ın özel korumasıdır; Julian anahtar almak için içkiyle oyalamaya çalışır. Blake güvenlik kılığıyla uzak bölgeye çeker; Nil/Julian katılır.",
         "yetenekler": "Alkol etkilenimine direnç, olağanüstü fiziksel güç, acı altında şeytani forma dönüşme. Julian'ın kutsal ateşiyle yanarak ölür, güçlerini sergileyemez.",
-        "notlar": "Bölüm 7'de üçlü anahtarın CEO veya şefte bulunduğunu TAHMİN eder; 9'da şefin anahtarı taşıdığı anlaşılır."
+        "notlar": "Bölüm 7'de üçlü anahtarın CEO veya şefte bulunduğunu TAHMİN eder; 9'da şefin anahtarı taşıdığı anlaşılır. Ölümü 09.05'te Julian'ın kutsal elektriğiyle kesinleşir; 09.01–09.04 hazırlık sahnelerinde olmuş gibi anlatılmayacak."
       },
       "related": [
         "77",
@@ -1252,7 +1255,9 @@
         "clark",
         "nil",
         "tunek",
-        "yeni_sehir"
+        "yeni_sehir",
+        "skopse",
+        "paradise"
       ],
       "status": "İkinci taslak kesin kanonu",
       "shortLabel": "Nil ve Clark'ın mahallesi"
@@ -1273,7 +1278,7 @@
         "gecmis": "Clark, Nil'le tanıştığında zaten Cen.net'te çalışmaktadır ve Gümüşyaka'daki özel kiralık dairede yaşamaktadır. Nil'i yanına aldıktan sonra birlikte buraya taşınmaları söz konusu değildir; Nil Clark'ın mevcut evine gelir.",
         "iliskiler": "Bağlantılı atlas kayıtları: nil, clark, yeni_sehir, paradise.",
         "yetenekler": "Clark'ın eski kitapları, pikap ve müzik cihazları, az sayıdaki kişisel çerçeveli fotoğraf: yaklaşık 15 yaşında ailesiyle fotoğrafı; Nil ile Hanoi/Vietnam'da birlikte fotoğrafı; varsa Nil, Clark ve kızıl saçlı Blake'in birlikte olduğu selfie benzeri fotoğraf. Nil olmadan Blake-Clark fotoğrafı, Clark'ın tek başına portresi veya rastgele toplantı fotoğrafları yoktur. 1866 tarihli çift kanatlı sembollü kartvizit Hanoi fotoğrafının kağıdında değil ÇERÇEVESİNİN ARKASINDADIR. 15 Kasım'da ev çevresinde kuşkulu araçlar görülür.",
-        "notlar": "Nil 7. bölümde eve girmek ister, Blake tehlikeli bulduğu için onu uzaklaştırır. Ev hem Cen.net hem Angels tarafından birbirinden bağımsız gözetlenir; Nil yalnız Cen.net'in araçlarını gördüğünü düşünür. Nil ve Blake gerçek ikili gözetimi bilmez. Clark'ın çalışma odasındaki fotoğraflar özel ve sınırlıdır; bu odanın dekoru sıradan kurumsal başarı fotoğraflarıyla doldurulmaz."
+        "notlar": "Nil 7. bölümde eve girmek ister, Blake tehlikeli bulduğu için onu uzaklaştırır. Ev hem Cen.net hem Angels tarafından birbirinden bağımsız gözetlenir; Nil yalnız Cen.net'in araçlarını gördüğünü düşünür. Nil ve Blake gerçek ikili gözetimi bilmez. Clark'ın çalışma odasındaki fotoğraflar özel ve sınırlıdır; bu odanın dekoru sıradan kurumsal başarı fotoğraflarıyla doldurulmaz. Gümüşyaka, Tünek'e karşı konumdaki mahalledir; konut Cen.net personeline tahsisli bir lojman değildir."
       },
       "related": [
         "nil",
@@ -1298,7 +1303,7 @@
       },
       "sections": {
         "genel": "Nil'in geçmişte kayıp kızını aramasına yardım ettiği hocadan erişim aldığı, 1866 kayıtlarını ve Julian'ın iki yüzyıla yayılan fotoğraflarını incelediği fiziksel arşiv. Prof. Dr. Lejla Hadžić'in yönettiği fiziksel tarihî arşivde okuma salonu eski kanadın yüksek tavanlı bölümündedir; sınırlı koleksiyon alt katta iklim kontrolüyle korunur. Skopse'de fiziksel kitaplı kütüphaneler azdır; kapsamlı tarihsel kaynaklara erişim üniversite kurumları ve seçkin arşiv çevreleri üzerinden gerçekleşir.",
-        "gecmis": "Köken/önceki tarih yalnız mevcut kanondaki ölçüde belirlenmiştir.",
+        "gecmis": "1866 depremi sonrasındaki yeniden yapılanmanın ve eski kurumların belgelerini koruyan tarih arşivi. Bütün Skopse'de bu ölçekte fiziksel koleksiyonlara erişim nadirdir. Üniversitenin resmi adı ve arşivin kesintisiz kurumsal tarihi henüz kararlaştırılmadı.",
         "iliskiler": "Bağlantılı atlas kayıtları: nil, universite_hocasi, julian, akademik_elitizm.",
         "yetenekler": "Eski fotoğraflar, kanatlı piramit sembolünün tekrarları; dijital tarihin kirlenmesinin alternatifi.",
         "notlar": "Üniversitenin özel adı henüz açık; eski kanatta yüksek tavanlı görkemli tarihî okuma salonu, aşağıda Lejla Hadžić'in erişim izni verdiği iklim kontrollü belge/fotoğraf depoları vardır. Burası genel erişimli büyük şehir kütüphanesi değil, özel izin gerektiren üniversite arşividir."
@@ -1492,7 +1497,7 @@
         "gecmis": "Köken/önceki tarih yalnız mevcut kanondaki ölçüde belirlenmiştir.",
         "iliskiler": "Bağlantılı atlas kayıtları: yeni_sehir, julian, nil, blake, angels.",
         "yetenekler": "İçeride Blake'in Cen.net güvenlik planları, Julian'ın annesine dair itirafı, sanat davetiyesi ve analog com-link hazırlığı birikir. Güvenlik planlarının yanı sıra iş çıkışı sohbetleri, havuz ve mutfak karşılaşmaları, ikili dışarı çıkmalar ve hayatın sürmesi taslakta görünür olacak; B ve D ağırlıklı, A destekleyici, C az kullanılacak. Blake ve Nil'in doğal temasını Julian gözleyip geçmişte bir ilişki olabileceğini sezer, tesadüfi bir söz şüphe uyandırır ama kesin bilgi edinmez.",
-        "notlar": "Tam adres ve iç oda dağılımı açık. Angels'ın mülkiyet bağını melekler bilir ama Cen.net'in eriştiği tapu/şirket ağlarında görünmez; Julian meleklerin tehdit olabileceğini 10. bölüme dek düşünmez. 13 Kasım gecesinden 31 Aralık'a kadar yaklaşık yedi hafta üçlünün hazırlık yeridir; meleklerle çatışma sonrası güvenliğini yitirir. 7. bölümün sonundaki ortak çalışma gecesi ve 8. bölümdeki rol provaları gerçekleşir; bu sahneler villayı romantik kapalı alana dönüştürmeden hazırlık ve gündelik yaşamı kaynaştırır."
+        "notlar": "Tam adres ve iç oda dağılımı açık. Angels'ın mülkiyet bağını melekler bilir ama Cen.net'in eriştiği tapu/şirket ağlarında görünmez; Julian meleklerin tehdit olabileceğini 10. bölüme dek düşünmez. 13 Kasım gecesinden 31 Aralık'a kadar yaklaşık yedi hafta üçlünün hazırlık yeridir; meleklerle çatışma sonrası güvenliğini yitirir. 7. bölümün sonundaki ortak çalışma gecesi ve 8. bölümdeki rol provaları gerçekleşir; bu sahneler villayı romantik kapalı alana dönüştürmeden hazırlık ve gündelik yaşamı kaynaştırır. 07.01–07.04 yazılmış Draft 2 kapsamındadır; 07.05–07.11 ve 8. bölüm hazırlıkları henüz plan olarak tutulur."
       },
       "related": [
         "yeni_sehir",
@@ -1520,7 +1525,7 @@
         "gecmis": "Köken/önceki tarih yalnız mevcut kanondaki ölçüde belirlenmiştir.",
         "iliskiler": "Bağlantılı atlas kayıtları: paradise, 77, nil, julian, blake, ozel_guvenlik_sefi.",
         "yetenekler": "Julian şefi sarhoş etmeyi dener; Nil maskeli Aurelian'la sanat konuşur, Blake kılık değiştirir. Gizli anahtarlı asansörün anahtarı şeften alınır.",
-        "notlar": "Sanat eserlerinin gerçek adları ve koleksiyonun envanteri açık. Balo davetinin Aurelian tarafından Julian'a kurulan bilinçli tuzak olup olmadığı birinci kitapta AÇIK. Nil'in sanat hamisi ve hizmetçisinin özel adları da henüz AÇIK. 09.02a sahnesinde anahtar planının ilk hamlesinden sonra Nil ve Julian güvenlik şüphesini dağıtmak amacıyla çift rolü yaparken ilk kez öpüşür; 09.03'te Nil maskeli Aurelian'la sanat üzerine görüşür."
+        "notlar": "Sanat eserlerinin gerçek adları ve koleksiyonun envanteri açık. Balo davetinin Aurelian tarafından Julian'a kurulan bilinçli tuzak olup olmadığı birinci kitapta AÇIK. Nil'in sanat hamisi ve hizmetçisinin özel adları da henüz AÇIK. 09.02a sahnesinde anahtar planının ilk hamlesinden sonra Nil ve Julian güvenlik şüphesini dağıtmak amacıyla çift rolü yaparken ilk kez öpüşür; 09.03'te Nil maskeli Aurelian'la sanat üzerine görüşür. 09.03 dikkat dağıtma amaçlı Nil–Julian ilk öpüşmesi, 09.04 maskeli CEO ile sanat sohbeti ve 09.05 güvenlik şefinin etkisizleştirilmesi farklı olaylardır."
       },
       "related": [
         "paradise",
@@ -1665,7 +1670,7 @@
         "gecmis": "Önceki kullanım ve tam adres açık.",
         "iliskiler": "Sanat hamisinin hizmetçisiyle yalnızca çevrim içi anlaşan Nil'in davetiyeyi yüz yüze görüşmeden aldığı teslimat noktasıdır.",
         "yetenekler": "Fiziksel orijinal davetiye burada bırakılır; rüşvetin finansal izi ve olası gözetim riski kalır.",
-        "notlar": "Sanat hamisi ve hizmetçisinin özel isimleri henüz kararlaştırılmadı."
+        "notlar": "Sanat hamisi ve hizmetçisinin özel isimleri henüz kararlaştırılmadı. Hizmetçiyle temas çevrim içidir; davetiyenin fiziksel olarak kutuya bırakılması ve Nil'in bizzat teslim alması 08.02'nin zorunlu eylemleridir."
       },
       "related": [
         "eski_sehir",
@@ -1723,6 +1728,11 @@
       "body": "Clark, 12 yaşındaki Nil'i biyolojik ailesinin bulunduğu Sifon'dan çıkarıp yanına alır; Clark 26 yaşındadır ve o sırada zaten Cen.net'te çalışmaktadır. Nil, Clark'ın Tünek'in karşısındaki Gümüşyaka mahallesinde önceden yaşadığı özel kiralık daireye gelir; birlikte yeni eve taşınmazlar. Nil'in biyolojik ailesi hayattadır ve Nil geçmişini hatırlar. Clark ile Nil kan bağı olmadan aile ve kardeşlik ilişkisi kurar."
     },
     {
+      "when": "12 yıl önce · Gümüşyaka",
+      "title": "Clark'ın evinde Nil'in yeni hayatı",
+      "body": "Nil 12, Clark 26 yaşındayken Clark'ın Cen.net çalışanı olarak halihazırda yaşadığı Gümüşyaka özel kiralık dairesine gelir. Clark aristokrat kökenli değildir; onu korumak için yeni eve taşınma veya şirket lojmanı düzenlemesi yoktur. Nil'in biyolojik ailesi hayattadır; Clark'la kan bağı yoktur, ancak abilik ilişkisi kurarlar."
+    },
+    {
       "when": "Nil 12 yaşında · Clark'la yaşamaya başladıktan yaklaşık 8 ay sonra",
       "title": "Blake'in Nil'i okul çıkışında yeniden bulması",
       "body": "Clark'ın Nil'i Sifon'dan alıp yeni hayatına taşımasından yaklaşık sekiz ay sonra Blake onu okul çıkışında bulur. Nil ile Blake'in çocukluk bağı yeniden temas kurmalarını sağlar; bu, Blake'in Nil'i ilk kez tanıdığı an değildir."
@@ -1761,6 +1771,11 @@
       "when": "Yaklaşık 1 ay önce",
       "title": "Aras, Clark'ın erişim kayıtlarını sildiğini görür",
       "body": "Clark'ın özel yazılımla kendi giriş loglarını yok ettiğine Aras tanıklık eder."
+    },
+    {
+      "when": "Clark'ın araştırmalarının geliştiği dönem · yazar sırrı",
+      "title": "Bella'nın gizlediği evren döngüsü araştırması",
+      "body": "Bella geçmiş evren döngülerini hatırlayan insandır; fizik ve kuantum araştırmalarıyla tekrarların nasıl kırılabileceğini anlamaya çalışır. Clark'ın çip çalışmalarını bu daha geniş araştırma için fonlar; Clark ve Nil onun bildiği döngü gerçeğinden habersizdir. Ne zaman hangi döngüyü gördüğü ve mekanizma açıklanmamıştır."
     },
     {
       "when": "Açılıştan önce",
@@ -1810,12 +1825,17 @@
     {
       "when": "16 Kasım sonrasındaki günü kesinleşmemiş dönem · bölüm 7, sahne 07.05–07.11",
       "title": "Cennet Ağacı → Julian'ın itirafı → ikinci Sifon",
-      "body": "KESİN SIRA: 16 Kasım ortak araştırmasının ardından (07.05) Cennet Ağacı'nın katları, 31 Aralık balosu ve 99–100. kat arasındaki mekanik anahtar planı öğrenilir; (07.06) Julian yalnız Nil'e Nephilim olduğunu ve annesinin hapsedildiğine inandığını anlatır; (07.07–07.09) ancak bundan sonra Nil ile Blake ikinci Sifon ziyaretinde üç kaybı, aranan kadını, Kemal'in sevk takibini ve Nadejda'nın Ölü Frekans'ını araştırır. Nil–Blake'in geçmişteki romantik yakınlığı burada açıklığa kavuşur. (07.10–07.11) villada Julian'la değerlendirme ve değişen ilişkiler. Eski '17 Kasım Sifon / 19–20 Kasım kule / 21 Kasım itiraf' tarihleri geçersizdir; kesin yeni günler belirlenmedi."
+      "body": "KESİN SIRA: 16 Kasım ortak araştırmasının ardından (07.05) Cennet Ağacı'nın katları, 31 Aralık balosu ve 99–100. kat arasındaki mekanik anahtar planı öğrenilir; (07.06) Julian yalnız Nil'e Nephilim olduğunu ve annesinin hapsedildiğine inandığını anlatır; (07.07–07.09) ancak bundan sonra Nil ile Blake ikinci Sifon ziyaretinde üç kaybı, aranan kadını, Kemal'in sevk takibini ve Nadejda'nın Ölü Frekans'ını araştırır. Nil–Blake'in geçmişteki romantik yakınlığı burada açıklığa kavuşur. (07.10–07.11) villada Julian'la değerlendirme ve değişen ilişkiler. Eski '17 Kasım Sifon / 19–20 Kasım kule / 21 Kasım itiraf' tarihleri geçersizdir; kesin yeni günler belirlenmedi. 07.04'te siyah/gri araçlar, depo ve sevk hatları yalnız araştırma izidir; kesin kanıt değildir. İkinci taslakta yazılan son sahne 07.04, sonraki kayıtlar onaylı plandır."
     },
     {
       "when": "Cennet Ağacı planından sonra, ikinci Sifon'dan önce · sahne 07.06",
       "title": "Julian'ın Clark karşılığı",
-      "body": "Julian, yalnız Nil'e yaklaşık 200 yaşında Nephilim olduğunu, melek annesinin hapsedildiğine ve insan babasının öldürüldüğüne inandığını anlatır. Nil anlatılanların doğruluğunu sorgulayınca Julian Clark'ın da Nil'den sırlar sakladığını hatırlatır; ikisi incinir. Blake bu kişisel sırrı öğrenmez."
+      "body": "Julian, yalnız Nil'e yaklaşık 200 yaşında Nephilim olduğunu, melek annesinin hapsedildiğine ve insan babasının öldürüldüğüne inandığını anlatır. Nil anlatılanların doğruluğunu sorgulayınca Julian Clark'ın da Nil'den sırlar sakladığını hatırlatır; ikisi incinir. Blake bu kişisel sırrı öğrenmez. Julian'ın annesinin hapsedildiği, babasının öldürüldüğü anlatı Angels'ın öğrettikleridir, doğrulanmış geçmiş değildir."
+    },
+    {
+      "when": "Bölüm 8 öncesi · kesin gün açık",
+      "title": "Giriş rolü kararı ve tarihsel sıralama",
+      "body": "Cennet Ağacı'nın mekanik anahtar ve 31 Aralık balosu planı 07.05'te, Julian'ın Nephilim/anne itirafı 07.06'da, ikinci Sifon ziyareti 07.07–07.09'da geçer. Ancak sonra 08.01'de Nil sanat hamisi, Blake sınırlı güvenlik görevlisi, Julian gerçek davetli olarak belirlenir. Kesin Kasım ara günleri uydurulmaz; fiziksel davetiye 08.02'de rol seçiminden sonra bizzat alınır."
     },
     {
       "when": "Kasım sonu–Aralık başı · bölüm 8, sahne 08.02",
@@ -1956,6 +1976,10 @@
     }
   ],
   "authorNotes": [
+    {
+      "title": "27 Ekim 2026 — Atlas 4.9 / yayın senkronizasyonu",
+      "body": "KANON ÖNCELİĞİ: 'İkinci Taslağa Hazırlık' sohbetinin en son kesin kararları → 26–27 Ekim ikinci taslak kararları → daha eski 01–76 kesin kararları. Aktif kayıtlar 12 bölüm, 67 sahne, 33 zaman çizelgesi kaydı ve 59 varlıktır. 1–6. bölümler ve 07.01–07.04 ikinci taslakta yazıldı; 07.05 sonrası onaylı PLAN, yazılmış metin sayılmaz. 07.07–07.09 ikinci Sifon, 07.08 Kemal takibi, 09.03 ilk öpüşme, 09.04 maskeli CEO ile sanat konuşmasıdır. 07.04a ve 09.02a eski numaralar kullanılmaz. 08.02 orijinal fiziksel davetiyenin pazarlık, bırakılma ve Nil tarafından bizzat alınma sahnesidir. Bella'nın asıl evren döngüsü araştırması yazara ait sırdır; Nil ve Clark bilmez. Güncel referans dosyaları KITAP_I_SAHNE_ATLASI.md ve KARAKTER_MEKAN_ATMOSFER_ATLASI.md dünya verisinden üretilir."
+    },
     {
       "title": "27 Ekim 2026 — İkinci taslak bağlantılı kanon denetimi",
       "body": "Vesna cinayetinin dijital izleri hem Nil hem Blake'i ilgilendirir; Nil önce 5. bölümde Julian'a, 6. bölümde Blake'e itiraf eder. Clark'ın Gümüşyaka'daki evi Cen.net lojmanı değildir. 02.01'in eski Cen.net çalışanları konutu ifadesi geçersizdir. Hanoi fotoğrafının ÇERÇEVESİNİN ARKASINDA 1866 kartviziti bulunur; çerçeveler en fazla üç anlamlı kişisel fotoğrafla sınırlıdır. Clark'ın Skopse Tarihi kitabındaki deprem sonrası şehir/üniversite tarihi ve kısıtlı üniversite arşivleri 02–03 araştırma zincirinin parçasıdır. Bu notlar yeni sahne icat etmez; yazılmış ikinci taslak ile gelecek planlar ayrıdır."
@@ -2132,7 +2156,7 @@
     {
       "number": "01",
       "title": "Başlatma",
-      "status": "Taslak / açılış",
+      "status": "İkinci taslak metni yazıldı",
       "summary": "Nil, Cen.net'te veri güvenliği alanında çalışırken yaklaşık bir hafta önce işten çıkarılan Aras Stojanovski'yi Diadolas Yaşam Merkezi'nde izler. Açılışta okur Clark'ın kayıp olduğunu veya Nil'in abisi olduğunu öğrenmez. Nil'in hazırlıklı takibi ve otoparktaki kovalamaca Aras'ın etkisizleştirilmesiyle sonuçlanır. Nil kendisini özel dedektif olarak tanıtır; Clark'ın üç gündür kayıp olduğunu sorguda açıklar. Aras, Clark'ı yetkisiz bir alana ilişkin kendi giriş kayıtlarını silerken gördüğünü ilk kez burada anlatır. Clark'a içtenlikle susma sözü vermiş ve bir süre tutmuştur; sonradan Cen.net güvenlik/soruşturma görevlileri onu çağırıp Clark hakkında sorular sorunca bildiklerini anlatmıştır. Aras neden sorgulandığını bilmez, kendiliğinden ihbar etmemiştir. Nil'e kendi yöneticisinin değil, kendisini sorgulayan güvenlik yetkililerinin adını verir. Nil Aras'ı Cen.net'in tehlikesi konusunda samimiyetle uyarır, ancak somut yeni iz elde edemez. KESİN KARAR C (26 Ekim 2026): Diadolas'ta Nil ile Aras'ın ilk karşılaşması, kovalamacanın bir bölümü ve otoparkta Aras'ın elektroşokla etkisizleştirilmesi güvenlik kameralarına kısmen kaydolur. Nil Aras'ı taşımaz veya sürüklemez; B2 otoparkındaki otomatların arkasında, kameraların görmediği noktada düştüğü yerde kelepçeler ve uyanmasını bekleyip sorgular. Sorgunun hiçbir bölümü kaydedilmez. Cen.net'in Nil'i daha sonra izlemesinde kısmi görüntüler rol oynar; Nil bu takip zincirini o aşamada bilmez. Eski ağaçlıklı servis alanına taşıma/sorgulama planı geçersizdir.",
       "points": [
         "Skopse açılışı: Onj'un taşkınları, Yeni Şehir'i koruyan sel duvarları ve Eski Şehir'in yükü; her sahneyi yağmurlu/neonlu anlatma.",
@@ -2219,7 +2243,7 @@
     {
       "number": "02",
       "title": "Tanılama",
-      "status": "Ayrıntılı plan",
+      "status": "İkinci taslak metni yazıldı",
       "summary": "Nil, Clark'la paylaştığı Gümüşyaka'da Clark'ın Nil'le tanışmadan önce kiraladığı özel daireye döner. Şehrin neon reklamlarıyla dolu teknolojik yüzeyi ile evdeki nadir basılı kitaplar, pikap, kasetçalar, eski radyo ve ahşap eşyalar tezat oluşturur. Nil bir gün önce evi ve Clark'ın çalışma odasını aramış, bilgisayarına erişememiş, dosya ve anahtarları incelemiş; dağınıklık bunun sonucudur. Son sarılmalarını hatırlar. Clark'ın çalışma odasındaki az sayıdaki kişisel çerçeveli fotoğrafları incelerken Hanoi'de birlikte çekildikleri fotoğrafta Clark'ın abisi olduğu okura İLK KEZ açıklanır. Fotoğrafın kağıdında değil ÇERÇEVESİNİN ARKASINDA 1866 tarihli çift kanatlı sembollü kartı bulur. İnternette yeterli bilgi ve sembolün karşılığını bulamaz; evdeki basılı tarih kaynaklarından 1866 depremi ve ardından yeniden yapılanmaya ilişkin bilgi edinir. Fiziksel tarih arşivlerine erişmek için üniversite kütüphanesine gitmesi gerektiğine karar verir. Kart Clark'ın eski kişisel araştırmasından kalmıştır; Nil'e kasıtlı ipucu değildir. Üniversite arşivi erişimi sonraki bölümün konusudur.",
       "points": [
         "Kart: 1866 yılı + çift kanatlı sembol; bu aşamada sembolün kesin anlamı Nil'e açıklanmaz.",
@@ -2280,7 +2304,7 @@
     {
       "number": "03",
       "title": "Anormallik",
-      "status": "Ayrıntılı plan",
+      "status": "İkinci taslak metni yazıldı",
       "summary": "Nil, çift kanatlı sembol ve 1866 bağlantısını araştırabilmek için geçmişte kayıp kızını aramasına yardım ettiği üniversitenin arşiv bilimi profesörü ve arşiv yöneticisi Prof. Dr. Lejla Hadžić'ten arşiv erişimi alır. Eski kayıt ve fotoğraflarda aynı yüzle farklı kuşaklarda görünen Julian Junes'u, ayrıca 1866 sembolünün tekrarlarını fark eder. Julian'ın bir aile soyundan gelen birbirine çok benzeyen kişiler olabileceğini düşünür; doğaüstü gerçeği henüz bilmez. Eski üniversite kanadındaki yüksek tavanlı okuma salonundan alt kattaki iklim kontrollü tarihî arşive iner.",
       "points": [
         "Julian'ın aynı yüzü iki yüzyıla yayılan fotoğraflarda saptanır; Nil bunu önce aile benzerliği olarak yorumlar.",
@@ -2325,7 +2349,7 @@
     {
       "number": "04",
       "title": "Kimlik Doğrulama",
-      "status": "Ayrıntılı plan",
+      "status": "İkinci taslak metni yazıldı",
       "summary": "Nil, son Onj taşkınından birkaç gün sonra Tünek/Yeni Şehir'de lüks bir otelin üst katlarında düzenlenen yardım galasına kayıt sistemine sahte bağışçı ekleyerek girer. Julian'ın otel süitini araştırmayla önceden tespit eder ve gala bitiminde kapısı önünde bekler. Julian, kolunda genç bir hayranıyla geldiğinde Nil 1866 ve çift kanatlı sembolü açar; kadın gönderilir, Nil kısa süre içeri alınır ama sertçe kovulur. Julian hemen Angels'a haber verir ve ertesi sabah Nil'i arayarak Yeni Şehir'de taşkın nedeniyle sakinleşmiş normal bir kafeye çağırır. Clark'ın üç Angels sınavını geçtiğini ama üyeliği reddettiğini söyleyerek Nil'e aynı sınavları teklif eder; doğaüstü gerçekler saklanır.",
       "points": [
         "Havanın Julian'ın duygularına eşlik etmesi, atmosfer denetiminin erken fakat açıkça doğaüstü diye kanıtlanmayan işaretidir.",
@@ -2395,7 +2419,7 @@
     {
       "number": "05",
       "title": "Güvenlik İhlali",
-      "status": "Ayrıntılı plan",
+      "status": "İkinci taslak metni yazıldı",
       "summary": "Nil, Julian'ın refakatinde Angels'ın herkese aynı şekilde uyguladığı üç geleneksel sınavla yüzleşir: 'Kaderine Güven' trafik sınavı; 'Yedi İsim' adlı ahlaki seçim; ve eski kiliseye bağlı botanik serada 'Günah Çıkarma'. Nil, Vesna cinayetindeki delilleri silip Blake'e yalan söylediğini itiraf eder. Ardından yeraltına inerek kablolar ve ekranlarla kendi isteğiyle bütünleşmiş melek NEXARIEL'le tanışır. NEXARIEL, Clark'ın araştırmasının tehlikesini anlatır, Cen.net CEO'sunun şeytani doğasına ilişkin eski kayıtlar gösterir ve Nil'i vazgeçirmeye çalışır. Julian'ın ısrarıyla Nil'e yardım etmelerine izin verilir. Onj Köprüsü ve Eski Şehir'deki adliye sınavlarının ardından Nil sıcak serada uyur, Julian onu gözetir; sera–kilise–taş geçit–modern asansör rotasıyla yeraltına iner. NEXARIEL tarihî belgeleri savaş görüntüleriyle destekler, Nil bu seçilmiş kaynaklara temkinle yaklaşır. Julian'ın Nil'e ilk çok hafif ilgisi, seradaki itirafın ve Nil'in uyuyakalmasının ardından doğar; Nil'in duygusal anı hemen mizahla kırılmaz.",
       "points": [
         "Sınavlar tüm adaylar için aynıdır; üç sınav kesin: 'Kaderine Güven', 'Yedi İsim', 'Günah Çıkarma'.",
@@ -2517,7 +2541,7 @@
     {
       "number": "06",
       "title": "Bağlantı Kuruldu",
-      "status": "Ayrıntılı plan",
+      "status": "İkinci taslak metni yazıldı",
       "summary": "Cennet Ağacı'na girmek için fiziksel beceri ve Cen.net güvenliğini bilen birine ihtiyaç duyan Nil, çocukluk dostu Blake'e ulaşır. Nil ve Julian Eski Şehir kilisesinin yanındaki sokaktan motosikletle Batak'a yönelir; para isteyen sokak çetelerine Blake'i tanıdıklarını söylemelerine rağmen şüpheyle bağlanıp Blake'in yeraltı kulübüne götürülür. Blake'le tekrar bir araya gelen Nil, özel konuşmada Vesna'nın öldürülmesiyle ilgili delilleri kendisinin sildiğini açıklar; Blake bir şey saklandığını zaten sezmiş, iki yıldır Cen.net'e karşı eylemler yürütmüştür. Ardından Cen.net özel birlikleri Nil'i ele geçirmek için Sifon'a baskın yapar; bunu karakterler henüz kanıtlayamaz. Baskın Sifon'da ciddi hasara, yaralılara ve götürülen insanlara yol açar ancak dayanıklı topluluk yılbaşından önce büyük ölçüde toparlanana dek onarım ve kayıp arayışını sürdürür. Üçlü, Blake'in örgütlediği savunmanın yardımıyla kaçıp Julian'ın önerdiği gizli villaya yönelir. Villa Cen.net'ten gizlidir fakat Angels'ın bildiği bir mülktür. Blake ve Nil'in gençliklerinde kısa romantik/fiziksel geçmişi vardır ama Sifon'daki karşılaşma bunu hemen açık etmez. Sifon saldırısı uzun süren onarım ve kayıplar bırakır. Sifon kulübünün gece yaşantısı ve Blake'in yeraltı topluluğuyla ilişkisi, Vesna itirafı öncesinde ayrı bir sahnede görünür olur.\n13 Kasım gecesi Nil ve Julian villaya önce birlikte ulaşır; Blake yaralıları ve Sifon'un güvenliğini kontrol edip gece yarısı civarında tek başına gelir. Nil onu bekler ve yaralarını sorar; Blake Nil'i uyumaya ikna eder. Altıncı bölüm bu gece sona erer.",
       "points": [
         "Nil fiziksel savaşçı olmadığı, Julian da güçlerini Blake'e açıklamadığı için Blake'i ekibe katmak ister.",
@@ -2678,8 +2702,8 @@
     {
       "number": "07",
       "title": "Gizli Ağ",
-      "status": "Ayrıntılı plan",
-      "summary": "13 Kasım gecesi Nil ile Julian'ın villaya gelişi ve Blake'in daha sonra katılmasının ardından 14 Kasım güvenlik/kahvaltı; 15 Kasım Kuşatılmış Eski Ev, park, antrenman ve Julian'la öğle değerlendirmesi; 16 Kasım ortak araştırma. SONRA Cennet Ağacı katları, 31 Aralık balosu ve özel asansörün mekanik anahtar planı keşfedilir. SONRA Julian Nil'e Nephilim olduğunu ve hapsedildiğine inandığı annesini anlatır; Clark'ın da sır sakladığı karşılığı Nil'i incitir. ANCAK BUNDAN SONRA Nil ve Blake ikinci Sifon ziyaretine gider; üç kayıp, aranan kadın, Kemal, Nadejda'nın Ölü Frekans'ı ve Nil–Blake eski romantik geçmişi işlenir. Dönüşte Julian'la yeni bilgiler değerlendirilir. Sifon ziyaretinin eski 17 Kasım tarihi ve onu izleyen 19–21 Kasım kule/Julian tarihlemesi geçersiz; yeni kesin günler henüz kararlaştırılmadı.",
+      "status": "07.01–07.04 yazıldı · 07.05–07.11 plan",
+      "summary": "13 Kasım gecesi Nil ile Julian'ın villaya gelişi ve Blake'in daha sonra katılmasının ardından 14 Kasım güvenlik/kahvaltı; 15 Kasım Kuşatılmış Eski Ev, park, antrenman ve Julian'la öğle değerlendirmesi; 16 Kasım ortak araştırma. 07.05 VE SONRASI ONAYLI PLAN (henüz yazılmış metin değil): SONRA Cennet Ağacı katları, 31 Aralık balosu ve özel asansörün mekanik anahtar planı keşfedilir. SONRA Julian Nil'e Nephilim olduğunu ve hapsedildiğine inandığı annesini anlatır; Clark'ın da sır sakladığı karşılığı Nil'i incitir. ANCAK BUNDAN SONRA Nil ve Blake ikinci Sifon ziyaretine gider; üç kayıp, aranan kadın, Kemal, Nadejda'nın Ölü Frekans'ı ve Nil–Blake eski romantik geçmişi işlenir. Dönüşte Julian'la yeni bilgiler değerlendirilir. Sifon ziyaretinin eski 17 Kasım tarihi ve onu izleyen 19–21 Kasım kule/Julian tarihlemesi geçersiz; yeni kesin günler henüz kararlaştırılmadı.",
       "points": [
         "Villa zengin konut bölgesinde havuzlu evdir; Julian işine Cen.net'te devam eder ve sık sık yoktur.",
         "Nil ve Julian, Aurelian'ın şeytani kimliğini ve meleklerle bağlarını Blake'ten saklar; Blake neden Julian'ın işin içinde olduğunu sorgular.",
@@ -2701,7 +2725,8 @@
         "Julian'ın Nephilimliğinin Angels'ta yasak olduğu, tarihte başka Nephilimler olduğu, çocukluktan itibaren önce kendini günah görüp sonra istisna saydığı kanondur. Angels'ta kendisini savunacak gerçek dost çevresi yok; bir iki çocukluk tanıdığı var.",
         "Julian Nil ve Blake'in arasında eskiden bir şeyler olabileceğini sezer, kesin öğrenmez. Kemal sokak çocukları ağıyla sevk ipucu ararken kendi başına davranıp bir arkadaşını tehlikeye atar; Sifon hala saldırıdan toparlanmaktadır.",
         "Villa ay boyunca sadece operasyon alanı değildir; Julian'ın sosyete işleri, Blake'in Sifon onarımı ve Nil'in araştırmaları ve dışarıdaki yaşam sürer.",
-        "Kesin sahne sırası 07.01–07.11 olarak yeniden numaralandırıldı: ilk villa → eski ev → antrenman → ortak araştırma → Cennet Ağacı planı → Julian'ın annesi → ikinci Sifon → Kemal → Nadejda → villa değerlendirmesi → villa gecesi. 16 Kasım sonrası kesin ara tarihler yeniden kararlaştırılacak."
+        "Kesin sahne sırası 07.01–07.11 olarak yeniden numaralandırıldı: ilk villa → eski ev → antrenman → ortak araştırma → Cennet Ağacı planı → Julian'ın annesi → ikinci Sifon → Kemal → Nadejda → villa değerlendirmesi → villa gecesi. 16 Kasım sonrası kesin ara tarihler yeniden kararlaştırılacak.",
+        "07.04 ortak araştırma: siyah/gri araçlar ve eski depo/sevk hattı yalnız iz niteliğindedir; Cen.net suçuna kesin kanıt değildir."
       ],
       "scenes": [
         {
@@ -2763,7 +2788,7 @@
             "15 Kasım: Clark'ın eski evinin gözetlendiğini gördükten ve bankta konuştuktan sonra Nil ile Blake villaya döner.",
             "Blake villanın güvenli antrenman alanında Nil'e spor/savunma çalıştırır; Nil fiziksel olarak güçlü dövüşçüye dönüşmez.",
             "İki yıllık uzaklıkla geçmiş fiziksel alışkanlıklar birlikte hissedilir; romantik geçmiş okur için ikinci Sifon ziyaretine kadar kesinleştirilmez.",
-            "Bu sahne 15 Kasım villadaki değerlendirme ile 16 Kasım ortak araştırmadan ÖNCE yazılacaktır.",
+            "Bu antrenman 15 Kasım sahnesinde Draft 2 kapsamında yazılmıştır; 16 Kasım ortak araştırmasından önce gerçekleşir.",
             "Julian antrenmanın sonuna deneyimli dövüşçü olarak katılır; ardından öğle yemeği ve mevcut değerlendirme sahnesine geçilir."
           ],
           "draftStatus": "YAZILDI — 15 Kasım antrenmanı; Julian katılımlı son revizyon",
@@ -2784,9 +2809,11 @@
           "location": "Villa / saha",
           "atmosphere": "Nedensel, somut, karaktere özgü.",
           "events": [
-            "16 Kasım",
-            "Nil'in elindeki teknik veriler, Blake'in iki yıllık Cen.net araştırması ve Julian'ın sosyal bilgileri birleştirilir.",
-            "Eski eve girilemediğinden araştırma teknik ve saha verileriyle sürer. İkinci Sifon ziyareti Cennet Ağacı planı ve Julian'ın özel konuşmasından SONRA yapılır."
+            "16 Kasım: önceki gün eski evin çevresindeki kuşkulu araçların görülmesi ve villadaki antrenmanın ardından Nil, Blake ve Julian birlikte Cen.net araştırmasını sürdürür.",
+            "Nil'in elindeki teknik izler, Blake'in iki yıllık Cen.net güvenlik/lojistik verileri ve Julian'ın kamuya açık sosyal bilgileri çapraz incelenir; üçü aynı bilgiye baştan sahip değildir.",
+            "Nil'in dikkatini çeken siyah/gri araçlar ile eski depo ve sevk hattı kayıtları bir araştırma izidir. Bunlar Cen.net'in belirli bir suçu işlediğine dair kesin kanıt veya doğrudan suçüstü bulgusu değildir.",
+            "Eski eve girilemediğinden Clark'ın bilgisayarı veya odasından yeni veri elde edilmiş sayılmaz; analiz mevcut bulgularla sınırlıdır.",
+            "Bu sahne 07.01–07.04 arasında yazılmış Draft 2'nin son doğrulanmış sahnesidir. 07.05 Cennet Ağacı kat/anahtar planı bundan sonra gelir; ikinci Sifon ziyareti 07.06 Julian itirafından da sonradır."
           ],
           "draftStatus": "YAZILDI — 16 Kasım ortak araştırma; 15 Kasım antrenmanından sonra"
         },
@@ -2825,21 +2852,15 @@
           "location": "Villa; özel sohbet alanı",
           "atmosphere": "İnanç, aile kaybı ve biriken tereddüt.",
           "events": [
-            "Julian Nil'e yaklaşık iki yüz yaşında Nephilim olduğunu anlatır.",
-            "Melek annesinin melekler tarafından neresi bilinmeyen bir yerde tutulduğunu, insan babasının da öldürüldüğünü söyler.",
-            "Meleklerin kendisini aileden kopardıktan sonra yetiştirdiğini, bu düzene gerçekten inandığını gösterir.",
-            "Julian'ın yüzünün kusursuz ama insanlar için hatırlaması güç olduğunu açıklar; Nil'in arşivde onu tanıyabilmesi ikisini şaşırtır.",
-            "Nil annesinin bir itaat aracı olarak kullanılıyor olabileceğini söyler; Julian savunmaya geçer, gerçeğe hazır değildir.",
-            "Blake bu konuşmada bulunmaz; Julien'in kökenini henüz bilmez.",
-            "Sohbet Nil'in eski arşiv fotoğraflarında Julian'ın hiç yaşlanmayan yüzünü sormasıyla başlar; Julian Nephilim sırrını, ardından annesinin esaretini ve babasının ölümünü anlatır. Nil Angels'a bağlılığını sorgulayınca annesinin itaat aracı olarak tutuluyor olabileceğini söyler; Julian karşı çıkar.",
-            "Julian Nephilimliğin Angels'ta yasak, kendisinin cemaatteki tek Nephilim olduğunu anlatabilir; eskiden kendini bir günah sayarken yıllar içinde kendini düzenin istisnası olarak görmeye başlamıştır. NEXARIEL dışında başmeleklerle görüşmemiştir; diğerlerinin iyiliğine dair yargısı kesin değildir.",
-            "Bu kişisel sohbette Nil ve Julian birbirini daha iyi tanır; romantik duygu sakince büyür, hemen şaka veya öpüşmeyle kesilmez. Julian'ın Nil'e karşı alışıldık flört rahatlığını yitirmesinin erken işaretleri olabilir.",
-            "Julian'ın özel itirafında: Julian ailesine olanların büyük felaketi önlemek için zorunlu olduğuna inandırılmıştır; kendisini büyütenleri sever. Nil'e sır verir; Blake'e söylememesini ister. Nil ortak güvenlik risklerini Blake'e aktarır ama Nephilim kimliğini saklar.",
-            "Nil'in 'Seni yetiştirenler sana yalan söylemiş olabilir' sözlerine Julian istemeden Clark'ın da Nil'den sır sakladığını hatırlatır; Nil incinir, Julian fark eder; Blake'e Nephilim sırrı açıklanmaz.",
-            "Julian'ın özel itirafında: Nil'in Angels'ın yalan söylemiş olabileceği itirazına Julian Clark'ın da Nil'den sırlar sakladığını hatırlatarak istemeden karşılık verir. Nil incinir; Julian bunu fark eder. Bu konuşma aralarındaki güveni değiştirir, hemen şakayla geçiştirilmez.",
-            "Julian, eski fotoğraflardan başlayan özel konuşmada annesi ve Nephilim geçmişini Nil'e ikinci Sifon ziyaretinden ÖNCE anlatır; Blake bunu öğrenmez.",
-            "Nil'in Angels'ın yalan söylemiş olabileceği sözlerine Julian Clark'ın da Nil'den sır sakladığını hatırlatır; söz ikisini de incitir ve aralarındaki güveni etkiler.",
-            "Julian'ın annesinin hapsedilmesi ve babasının öldürülmesi kendisine öğretilen anlatıdır; nesnel doğruluğu kesinleşmiş değildir. Nil'in yetiştirenlerin yalan söyleyebileceği itirazına Clark'ın da Nil'den sır sakladığını hatırlatır; bu söz Nil'i incitir."
+            "Nil, arşivde farklı yüzyılların fotoğraflarında gördüğü değişmeyen yüzü sorar; Julian yaklaşık iki yüz yaşında bir Nephilim olduğunu yalnız ona anlatır.",
+            "Julian, melek annesinin günah nedeniyle hapsedildiğine ve insan babasının meleklerce öldürüldüğüne inandığını söyler. Bu kendisine öğretilen anlatıdır; nesnel doğruluğu henüz kesinleşmiş değildir, annesinin nerede tutulduğunu bilmez.",
+            "Julian melekler tarafından yetiştirilmiştir; öğretilerine gerçekten bağlıdır. Nephilim olmak Angels için yasaktır, cemaatte tek Nephilim odur. Başka başmeleklerle değil NEXARIEL'le görüşmüştür.",
+            "Yüzünün insan hafızasında zor tutulduğunu açıklar; Nil'in eski fotoğraflarda onu ayırt etmesi ikisini şaşırtır. Hamlet'in gizli etkisini ikisi de bilmez.",
+            "Nil, kendisini yetiştiren meleklerin ona yalan söylemiş olabileceğini ve annesiyle ilgili hikayenin bir itaat aracı olabileceğini öne sürer.",
+            "Julian savunmaya geçip istemeden Clark'ın Nil'i yanına alıp büyütmesine rağmen ondan sırlar sakladığını hatırlatır. Julian yalnız Nil'in Clark'ın sakladıklarına kırıldığını bilir; Clark'ın bütün sırlarını bilmez.",
+            "Nil incinir, Julian sözünün etkisini görür. Nil analojinin bütünüyle haksız olmadığını düşünebilse de Clark'ın sırlarıyla Angels'ın olası yalanlarını aynı saymaz. Konuşma aralarındaki güveni etkiler; hemen flört veya espriyle hafifletilmez.",
+            "Julian bu kişisel sırrı Blake'e açıklamamasını ister; Blake sahnede yoktur ve Nephilim olduğunu öğrenmez.",
+            "Julian'ın Nil'e duygusal ilgisi yavaşça derinleşir; bu sahnede ilk öpüşme olmaz. 07.07–07.09 ikinci Sifon ziyareti bundan SONRA gerçekleşir."
           ],
           "authorSecret": "Nil'in Julian'ın fotoğraflarını tanımasında Hamlet'in rolü vardır."
         },
@@ -2860,7 +2881,7 @@
             "Nil'in hedef olup olmadığı henüz kesin değildir.",
             "Kemal, Sifon'da büyümüş 15–16 yaşında, zeki ve gözü açık bir gençtir; Blake'le dostça ve hafif küstah konuşur. Baskında askerlerin özellikle bir kadın aradığını bizzat duymuş, sonrasında götürülenlerin isimlerini ve izlerini araştırmıştır; Nil'le burada tanışır.",
             "Sifon ikinci ziyarette hala onarım halindedir; yaralılar, kayıp yakınları ve hasar görünür, yılbaşından önce büyük ölçüde ayağa kalkacaktır. Blake, villa hazırlıkları boyunca yardım ve arama faaliyetlerini örgütlemeye devam eder.",
-            "Kemal diğer sokak çocuklarından gelen bilgilerle kayıpların izini sürmekte olduğunu anlatır; somut takip hatası ve yanındaki çocuğun tehlikeye girmesi henüz yaşanmaz, bir sonraki 07.04a sahnesinde gerçekleşir.",
+            "Kemal diğer sokak çocuklarından gelen bilgilerle kayıpların izini sürmekte olduğunu anlatır; somut takip hatası ve yanındaki çocuğun tehlikeye girmesi henüz yaşanmaz, bir sonraki 07.08 sahnesinde gerçekleşir.",
             "Nil'in Sifon'dayken gördüğü bir nesne, duyduğu söz ya da Blake'le doğal sohbet, gençliklerinde kısa süreli romantik/fiziksel yakınlaşma yaşadıklarını okura ilk kez gösterir; Nil eski hislerinin yeniden canlandığına hemen hükmetmez.",
             "İkinci Sifon ziyaretinde: Nil ve Blake aranan kadının Nil olabileceğini açıkça konuşur, kesin kanıtları yoktur. Geçmiş romantik/fiziksel yakınlıkları okur için burada kesinleşir.",
             "ikinci Sifon ziyaretinden sonra Nil villadan çıkışlarını ciddi biçimde azaltır; bir süre sonra sıkılıp dışarı çıkar. Tarihi ve bağlamı henüz açık.",
@@ -2873,7 +2894,7 @@
           ],
           "authorSecret": "Baskıncıların aradığı kadın Nil'dir; Nil, Blake ve Kemal'in bunu kesin gösteren belgesi yoktur.",
           "notes": [
-            "Kemal'in sokak çocuklarıyla gerçekleştireceği riskli eylemi burada bitmiş olay gibi anlatma; olayın gerçekleştiği tek sahne 07.04a."
+            "Kemal'in sokak çocuklarıyla gerçekleştireceği riskli eylemi burada bitmiş olay gibi anlatma; olayın gerçekleştiği tek sahne 07.08."
           ]
         },
         {
@@ -2897,7 +2918,8 @@
           ],
           "notes": [
             "Bu olay 7. bölümdeki ikinci Sifon ziyaretinin devamıdır; bağımsız Kemal bakış açısı yoktur.",
-            "Kemal kayıp kişiyi bulmaz ve Cen.net'in en büyük sırlarını çözmez."
+            "Kemal kayıp kişiyi bulmaz ve Cen.net'in en büyük sırlarını çözmez.",
+            "07.07'de Kemal'in topladığı bilgi anlatılır; riskli takibe kalkışması ve tehlikeye giren arkadaşı yalnız bu 07.08 sahnesinde olur."
           ]
         },
         {
@@ -2939,7 +2961,7 @@
             "Nil ve Blake Sifon baskınında bir kadın arandığını, evin çevresindeki araçları aktarır.",
             "Nadejda'nın ikinci sinyal uyarısını Julian'a söylemezler; Blake'in şakasına Nil 'Boşver' der.",
             "Julian sosyal bağlantılarından ve dolaylı yollardan arama emri olup olmadığını öğrenmeyi önerir, Nil izlenebilir olacağı için reddeder.",
-            "Julian, Blake ile Nil'in yıllardan gelen bedensel rahatlığını görüp aralarında yalnız arkadaşlıktan fazlası olmuş olabileceğini belirsizce sezer. Şüpheyi artıran tesadüfi eski anı göndermesi bu sahnede duyulmaz; daha sonraki villa konuşmasında duyulabilir; ayrı 07.07a sahnesi yoktur.",
+            "Julian, Blake ile Nil'in yıllardan gelen bedensel rahatlığını görüp aralarında yalnız arkadaşlıktan fazlası olmuş olabileceğini belirsizce sezer. Şüpheyi artıran tesadüfi eski anı göndermesi bu sahnede duyulmaz; daha sonraki villa konuşmasında duyulabilir; ayrı bir ara sahne yoktur.",
             "Nil ve Blake Sifon'dan döndükten sonra yeni kayıp/kadın/sevk bilgilerini Julian'la değerlendirir; Cennet Ağacı kat planı ilk kez burada keşfedilmez.",
             "Bu değerlendirme Cennet Ağacı kat planını yeniden keşfetmez; önceki planla yeni Sifon bilgileri arasındaki güvenlik riski tartışılır."
           ],
@@ -3042,7 +3064,7 @@
     {
       "number": "08",
       "title": "Yetki Yükseltme",
-      "status": "Ayrıntılı plan",
+      "status": "Onaylı plan · henüz ikinci taslak metni değil",
       "summary": "İkinci Sifon dönüşü ve yeni bulguların değerlendirilmesinden sonra giriş rolleri belirlenir: Julian gerçek davetli, Blake sınırlı yetkili güvenlik görevlisi, Nil yurt dışındaki kadın sanat hamisi. Rol seçiminden sonra, kasım sonu–Aralık başında Nil hizmetçiye Clark'ın parasından rüşvet teklif ederek orijinal fiziksel davetiyeyi Eski Şehir'deki isimsiz posta kutusuna gönderir, bizzat alır ve kontrol eder. Aralık başında yalnız bir bağımsız galeri ziyareti yapar; ortasında Blake'in Sifon ve güvenlik araştırmaları sürer; son haftada kıyafet, rol ve analog haberleşme provaları yapılır. 30 Aralık Blake devam etmeyi seçer; 31 Aralık ayrı kimliklerle giriş yapılır.",
       "points": [
         "VIP giriş: dijital veya süslü fiziksel orijinal davetiye + kimlik kontrolü; biyometrik doğrulama yok.",
@@ -3088,9 +3110,10 @@
           "atmosphere": "Lüks davetiye kültürü, yüksek riskli uzaktan rüşvet.",
           "events": [
             "Nil gerçek kadın sanat hamisinin yurt dışındaki ev personelini araştırır; hizmetçiye çevrim içi ulaşır ve Clark'ın parasını kullanarak yüksek rüşvet pazarlığı yapar.",
-            "Nil Eski Şehir'de kendi evi ve villadan ayrı isimsiz kiralık posta kutusu ayarlar; hizmetçi fotoğraf değil orijinal fiziksel davetiyeyi oraya gönderir.",
+            "Nil Gümüşyaka'daki evinden ve villadan ayrı, Eski Şehir'de eski bir binanın isimsiz kiralık posta kutusunu ayarlar. Hizmetçi orijinal FİZİKSEL davetiyeyi bu kutuya bıraktırır; Nil yalnız dijital görsel veya kopyayla yetinmez.",
             "Nil bizzat posta kutusuna giderek zarfı teslim alır; davetli adını, etkinlik bilgilerini ve fiziksel doğrulama ayrıntılarını inceler. Gerçek davetiye kimlik kontrolünden kesin geçeceği anlamına gelmez.",
-            "Hizmetçi ve sanat hamisiyle ilgili yeni özel isim uydurulmaz; gerçek hamisi bu plandan habersizdir."
+            "Hizmetçi ve sanat hamisiyle ilgili yeni özel isim uydurulmaz; gerçek hamisi bu plandan habersizdir.",
+            "Bu, ön görüşme ve pazarlıkla başlayıp Nil'in kutuya bizzat gidişi, zarfı açması ve kimlik/etkinlik ayrıntılarını denetlemesiyle tamamlanan bağımsız dramatize edilmiş sahnedir; 31 Aralık girişine özetlenerek atlanmaz."
           ]
         },
         {
@@ -3176,7 +3199,7 @@
     {
       "number": "09",
       "title": "Sızma",
-      "status": "Ayrıntılı plan",
+      "status": "Onaylı plan · 31 Aralık",
       "summary": "31 Aralık gecesi Julian davetli olarak, Nil gerçek fiziksel davetiye ve sanat hamisi kimliğiyle, Blake sınırlı yetkili güvenlik personeli olarak ayrı girer. Nil 99. kat galeride asansörün güvenliğini inceler; Julian güvenlik şefini sarhoş edemez. Nil–Julian'ın ilk öpücüğü kimlik şüphesini dağıtmak içindir, Blake görmez. Nil maskeli Aurelian'la sanat üzerine konuşur ve kimliğini henüz bilmez. Blake şefi tenha yere çeker; şeytan olduğu ortaya çıkan şefle üçlü savaşır, Julian'ın kutsal elektriği şefi öldürür ve Blake doğaüstünü ilk kez açıkça görür. Anahtarla 100. kata çıkarlar; Clark'ın CEO ile görüşmesi doğrulanır, konuşmanın içeriği bulunamaz. Aurelian'la çatışma sonunda Nil'in melek kanatları açılır ve üçü kaçar.",
       "points": [
         "Balonun mekânı 99. kat kişisel sanat koleksiyonu, 100. kat ofis. Julian davetli, Nil sanat hamisi sahte kimliğiyle, Blake güvenlik kılığıyla girer.",
@@ -3197,8 +3220,8 @@
         "Julian ile Nil baloda dikkat dağıtmak amacıyla rol yaparken ilk kez öpüşür; öpüşme gerçek hislere dönüşür, sonrasında çatışma/kaçış/hapishane yüzünden ilk kitapta üzerine konuşulmaz, Blake hiç fark etmez.",
         "Yeni Şehir'in elit gece hayatı alkol, uyuşturucu, güç ilişkileri ve ayrıcalıkların kötüye kullanımıyla yaşanmış bir sosyal dünya olarak görülür.",
         "Kanatlanma ve iki kişiyi taşıyarak süzülme Nil'i kısa süreli yorar; daha kalıcı etki bedene yabancılaşma ve kontrol kaybı korkusudur.",
-        "Eklenen 09.02a, 09.02'de anahtarı içirerek alma denemesi sonuçsuz kaldıktan ve 09.03'te maskeli Aurelian'la sanat sohbetinden önce Nil–Julian ilk öpüşmesini taktiksel rolün içinden doğurur; ardından konuşamazlar. Blake bilmez.",
-        "09.01 hazırlık ve ayrı girişler, 09.02 Julian'ın anahtarı almayı denemesi, 09.02a Nil–Julian'ın tek ilk öpüşmesi, 09.03 Nil'in maskeli Aurelian'la sohbeti kronolojik olarak ayrıdır."
+        "Eklenen 09.03, 09.02'de anahtarı içirerek alma denemesi sonuçsuz kaldıktan ve 09.04'te maskeli Aurelian'la sanat sohbetinden önce Nil–Julian ilk öpüşmesini taktiksel rolün içinden doğurur; ardından konuşamazlar. Blake bilmez.",
+        "09.01 hazırlık ve ayrı girişler, 09.02 Julian'ın anahtarı almayı denemesi, 09.03 Nil–Julian'ın tek ilk öpüşmesi, 09.04 Nil'in maskeli Aurelian'la sohbeti kronolojik olarak ayrıdır."
       ],
       "scenes": [
         {
@@ -3218,13 +3241,12 @@
             "Blake etkinlik gecesi bir güvenlik görevlisinin sınırlı yetkili üniforma ve fiziksel kimliğini ele geçirir; kaç görevliden geçtiği ve kesin yöntem ayrıca teyit edilmeden sabitlenmez.",
             "Blake içeride daha yetkili bir korumayı da uyuşturur ve kılığına girer; koruma düşük dereceli şeytandır ama Blake bunu anlamaz.",
             "Balonun davetlileri içki, pahalı uyuşturucular, gizli ilişkiler ve güç oyunlarıyla Yeni Şehir'in yozlaşmış aristokratik hayatını somutlaştırır.",
-            "Nil ve Julian baloya ayrı kimliklerle girer ve şimdilik görevin gerektirdiği mesafeyi korur; güvenlik şüphesini dağıtmak için yakınlaşmaları ve ilk öpüşmeleri 09.02a'da, Julian'ın anahtar girişiminin başarısızlığından sonra gerçekleşir.",
-            "Blake, muhafız kılığına girme ve güvenlik erişimini sürdürme göreviyle meşguldür; 09.02a'da gerçekleşecek öpüşmeye tanık olmaz, sonrasında da doğaüstü çatışmalar nedeniyle öğrenmez.",
-            "GÜNCEL KESİN KARAR: Özel güvenlik şefi şeytandır; Blake onu tenha yere çeker, Nil ve Julian çatışmaya katılır; Julian'ın kutsal elektriği şefi öldürür, Blake doğaüstünü ilk kez görür. Eski 'ölümü açık' notu geçersiz.",
+            "Nil ve Julian baloya ayrı kimliklerle girer ve şimdilik görevin gerektirdiği mesafeyi korur; güvenlik şüphesini dağıtmak için yakınlaşmaları ve ilk öpüşmeleri 09.03'da, Julian'ın anahtar girişiminin başarısızlığından sonra gerçekleşir.",
+            "Blake, muhafız kılığına girme ve güvenlik erişimini sürdürme göreviyle meşguldür; 09.03'da gerçekleşecek öpüşmeye tanık olmaz, sonrasında da doğaüstü çatışmalar nedeniyle öğrenmez.",
             "Maskeli baloda rutin yüz tanıma yapılmaz ama davetli listesi ve fiziksel güvenlik kontrolleri vardır."
           ],
           "notes": [
-            "Balo girişindeki hazırlık ile 09.02a'daki gerçek öpüşme aynı olayın iki tekrarı değildir. Kronolojik ilk öpüşme yalnız 09.02a'da yaşanır."
+            "Balo girişindeki hazırlık ile 09.03'daki gerçek öpüşme aynı olayın iki tekrarı değildir. Kronolojik ilk öpüşme yalnız 09.03'da yaşanır."
           ]
         },
         {
@@ -3240,8 +3262,7 @@
           "events": [
             "Julian şefi içirip işinden koparmayı, sarhoş edip mekanik asansör anahtarını almayı dener.",
             "Şef çok içmesine rağmen sarhoş olmaz; nedeni onun gerçek şeytan doğasıdır.",
-            "Julian cihaz üzerinden Nil/Blake'e durumun işe yaramadığını anlatır.",
-            "GÜNCEL KESİN KARAR: Özel güvenlik şefi şeytandır; Blake onu tenha yere çeker, Nil ve Julian çatışmaya katılır; Julian'ın kutsal elektriği şefi öldürür, Blake doğaüstünü ilk kez görür. Eski 'ölümü açık' notu geçersiz."
+            "Julian cihaz üzerinden Nil/Blake'e durumun işe yaramadığını anlatır."
           ],
           "authorSecret": "Şef şeytandır; bu aşamada üçlü bunun farkında değildir."
         },
@@ -3261,8 +3282,7 @@
             "Nil'in bulunduğu bölümde bir güvenlik görevlisinin uzun süre bakması veya kimliğiyle ilgili kuşkulu ilgisi ikisini alarma geçirir; henüz tam kimlik tespiti olmaz, görevlilerin hepsi Aurelian'ın bildiklerini bilmez.",
             "Julian ile Nil, yüksek sosyetede rahatsız edilmemesi beklenen flört eden çift görünümü vererek dikkatleri kimlik kontrolünden uzaklaştırmayı dener; rolün bir parçası olan ilk öpüşmeleri beklenmedik biçimde gerçek çekimi açığa çıkarır.",
             "Julian'ın normalde çok rahat yaptığı flört bu kez onu hazırlıksız bırakır; Nil de anın gerçekliğini fark eder. Ancak görev sürdüğü için konuşmayı ertelemek zorunda kalırlar.",
-            "Ardından Julian anahtar için başka yol ararken Nil koleksiyona döner ve 09.03'te maskeli Aurelian'la sanat sohbetine girer. CEO çatışması, kaçış, melekler ve klinik nedeniyle bu öpüşme ilk kitapta bir daha konuşulmaz; Blake de fark etmez.",
-            "GÜNCEL KESİN KARAR: Özel güvenlik şefi şeytandır; Blake onu tenha yere çeker, Nil ve Julian çatışmaya katılır; Julian'ın kutsal elektriği şefi öldürür, Blake doğaüstünü ilk kez görür. Eski 'ölümü açık' notu geçersiz."
+            "Ardından Julian anahtar için başka yol ararken Nil koleksiyona döner ve 09.04'te maskeli Aurelian'la sanat sohbetine girer. CEO çatışması, kaçış, melekler ve klinik nedeniyle bu öpüşme ilk kitapta bir daha konuşulmaz; Blake de fark etmez."
           ],
           "notes": [
             "Bu öpüşme 9. bölümdeki ilk ve tek kesin öpüşmedir; yeniden villa geçmişine eklenmez.",
@@ -3287,8 +3307,7 @@
             "Nil zihninde Hamlet'in 'Mısır' ve 'Firavun' yönlendirmelerini duyar, konuşmayı sürdürür.",
             "Nil, 09.02'deki analog haberleşmeden Julian'ın anahtarı almayı başaramadığını bilir; balo kalabalığında Julian'ın her hareketini uzaktan sürekli gözetleyebildiği varsayılmaz.",
             "Aurelian, Diadolas kayıtlarıyla Nil'in yüzünü/sesini, Sifon çevresi kameralarıyla Julian'la bağlantısını bilir; sanat hamisinin geçmişi hakkındaki konuşma tutarsızlıkları şüphesini artırır. Divine Senses sayesinde Nil'in içindeki çip kaynaklı olağan dışı izi algılar. Maskeye rağmen onun Nil olduğunu anlar ama belli etmez; Hamlet'in kimliğini ve çipin doğasını bilmez.",
-            "Balo boyunca Nil ve Julian'ın ilk öpüşmesinden sonra bu yakınlaşma hakkında baş başa konuşmalarına fırsat olmaz; Aurelian'ın sanatsal kimlik sorgulaması ve operasyon hızla ağırlaşır.",
-            "GÜNCEL KESİN KARAR: Özel güvenlik şefi şeytandır; Blake onu tenha yere çeker, Nil ve Julian çatışmaya katılır; Julian'ın kutsal elektriği şefi öldürür, Blake doğaüstünü ilk kez görür. Eski 'ölümü açık' notu geçersiz."
+            "Balo boyunca Nil ve Julian'ın ilk öpüşmesinden sonra bu yakınlaşma hakkında baş başa konuşmalarına fırsat olmaz; Aurelian'ın sanatsal kimlik sorgulaması ve operasyon hızla ağırlaşır."
           ],
           "dialogue": [
             "Hamlet (Nil'in zihninde): 'Mısır.'",
@@ -3309,7 +3328,8 @@
           "events": [
             "Blake güvenlik uyarısıyla özel güvenlik şefini tenha alana çağırır ve saldırır; şefin şeytan olduğu ortaya çıkar.",
             "Nil 99. kat galerisindeki teknik incelemeden sonra çatışmaya katılır; Julian'ın kutsal elektriği şefi öldürür, Blake doğaüstünü ilk kez açıkça görür.",
-            "Üçlü mekanik anahtarı alır; şefin iletişiminin kesilmesi kısa zaman penceresini daraltır."
+            "Üçlü mekanik anahtarı alır; şefin iletişiminin kesilmesi kısa zaman penceresini daraltır.",
+            "Özel güvenlik şefinin şeytani doğasının kesin ortaya çıkışı ve ölümünün tek sahnesi budur; öncesindeki sahneler bunu yalnızca hazırlık/kuşku veya yazar bilgisi olarak taşıyabilir."
           ]
         },
         {
@@ -3325,8 +3345,7 @@
           "events": [
             "Özel asansör anahtarıyla 100. kata çıkarlar.",
             "Koca ofiste neredeyse yalnızca eski masa, birkaç nesne ve panoramik Skopse camları vardır.",
-            "99. kat koleksiyonun aşırılığıyla 100. katın boşluğu karşıttır.",
-            "GÜNCEL KESİN KARAR: Özel güvenlik şefi şeytandır; Blake onu tenha yere çeker, Nil ve Julian çatışmaya katılır; Julian'ın kutsal elektriği şefi öldürür, Blake doğaüstünü ilk kez görür. Eski 'ölümü açık' notu geçersiz."
+            "99. kat koleksiyonun aşırılığıyla 100. katın boşluğu karşıttır."
           ]
         },
         {
@@ -3425,7 +3444,7 @@
     {
       "number": "10",
       "title": "Sistem Hatası",
-      "status": "Ayrıntılı plan",
+      "status": "Onaylı plan · henüz ikinci taslak metni değil",
       "summary": "Cennet Ağacı'ndan kaçan Nil, Julian ve Blake kanatların ortaya çıkışı karşısında sarsılır. Julian hâlâ meleklerin cevap verebileceğine inanarak NEXARIEL'e gitmeyi önerir; Blake buna karşıdır, öncelikle doktora gidilmesini ister. Nil ve Julian doğaüstü gerçeği Blake'e anlatır, ardından meleklere başvurmaya karar verirler. Blake güvenmediği için gizlice takip eder. NEXARIEL, Clark'ın araştırmasının bir insana melek kanatları kazandıracak kadar ilerlediğini öğrenince şaşırır, öfkelenir ve bunu günah sayarak Nil'in hapsedilmesini emreder. Julian onu savununca kendisi de hapsedilir; ikilinin com-link cihazlarına el konulur. Çatıda Julian, daha önce Angels'ı ve sınavlarını hiç bilmeyen Blake'e sınavları geçmediği için merkeze gelemeyeceğini söyler. Blake bunca sırrın ardından öfkeyle karşı çıkıp Nil'i doktora yönlendirmeye çalışır, sonra kabullenmiş görünerek onları gizlice takip eder. Nil'in bedene yabancılaşması yorgunluğundan daha kalıcıdır.",
       "points": [
         "Nil kanatlarının çıkması karşısında panikler; kanatlar sürekli dışarıda değil, sırtından çıkıp tekrar çekilir.",
@@ -3453,7 +3472,7 @@
           "location": "Onj'un Yeni Şehir kıyısındaki kullanılmayan servis yapısının çatısı",
           "atmosphere": "Şok, öfke, absürt gerçekliğe tepki; Nil bedeninde kontrol kaybını hisseder.",
           "events": [
-            "09.09'da yaşanmış uzun ve kontrolsüz süzülüşün ardından çatıda birbirlerini toparlamaya çalışırlar; sert iniş ve kanatların sırtına çekilmesi yeni bir ikinci inişmiş gibi tekrarlanmaz.",
+            "09.10'da yaşanmış uzun ve kontrolsüz süzülüşün ardından çatıda birbirlerini toparlamaya çalışırlar; sert iniş ve kanatların sırtına çekilmesi yeni bir ikinci inişmiş gibi tekrarlanmaz.",
             "Nil sırtından kanat çıkması karşısında panikler; kanatlar o anda yeniden içeridedir.",
             "Julian olayın insanlarda olmaması gereken melekî güce benzediğini görür ve meleklerden açıklama istemeyi önerir.",
             "Blake yıldırım/şeytan/kanat olaylarını sindirmekte zorlanır; ona melekler ve şeytanlar anlatılır.",
@@ -3528,7 +3547,7 @@
     {
       "number": "11",
       "title": "Kontrolün Ele Geçirilmesi",
-      "status": "Ayrıntılı plan",
+      "status": "Onaylı plan · henüz ikinci taslak metni değil",
       "summary": "Blake, kilisenin çevresini gözlemleyip meleklerin insan hizmetkârlarından bazılarını yakalayarak sorgular; öğrendiklerini birleştirip yeraltı merkezine sızar. Nil ve Julian, ileri teknoloji yerine eski taş duvarlar ve demir parmaklıklardan oluşan birbirine yakın ama ayrı zindan hücrelerinde tutulmaktadır. Julian annesini düşünerek 'Acaba onu nasıl bir yerde tutuyorlar?' diye söze girer. Blake, görevlilerin Nil'in bedenini açıp içindekini çıkarmak ve üzerinde deney yapmak istediğini duyar; bunun Aurelian'ın planına benzediğini anlar. Kendi becerisiyle hücre kilitlerini açar. Ardından Julian merkezin geçitlerini bilerek kaçışlarına yol gösterir. NEXARIEL son anda gök gürültüsünü andıran sesiyle onları fark eder, fakat üçlü dışarı çıkmayı başarır. Blake bakım personelini sistematik izleyip sorgular ve bir görevli kılığıyla eski tünellerden girer; kaçış Nil'in uyuduğu seradan geçip kilisenin arka demir servis kapısından Eski Şehir sokağına açılır. Julian'ın Angels'tan tanıdığı bir iki dostu bile onu savunmaz; yasak Nephilim kimliğine ilişkin önyargı görünürleşir. Blake'in onları kurtarması Julian ve Blake arasında iki taraflı saygı doğurur.",
       "points": [
         "Blake, Nil ile Julian'ın çıkmaması + com-link yanıtı alamaması üzerine harekete geçer; meleklerce hapsedildiklerini başlangıçta bilmez.",
@@ -3658,7 +3677,7 @@
     {
       "number": "12",
       "title": "Sistemden Çıkış",
-      "status": "Ayrıntılı plan / final",
+      "status": "Onaylı plan · henüz ikinci taslak metni değil",
       "summary": "Meleklerden de kaçan Nil, Julian ve Blake bu kez ortak kararla Doktor Daniil'e gider. Daniil Nil'in sıradan ön kol implantından farklı, sırtındaki genetik olarak kendisine uyarlanmış olağanüstü çipi bulur. Ayrıntılı inceleme çipin sinir sistemiyle bütünleştiğini ve çıkarılmasının hayati risk taşıdığını gösterir. Nil yine de ameliyata girer. Daniil tam çıkarmak üzereyken Hamlet ilk kez kendi hayatı için 'Dur! Ölmek istemiyorum!' diye seslenir; Nil ameliyatı durdurur. Hamlet artık yeterince güçlü olduğunu söyleyerek bir ekrana bağlanmasını ister, kendisini ekrana aktarır ve Nil, Julian, Blake ile konuşur. Kendisini Clark'ın yarattığını, ilk prototip kardeşi Ophelia'nın Clark'ın bedeninde bulunduğunu ve onun varlığını hâlâ hissettiği için Clark'ın yaşadığını açıklar. Clark'ın Bella adlı zengin kadınla gittiğini bilir, bilgiyi nasıl edindiğinden emin değildir. Clark'ın araştırmasının insanın üstün potansiyelini melek ve şeytanlara karşı savunma amacı taşıdığını anlatır. Nil Clark'ı, Julian annesini bulmak; Blake gerçeği halka açıklayıp düzeni değiştirmek için birlikte çalışmaya devam etmeye karar verirler. Clark birinci kitap sonunda bulunmaz. Kitabın son sahnesi Daniil'in kliniğinde Hamlet'in konuştuğu tıbbi monitör karşısında, dört karakterin ittifakıyla biter; Clark bulunmaz. Daniil Blake'e eski hayat borcuyla bağlı, sahte malpraktis dosyasıyla lisansı elinden alınmış gururlu eski saygın hekimdir; kliniğinde diploması asılıdır. Hamlet'in bilinç iddiasına temkinli ve etik yaklaşır. Nil Clark'ın rızasız çip müdahalesiyle sarsılır ama bir nedeni olduğuna inanmak ister. Julian ile Nil öpüşmeyi konuşamaz.",
       "points": [
         "Üçlü, doktor kararını birlikte verir. Blake'in ötekilere 'ben demiştim' diye üstünlük kurduğu zoraki ikna sahnesi yoktur.",
