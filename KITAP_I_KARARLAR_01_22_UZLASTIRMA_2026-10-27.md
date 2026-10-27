@@ -10,9 +10,9 @@
 |---|---|---|---|
 | 1 | 14 Kasım | Nil'in sabah uyanması; Blake'in geç gelişi kısa anılar; Julian kahvaltısı, güvenlik ve eski eve gitme kararı | **YAZILDI — kullanıcı ikinci versiyonu onayladı** |
 | 2 | 15 Kasım sabah | Nil ve Blake'in Clark'ın eski evine uzaktan yaklaşması; siyah gözetim araçları; Blake'in Nil'i durdurması; park bankında Clark ve çocukluk konuşması | **YAZILDI — taslak 2** |
-| 3 | **15 Kasım, eve dönüşün ardından** | **Nil–Blake spor/savunma antrenmanı; fiziksel alışkanlık ve eski romantik yakınlığın güçlenen ama henüz kesinleşmeyen ipuçları** | **EKSİK — HENÜZ YAZILMADI. SIRADAKİ YAZILACAK SAHNE BUDUR. ATLAMA.** |
+| 3 | **15 Kasım, eve dönüşün ardından** | **Nil–Blake spor/savunma antrenmanı; fiziksel alışkanlık ve eski romantik yakınlığın güçlenen ama henüz kesinleşmeyen ipuçları** | **YAZILDI — Julian katılımlı son revizyon |
 | 4 | 15 Kasım öğleden sonra | Villaya dönüş, Julian'la gözetim değerlendirmesi ve araştırma planı | **YAZILDI; antrenmanla geçiş ve zamanlama gerektiğinde uyarlanacak** |
-| 5 | 16 Kasım | Blake'in iki yıllık Cen.net saha kayıtları, Nil'in dijital araştırması, Julian'ın sosyal bilgileri; Sifon'da tanık/depo izi | **YAZILDI; henüz önceki boşluğu kapatmadan ileri gidilmeyecek** |
+| 5 | 16 Kasım | Blake'in iki yıllık Cen.net saha kayıtları, Nil'in dijital araştırması, Julian'ın sosyal bilgileri; Sifon'da tanık/depo izi | **YAZILDI; sonraki sahne 17 Kasım** |
 | 6 | 17 Kasım | İkinci Sifon ziyareti, Kemal, kayıp üç kişi, Nadejda'nın iki sinyali, Nil'in hedef olabileceği şüphesi; Nil–Blake romantik geçmişinin okura kesinleşmesi | **HENÜZ YAZILMADI** |
 | 7 | 18 Kasım | Villa değerlendirmesi, Julian'ın şirket bağlantıları üzerinden bilgi arama teklifi ve iz riski | **HENÜZ YAZILMADI** |
 | 8 | 19–20 Kasım | Cennet Ağacı katları, yılbaşı balosu fırsatı ve mekanik anahtar | **HENÜZ YAZILMADI** |
@@ -90,3 +90,7 @@ Bu belge ile onaylı yeniden yazım planı **normatif** kaynaktır. Eski atlas v
 - **Angels'ın 15 Kasım müdahalesizliği açıklanmak zorunda değildir.** Nil ve Blake Angels'ın kendilerini gördüğünü fark etmez.
 - **Villa Nexariel ve meleklerce doğaüstü olarak korunur**; Cen.net'in hemen bulamamasının temel açıklaması budur.
 - **17 Kasım'dan sonra Nil dışarı çıkışlarını azaltır; sonra bir noktada sıkılıp dışarı çıkar.** Tarihi, amacı ve sonucu henüz seçilmedi.
+
+
+### 27 Ekim — 15 Kasım sahne revizyonu ve süreklilik
+15 Kasım Nil–Blake savunma antrenmanı yazıldı. Geçerli son versiyonda Julian sonlara doğru gelir; yaklaşık 200 yaşında olduğu için dövüş bilir, Nil'den temel teknik öğrenmez. Blake'in sert ve pratik yaklaşımıyla Julian'ın kontrollü deneyimi karşılaştırılır. Julian Nil–Blake'in eski yakınlığını fark eder; eski romantik ilişki 17 Kasım'dan önce kesin açıklanmaz. Julian antrenman sonunda öğle yemeğine çağırır, sabahki şüpheli araçları yemek sonrası konuşmayı önerir. Önceden yazılmış 15 Kasım villa değerlendirme/yemek sahnesi bunun doğrudan devamıdır: tekrar varış, tekrar yemek daveti veya tekrar aynı rapor yazılmayacak. 16 Kasım ortak araştırma yazıldı. Sonraki sahne 17 Kasım Sifon; 15–16 Kasım'da eksik ara sahne yok.
