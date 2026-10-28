@@ -18,6 +18,16 @@
 - **05.03:** Ortak soru TEKİLDİR: 'Hayatında en çok pişman olduğun şeyi anlat'. Nil Vesna olayını anlatır; önceki Clark sınavında Clark da yalnız tek bir ağır olay anlatmıştır, bütün geçmiş suçları değil. Nil'in itirafı, uyuyuşu ve Julian'ın ilk hafif ilgisi korunur. **05.04 başında**, Nil uyandıktan sonra Clark'ın son sınavdaki tavrı konuşulur. Clark'ın seçtiği olayın içeriği, Cen.net bağlantısı ve ölüme neden olup olmadığı henüz açık yazar kararıdır.
 - Bunlar ikinci taslak metninin yazılmış olduğu durumunu değiştiren yeni düzyazı değil, yazım/revizyon için kesin süreklilik kararlarıdır.
 
+## 28 Ekim 2026 — Clark'ın kayboluş öncesi kesin kronolojisi (0 = kayboluş)
+
+**Yaklaşık tarihler:** **−8 ay** kendi genetiğine uyarlanmış Ophelia çipini yerleştirir, duyularının keskinleşmesi gibi kısmen olumlu etkilerini görür; **−6 ay** Ophelia zaten bedenindeyken Julian refakatinde Angels'ın üç sınavına girer ve NEXARIEL'le yeraltında görüşür. NEXARIEL araştırmasını durdurmasını ve Cen.net adına Angels'a çalışmasını isteyince üyeliği reddeder; ona CEO'nun şeytan olduğunu söylemez. Clark 1866/çift kanatlı kartviziti Angels'la bu temas döneminde edinir. **−1 ay** Clark'ın erişim izi temizliğine Aras tanık olur; bu Aurelian görüşmesinden ÖNCEDİR. **Son iki hafta içinde, yaklaşık −14 gün** Aurelian 100. katta ilk özel araştırma görüşmesini yapar ve Nil'i tehdit unsuru olarak açıkça kullanır. Clark yeni duyusal tepkileriyle onun insan dışı olabileceğinden kuşkulanabilir ama bunu söylemez ve kesin kanıtı yoktur. **Yaklaşık −7 gün** Hamlet'i Nil'in genetik yapısına uyarlayarak rızası ve bilgisi olmadan yerleştirir. **0** Bella'nın yardımıyla kaybolur.
+
+**Clark'ın kararı (yalnız yazar bilgisi):** Hamlet'in koruyucu ve duyu geliştirici güç sağlayabileceğini düşünmesinin nedeni kendi Ophelia'sının o aşamada kısmen işe yaraması, ciddi olumsuz/şeytani yan etkilerin henüz ortaya çıkmamış olmasıdır. İkinci, farklı genetiğe uyarlanmış çalışan örneği geride bırakmak ister; kendisine Bella'ya varmadan bir şey olabilir veya Bella'nın niyetleri güvenilmez çıkabilir. Nil'in rızasız deney nesnesi haline getirilmesi daha sonraki gerçek pişmanlığı doğurur. Nil'in kanatları ve çip çıkarılırsa kesin ölüm sonucu Clark tarafından öngörülmez.
+
+**Kayboluş öncesi iz temizliği:** Clark Nil'in hesabına maddi güvence aktarır; Cen.net hareket ve erişim izlerini olabildiğince siler, Gümüşyaka evinde çip/araştırma hakkında **fiziksel veya dijital kanıt bırakmamaya çalışır**. Günlük kitap, plak, müzik cihazları ve anlamlı fotoğraflar korunur. Hanoi fotoğrafı **ÇERÇEVESİNİN ARKASINDAKİ** kartı son kontrolde yanlışlıkla unutur; kart yıllardır orada değildir ve Nil'e bilinçli ipucu olarak bırakılmaz. Clark Nil'e bir terslik olduğunu hissettirmez, günlük ev davranışı değişmez; Nil yetişkin olduğu için okuldan dönme sahnesi yoktur. Julian/Blake'i önceden Nil'in koruyucusu olarak görevlendirme kararı **açık bırakılmıştır**; Blake ilk kişisel temasta Clark'ın kaybolduğunu Nil'den öğrenmeye devam eder.
+
+**Süreklilik sınırı:** 02.02'de Nil yalnızca fiziksel kartı bulur; gerçek geliş tarihi açıklanmaz. 11.02'de yalnızca CEO görüşmesinin gerçekleştiği ispatlanır, içeriği açılmaz. 14.05'te Hamlet'in Clark'ın amaçlarıyla ilgili bilgi sınırı korunur. Mevcut yazılmış ikinci taslak sahnelerinin düzyazısı bu plan değişikliğiyle kendiliğinden yeniden yazılmış sayılmaz. 14 bölüm/67 sahne aynı kalır.
+
 ## Yeni bölüm ve uzunluk haritası
 
 | Bölüm | Başlık | Sahne | Sahne aralığı | Yazım durumu | Hedef kelime |
@@ -182,7 +192,7 @@ Nil, Clark'la paylaştığı Gümüşyaka'da Clark'ın Nil'le tanışmadan önce
 
 1. Clark'ın odasında yalnızca kişisel önemi olan çerçeveler vardır: 15 yaşlarında ailesiyle fotoğrafı, Nil'le Hanoi fotoğrafı, varsa Nil–Clark–kızıl saçlı Blake'in üçlü selfie benzeri fotoğrafı. Rastgele toplantı veya tek başına Clark fotoğrafı yoktur.
 2. Nil Hanoi fotoğrafını incelerken içinden 'abi' diye geçirir; Clark'ın abisi olduğu okura İLK KEZ bu anda açıklanır. Ayrı uzun flashback yerine fotoğrafın uyandırdığı kısa anı ve mevcut duygular kullanılır.
-3. Nil fotoğraf ÇERÇEVESİNİN arka kapağındaki çıkıntıyı fark edip 1866 yazılı çift kanatlı sembollü kartı bulur. Kartın ne olduğunu bilmez; Clark'ın kişisel eski araştırmasına aittir, Nil'e kasıtlı mesaj değildir.
+3. Nil fotoğraf ÇERÇEVESİNİN arka kapağındaki çıkıntıyı fark edip 1866 yazılı çift kanatlı sembollü kartı bulur. Kartın ne olduğunu bilmez. YAZAR SIRRI: Clark bu kartı yıllar önce değil, **yaklaşık altı ay önce Angels'la teması sırasında** edinmiş ve Hanoi fotoğrafının çerçevesi arkasına koymuş, kaybolmadan önce evdeki araştırma kanıtlarını tamamen temizlemeye çalışırken yanlışlıkla unutmuştur. Nil'e kasıtlı mesaj değildir; kartı tam kimin verdiği açık.
 4. Clark'ın 15 yaş aile fotoğrafı ve varsa üçlü fotoğrafın detayları başka sahnelere zorla taşınmaz.
 
 
@@ -1242,7 +1252,7 @@ Baskıncıların aradığı kadın Nil'dir; Nil, Blake ve Kemal'in bunu kesin g�
 
 1. Nil kolayca görünen masadaki bilgisayara erişmeye çalışır; izinler zorlayıcıdır.
 2. Julian kayıtlardaki şirket yetki/erişim düzenini yorumlamaya yardım eder; Blake giriş gözetler.
-3. Clark'ın 100. katta Aurelian'la gerçekten görüştüğü kanıtlanır; ne konuştuklarının kaydı bulunamaz.
+3. Clark'ın 100. katta Aurelian'la gerçekten görüştüğü, bu görüşmenin kayboluşundan **önceki son iki hafta içinde, Nil'e çip takılmasından önce (yaklaşık −14 gün)** olduğu kanıtlanır. YAZAR GERÇEĞİ: Aurelian burada Clark'ın araştırmasını ele geçirmek istemiş ve Nil üzerinden açık tehdit kullanmıştır. Nil **konuşma içeriğini bulamaz**; Aurelian'ın şeytan kimliğini bildiği veya daha önce Nil'in çipini bildiği sonucu çıkarılmaz.
 4. Blake birisinin yaklaştığını haber verir; üçlü saklanır.
 
 
@@ -1571,7 +1581,7 @@ Meleklerden de kaçan Nil, Julian ve Blake bu kez ortak kararla Doktor Daniil'e 
 - Nil ameliyat masasında çıkarılmadan hemen önce Hamlet'in 'Dur! Ölmek istemiyorum!' sözünü duyar. Nil hem Hamlet'i yok etmek istemediği hem de gerçeği araştırırken güçlere ihtiyaç duyacağı için operasyonu durdurur; ÇİP ÇIKARILMAZ.
 - Ophelia Clark için tasarlanan ilk prototip, Hamlet Nil için tasarlanan ikinci versiyon ve kardeş yapay bilinçlerdir. Adları Clark'ın fiziksel koleksiyonundaki Shakespeare'in Hamlet'inden gelir.
 - Her çip taşıyıcının GENETİK KODUNA özel yapılır ki bedene vereceği zarar azalsın; güçlerin melekî/şeytani tezahürü taşıyıcının KİŞİLİĞİNE göre değişir. Nil'de melekî, Clark'ta şeytani özellikler.
-- Clark kaybolduğunda Nil'in melek kanatlarının oluşacağını henüz bilmiyordu. Bella ile çalışırken Nil'e zarar verdiği için pişmandı ve çipi ona zarar vermeden çıkarmanın yolunu arıyordu.
+- Clark kaybolduğunda Nil'in melek kanatlarının oluşacağını henüz bilmiyordu. **Ophelia −8 ay**, **NEXARIEL −6 ay**, **Aurelian tehdidi yaklaşık −14 gün**, **Hamlet Nil'e rızasız −7 gün** sırası korunur. Clark Hamlet'i kendi çipinin duyusal yararlarına dayanarak hem Nil'in savunması hem kendisi/Bella devre dışı kalırsa ikinci araştırma örneği olsun diye yerleştirir. Bu noktada ağır/şeytani yan etkileri öngörmemiştir; Bella'ya yüzde yüz güvenmez. Bella ile çalışırken Nil'e zarar verdiği için pişmandı ve çipi ona zarar vermeden çıkarmanın yolunu arıyordu.
 - Hamlet yaratıcısının Clark olduğunu bilir ama niçin Nil'in bedenine konduğunu bilmez. Clark'ın Bella adlı zengin bir kadınla kaçtığını bilir; bilgiyi Clark'tan mı aldığı yoksa kendisi yerleştirilmeden önce mi öğrendiği belirsizdir.
 - Hamlet Ophelia'nın varlığını Clark'ın bedeninde hisseder: Clark hayatta fakat konumu bilinmiyor; ilk kitapta Clark'la kavuşma yok.
 - Clark'ın araştırmasının asıl amacı insanların içindeki üstün gücü açığa çıkarıp melek ve şeytanlara karşı savunmalarını sağlamaktır; Hamlet ve Ophelia bilinçlerinin ortaya çıkışı beklenmedik yan etkidir. Gücün uzun vadeli sonuçları bilinmiyor.
