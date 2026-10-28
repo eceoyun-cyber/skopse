@@ -27,6 +27,12 @@
 
 16 Kasım sonrası 7. ve 8. bölüm olaylarının **kesin ara günleri henüz açık**. Kasım sonundan 30 Aralık'a uzanan 9. bölüm hazırlık aşamasıdır. Yeni kelime hedefleri yalnız tahmini yazım önerisidir, yazılmış metnin ölçülen kelime sayısı değildir. Yeni sahne eklenmedi veya çıkarılmadı.
 
+## Çokdilli Skopse sözlüğü — 28 Ekim 2026
+
+[Sitenin Sözlük sekmesi](https://eceoyun-cyber.github.io/skopse/#sozluk) artık **60 terim** içerir: mevcut 25 Skopse sözcüğüne ek olarak **13 Fransızca**, **15 Güney Slav (Makedonca, Sırpça ve yakın Balkan konuşma dilleri)** ve **7 Rusça kökenli** ifade eklendi. Sözlükte her terimin dil kaynağı ve Türkçe anlamı bulunur.
+
+Bunlar şehrin farklı göç dönemlerinin ve toplumsal çevrelerinin konuşmada bıraktığı **kullanılabilir söz varlığıdır**; tüm kelimelerin diyaloglara eşit dağıtılması veya karakterlere otomatik atanması kanon değildir. Fransızca genel olarak köklü aile/salon/akademi, Güney Slav dilleri gündelik konuşma, Rusça kökenli ifadeler gayriresmi nüfuz, yeraltı ve sansür bağlamlarında değerlendirilebilir; **kesin etnik/sınıfsal sınırlar değildir**. Fransızca/Slavca sözcüklerin özgün aksan işaretleri korunur. **İngilizce kelime listesi şimdilik eklenmedi; kullanıcı düşünüyor.** Yazılmış sahneler değiştirilmedi.
+
 ## Kanon ve görsel notları
 
 Nil 12 ve Clark 26 yaşındayken Nil, Clark'ın **Gümüşyaka'da önceden kiralamış olduğu özel daireye** gelir; bu ev Cen.net lojmanı değildir. Hanoi fotoğrafındaki 1866 kartviziti fotoğraf kağıdının değil **çerçevenin arkasındadır**. Skopse'de fiziksel kitap koleksiyonları nadirdir; Nil üniversite arşivine 3. bölümde gider.
