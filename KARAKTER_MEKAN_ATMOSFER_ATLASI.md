@@ -67,7 +67,7 @@ Clark çipin ilahi potansiyeli uyandırabileceğini keşfedince ilk deneyi kendi
 
 **Geçmiş**
 
-Clark genç yaşta (16–17) dijital sisteme sızıp büyük para çalarak servet edinmiştir (yalnız yazar sırrı; Nil/Blake bilmiyor). Nil'i 12 yaşındayken yanına almıştır. Clark Cen.net araştırmacısı olarak insanların içsel üstün gücünü açığa çıkarmaya yönelir. İlk prototip Ophelia'yı kendi genetik koduna, ikinci Hamlet'i Nil'inkine göre üretir; ikisini bedenlerine yerleştirir. Melekler ve şeytanlar araştırmadan haberdardır. Clark kaybolduğunda Nil'in melekî kanatlar çıkaracağını bilmez. Clark, Nil'le tanıştığında zaten Cen.net'te çalışmakta ve Gümüşyaka'daki kendi kiraladığı dairede yaşamaktadır; Nil'i yanına aldıktan sonra taşınmazlar.
+Clark genç yaşta (16–17) dijital sisteme sızıp büyük para çalarak servet edinmiştir (yalnız yazar sırrı; Nil/Blake bilmiyor). Nil'i 12 yaşındayken yanına almıştır. Clark Cen.net araştırmacısı olarak insanların içsel üstün gücünü açığa çıkarmaya yönelir. İlk prototip Ophelia'yı kendi genetik koduna, ikinci Hamlet'i Nil'inkine göre üretir; ikisini bedenlerine yerleştirir. Melekler ve şeytanlar araştırmadan haberdardır. Clark kaybolduğunda Nil'in melekî kanatlar çıkaracağını bilmez. Clark, Nil'le tanıştığında zaten Cen.net'te çalışmakta ve Gümüşyaka'daki kendi kiraladığı dairede yaşamaktadır; Nil'i yanına aldıktan sonra taşınmazlar. Angels'ın üç sınavına Julian refakatinde girdi; ilk ikisini geçti. Üçüncü sınavda yalnız tek bir ağır olayı/kararı anlattı ve o olay için 'Pişman değilim' dediği için kaldı. Kurul NEXARIEL'le görüşmesine yine de izin verdi, Julian onu kilise altındaki merkeze indirdi. NEXARIEL araştırmasını bırakmasını ve Cen.net konumuyla Angels adına çalışmasını isteyince Clark üyeliği ancak bu yüz yüze görüşmenin ardından reddetti. Sınavdan kalmak ret gerekçesi değildi. Tek olayın ayrıntıları, ölümle ilgisi ve Cen.net bağlantısı henüz açık; pişman olmama tutumu Clark'ın bütün hayatına genellenmez.
 
 **İlişkiler / çevre**
 
@@ -152,7 +152,7 @@ Julian, melek bir anne ve insan babanın çocuğu, yaklaşık 200 yaşında Neph
 
 **Geçmiş**
 
-Julian'a çocukluğundan beri anlatılanlara göre insan babası melekler tarafından öldürülmüş, melek annesi ise günah sayılan birliktelik nedeniyle hapsedilmiştir. Julian buna içtenlikle inanır; olayların gerçek biçimi kesinleşmiş değildir. Annesinin yerini bilmez ve onu bulabileceğine dair umudunu korur. Emirlerini NEXARIEL'den almıştır, diğer başmeleklerle doğrudan konuşmamıştır. İlk kitap sonunda NEXARIEL'in acımasızlığını sorgular ama bütün melek hiyerarşisini bir anda reddetmez.
+Julian'a çocukluğundan beri anlatılanlara göre insan babası melekler tarafından öldürülmüş, melek annesi ise günah sayılan birliktelik nedeniyle hapsedilmiştir. Julian buna içtenlikle inanır; olayların gerçek biçimi kesinleşmiş değildir. Annesinin yerini bilmez ve onu bulabileceğine dair umudunu korur. Emirlerini NEXARIEL'den almıştır, diğer başmeleklerle doğrudan konuşmamıştır. İlk kitap sonunda NEXARIEL'in acımasızlığını sorgular ama bütün melek hiyerarşisini bir anda reddetmez. Nephilim olarak Angels içinde büyüdüğünden kendisi üç kabul sınavına hiç girmedi; ancak Clark'a bütün sınavlarında eşlik etti, son sınavdan kalmasına rağmen onu NEXARIEL'e indirdi. Clark üyelik teklifini NEXARIEL'in araştırmayı bırakma ve Cen.net konumuyla Angels adına çalışma talebinden sonra reddetti.
 
 **İlişkiler / çevre**
 
@@ -234,7 +234,7 @@ NEXARIEL şeytanlara karşı daha çok veri, gözetim ve kontrol için ekran-kab
 
 **Geçmiş**
 
-Clark melek ve şeytanları keşfettikten sonra araştırmasını bırakması için ona baskı yapılmıştır. NEXARIEL, savaşta üstünlük sağlamak amacıyla kendi bedensel biçimini ağlarla bütünleştirmeyi seçmiştir. Kabloları, ekranları ve eriştiği bilgiler onun gözetim anlayışının uzantılarıdır.
+Angels, Clark'ın araştırmalarını öğrenince onunla ilk teması kurdu. Clark, Julian'ın eşlik ettiği üç sınavın sonuncusundan teknik olarak kaldığı halde NEXARIEL'le görüşmeye kabul edildi ve kilise altındaki teknoloji merkezine indi. NEXARIEL, Clark'tan araştırmasını durdurmasını ve Cen.net'teki konumuyla Angels adına çalışmasını istedi; Clark bunun ardından üyeliği reddetti. NEXARIEL, savaşta üstünlük sağlamak amacıyla kendi bedensel biçimini ağlarla bütünleştirmeyi seçmiştir. Kabloları, ekranları ve eriştiği bilgiler onun gözetim anlayışının uzantılarıdır.
 
 **İlişkiler / çevre**
 
@@ -1838,7 +1838,7 @@ Melek hiyerarşisiyle bağlantılı tarikat; bütün adaylara aynı üç gelenek
 
 **Geçmiş**
 
-Melekler Clark'ın araştırmalarından haberdar olup onu ısrarla kendi saflarına katmak ister; Clark güvenmez. Julian, Clark'ı tarikat adına gözetler. Nil'in daveti Clark hakkında bilgi edinmek amacıyla onaylanır.
+Melekler Clark'ın araştırmalarından haberdar olup onunla ilk teması kurar. Clark bilgi edinmek için Julian'ın refakatinde üç kabul sınavına katılır; ilk ikisini geçer, üçüncüde seçtiği tek ağır olay için pişman olmadığını söyleyip teknik olarak kalır. Kurul yine de NEXARIEL'le görüşmesine izin verir. Julian Clark'ı merkeze indirir; NEXARIEL çalışmalarını durdurup Cen.net konumuyla kendileri adına çalışmasını isteyince Clark ancak bu görüşmeden sonra üyeliği reddeder, sınavların kötü olması nedeniyle değil. Julian, Clark'ı tarikat adına gözetler. Nil'in daveti Clark hakkında bilgi edinmek amacıyla onaylanır.
 
 **İlişkiler / çevre**
 
@@ -1846,7 +1846,7 @@ NEXARIEL hiyerarşik otoritedir. Tarikat Nil'e önce bilgi ve yardım ihtimali s
 
 **Ek notlar ve yazar bilgisi**
 
-Kaderine Güven'de yoğun trafik; Yedi İsim'de mahkeme belgeleri, savunmalar, pişmanlık ve cezaevi/rehabilitasyon kayıtlarını içeren yedi kapsamlı dosyadan birini gerçek af ile serbest bırakma kararı (Nil bu kayıtlara rağmen kesinlik bulamayarak kimseyi seçmez; Clark geçmişte en az sonraki zarar riskini gördüğü kişiyi seçmiştir); Günah Çıkarma'da botanik serada Vesna itirafı. 12. bölümde NEXARIEL Nil'in kanatlarını insan için günah sayar, Julian'ı da onu savunduğu için hapseder. 13. bölümde Blake esirleri kurtarır. Nephilimler tarihte görülmüş olmakla birlikte melek-insan birleşimi Angels düzeninde yasaktır. Julian cemaatteki tek Nephilimdir; insan da tam melek de sayılmadığı için kimi düşük rütbeli meleklerin küçümsemesine ve kıskançlığına maruz kalır. Onu seven bir iki eski dostu bile NEXARIEL'in cezalandırma kararına itiraz etmez, hatta Nil'i savunmasını yasak bir varlığın diğerini savunması diye ayıplarlar. Diğer başmeleklerin tutumu kesin bilinmiyor: Julian onlarla doğrudan görüşmedi.
+Kaderine Güven'de yoğun trafik; Yedi İsim'de mahkeme belgeleri, savunmalar, pişmanlık ve cezaevi/rehabilitasyon kayıtlarını içeren yedi kapsamlı dosyadan birini gerçek af ile serbest bırakma kararı (Nil bu kayıtlara rağmen kesinlik bulamayarak kimseyi seçmez; Clark geçmişte en az sonraki zarar riskini gördüğü kişiyi seçmiştir); Günah Çıkarma'da **'Hayatında en çok pişman olduğun şeyi anlat'** diye tek bir olay sorulur: Nil Vesna olayını anlatır, Clark geçmişte tek bir ağır kararını itiraf edip 'Pişman değilim' dediğinden başarısız olmuştur. Clark'ın seçtiği olay henüz belirlenmemiştir. 12. bölümde NEXARIEL Nil'in kanatlarını insan için günah sayar, Julian'ı da onu savunduğu için hapseder. 13. bölümde Blake esirleri kurtarır. Nephilimler tarihte görülmüş olmakla birlikte melek-insan birleşimi Angels düzeninde yasaktır. Julian cemaatteki tek Nephilimdir; insan da tam melek de sayılmadığı için kimi düşük rütbeli meleklerin küçümsemesine ve kıskançlığına maruz kalır. Onu seven bir iki eski dostu bile NEXARIEL'in cezalandırma kararına itiraz etmez, hatta Nil'i savunmasını yasak bir varlığın diğerini savunması diye ayıplarlar. Diğer başmeleklerin tutumu kesin bilinmiyor: Julian onlarla doğrudan görüşmedi.
 
 **Bağlı atlas kayıtları:** Nil Clayton (`nil`); Julian Junes (`julian`); NEXARIEL (`nexariel`); Gizleme Çipi (`gizleme_cipi`); Angels Tarihî Kilisesi (`angels_kilise`); Kilise Botanik Serası (`sera`); NEXARIEL Yeraltı Merkezi (`angels_yeralti`); Angels Taş Zindanı (`angels_zindan`).
 
@@ -2058,4 +2058,4 @@ DARK ACADEMIA YAKLAŞIMI: Öncelik teknofeodal akademik elitizmdedir (C). Nil'in
 
 ## 28 Ekim 2026 — Julian ve Clark sınavlarının kesin bilgisi
 
-Julian Angels içinde yetişmiş Nephilimdir; üç kabul sınavına **kendisi girmemiş**, Clark'a **üçünün tamamında eşlik etmiştir**. Clark üçüncü vicdan/Günah Çıkarma sınavında 'Pişman değilim' deyip **kaldı**; kurul üyelik olasılığını sürdürdü, Clark reddetti. Julian bunu Nil'e 04.03'teki kafe sohbetinde söylemez. **Nil üçüncü sınavını 05.03'te tamamlayıp uyandıktan sonra 05.04'te**, kilisenin yeraltı merkezine inmeden önce gerçeği öğrenir. Clark'ın somut itirafları henüz açıklanmamıştır.
+Julian Angels içinde yetişmiş Nephilimdir; üç kabul sınavına **kendisi girmemiş**, Clark'a **üçünün tamamında eşlik etmiştir**. Üçüncü vicdan/Günah Çıkarma sınavının ortak sorusu 'Hayatında en çok pişman olduğun şeyi anlat'tır. Clark geçmişinden tek bir ağır olayı/kararı anlatır, o olay için 'Pişman değilim' deyip **kalır**. Üst kurul yine de NEXARIEL'le görüşmesine izin verir. Julian onu kilise altındaki merkeze indirir; **NEXARIEL'le yüz yüze konuşup araştırmayı bırakma ve Angels adına çalışma talebini aldıktan sonra** Clark üyelik teklifini reddeder. Sınavları beğenmemek ret gerekçesi değildir. Julian sonucu Nil'e 04.03'teki kafe sohbetinde söylemez. **Nil üçüncü sınavını 05.03'te tamamlayıp uyandıktan sonra 05.04'te**, kilisenin yeraltı merkezine inmeden önce gerçeği öğrenir. Clark'ın tekil itirafının içeriği henüz açıklanmamıştır; Cen.net bağlantılı bir ölüm olasılığı kanon değildir. 'Pişman değilim' hayatındaki her karar için genellenmez; Nil'e çip takması konusunda duyduğu vicdan azabı korunur.
