@@ -341,7 +341,7 @@ Nil, Julian'ın refakatinde Angels'ın herkese aynı şekilde uyguladığı üç
 
 - Sınavlar tüm adaylar için aynıdır; üç sınav kesin: 'Kaderine Güven', 'Yedi İsim', 'Günah Çıkarma'.
 - 'Kaderine Güven': Yoğun trafikte Nil zihninde 'Şimdi. Koş.' yönlendirmesini duyar (Hamlet), koşup kurtulur; Julian onun için gerçekten korkar.
-- 'Yedi İsim': Eski Şehir'in terk edilmiş adliyesinde, yedi ağır suç işlemiş mahkûm arasından birini gerçek dünyada serbest bırakma/affetme seçimi; Nil yalnızca dosyalardan hüküm vermeyi reddeder; üstler geçişe izin verir, kesin geçti/kaldı hükmü söylenmez.
+- 'Yedi İsim': Eski Şehir'deki terk edilmiş adliyede yedi hükümlünün ayrıntılı mahkeme, savunma, cezaevi davranış ve pişmanlık/rehabilitasyon kayıtları verilir. Nil kapsamlı bilgilere rağmen gerçek ve geri alınamaz af için yeterli kesinlik görmediğinden hiçbirini seçmez; üstler geçti/kaldı hükmü olmadan devam ettirir. Clark aynı dosya türleri üzerinden en düşük sonraki zarar riski taşıdığını düşündüğü birini seçmişti (kimliği açık).
 - Yedi dosyanın temaları: kibir/sel duvarı tahliyesini reddeden yönetici; açgözlülük/sahte ilaç tedavisi; şehvet/nöral manipülasyon; kıskançlık/ölümcül hanedan sabotajı; oburluk/ortak su-enerji hırsızlığı; öfke/sivillere saldıran eski asker; tembellik/hastane yaşam destek ihmalcisi.
 - 'Günah Çıkarma': Eski kilisenin botanik serasında yalnızca Nil ile Julian bulunur; Nil Vesna cinayeti kanıtlarını kendini ve Blake'i korumak için sildiğini, Blake'e gerçeği söylemediğini itiraf eder; Julian etkilenir ve kendi aile acısına kısmen değinir.
 - Kilise altındaki ileri teknoloji merkezi ve NEXARIEL ilk açık doğaüstü kanıttır. NEXARIEL Nil'i 'Hoş geldin, çocuğum' diye karşılar.
@@ -349,7 +349,7 @@ Nil, Julian'ın refakatinde Angels'ın herkese aynı şekilde uyguladığı üç
 - NEXARIEL 'Clark bize geldi' der ancak gerçekte Clark'a melekler ulaşmıştır (bilinçli eksik anlatım). Clark araştırmayı bırakmayı reddetmiş, düşüneceğini söyleyip ayrılmıştır.
 - Julian Clark'ı izlemiş ve Cen.net CEO'suyla görüşmeye çağrıldığını öğrenmiştir; binaya girip girmediği o aşamada bilinmez. NEXARIEL CEO'nun şeytani geçmişini gösterir, Nil kuşkucudur.
 - NEXARIEL Nil'e Clark'ı aramayı bırakıp insan hayatını yaşamasını söyler; Nil reddeder. Julian şeytanların araştırmayı ele geçirmesinin tehlikesini gerekçe göstererek yardım izni alır.
-- Kaderine Güven: yoğun trafikli Onj Köprüsü, Hamlet'in 'Şimdi. Koş.' sözü Nil için içgüdü gibi; Yedi İsim: Nil dosyaları inceler ama insanı bilmeden affı reddeder, Julian karşı çıkar ve üstler yine devam ettirir.
+- Kaderine Güven: yoğun trafikli Onj Köprüsü, Hamlet'in 'Şimdi. Koş.' sözü Nil için içgüdü gibi; Yedi İsim: kapsamlı savunma, pişmanlık ve cezaevi kayıtlarına rağmen Nil bunları geri alınamaz af için yeterli görmez ve seçim yapmaz, Julian karşı çıkar ve üstler devam ettirir.
 - Günah Çıkarma: Nil itiraftan sonra serada uyur, Julian başında bekler. Merkeze iniş sera → kilise → eski taş geçit → modern asansör. NEXARIEL belgeler ile savaş görüntülerini birlikte gösterir; Nil kaynakların tek yanlılığını sorgular.
 - Julian'ın Nil'e karşı ilk, çok hafif ve adı konmamış duygusal ilgisi üçüncü sınavda, Nil'in içini döküp serada uyuyakalmasıyla başlar; espriyle ağırlığı bozma.
 - Vesna, Blake'in romantik aşkı değildir; kendi halkından yardım isteyen kişidir.
@@ -376,6 +376,10 @@ Nil, Julian'ın refakatinde Angels'ın herkese aynı şekilde uyguladığı üç
 
 ### 05.02 — Yedi İsim
 
+**28 Ekim 2026 — Kesin dosya içeriği ve karakter farkı:** Yedi gerçek hükümlünün dosyaları yalnız suç özeti değildir: dava ve mahkumiyet kanıtları, savunmalar, hükümlülerin ifadeleri, pişmanlık beyanları, cezaevi davranış/disiplin kayıtları ve varsa rehabilitasyon-psikolojik değerlendirmeler içerir. Nil dosyaları dikkatle okusa da bu kayıtları gerçek ve geri alınamaz bir affa yeterli saymayıp kimseyi seçmez; Clark aynı sınavda pişmanlık ve davranış verilerini dahil ederek en düşük sonraki zarar riskini gördüğü bir hükümlüyü seçmişti. Clark'ın seçtiği hükümlünün kimliği henüz kanon değil; fanfiction'daki hastane yöneticisi seçimi kesinleştirilmez.
+
+**İkinci taslak revizyon yönlendirmesi:** 05.02 önceden yazılmış sahnedir. Roman metninde dosyalardaki sanık savunmaları, pişmanlık ifadeleri ve cezaevi tutumlarının okunması doğrudan dramatize edilecek; değişiklik plan notu olup mevcut düzyazının otomatik olarak güncellendiği iddia edilmez.
+
 **İkinci taslak durumu:** Yazılmış metin  
 **Karakterler:** Nil Clayton, Julian Junes  
 **Mekan:** Eski Şehir'de terk edilmiş adliye salonu  
@@ -385,10 +389,12 @@ Nil, Julian'ın refakatinde Angels'ın herkese aynı şekilde uyguladığı üç
 
 1. Yedi ağır suçluya ait dosyalardan birinin gerçek affı/sebepsiz salıverilmesi istenir.
 2. Yedi günah: kibir/tahliye reddi; açgözlülük/sahte ilaç; şehvet/nöral manipülasyon; haset/ölümcül sabotaj; oburluk/kamu suyunu ve enerjisini çalma; gazap/sivillere saldırı; tembellik/hastane yaşam desteği ihmali.
-3. Nil yedi ağır suçlunun her dosyasını dikkatle inceler, Julian'a sorular sorar; insana dair yetersiz bilgilerle gerçek ve geri alınamaz bir tahliye kararı vermeye hakkı olmadığını söyleyip kimseyi seçmez.
-4. Julian bu sınavın ağır ahlaki sorumluluğu üstlenme isteğini ölçtüğünü samimiyetle savunur. Nil, eksik bilgiyle geri alınamaz hüküm vermenin sorumluluk değil kibir olabileceğini söyler; Julian'ın Angels'a inancı henüz sarsılmaz.
-5. Angels'ın üst makamları net geçti/kaldı kararı vermeden Nil'in üçüncü sınava geçmesini emreder.
-6. ONAYLI: Nil yaklaşık beş ismi tanır: iki araştırma/soruşturma, iki okul çevresi aile soyadı, bir haber/sokak bağlantısı. İsim eşleştirmesi henüz açık.
+3. Yedi dosyanın her birinde suç ve mahkumiyet delilleri kadar mahkeme savunmaları, pişmanlık veya pişman olmama ifadeleri, cezaevindeki davranış ve disiplin kayıtları, varsa rehabilitasyon/psikolojik değerlendirmeler bulunur. Bunlar kısa suç özetlerinden ibaret değildir.
+4. Nil bütün bu kayıtları inceler ve yaklaşık beş ismi tanır; Julian'a sorular sorar, pişmanlık beyanlarını ve davranış değişikliklerini tartar ama hiçbir dosyayı gerçek ve geri alınamaz af için yeterli kanıt saymaz. Bu yüzden **hiç kimseyi seçmez**. Seçememesinin gerekçesi 'dosyalarda hiçbir bilgi yok' değildir.
+5. Julian merhamet ve ağır ahlaki sorumluluk üstlenme gereğini gerçekten savunur. Nil kapsamlı kayıtlardan yola çıkarak birinin gerçekten bağışlanmayı hak ettiğine veya artık tehlike yaratmayacağına kesin hükmedemeyeceğini, aksi kararın kibir olabileceğini söyler; Julian'ın Angels'a inancı henüz sarsılmaz.
+6. Angels'ın üst makamları net geçti/kaldı kararı vermeden Nil'in üçüncü sınava geçmesini emreder.
+7. ONAYLI: Nil yaklaşık beş ismi tanır: iki araştırma/soruşturma, iki okul çevresi aile soyadı, bir haber/sokak bağlantısı. İsim eşleştirmesi henüz açık.
+8. GEÇMİŞ SINAV — Clark'ın önüne aynı tür kapsamlı dosyalar kondu. Savunma, pişmanlık ve cezaevi/rehabilitasyon kayıtlarını gerçek riskle karşılaştırarak serbest kalması halinde en az zarar vereceğini düşündüğü hükümlüyü seçti. Pişmanlık ifadesi ne kesin hakikat ne de yok sayılacak veri. Seçtiği kişinin kimliği henüz kesinleşmedi; fanfiction'daki hastane yöneticisi yalnız sahne örneği. Clark'ın ikinci sınavı geçtiği, üçüncüde 'Pişman değilim' nedeniyle kaldığı değişmez.
 
 
 **28 Ekim 2026 kesin bilgi sınırı (04.03):** Julian sınavlara girmedi: Nephilim olarak Angels içinde büyütüldü ve dışarıdan aday olmadı. Clark'a üç sınav boyunca Julian eşlik etti. Nil bu eşliği kafe görüşmesinde öğrenebilir, ancak Clark'ın üçüncü sınavdan kaldığını 05.03'ü tamamladıktan sonra öğrenecektir. Julian'ın flörtöz tavrı kafe sahnesinde sürer; Nil'i ilk gördüğü anda aşık değildir.
