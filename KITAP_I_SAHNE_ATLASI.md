@@ -13,9 +13,9 @@
 ## 28 Ekim 2026 — Julian ve Clark sınav kanonu
 
 - Julian, Angels'ın içinde büyütülen Nephilim olduğundan dışarıdan kabul adayı gibi üç sınava girmedi. Clark'ın üç sınavına baştan sona bizzat eşlik etti.
-- Clark ilk iki sınavı geçti, üçüncü vicdan/Günah Çıkarma sınavında 'Pişman değilim' diyerek pişmanlık göstermediği için **kaldı**. Üst kurulun üyelik yolunu açık tutması son sınavı geçtiği anlamına gelmez; Clark sonunda üyeliği reddetti.
+- Clark ilk iki sınavı geçti. Üçüncü Günah Çıkarma'da 'Hayatında en çok pişman olduğun şeyi anlat' sorusuna **tek bir ağır olay/karar** anlatarak cevap verdi, ancak bu olay için 'Pişman değilim' dediği için **kaldı**. Üst kurul buna rağmen NEXARIEL'le görüşmesine izin verdi. Julian Clark'ı seradan kiliseye, taş geçitten modern asansörle yeraltı merkezine indirdi. NEXARIEL araştırmasını durdurmasını ve Cen.net konumuyla Angels adına çalışmasını isteyince Clark üyeliği **ancak bu yüz yüze görüşmeden sonra** reddetti. Sınavdan kalmak üyeliği reddetmesinin nedeni değildir.
 - **04.03 kafede:** Julian eşlik ettiğini söyleyebilir, ancak başarısızlığı ve 'Pişman değilim' sözünü henüz açıklamaz; kendisinin sınavlara girdiğini iddia etmez.
-- **05.03:** Nil'in itirafı, uyuyuşu ve Julian'ın ilk hafif ilgisi korunur. **05.04 başında**, Nil uyandıktan ve kendi üçüncü sınavını bitirdikten sonra Clark'ın son sınavdaki tavrı konuşulur. Clark'ın itiraf ettiği suçların içeriği halen açık karardır.
+- **05.03:** Ortak soru TEKİLDİR: 'Hayatında en çok pişman olduğun şeyi anlat'. Nil Vesna olayını anlatır; önceki Clark sınavında Clark da yalnız tek bir ağır olay anlatmıştır, bütün geçmiş suçları değil. Nil'in itirafı, uyuyuşu ve Julian'ın ilk hafif ilgisi korunur. **05.04 başında**, Nil uyandıktan sonra Clark'ın son sınavdaki tavrı konuşulur. Clark'ın seçtiği olayın içeriği, Cen.net bağlantısı ve ölüme neden olup olmadığı henüz açık yazar kararıdır.
 - Bunlar ikinci taslak metninin yazılmış olduğu durumunu değiştiren yeni düzyazı değil, yazım/revizyon için kesin süreklilik kararlarıdır.
 
 ## Yeni bölüm ve uzunluk haritası
@@ -408,8 +408,8 @@ Nil, Julian'ın refakatinde Angels'ın herkese aynı şekilde uyguladığı üç
 
 **Olay akışı**
 
-1. Yalnız Nil ve Julian vardır.
-2. Nil Vesna cinayeti dosyasındaki dijital kanıtları kendisi/Blake'i korumak için sildiğini ve Blake'e yalan söylediğini itiraf eder.
+1. Yalnız Nil ve Julian vardır. Julian üçüncü sınavın tekil sorusunu sorar: **'Hayatında en çok pişman olduğun şeyi anlat.'** Uzun uzun bütün yanlışları sıralama/terapi seansı değildir; aday bir olay seçer.
+2. Nil, tek bir Vesna olayı üzerinde durarak cinayet dosyasındaki dijital kanıtları kendisi/Blake'i korumak için sildiğini ve Blake'e yalan söylediğini itiraf eder; pişmandır.
 3. Julian etkilenir, ailesiyle ilgili kaybına yalnızca üstü kapalı değinir; Nephilim kökenini açmaz. Nil yorgun düşüp sıcak, huzurlu serada uykuya dalar. Julian yanında kalıp onu rahatsız etmeden uyurken gözetir.
 4. Nil'in Vesna delillerini sildiği itirafının ardından serada uyuyakalması Julian'da çok hafif, adı konmamış ilk duygusal kıpırtıyı doğurur. Julian bunu aşk olarak hemen anlamaz; ağırlığı hemen espriyle bozma.
 5. Vesna Blake'in aşık olduğu biri değildir: Blake halkından yardım isteyen birini geri çeviremediği için Vesna'ya yardım etmiştir.
@@ -417,6 +417,8 @@ Nil, Julian'ın refakatinde Angels'ın herkese aynı şekilde uyguladığı üç
 **28 Ekim 2026 romantik denge notu:** Vesna itirafı Julian'ın Nil'e karşı ilk duygusal ilgisinin zemini olmaya devam eder; Julian Nil'i otomatik aklamaz. Nil'in Blake'le yaşadığı güven kırığı itirafın ağırlığında hissedilir, ancak eski romantik geçmiş burada ifşa edilmez.
 
 **28 Ekim 2026 bilgi açıklama sınırı:** Nil'in Vesna itirafını ve uykuya dalışını Clark'ın geçmişteki sınav sonucuyla bölme; açıklama ancak kendi üçüncü sınavını bitirip uyandıktan sonra 05.04 başında gerçekleşir.
+
+**28 Ekim 2026 kesin Clark karşılığı:** Clark'ın üçüncü sınavında da aynı **tekil soru** sorulmuştur. Tek bir ağır karar anlatır ve o olay için 'Pişman değilim' der. Seçtiği olayın Cen.net kaynaklı bir ölüm olup olmadığı henüz kararlaştırılmadı; fanfiction'daki çoklu itiraf ve seradan çıkarken üyeliği reddetme kurgusu **geçersizdir**. Sınav biter → kurul görüşmeye izin verir → Julian Clark'ı NEXARIEL'e indirir → NEXARIEL araştırmayı durdurmasını ve Cen.net konumuyla Angels adına çalışmasını ister → Clark ancak bundan sonra üyeliği reddeder.
 
 ### 05.04 — Gizli yeraltı merkezine iniş
 
@@ -427,7 +429,7 @@ Nil, Julian'ın refakatinde Angels'ın herkese aynı şekilde uyguladığı üç
 
 **Olay akışı**
 
-1. Nil üçüncü sınavı tamamlayıp serada uyandıktan sonra, yeraltına inmeden önce Clark'ın sınavını sorar. Julian Clark'a üç sınavda bizzat eşlik ettiğini; Clark'ın son vicdan/Günah Çıkarma sınavında itiraflarından sonra 'Pişman değilim' diyerek pişmanlık göstermediğini ve üçüncü sınavdan kaldığını anlatır. Üst kurul yine de üyelik ihtimalini kapatmamış, Clark ise katılmayı reddetmiştir. Somut suçlar henüz açıklanmaz.
+1. Nil üçüncü sınavı tamamlayıp serada uyandıktan sonra, yeraltına inmeden önce Clark'ın sınavını sorar. Julian Clark'a üç sınavda eşlik ettiğini; Clark'ın aynı tekil soruya geçmişinden yalnızca bir ağır olay/karar seçerek cevap verdiğini, o olaydan 'Pişman değilim' dediği için üçüncü sınavdan kaldığını anlatır. Üst kurul buna rağmen Clark'ın NEXARIEL'le görüşmesine izin vermiştir. Julian Clark'ı bugün Nil'i indirdiği gibi kiliseden taş geçit ve modern asansörle merkeze indirmiştir. Clark üyeliği sınavı beğenmediğinden değil, NEXARIEL'in araştırmasını bırakmasını ve Angels adına çalışmasını istemesinden sonra reddetmiştir. Seçilen olayın somut içeriği Nil'e açıklanmaz.
 2. Konuşmanın ardından Julian Nil'i botanik seradan Eski Şehir'deki tarihî kilisenin içine geçirir.
 3. Kiliseden eski, dar taş yeraltı geçidine inerler; geçmişin dinsel mimarisi korunmuştur.
 4. Tarihi koridorun sonunda sessiz, ileri teknoloji ürünü modern asansörle NEXARIEL'in çok derindeki merkezine inerler.
@@ -443,7 +445,7 @@ Nil, Julian'ın refakatinde Angels'ın herkese aynı şekilde uyguladığı üç
 **Olay akışı**
 
 1. NEXARIEL 'Hoş geldin, çocuğum' diyerek meleksi kimliğini açar.
-2. Clark'ın çalışmalarını durdurmasını istediklerini eksik bilgiyle anlatır; aslında Clark'a ulaşan meleklerdi.
+2. Clark'ın çalışmalarını durdurmasını istediklerini eksik bilgiyle anlatır; aslında Clark'la ilk teması Angels başlatmıştır. **Yazarın bildiği kronoloji:** Clark aynı üç sınava Julian'la girmiş, sonuncudan kalmasına rağmen Julian'ın eşliğinde NEXARIEL'e İNMİŞ ve onunla yüz yüze görüşmüştür. NEXARIEL araştırmasını durdurmasını ve Cen.net'teki konumuyla Angels adına çalışmasını istediğinde Clark görüşme sonunda üyeliği reddetmiştir. NEXARIEL Nil'e bu görüşmenin her ayrıntısını açıklamak zorunda değildir.
 3. Julian Clark'ın CEO'yla görüşmeye çağrıldığını söyler; görüşmenin gerçekleştiği henüz doğrulanmamıştır.
 4. NEXARIEL eski kayıtlarda CEO'nun şeytani doğasını gösterir, Nil şüphe duyar.
 5. NEXARIEL Nil'in arayışı bırakmasını ister, Nil reddeder.
