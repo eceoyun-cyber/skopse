@@ -10,6 +10,14 @@
 
 **Sahne uygulaması:** 07.02, 07.03 yazılmış ikinci taslak için revizyon hedefidir; yazılmış oldukları gerçeği değişmez. 08.01, 08.02, 08.05, 09.06 ve 13.05 ana dramatik dayanaklardır. Sahne sırası, tarihler, mevcut karakter bilgi sınırları ve 14 bölüm / 67 sahne sayısı aynıdır.
 
+## 28 Ekim 2026 — Julian ve Clark sınav kanonu
+
+- Julian, Angels'ın içinde büyütülen Nephilim olduğundan dışarıdan kabul adayı gibi üç sınava girmedi. Clark'ın üç sınavına baştan sona bizzat eşlik etti.
+- Clark ilk iki sınavı geçti, üçüncü vicdan/Günah Çıkarma sınavında 'Pişman değilim' diyerek pişmanlık göstermediği için **kaldı**. Üst kurulun üyelik yolunu açık tutması son sınavı geçtiği anlamına gelmez; Clark sonunda üyeliği reddetti.
+- **04.03 kafede:** Julian eşlik ettiğini söyleyebilir, ancak başarısızlığı ve 'Pişman değilim' sözünü henüz açıklamaz; kendisinin sınavlara girdiğini iddia etmez.
+- **05.03:** Nil'in itirafı, uyuyuşu ve Julian'ın ilk hafif ilgisi korunur. **05.04 başında**, Nil uyandıktan ve kendi üçüncü sınavını bitirdikten sonra Clark'ın son sınavdaki tavrı konuşulur. Clark'ın itiraf ettiği suçların içeriği halen açık karardır.
+- Bunlar ikinci taslak metninin yazılmış olduğu durumunu değiştiren yeni düzyazı değil, yazım/revizyon için kesin süreklilik kararlarıdır.
+
 ## Yeni bölüm ve uzunluk haritası
 
 | Bölüm | Başlık | Sahne | Sahne aralığı | Yazım durumu | Hedef kelime |
@@ -254,13 +262,13 @@ Julian aynı Nephilim kişidir; yüzü sıradan hafızada zor sabitlenir. Nil on
 
 ### Bölüm özeti
 
-Nil, son Onj taşkınından birkaç gün sonra Tünek/Yeni Şehir'de lüks bir otelin üst katlarında düzenlenen yardım galasına kayıt sistemine sahte bağışçı ekleyerek girer. Julian'ın otel süitini araştırmayla önceden tespit eder ve gala bitiminde kapısı önünde bekler. Julian, kolunda genç bir hayranıyla geldiğinde Nil 1866 ve çift kanatlı sembolü açar; kadın gönderilir, Nil kısa süre içeri alınır ama sertçe kovulur. Julian hemen Angels'a haber verir ve ertesi sabah Nil'i arayarak Yeni Şehir'de taşkın nedeniyle sakinleşmiş normal bir kafeye çağırır. Clark'ın üç Angels sınavını geçtiğini ama üyeliği reddettiğini söyleyerek Nil'e aynı sınavları teklif eder; doğaüstü gerçekler saklanır.
+Nil, son Onj taşkınından birkaç gün sonra Tünek/Yeni Şehir'de lüks bir otelin üst katlarında düzenlenen yardım galasına kayıt sistemine sahte bağışçı ekleyerek girer. Julian'ın otel süitini araştırmayla önceden tespit eder ve gala bitiminde kapısı önünde bekler. Julian, kolunda genç bir hayranıyla geldiğinde Nil 1866 ve çift kanatlı sembolü açar; kadın gönderilir, Nil kısa süre içeri alınır ama sertçe kovulur. Julian hemen Angels'a haber verir ve ertesi sabah Nil'i arayarak Yeni Şehir'de taşkın nedeniyle sakinleşmiş normal bir kafeye çağırır. Julian'ın refakatinde üç sınava girdiğini ve sonunda üyeliği reddettiğini söyleyerek Nil'e sınavları teklif eder; Julian üçüncü sınavdaki başarısızlığı bu konuşmada saklar; doğaüstü gerçekler saklanır.
 
 ### Kesin olay, süreklilik ve atmosfer kararları
 
 - Havanın Julian'ın duygularına eşlik etmesi, atmosfer denetiminin erken fakat açıkça doğaüstü diye kanıtlanmayan işaretidir.
 - Julian, fotoğraflardaki kişinin kendisi olduğunu Nil'den saklar; Nil'in kartını görünce daha ciddi konuşur.
-- Clark'ın tarikat sınavlarını geçmiş ama katılmayı reddetmiş olduğu söylenir. Melekler Nil'in Clark'ı aradığını bilir ve erişim vermeye isteklidir.
+- Julian, Clark'ın üç kabul sınavına bizzat eşlik ettiğini, Clark'ın üyeliğe katılmadığını söyler; üçüncü vicdan sınavından kaldığını saklar. Julian Nephilim olarak tarikat içinde büyüdüğü için kabul sınavlarına kendisi hiç girmedi. Melekler Nil'in Clark'ı aradığını bilir ve erişim vermeye isteklidir.
 - Julian gizli bir kafede Angels kabul sürecini önerir, Nil kabul eder.
 - Onj taşkını sonrası Tünek/Yeni Şehir lüks otelindeki yardım galasına Nil otelin etkinlik kayıt açığıyla sahte bağışçı olarak girer; Julian'la ilk ciddi konuşma gala değil otel süiti önündedir. Julian önce kovar ve Angels'a haber verir; ertesi sabah Yeni Şehir'de nehre yakın sıradan klasik kafede tarikatı doğaüstünü söylemeden elit gizli cemiyet olarak tanıtır.
 - Nil Julian'ı ilk anda fiziksel olarak çekici bulur ama flörtlerini ciddiye almaz; Julian'ın ilgisi henüz romantik değildir. Yeni Şehir galasında prestij ve görünür yozlaşma hissedilir.
@@ -308,7 +316,7 @@ Nil, son Onj taşkınından birkaç gün sonra Tünek/Yeni Şehir'de lüks bir o
 
 **Olay akışı**
 
-1. Ertesi sabah Julian Nil'i telefonla arayıp Yeni Şehir'de Onj yakınındaki sıradan klasik kafeye çağırır. Kafe normalde işlekken son sel nedeniyle sakindir. Angels'ı yalnızca 1866'da kurulmuş tarihî ve seçkin bir gizli cemiyet olarak tanıtır; Clark'ın üç geleneksel kabul sınavını geçtiğini ama üyeliği reddettiğini söyler.
+1. Ertesi sabah Julian Nil'i telefonla arayıp Yeni Şehir'de Onj yakınındaki sıradan klasik kafeye çağırır. Kafe normalde işlekken son sel nedeniyle sakindir. Angels'ı yalnızca 1866'da kurulmuş tarihî ve seçkin bir gizli cemiyet olarak tanıtır; Clark'ın üç kabul sınavına Julian'ın eşlik ettiğini ve sonrasında üyeliği reddettiğini söyler; son sınavda kaldığı bu sırada açıklanmaz.
 2. Nil, abisini bulabilmek için sınavlara girmeyi kabul eder.
 3. Nil, Clark hakkında daha fazla bilgi edinmek için herkesin geçtiği üç sınavı kabul eder; bu görüşmede melekler, şeytanlar veya doğaüstü hiçbir şey açıklanmaz.
 
@@ -383,6 +391,8 @@ Nil, Julian'ın refakatinde Angels'ın herkese aynı şekilde uyguladığı üç
 6. ONAYLI: Nil yaklaşık beş ismi tanır: iki araştırma/soruşturma, iki okul çevresi aile soyadı, bir haber/sokak bağlantısı. İsim eşleştirmesi henüz açık.
 
 
+**28 Ekim 2026 kesin bilgi sınırı (04.03):** Julian sınavlara girmedi: Nephilim olarak Angels içinde büyütüldü ve dışarıdan aday olmadı. Clark'a üç sınav boyunca Julian eşlik etti. Nil bu eşliği kafe görüşmesinde öğrenebilir, ancak Clark'ın üçüncü sınavdan kaldığını 05.03'ü tamamladıktan sonra öğrenecektir. Julian'ın flörtöz tavrı kafe sahnesinde sürer; Nil'i ilk gördüğü anda aşık değildir.
+
 ### 05.03 — Günah Çıkarma
 
 **İkinci taslak durumu:** Yazılmış metin  
@@ -400,6 +410,8 @@ Nil, Julian'ın refakatinde Angels'ın herkese aynı şekilde uyguladığı üç
 
 **28 Ekim 2026 romantik denge notu:** Vesna itirafı Julian'ın Nil'e karşı ilk duygusal ilgisinin zemini olmaya devam eder; Julian Nil'i otomatik aklamaz. Nil'in Blake'le yaşadığı güven kırığı itirafın ağırlığında hissedilir, ancak eski romantik geçmiş burada ifşa edilmez.
 
+**28 Ekim 2026 bilgi açıklama sınırı:** Nil'in Vesna itirafını ve uykuya dalışını Clark'ın geçmişteki sınav sonucuyla bölme; açıklama ancak kendi üçüncü sınavını bitirip uyandıktan sonra 05.04 başında gerçekleşir.
+
 ### 05.04 — Gizli yeraltı merkezine iniş
 
 **İkinci taslak durumu:** Yazılmış metin  
@@ -409,9 +421,10 @@ Nil, Julian'ın refakatinde Angels'ın herkese aynı şekilde uyguladığı üç
 
 **Olay akışı**
 
-1. Nil uyanınca Julian onu botanik seradan Eski Şehir'deki tarihî kilisenin içine geçirir.
-2. Kiliseden eski, dar taş yeraltı geçidine inerler; geçmişin dinsel mimarisi korunmuştur.
-3. Tarihi koridorun sonunda sessiz, ileri teknoloji ürünü modern asansörle NEXARIEL'in çok derindeki merkezine inerler.
+1. Nil üçüncü sınavı tamamlayıp serada uyandıktan sonra, yeraltına inmeden önce Clark'ın sınavını sorar. Julian Clark'a üç sınavda bizzat eşlik ettiğini; Clark'ın son vicdan/Günah Çıkarma sınavında itiraflarından sonra 'Pişman değilim' diyerek pişmanlık göstermediğini ve üçüncü sınavdan kaldığını anlatır. Üst kurul yine de üyelik ihtimalini kapatmamış, Clark ise katılmayı reddetmiştir. Somut suçlar henüz açıklanmaz.
+2. Konuşmanın ardından Julian Nil'i botanik seradan Eski Şehir'deki tarihî kilisenin içine geçirir.
+3. Kiliseden eski, dar taş yeraltı geçidine inerler; geçmişin dinsel mimarisi korunmuştur.
+4. Tarihi koridorun sonunda sessiz, ileri teknoloji ürünü modern asansörle NEXARIEL'in çok derindeki merkezine inerler.
 
 
 ### 05.05 — NEXARIEL'in uyarısı ve Julian'ın izni
