@@ -4,6 +4,12 @@
 
 **Yazılmış ikinci taslak:** Bölüm 01–06 ve 07.01–07.04. **Yalnızca onaylı plan:** 07.05'ten itibaren yeni bölüm 14 finaline kadar. **Sahne sayısı, kelime sayısı değildir.** Aşağıdaki kelime aralıkları taslak yazımını yönlendiren *öneri* niteliğindedir; metinden sayılmamıştır.
 
+## Nil–Blake–Julian romantik denge kanonu
+
+**28 Ekim 2026 — Nil–Blake–Julian romantik denge kararı (yazar onaylı):** Julian'ın Nil'le daha fazla görünür romantik anı olabilir; Blake eşit sayıda sahne veya öpüşme ile değil, Nil'in bugünkü Blake'e yeniden yönelen ilgisi, ortak değerleri ve karşılıklı güvenin somut dönüşümüyle aynı derecede gerçek bir romantik ihtimal olarak kurulacak. Nil'in iki ilişkiye de kendi isteğiyle yaklaşması esastır. Blake'in Vesna yalanı sonrası güven kırığı aceleyle çözülmez; Blake yalnız koruyucu, Julian yalnız kusursuz flörtöz karakter olmaz. Kıskançlık yarışması, kesin eşleşme veya aşk itirafı eklenmez. İlk kitabın sabit eşikleri: 06 yeniden karşılaşma/itiraf; 08.01 eski romantik geçmişin okura kesin açılması; 10.03 Nil–Julian'ın ilk ve tek öpüşmesi (Blake bilmez); finalde seçim yapılmaz.
+
+**Sahne uygulaması:** 07.02, 07.03 yazılmış ikinci taslak için revizyon hedefidir; yazılmış oldukları gerçeği değişmez. 08.01, 08.02, 08.05, 09.06 ve 13.05 ana dramatik dayanaklardır. Sahne sırası, tarihler, mevcut karakter bilgi sınırları ve 14 bölüm / 67 sahne sayısı aynıdır.
+
 ## Yeni bölüm ve uzunluk haritası
 
 | Bölüm | Başlık | Sahne | Sahne aralığı | Yazım durumu | Hedef kelime |
@@ -392,6 +398,7 @@ Nil, Julian'ın refakatinde Angels'ın herkese aynı şekilde uyguladığı üç
 4. Nil'in Vesna delillerini sildiği itirafının ardından serada uyuyakalması Julian'da çok hafif, adı konmamış ilk duygusal kıpırtıyı doğurur. Julian bunu aşk olarak hemen anlamaz; ağırlığı hemen espriyle bozma.
 5. Vesna Blake'in aşık olduğu biri değildir: Blake halkından yardım isteyen birini geri çeviremediği için Vesna'ya yardım etmiştir.
 
+**28 Ekim 2026 romantik denge notu:** Vesna itirafı Julian'ın Nil'e karşı ilk duygusal ilgisinin zemini olmaya devam eder; Julian Nil'i otomatik aklamaz. Nil'in Blake'le yaşadığı güven kırığı itirafın ağırlığında hissedilir, ancak eski romantik geçmiş burada ifşa edilmez.
 
 ### 05.04 — Gizli yeraltı merkezine iniş
 
@@ -514,6 +521,7 @@ Cennet Ağacı'na girmek için fiziksel beceri ve Cen.net güvenliğini bilen bi
 - Blake: 'Kimleri görüyorum?'
 - Nil: 'Hah ya, uzun zaman oldu.'
 
+**28 Ekim 2026 romantik denge notu:** Eski tanışıklık ve bedensel rahatlık küçük davranışlarla sezilir; açık romantik gerilim, dramatik hesaplaşma veya 08.01'den önce geçmişi açıklayan diyalog eklenmez.
 
 ### 06.03a — Sifon'un gece yüzü
 
@@ -554,6 +562,7 @@ Cennet Ağacı'na girmek için fiziksel beceri ve Cen.net güvenliğini bilen bi
 
 - Blake: 'Zaten tahmin ediyordum. Hazır olmanı bekliyordum; ama ben boş durmadım.'
 
+**28 Ekim 2026 romantik denge notu:** Blake'in itirafı duyması, yalanın sonuçlarını ve iki yıllık kopukluğu bir anda silmez. Nil'in onun güvenini geri kazanma ihtiyacı kolay bir affedilme sahnesine dönüşmez.
 
 ### 06.05 — Cen.net'in Sifon baskını
 
@@ -587,6 +596,7 @@ Cennet Ağacı'na girmek için fiziksel beceri ve Cen.net güvenliğini bilen bi
 3. Nil Blake'ten haber almadan uyumaz; gelişini bekler, durumunu sorar; Blake Nil'i uyumaya ikna eder. Altıncı bölüm Blake'in gelişiyle biter.
 4. Villa Nexariel ve meleklerce doğaüstü korunur; Nil ve Blake bunu bilmez.
 
+**28 Ekim 2026 romantik denge notu:** Nil'in Blake gelene kadar uyumadan bekleyişi ve geldiğinde yaralarını/sorumluluğunu sorması güçlü ama açıklanmamış kişisel bağlılık taşır; romantik itirafa çevrilmez.
 
 ---
 
@@ -659,6 +669,7 @@ Nil, Blake ve Julian 13 Kasım gecesindeki ayrı gelişlerinin ardından villada
 
 15 Kasım gözetiminde Angels Nil ve Blake'i fark eder ama müdahale etmez; Cen.net onları bu ziyaret sırasında görmez. Nil ve Blake kendi hareketlerinin fark edilmediğini sanır, yalnız Cen.net gözetiminden kuşkulanır. Angels'ın onları gördüğü ve ikinci gözetim zinciri bu aşamada anlatıcı veya karakter bilgisi olarak AÇIKLANMAZ.
 
+**28 Ekim 2026 romantik denge notu:** Yazılmış metin için revizyon ilkesi: Eski ev/park konuşmasında yalnızca Clark ve çocukluk anıları değil, Nil'in bugünkü karar hakkı ile Blake'in bugünkü risk değerlendirmesi de birbirlerini etkilesin. Blake Nil'i kontrol etmeye değil gerçek riski durdurmaya çalışır; Nil de onu salt eski çocukluk arkadaşı değil bugün yeniden tanıdığı biri olarak görmeye başlar. Geçmiş romantik ilişki açık edilmez.
 
 ### 07.03 — 15 Kasım: antrenman ve Julian'ın katılımı
 
@@ -675,6 +686,7 @@ Nil, Blake ve Julian 13 Kasım gecesindeki ayrı gelişlerinin ardından villada
 4. Bu antrenman 15 Kasım sahnesinde Draft 2 kapsamında yazılmıştır; 16 Kasım ortak araştırmasından önce gerçekleşir.
 5. Julian antrenmanın sonuna doğru gelir; yaklaşık iki yüz yıllık saha deneyimi sayesinde acemi değildir, Nil'den temel dövüş öğrenmez. Blake'in sert/pratik tekniğine karşı ekonomik ve kontrollü yaklaşır. İkisini öğle yemeğine çağırır; sabahki gözetim araçlarını yemekten sonra konuşacaklardır. Mevcut yemek/değerlendirme sahnesinde aynı davet ve konuşma tekrar edilmez.
 
+**28 Ekim 2026 romantik denge notu:** Yazılmış antrenmanın romantik denge hedefi: eski fiziksel uyumla iki yıllık yabancılık birlikte hissedilsin; her temas erotikleştirilmesin. Julian'ın deneyimi küçültülmez, Blake de yalnız kaba kuvvetle tanımlanmaz; eski ilişkinin ifşası 08.01'de kalır.
 
 ### 07.04 — 16 Kasım: ortak Cen.net araştırması
 
@@ -740,6 +752,7 @@ Nil, Blake ve Julian 13 Kasım gecesindeki ayrı gelişlerinin ardından villada
 
 Nil'in Julian'ın fotoğraflarını tanımasında Hamlet'in rolü vardır.
 
+**28 Ekim 2026 romantik denge notu:** Julian'ın Clark benzetmesi Nil'i gerçekten incitir; karşılıklı anlaşmazlık yeni yakınlığın gerçek sınırı olur. Julian kusursuz anlayışlı romantik aday gibi yazılmaz, sahne hemen flörtle onarılmaz.
 
 ---
 
@@ -798,6 +811,7 @@ Julian'ın annesi ve Nephilim geçmişine dair özel konuşmanın ardından Nil 
 
 Baskıncıların aradığı kadın Nil'dir; Nil, Blake ve Kemal'in bunu kesin gösteren belgesi yoktur.
 
+**28 Ekim 2026 romantik denge notu:** Eski kulüp çevresinde Nil ve Blake'in geçmişteki kısa romantik/fiziksel yakınlığını yalnız gerçekleşmiş bir olay olarak değil, birbirlerine neden çekildikleri anlaşılacak somut ve doğal bir anıyla ilk kez kesinleştir. Nil'in o dönemki kendi arzusu görünür olsun; bugünkü duygularını hemen aşka veya ilişkiye dönüş diye yorumlamasın.
 
 ### 08.02 — Kemal'in tehlikeli sevk takibi
 
@@ -820,6 +834,7 @@ Baskıncıların aradığı kadın Nil'dir; Nil, Blake ve Kemal'in bunu kesin g�
 - Kemal kayıp kişiyi bulmaz ve Cen.net'in en büyük sırlarını çözmez.
 - 08.01'de Kemal'in topladığı bilgi anlatılır; riskli takibe kalkışması ve tehlikeye giren arkadaşı yalnız bu 08.02 sahnesinde olur.
 
+**28 Ekim 2026 romantik denge notu:** Kemal ve arkadaşının tehlikeye girmesi Nil ile Blake'in farklı ama savunulabilir koruma yaklaşımlarını karşı karşıya getirsin. Sözleri eylemlerini değiştirsin, birlikte daha iyi bir karar oluştursunlar; romantik ihtimal ortak değerler ve bugünkü karşılıklı saygıdan doğsun, çocuklar yalnız romantik vesile olmasın.
 
 ### 08.03 — Nadejda'nın Ölü Frekans'ı
 
@@ -868,6 +883,7 @@ Baskıncıların aradığı kadın Nil'dir; Nil, Blake ve Kemal'in bunu kesin g�
 
 - ilerleyen villa sahnesindeki yarım sözle güçlenen kuşku bu sahnede kesinleşmez veya tekrarlanmaz.
 
+**28 Ekim 2026 romantik denge notu:** Julian'ın Blake–Nil geçmişine ilişkin sezgisi kesin bilgiye dönüşmez. Nil, Julian'ın özel Nephilim sırrını korurken Blake'i ilgilendiren somut güvenlik risklerini söyleyebilmeli; bu bilgi asimetrisi güven ilişkilerinin parçasıdır.
 
 ### 08.05 — Villa gecesi: üç kişinin değişen ilişkileri
 
@@ -890,6 +906,7 @@ Baskıncıların aradığı kadın Nil'dir; Nil, Blake ve Kemal'in bunu kesin g�
 - Villa yaşamında dışarıdaki sosyal hayatın da sürmesi ve operasyon hazırlıklarıyla özel hayatın birbirine karışması ön planda olmalı. Ev arkadaşlığı ve gündelik alışkanlıklar bu akışı desteklemeli; gece sohbetleri, romantik yakınlaşmalar ve kişisel mahrem anlar daha sınırlı kalmalı. Bu tek geceye zorla uzun dramatik konuşmalar veya sürekli romantik gerilim yüklenmemeli.
 - Julian'ın şüphesinin kaynağı gözlem ve belirsiz bir sözdür, kesin bilgi değildir.
 
+**28 Ekim 2026 romantik denge notu:** Üçlünün sıradan villa hayatında Nil'in Blake'le eskiden beri gelen pratik/bedensel rahatlığı ve Julian'a duyduğu yeni merak farklı nedenlerle görünür olsun. Nil pasif ilgi nesnesi değildir; iki ilişkiye de kendi eylemleriyle yön verir. Julian yalnız eski bir ilişki olabileceğini sezer, Blake Nil–Julian çekimini fark etmez; villa romantik kriz sahnesine dönmez.
 
 ---
 
@@ -969,6 +986,7 @@ Baskıncıların aradığı kadın Nil'dir; Nil, Blake ve Kemal'in bunu kesin g�
 - Julian'ın etrafındaki yüzeysel flörtler azalmakta, Nil'e karşı gerçek duygusu ise artmaktadır.
 - Güncel tek galeri ziyareti, Nil gerçek davetiyesini aldıktan sonra kimliğine bürüneceği sanat hamisinin alanında koleksiyon/davet bilgisi edinmek için hedefli hazırlık yapar. İlk sahnenin tekrarına dönüşmesin.
 
+**28 Ekim 2026 romantik denge notu:** Tek bağımsız galeride Nil, Julian'ın kamusal ve özel yüzünü karşılaştırır; Julian'ın yüzeysel flörtleri azalırken Nil'e karşı gerçekten hissettiği için eski rahatlığını kaybetmesi görünür. İlk öpüşme burada olmaz.
 
 ### 09.04 — Aralık ortası: Blake'in sınırlı güvenlik planı ve Sifon
 
@@ -984,6 +1002,7 @@ Baskıncıların aradığı kadın Nil'dir; Nil, Blake ve Kemal'in bunu kesin g�
 3. Blake'in kızıl saçları kılık değiştirirken sorun olabilir; fiziksel üniforma ve kimlik 31 Aralık gecesi ele geçirilecektir.
 4. Sıradan muhafızdan başlayıp daha üst yetkili görevliye geçiş planı varsa uygulaması 10. bölümdedir; burada başarı olmuş gibi anlatılmaz.
 
+**28 Ekim 2026 romantik denge notu:** Blake'in Sifon'daki somut sorumluluğu ile Nil'le ortak güvenlik çalışması birlikte görülsün. Nil çocukluk anılarından bağımsız olarak bugünkü Blake'in bilgi, kararlılık ve değerlerini yeniden değerlendirsin; Blake yalnız Nil'in koruması haline gelmez.
 
 ### 09.05 — Aralık son haftası: rol ve kıyafet provaları
 
@@ -1021,6 +1040,7 @@ Baskıncıların aradığı kadın Nil'dir; Nil, Blake ve Kemal'in bunu kesin g�
 
 - Nil: 'Bak bilmediğin şeyler var. Çok tehlikeli. Gelmek istediğine emin misin?'
 
+**28 Ekim 2026 romantik denge notu:** Nil'in Blake'e geri çekilme seçeneği sunması onu kaybetme korkusuyla da bağlantılı olsun. Blake kalmayı Vesna, Sifon ve kendi mücadelesi için seçer; Nil'in tehlikede oluşunun kendisi için kişisel ağırlığını tamamen gizlemez. İkisi de kararların sorumluluğunu birbirinin yerine üstlenmez; öpüşme veya aşk itirafı eklenmez.
 
 ---
 
@@ -1112,6 +1132,7 @@ Baskıncıların aradığı kadın Nil'dir; Nil, Blake ve Kemal'in bunu kesin g�
 - Nil ve Julian'ın eylemini erotik sahne uzatmasına değil kısa fakat yoğun bir ritim değişikliğine dönüştür.
 - İlk öpüşmenin güvenlik şüphesini dağıtma gerekçesi sahnede somutlaştırılmalı; bunun dikkatleri daha fazla çekme riskinin farkında olarak, maskeli balodaki çiftlerin mahremiyetine ilişkin alışkanlıklar kullanılır. Öpüşme sırf romantik dekor değil operasyonda kısa bir riskli doğaçlamadır.
 
+**28 Ekim 2026 romantik denge notu:** Balodaki güvenlik şüphesini dağıtan ilk Nil–Julian öpüşmesi sabit kalır. Taktik rol gerçek çekimi görünür kılar; birinci kitapta üzerine konuşulmaz, Blake ne görür ne öğrenir.
 
 ### 10.04 — Maskeli sanat sohbeti
 
@@ -1492,6 +1513,7 @@ Blake, kilisenin çevresini gözlemleyip meleklerin insan hizmetkârlarından ba
 3. Kaçışın başlangıcı Blake'in insani yeteneğine dayanır.
 4. Blake'in kurtarması iki taraflı bir dönüşüm başlatır: Julian ona saygı duyar ve daha önce onu sınav gerekçesiyle dışarıda bırakmış olmaktan mahcuptur; Blake ise Julian'ın kendi inandığı düzen karşısındaki kırılganlığını görür ve daha çok kollar. Tartışmaları bitmez.
 
+**28 Ekim 2026 romantik denge notu:** Blake'in insan becerisiyle Nil ve Julian'ı kurtarması yalnız 'haklı çıktı' veya 'koruyucu erkek' anı olmaz. Nil'in Blake'e duyduğu güncel güven ve onun yanında özne/ortak olarak hareket etmesi somut biçimde değişir; eski güven kırığı sihirli biçimde kapanmaz. Julian ile Blake'in karşılıklı saygısı da korunur.
 
 ### 13.06 — Julian'ın yolları, NEXARIEL'in gürleyişi
 
@@ -1674,6 +1696,7 @@ Bella'nın elitist insan aristokrasisi projesinin kapsamı bu açıklamayla Nil'
 6. Julian ilk kitapta yalnız NEXARIEL'in otoritesini kesin reddeder; diğer başmeleklerin daha adil olabileceği umudu ile aynı düzenin parçası oldukları şüphesi arasında kalır.
 7. Balodaki Nil–Julian ilk öpüşmesi finalde hala konuşulmamıştır. Blake de bunu öğrenmemiştir. Nil–Blake geçmişi ise yalnız okurun 8. bölümde fark edebildiği, karakterler için olağan bir geçmiş olarak kalır.
 
+**28 Ekim 2026 romantik denge notu:** Finalde Nil–Julian öpüşmesi konuşulmadan kalır, Blake bilmez. Nil ile Blake'in yeniden kurulmaya başlayan güveni ve eski çekim ihtimali romantik seçim veya kesin eşleşmeye dönüştürülmez; iki olasılık da ikinci kitaba canlı taşınır.
 
 ---
 
