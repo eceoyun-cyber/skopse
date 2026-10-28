@@ -24,6 +24,25 @@ Yedi İsim'deki yedi hükümlünün dosyalarında suç ve mahkumiyet kanıtları
 - **05.05 yazar kronolojisi:** Clark geçmişte NEXARIEL'le yüz yüze görüştü; melekler onunla ilk teması başlatmıştı, kendisinin 'Clark bize geldi' anlatısı bu ayrıntıyı saklar. NEXARIEL ona çalışmasını durdurmasını ve Cen.net konumunu Angels adına kullanmasını söyledi; Clark ardından üyeliği reddetti. Nil'e bu geçmişin tüm içeriğini erken açma.
 - Bölüm numaraları, 67 sahne, olay sırası ve yazılmış metin durumları değişmez. Önceki “NEXARIEL'den sonra villada açıklama” kaydı ve fanfiction'daki seradan sonra üyeliği hemen reddetme akışı geçersizdir.
 
+## 28 Ekim 2026 — Clark'ın kayboluşundan önceki kesin göreli tarihler
+
+**Referans:** Clark'ın Bella'nın yardımıyla kaybolduğu gün = **0**; tarihler yaklaşık, olayların sırası kesin.
+
+| Zaman | Clark'ın geçmişindeki olay |
+|---|---|
+| **−8 ay** | Genetik koduna özel ilk Ophelia prototipini **kendi bedenine** yerleştirir. Artan duyular gibi kısmen işe yarayan etkileri kaydeder; ciddi/demonik olumsuz sonuçları henüz yaşamamıştır. |
+| **−6 ay** | Ophelia bedenindeyken Julian'ın refakatinde Angels'ın üç sınavına girer. İlk ikisini geçer, üçüncüden kalır; kurul izniyle NEXARIEL'le **yüz yüze** görüşüp araştırmayı bırakma ve Cen.net konumuyla Angels'a çalışma talebini reddeder. 1866 çift kanatlı kartviziti bu Angels teması sırasında edinir. |
+| **−1 ay** | Clark kendi Cen.net erişim kayıtlarını silerken Aras görür. **Bu olay Aurelian'ın tehdidinden öncedir.** |
+| **Son iki hafta / ~−14 gün** | Cen.net CEO'su Aurelian, Clark'la araştırmaları üzerine **ilk özel yüz yüze** görüşmesini yapar. Nil'i açıkça tehdit eder. NEXARIEL daha önce CEO'nun şeytan kimliğini Clark'a söylememiştir; Aurelian da itiraf etmez. Clark yeni duyusal tepkilerinden insan dışı bir durum olabileceğini sezebilir ama doğrulamaz ve söylemez. |
+| **~−7 gün** | Clark, Nil'in genetik koduna göre hazırlanmış ikinci Hamlet prototipini **rızasız ve habersiz** yerleştirir. O anda Ophelia'nın duyusal yararlarını biliyor, henüz ağır olumsuz etkilerini bilmiyordur. |
+| **0** | Clark Bella'nın yardımıyla kaybolur; Bella'ya yüzde yüz güvenmiyordur. Nil'e tehlike hissettirmemiştir. |
+
+**Çipin çifte amacı (kesin yazar motivasyonu):** (1) Nil'in olası melek/şeytan/Cen.net tehdidine karşı duyusal savunma kazanması; (2) Clark Bella'ya ulaşamadan yakalanır/ölürse veya Bella kendisine zarar verirse araştırma tek taşıyıcıyla yok olmasın, Nil'de genetik olarak ayrı **ikinci çalışan örnek** kalsın. Bu Clark'ın rızasız müdahalesini aklamaz; sonradan pişmandır. Hamlet, Ophelia'nın birebir kopyası değildir. Nil'in kanatları, çipin kesin ölümcül çıkarma riski veya Hamlet bilincinin gelişimi implant anında öngörülmez. Kendi çipinin ciddi dönüşüm riski **Hamlet'i takmasından sonra, kayboluşa yaklaşırken/sonrasında** belirginleşir.
+
+**Son hazırlıklar:** Nil'in kendi hesabına para aktarımı, Cen.net bağlantı ve erişim izlerinin mümkün olduğunca silinmesi, Gümüşyaka evindeki araştırma kanıtlarının **hem fiziksel hem dijital** temizlenmesi yapılır; özel fotoğraflar, kitaplar ve müzik eşyaları kalır. Kartvizit Angels'la görüşme döneminde elde edilmiştir; daha sonra **Hanoi fotoğrafının çerçevesi arkasına** koymuş, temizlerken unutmuştur. **Yıllar önce bırakılmamıştır; Nil'e özel ipucu değildir.** Kartı kimin verdiği henüz açık. Clark gündelik yaşamında Nil'e hiçbir şeyin ters gittiğini belli etmez; Nil artık okul çağında değildir. Clark'ın Julian veya Blake'i önceden Nil'i korumakla görevlendirmesi **kararlaştırılmamıştır**; Nil ile Blake'in 06.03'te yeniden karşılaşma ve Clark'ın kaybını ilk orada açıklama sahnesi korunur.
+
+**Kitap I bilgi sınırı:** 02.02 kart bulunur ama kartın altı ay önce edinildiği öğrenilmez. 11.02'de yalnızca Aurelian görüşmesinin yapıldığı görülür, konuşma kaydı bulunamaz. Nil başlangıçta çipin varlığından ve Clark'ın çift motivasyonundan habersizdir. Bu not sahne yazım kararını değiştirir, yazılmış düzyazıyı otomatik olarak yeniden yazılmış saydırmaz. 14 bölüm/67 sahne değişmez.
+
 ## Ana olay sırası
 
 07.01 villa sabahı → 07.02 eski ev ve park → 07.03 Nil–Blake antrenmanı, Julian'ın katılması → 07.04 üçlü araştırma → **07.05 Cennet Ağacı/anahtar planı → 07.06 Julian'ın Nephilim/anne itirafı ve Nil'in incinmesi** (7. bölüm sonu) → **08.01 ikinci Sifon'da üç kayıp ve aranan kadın → 08.02 Kemal → 08.03 Nadejda ve iki sinyal → 08.04–08.05 villa** (8. bölüm sonu) → **09.01 giriş rolleri → 09.02 orijinal fiziksel davetiye → 09.03 tek galeri → 09.04–09.06 hazırlık** → **10.01–10.05 99. kat balosu, ilk öpüşme, maskeli Aurelian, şeytan şefin ölümü ve anahtar** → **11.01–11.05 100. kat, Clark'ın gerçek görüşme izi, Aurelian ve Nil'in ilk kanatları** → 12. bölüm NEXARIEL'in hükmü → 13. bölüm Blake'in kurtarması → 14. bölüm Daniil/Hamlet finali.
