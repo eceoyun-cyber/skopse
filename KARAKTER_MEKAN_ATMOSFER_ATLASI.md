@@ -1197,7 +1197,7 @@ Bağlantılı atlas kayıtları: eski_sehir, angels, nil, julian.
 
 **Yetenekler / işlev**
 
-Nil'e yedi gerçek ağır suçlunun dosyaları verilir ve birini affetmesi istenir; Nil dosyaya dayanarak hüküm vermeyi reddeder.
+Nil'e yedi gerçek ağır hükümlünün suç/mahkeme kanıtlarının yanı sıra savunmaları, pişmanlık beyanları, cezaevi davranış/disiplin ve varsa rehabilitasyon/psikolojik kayıtları verilir; tüm bilgileri inceler ancak gerçek ve geri alınamaz af kararı için yeterli görmeyip kimseyi seçmez. Clark geçmişte aynı kapsamlı dosyaları değerlendirip en düşük yeni zarar riski olan bir hükümlüyü seçmiştir; kimliği henüz açık.
 
 **Ek notlar ve yazar bilgisi**
 
@@ -1846,7 +1846,7 @@ NEXARIEL hiyerarşik otoritedir. Tarikat Nil'e önce bilgi ve yardım ihtimali s
 
 **Ek notlar ve yazar bilgisi**
 
-Kaderine Güven'de yoğun trafik; Yedi İsim'de yedi suçludan birini gerçek af ile serbest bırakma kararı (Nil sırf dosyaya bakarak karar vermez); Günah Çıkarma'da botanik serada Vesna itirafı. 12. bölümde NEXARIEL Nil'in kanatlarını insan için günah sayar, Julian'ı da onu savunduğu için hapseder. 13. bölümde Blake esirleri kurtarır. Nephilimler tarihte görülmüş olmakla birlikte melek-insan birleşimi Angels düzeninde yasaktır. Julian cemaatteki tek Nephilimdir; insan da tam melek de sayılmadığı için kimi düşük rütbeli meleklerin küçümsemesine ve kıskançlığına maruz kalır. Onu seven bir iki eski dostu bile NEXARIEL'in cezalandırma kararına itiraz etmez, hatta Nil'i savunmasını yasak bir varlığın diğerini savunması diye ayıplarlar. Diğer başmeleklerin tutumu kesin bilinmiyor: Julian onlarla doğrudan görüşmedi.
+Kaderine Güven'de yoğun trafik; Yedi İsim'de mahkeme belgeleri, savunmalar, pişmanlık ve cezaevi/rehabilitasyon kayıtlarını içeren yedi kapsamlı dosyadan birini gerçek af ile serbest bırakma kararı (Nil bu kayıtlara rağmen kesinlik bulamayarak kimseyi seçmez; Clark geçmişte en az sonraki zarar riskini gördüğü kişiyi seçmiştir); Günah Çıkarma'da botanik serada Vesna itirafı. 12. bölümde NEXARIEL Nil'in kanatlarını insan için günah sayar, Julian'ı da onu savunduğu için hapseder. 13. bölümde Blake esirleri kurtarır. Nephilimler tarihte görülmüş olmakla birlikte melek-insan birleşimi Angels düzeninde yasaktır. Julian cemaatteki tek Nephilimdir; insan da tam melek de sayılmadığı için kimi düşük rütbeli meleklerin küçümsemesine ve kıskançlığına maruz kalır. Onu seven bir iki eski dostu bile NEXARIEL'in cezalandırma kararına itiraz etmez, hatta Nil'i savunmasını yasak bir varlığın diğerini savunması diye ayıplarlar. Diğer başmeleklerin tutumu kesin bilinmiyor: Julian onlarla doğrudan görüşmedi.
 
 **Bağlı atlas kayıtları:** Nil Clayton (`nil`); Julian Junes (`julian`); NEXARIEL (`nexariel`); Gizleme Çipi (`gizleme_cipi`); Angels Tarihî Kilisesi (`angels_kilise`); Kilise Botanik Serası (`sera`); NEXARIEL Yeraltı Merkezi (`angels_yeralti`); Angels Taş Zindanı (`angels_zindan`).
 
