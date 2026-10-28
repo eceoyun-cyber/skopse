@@ -116,17 +116,17 @@ Daniil acil yoksul bir hastayı, önemsiz yarası olan nüfuzlu hastanın önün
 
 ## 15 — Clark Ophelia ve Hamlet'i yerleştirir
 
-**Zaman:** Açılıştan önce · kesin tarih açık
+**Zaman:** Clark'ın kayboluşu = 0 · Ophelia yaklaşık −8 ay · Hamlet yaklaşık −7 gün
 
-Clark önce kendi genetik koduna göre Ophelia'yı, sonra Nil için Hamlet'i geliştirir; çipleri bedenlerine yerleştirir. Çipler kişiliğe göre ilahi özellikler çıkarır; bilinçleri beklenmedik yan etkidir. Clark, Nil'de melek kanatlarının ortaya çıkacağını kaybolduğunda bilmez.
+Clark önce kendi genetik koduna göre Ophelia'yı geliştirip kayboluşundan yaklaşık sekiz ay önce **kendi bedenine yerleştirir**. Artan duyular ve kısmen çalışan güçler gibi olumlu etkiler gözler; önemli olumsuz/şeytani dönüşümü henüz görmemiştir. Yaklaşık altı ay kala NEXARIEL'e bu çiple gider. Yaklaşık bir hafta kala, Aurelian'ın Nil'i açıkça tehdit ettiği görüşmeden sonra, Nil'in genetik koduna uyarlanmış ikinci çip Hamlet'i **rızasını almadan** yerleştirir. Bu kararın iki amacı vardır: Nil'e tehditlerden korunma olasılığı vermek ve Clark Bella'ya varamadan yakalanır/ölürse veya Bella güvenilmez çıkarsa araştırmadan başka bir bedende ikinci çalışan örnek kalmasını sağlamak. Hamlet Ophelia'nın birebir kopyası değildir. Clark Nil'in melek kanatları geliştireceğini veya çipin çıkartılmasının kesin ölümcül olacağını öngörmez. Bilinçlerin doğması beklenmedik yan etkidir; Nil'e yapılan gizli müdahale Clark'ın daha sonraki vicdan azabının kaynağıdır. İkinci çipin tasarımına başlama günü açık, yerleştirme aralığı yaklaşık −7 gündür.
 
 ---
 
 ## 16 — Aras, Clark'ın erişim kayıtlarını sildiğini görür
 
-**Zaman:** Yaklaşık 1 ay önce
+**Zaman:** Kayboluşa yaklaşık 1 ay kala · Aurelian görüşmesinden önce
 
-Clark'ın özel yazılımla kendi giriş loglarını yok ettiğine Aras tanıklık eder.
+Clark kendi giriş ve erişim izlerini özel yazılımla silerken Aras'a yakalanır. Bu iz temizleme süreci Aurelian'ın Nil üzerinden tehdidinden önce başlamıştır; Angels/NEXARIEL'le altı ay önce yaşanan temas Clark'a güvenlik önlemlerini erkenden artırmak için neden sağlamıştır. Aras hangi alana girildiğini veya kayıtların neden silindiğini bilmez, önce Clark'a susacağına söz verir. Sonradan Cen.net görevlilerince sorgulanınca anlatır.
 
 ---
 
@@ -140,9 +140,11 @@ Bella geçmiş evren döngülerini hatırlayan insandır; fizik ve kuantum araş
 
 ## 18 — Angels ve Cen.net Clark'ın araştırmasına yönelir
 
-**Zaman:** Açılıştan önce
+**Zaman:** Kayboluşa yaklaşık 6 ay kala NEXARIEL · kayboluştan önceki son 2 hafta içinde, yaklaşık −14 gün Aurelian
 
-Melekler, insan kapasitesinin sınırlarını aşmayı araştırırken melek/şeytan izlerini keşfeden Clark'la ilk teması kurar. Clark, araştırdığı şeyin ayrıntılarını öğrenebilmek için Julian'ın eşliğinde aynı üç geleneksel sınava girer: **Kaderine Güven'i geçer; Yedi İsim'de kapsamlı hükümlü dosyalarından sonraki zarar ihtimalini en düşük gördüğü kişiyi seçip geçer; Günah Çıkarma'da 'Hayatında en çok pişman olduğun şeyi anlat' sorusuna tek bir ağır olay/karar anlatır ancak bu olay için 'Pişman değilim' diyerek teknik olarak kalır.** Kurul yine de görüşmeye devam izni verir. Julian, Clark'ı kilisenin botanik serasından eski taş geçit ve modern asansörle NEXARIEL'in yeraltı merkezine indirir; Clark NEXARIEL'le **yüz yüze görüşür**. NEXARIEL, çalışmasını durdurmasını ve Cen.net'teki konumuyla Angels adına çalışmasını ister. Clark araştırmasını bırakmayı reddettiği için **üyelik teklifini ancak görüşmenin ardından reddeder**; sınavlara kızıp seradan ayrılmaz. Üçüncü sınavda seçtiği olayın içeriği, Cen.net/ölüm bağlantısı, bu aşamanın kesin tarihi henüz açık karardır; 'Pişman değilim' bütün hayatı için söylenmiş değildir. Clark'ın Nil'e çip konusunda sonradan duyduğu vicdan azabı korunur. Clark ayrıca Cen.net CEO'su Aurelian ile 100. katta görüşür; bu görüşmenin tam içerik ayrıntıları açık. NEXARIEL görüşmesi ile Aurelian görüşmesinin karşılıklı kesin takvim ayrıntıları henüz belirlenmemiştir.
+Clark'a meleklerle bağlantılı Angels'ın kendisi ulaşır. Kendi Ophelia çipi yaklaşık iki aydır bedenindeyken, **−6 ay civarı** Julian'ın eşlik ettiği üç sınava girer: ilk ikisini geçer; üçüncüde geçmişinden bir ağır kararı anlatıp o olay için 'Pişman değilim' dediğinden kalır. Üst kurul yine de görüşmeyi onaylar. Julian onu kilisenin altındaki merkeze indirir; NEXARIEL araştırmasını durdurmasını ve Cen.net konumuyla Angels adına çalışmasını ister. Clark **ancak bu görüşmeden sonra** üyeliği reddeder. NEXARIEL CEO Aurelian'ın şeytan olduğunu Clark'a **söylemez**. Angels'la bu temas sırasında Clark 1866 yılı ve çift kanat/kanatlı piramit sembolü bulunan kartviziti edinir; kimin tam olarak verdiği açık.
+
+Aylar sonra, **kaybolmadan önceki son iki hafta içinde**, Nil'e Hamlet çipini yerleştirmesinden **önce** (yaklaşık −14 gün), Cen.net CEO'su Aurelian yüzüncü katta Clark'la çalışmalarına ilişkin **ilk kez doğrudan görüşür**. Nil'i açıkça tehdit ederek araştırmayı kontrol etmeye çalışır. Clark, Ophelia'nın yeni duyusal etkileri ve NEXARIEL deneyimini karşılaştırınca Aurelian'ın insan dışı olabileceğinden şüphelenir fakat bunu dile getirmez, kesin kanıtı yoktur. Aurelian şeytani kimliğini açıkça söylemez. Diyalogların kesin ayrıntıları roman için henüz onaylanmadı; Nil, 11.02'de yalnızca bu görüşmenin gerçekleştiğine dair kayıt bulur. İki görüşme birbirini takip eden günlerde değil, yaklaşık beş buçuk ay arayladır.
 
 ---
 
@@ -156,9 +158,11 @@ Aras güvenlik soruşturması sonrası Cen.net'ten ayrılmak zorunda kalır; sor
 
 ## 20 — Clark'ın Bella'nın desteğiyle kayboluşu
 
-**Zaman:** 30 Ekim Çarşamba · açılıştan 3 gün önce
+**Zaman:** 30 Ekim Çarşamba · sıfır noktası (0) · açılıştan 3 gün önce
 
-Clark, Bella'nın desteğiyle kendi isteğiyle ortadan kaybolur. Nil onun kaybolduğunu fark ettiğinde önce Cen.net üzerinden iz sürer, ardından tek başına araştırır; bu aşamada Blake'e haber vermez. Clark, Ophelia'nın şeytani tezahürüne ve Nil'e habersiz yerleştirdiği Hamlet'in risklerine çare aramaktadır.
+Clark, Bella'nın kaynaklarıyla **kendi isteğiyle** kaybolur ama Bella'ya yüzde yüz güvenmez. Bella'nın kendi gizli amaçları olabileceğini düşünür; evren döngüsü hakkındaki gerçek bilgisine erişimi yoktur. Aurelian'ın son iki hafta içindeki Nil tehdidi üzerine önceden başlamış güvenlik hazırlıklarını hızlandırır: Nil'in **hesabına para aktarır**, Cen.net erişim/kayıt bağlantılarını mümkün olduğunca temizler ve evde çip/Angels/Cen.net araştırmasına ilişkin **dijital ve fiziksel kanıt bırakmamaya çalışır**. Özel kitap, müzik cihazları ve sınırlı kişisel fotoğraflar olduğu gibi kalır. Angels temasında yaklaşık −6 ayda edindiği 1866 kartviziti Hanoi fotoğrafının **çerçevesi arkasında yanlışlıkla unutulur**; Nil'e kasıtlı mesaj değildir.
+
+Clark Nil'e bir şeylerin ters gittiğini **hissettirmez**, günlük tutumunu ve birlikteliklerini olağan sürdürür. Hamlet'i hem Nil'in olası savunması hem de kendisine/Bella'ya bir şey olursa ikinci araştırma örneği kalması için yaklaşık −7 günde rızasız yerleştirmiştir; bu etik sorun nedeniyle daha sonra gerçek pişmanlık duyar. Ophelia'nın ciddi/şeytani dönüşüm riski bu implant kararının ardından, kayboluşa yaklaşırken ve özellikle sonrasında belirginleşir; Clark hem bu dönüşümün etkilerine hem Nil'in çipine zarar vermeden müdahale etmenin yoluna çare arar. Nil Clark'ın kaybolduğunu öğrendiğinde ilk olarak Cen.net'e, ardından tek başına kendi araştırmasına yönelir; Blake'le **ilk teması ancak 6. bölümde** olur. Clark'ın Julian'ı veya Blake'i önceden Nil'in koruyucusu olarak görevlendirdiği kesinleştirilmedi.
 
 ---
 
@@ -175,6 +179,9 @@ Nil, Diadolas Yaşam Merkezi'nde Aras'ı takip eder; otopark B2'de elektroşokla
 **Zaman:** 2 Kasım gecesi–4 Kasım Pazartesi · bölüm 2–3
 
 2'yi 3 Kasım'a bağlayan gece Nil, Gümüşyaka'daki evde Clark'la Hanoi'de birlikte çekildikleri fotoğrafın ÇERÇEVESİNİN ARKASINDA 1866 tarihli çift kanatlı kartviziti bulur. Dijital kaynaklarda sembolü çözemez; Clark'ın basılı Skopse Tarihi kitabından deprem sonrası Yeni Şehir, kapalı eski yerleşimci çevreleri ve bazı üniversitelerin kökenini öğrenir. 4 Kasım'da Prof. Dr. Lejla Hadžić'in izniyle üniversitenin tarihî okuma salonu ve alt kattaki kısıtlı arşivinde araştırır; Julian'ın eski fotoğraflardaki yüzüyle ilgili izler birikir. Nil bu aşamada doğaüstü açıklamayı bilmez.
+
+
+**Kartvizitin zaman kaynağı (yazar bilgisi):** Clark kartı yıllar önce değil, kayboluştan yaklaşık altı ay önce Angels'la ilk temas/sınav/NEXARIEL sürecinde edinmiştir. Daha sonra Hanoi fotoğrafının çerçevesinin arkasına koyar; kaybolmadan önce araştırma kanıtlarını temizlerken onu unutur. Kartı kimin tam olarak verdiği henüz belirlenmedi. Fotoğrafın kağıdının arkasında değildir; Nil'e bilinçli ipucu olarak bırakılmamıştır.
 
 ---
 
