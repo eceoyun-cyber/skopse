@@ -8,6 +8,15 @@
 
 **Öncelikli sahne kararları:** 07.02 parkta Nil ile Blake'in bugünkü iradeleri ve risk algıları birbirlerini etkiler; 07.03 bedensel aşinalık + iki yıllık uzaklık birlikte korunur; 08.01 geçmiş çekimin sebebi ve Nil'in öznel arzusu ilk kez açılır; 08.02 Kemal üzerinden ortak değerler ve anlaşmazlık sınanır; 08.05 villa hayatında iki farklı yakınlık doğal biçimde gösterilir; 09.06 Blake'in devam kararı hem Sifon/Vesna hem Nil açısından ağırlık taşır; 13.05 kurtarma Nil'in Blake'e duyduğu bugünkü güveni değiştirir. 07.06'da Julian'ın aile benzetmesinin yarası gerçek kalır; 09.03 galeride Julian'ın rahat flörtü azalmaya başlar. Bunlar yeni ara sahne veya ek öpüşme değildir; mevcut sahnelerin dramatik yazım hedefleridir. 07.02–07.03 önceki yazılmış metin için revizyon notudur, yeniden yazılmış sayılmaz.
 
+## 28 Ekim 2026 — Bölüm 04–05 sınav düzeltmesi (kesin kanon)
+
+**Julian sınavlara hiç girmemiştir.** Nephilim olarak Angels'ın içinde büyütüldüğü için dışarıdan adayın geçtiği sınavlara katılmadı. **Clark'ın üç sınavına ise Julian bizzat eşlik etti.** Clark ilk ikisini geçti; üçüncü vicdan/Günah Çıkarma sınavında 'Pişman değilim' dediği ve yaptıklarından pişmanlık göstermediği için **kaldı**. Üst kurul yine de üyelik ihtimalini açık tutsa da Clark katılmadı. İtiraf ettiği somut suçlar henüz belli değildir.
+
+- **04.03 sabah kafe buluşması:** Julian, Clark'a sınavlarda eşlik ettiğini ve sonrasında üyeliği reddettiğini anlatabilir; Clark'ın son sınavdan kaldığını gizler ve Clark'ın üç sınavı geçtiğini söylemez. Julian kendisinin bu sınavlara girdiğini veya geçtiğini söylemez. Flörtözlüğü sürer; Nil'e aşık değildir.
+- **05.03 Günah Çıkarma:** Nil'in Vesna itirafı ve uykuya dalması kesilmez; Clark'ın 'Pişman değilim' sonucu araya girmez.
+- **05.04 yeraltına inişten önce:** Nil üçüncü sınavı tamamlayıp serada uyandıktan sonra, Julian Clark'ın üçüncü sınavdan kaldığını ve 'Pişman değilim' dediğini açıklar. Bu, NEXARIEL ile tanışmadan önce geçer; Clark'ın somut itiraflarının içeriği söylenmez.
+- Bölüm numaraları, 67 sahne, olay sırası ve yazılmış metin durumları değişmez. Önceki “NEXARIEL'den sonra villada açıklama” kaydı bu son kararla geçersizdir.
+
 ## Ana olay sırası
 
 07.01 villa sabahı → 07.02 eski ev ve park → 07.03 Nil–Blake antrenmanı, Julian'ın katılması → 07.04 üçlü araştırma → **07.05 Cennet Ağacı/anahtar planı → 07.06 Julian'ın Nephilim/anne itirafı ve Nil'in incinmesi** (7. bölüm sonu) → **08.01 ikinci Sifon'da üç kayıp ve aranan kadın → 08.02 Kemal → 08.03 Nadejda ve iki sinyal → 08.04–08.05 villa** (8. bölüm sonu) → **09.01 giriş rolleri → 09.02 orijinal fiziksel davetiye → 09.03 tek galeri → 09.04–09.06 hazırlık** → **10.01–10.05 99. kat balosu, ilk öpüşme, maskeli Aurelian, şeytan şefin ölümü ve anahtar** → **11.01–11.05 100. kat, Clark'ın gerçek görüşme izi, Aurelian ve Nil'in ilk kanatları** → 12. bölüm NEXARIEL'in hükmü → 13. bölüm Blake'in kurtarması → 14. bölüm Daniil/Hamlet finali.
