@@ -1160,7 +1160,7 @@ Bağlantılı atlas kayıtları: nil, julian, angels.
 
 **Yetenekler / işlev**
 
-Clark'ın tarikat sınavlarını geçtiği, üyeliği reddettiği ve Nil'in ritüellere katılmayı kabul ettiği yer.
+Julian'ın Clark'a sınavlarda bizzat eşlik ettiğini, Clark'ın sonunda üyeliği reddettiğini söylediği ve Nil'in üç sınava katılmayı kabul ettiği yer. Clark'ın üçüncü sınavdaki başarısızlığı burada açıklanmaz.
 
 **Ek notlar ve yazar bilgisi**
 
@@ -2054,3 +2054,8 @@ DARK ACADEMIA YAKLAŞIMI: Öncelik teknofeodal akademik elitizmdedir (C). Nil'in
 - [Güncel sahne atlası](KITAP_I_SAHNE_ATLASI.md)
 - [Yeni bölüm dağılımı ve numara eşleştirmesi](KITAP_I_14_BOLUM_DAGILIMI_2026-10-27.md)
 - [37 kayıtlı zaman çizelgesi](ZAMAN_CIZELGESI_KESIN_KANON_2026-10-27.md)
+
+
+## 28 Ekim 2026 — Julian ve Clark sınavlarının kesin bilgisi
+
+Julian Angels içinde yetişmiş Nephilimdir; üç kabul sınavına **kendisi girmemiş**, Clark'a **üçünün tamamında eşlik etmiştir**. Clark üçüncü vicdan/Günah Çıkarma sınavında 'Pişman değilim' deyip **kaldı**; kurul üyelik olasılığını sürdürdü, Clark reddetti. Julian bunu Nil'e 04.03'teki kafe sohbetinde söylemez. **Nil üçüncü sınavını 05.03'te tamamlayıp uyandıktan sonra 05.04'te**, kilisenin yeraltı merkezine inmeden önce gerçeği öğrenir. Clark'ın somut itirafları henüz açıklanmamıştır.
