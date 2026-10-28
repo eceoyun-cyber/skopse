@@ -142,7 +142,7 @@ Bella geçmiş evren döngülerini hatırlayan insandır; fizik ve kuantum araş
 
 **Zaman:** Açılıştan önce
 
-Melekler Clark'ı araştırmayı bırakıp kendilerine katılmaya çağırır; Clark reddeder. Clark, Cen.net CEO'su Aurelian ile 100. katta görüşür. Görüşmenin tam içerik ayrıntıları açık.
+Melekler, insan kapasitesinin sınırlarını aşmayı araştırırken melek/şeytan izlerini keşfeden Clark'la ilk teması kurar. Clark, araştırdığı şeyin ayrıntılarını öğrenebilmek için Julian'ın eşliğinde aynı üç geleneksel sınava girer: **Kaderine Güven'i geçer; Yedi İsim'de kapsamlı hükümlü dosyalarından sonraki zarar ihtimalini en düşük gördüğü kişiyi seçip geçer; Günah Çıkarma'da 'Hayatında en çok pişman olduğun şeyi anlat' sorusuna tek bir ağır olay/karar anlatır ancak bu olay için 'Pişman değilim' diyerek teknik olarak kalır.** Kurul yine de görüşmeye devam izni verir. Julian, Clark'ı kilisenin botanik serasından eski taş geçit ve modern asansörle NEXARIEL'in yeraltı merkezine indirir; Clark NEXARIEL'le **yüz yüze görüşür**. NEXARIEL, çalışmasını durdurmasını ve Cen.net'teki konumuyla Angels adına çalışmasını ister. Clark araştırmasını bırakmayı reddettiği için **üyelik teklifini ancak görüşmenin ardından reddeder**; sınavlara kızıp seradan ayrılmaz. Üçüncü sınavda seçtiği olayın içeriği, Cen.net/ölüm bağlantısı, bu aşamanın kesin tarihi henüz açık karardır; 'Pişman değilim' bütün hayatı için söylenmiş değildir. Clark'ın Nil'e çip konusunda sonradan duyduğu vicdan azabı korunur. Clark ayrıca Cen.net CEO'su Aurelian ile 100. katta görüşür; bu görüşmenin tam içerik ayrıntıları açık. NEXARIEL görüşmesi ile Aurelian görüşmesinin karşılıklı kesin takvim ayrıntıları henüz belirlenmemiştir.
 
 ---
 
