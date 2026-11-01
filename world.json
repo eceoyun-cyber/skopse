@@ -505,7 +505,7 @@
         "Sosyal doku": "Varlıklı ve hizmet çalışanları"
       },
       "sections": {
-        "genel": "Özel konutlar, korunaklı eğlence alanları ve lüks alışveriş galerileri iç içedir. Herkes varlıklı değildir; bu bölgenin işleyişi çok sayıda hizmet çalışanına dayanır.",
+        "genel": "Özel konutlar, korunaklı eğlence alanları ve lüks alışveriş galerileri iç içedir. Herkes varlıklı değildir; bu bölgenin işleyişi çok sayıda hizmet çalışanına dayanır.\n\nMevcut marina ve yat limanları, nehir kıyısındaki lüks yaşamın parçasıdır. Düşbahçe adlı dev tematik eğlence ve tatil kompleksi Yeni Şehir'in geniş, taşkından korunan arazisinde yer alır; Diadolas Yaşam Merkezi ayrı ve mevcut konumunda kalır.",
         "gecmis": "Yeni kent yatırımları savaş sonrası kurumsal düzenle büyüdü.",
         "iliskiler": "Koruma duvarları yükseldiğinde taşkın Eski Şehir’e yönlendirilir.",
         "yetenekler": "Yüksek geçitler, ayrılmış ulaşım ağları, kurumsal hizmetler.",
@@ -536,7 +536,7 @@
         "Etkinlik": "Yardım baloları"
       },
       "sections": {
-        "genel": "İthal orkideler, kristaller, kadehler, yardım açık artırmaları. Felaketten etkilenmeyen katlar, etkilenmiş mahalleleri ayaklarının altında bırakır.",
+        "genel": "İthal orkideler, kristaller, kadehler, yardım açık artırmaları. Felaketten etkilenmeyen katlar, etkilenmiş mahalleleri ayaklarının altında bırakır.\n\nIşıkyol (önerilen alt mekan adı) lüks mağazalar ve moda işletmelerinin yoğunlaştığı alışveriş aksıdır; bağımsız semt değildir. Özel hastaneler, ileri tıp ve genetik klinikleri de Tünek'in çeşitli binalarındadır; ayrı bir Şifa Koridoru bölgesi yoktur.",
         "gecmis": "Yeni kentin zenginlik simgelerinden biridir.",
         "iliskiler": "Derman sağlık paketleri ve Harman besin kredileri balolarda yardım kalemleri olarak gösterilir.",
         "yetenekler": "Üst katlardan geniş nehir manzarası, özel korumalar, kapalı sosyal alanlar.",
@@ -1040,7 +1040,7 @@
       "summary": "Onj Nehri, Eski Şehir ile Yeni Şehir arasındaki sınırdır. Ekim ayının başında ve sonunda taşar. Yeni Şehir kıyısındaki elektronik surlar yükseldiğinde su Eski Şehir tarafına yönelir.",
       "image": "SKOPSE_KESIN.webp",
       "sections": {
-        "genel": "Nehir yılda iki kez taşar. Yeni Şehir tarafında yatlar, restoranlar ve yalılar elektronik koruma altındadır. Eski Şehir tarafında ise özellikle dayanıksız yapılaşma zarar görür. Nil kanatlarını ilk kez açtığında iki kişiyi taşıyarak Hezarfen tarzında Yeni Şehir kıyısına süzülür ve kullanılmayan servis binasının çatısına iner."
+        "genel": "Nehir yılda iki kez taşar. Yeni Şehir tarafında yatlar, restoranlar ve yalılar elektronik koruma altındadır. Eski Şehir tarafında ise özellikle dayanıksız yapılaşma zarar görür. Nil kanatlarını ilk kez açtığında iki kişiyi taşıyarak Hezarfen tarzında Yeni Şehir kıyısına süzülür ve kullanılmayan servis binasının çatısına iner.\n\nOnj doğudan batıya akar. Skopse'nin elektrik ihtiyacının önemli bölümü doğudaki yüksek ve dar yukarı havza vadilerinde kurulu hidroelektrik santrallerinden sağlanır. Barajlar ekim başı ve sonundaki taşkınları tümüyle önlemez."
       },
       "related": [
         "skopse",
@@ -1413,7 +1413,7 @@
         "Bölümler": "05, 11"
       },
       "sections": {
-        "genel": "Tarihî kiliseye bağlı botanik sera. Nil ve Julian'ın tek başlarına bulunduğu üçüncü geleneksel sınav mekânı.",
+        "genel": "Tarihî kiliseye bağlı botanik sera. Nil ve Julian'ın tek başlarına bulunduğu üçüncü geleneksel sınav mekânı.\n\nBu sera Eski Şehir'deki tarihî kilisenin yakınındaki eski botanik bahçesiyle ilişkili mevcut mekandır. Ayrı bir Cam Bahçeler semti oluşturulmaz.",
         "gecmis": "Köken/önceki tarih yalnız mevcut kanondaki ölçüde belirlenmiştir.",
         "iliskiler": "Bağlantılı atlas kayıtları: angels_kilise, nil, julian, angels.",
         "yetenekler": "Nil Vesna cinayetinde dijital delilleri sildiğini ve Blake'e yalan söylediğini itiraf eder; sonra yeraltı geçişi gelir. Üçüncü sınavın tekil sorusu 'Hayatında en çok pişman olduğun şeyi anlat'. Nil Vesna olayını anlatıp pişman olur; Clark geçmişinden tek bir ağır kararını anlatır ama o karar için 'Pişman değilim' der, teknik olarak kalır. Clark sınavdan hemen sonra üyeliği reddetmez.",
@@ -1682,6 +1682,58 @@
       ],
       "status": "Güncel kanon",
       "shortLabel": "Mekân"
+    },
+    {
+      "id": "onj_hes_havzasi",
+      "name": "Onj Doğu Hidroelektrik Havzası",
+      "type": "places",
+      "tagline": "DOĞU YUKARI HAVZA · ENERJİ",
+      "summary": "Onj'un doğudaki yüksek ve dar vadilerinde büyük barajlar ve hidroelektrik santralleri bulunur.",
+      "sections": {
+        "genel": "Şehrin elektriğinin önemli bölümü hidroelektrik üretiminden gelir. Santraller şehir merkezinin doğusundaki yukarı havzadadır. Rezervuar ve işletme kararları taşkınları etkiler ancak ekim taşkınlarını ortadan kaldırmaz.",
+        "notlar": "Kesin baraj sayısı, şirket işletmecileri ve koordinatlar henüz belirlenmedi."
+      },
+      "related": [
+        "onj_nehri",
+        "skopse"
+      ],
+      "status": "Ortak coğrafya eklemesi",
+      "shortLabel": "Onj Doğu Hidroelektrik Havzası"
+    },
+    {
+      "id": "guney_maden_havzasi",
+      "name": "Güney Maden Havzaları",
+      "type": "places",
+      "tagline": "ESKİ ŞEHİR GÜNEYİ · MADENCİLİK",
+      "summary": "Güneydoğuda kurumsal madenler, güneybatıda yıpranmış ve denetimsiz eski ocaklar bulunur.",
+      "sections": {
+        "genel": "Eski Şehir'in güneyindeki mineral kuşağında büyük işletmeler ve eski ocaklar bir aradadır. Güneybatıdaki bazı ocaklarda zorla çalıştırma, borç esareti ve kölelik benzeri sömürü görülür. Kayıt dışı işçi ve cevher ağları Batak ve Sifon'a uzanabilir.",
+        "notlar": "Cevher türleri, işletmeci şirketler ve kesin sınırlar henüz kararlaştırılmadı."
+      },
+      "related": [
+        "eski_sehir",
+        "batak",
+        "sifon"
+      ],
+      "status": "Ortak coğrafya eklemesi",
+      "shortLabel": "Güney Maden Havzaları"
+    },
+    {
+      "id": "dusbahce",
+      "name": "Düşbahçe",
+      "type": "places",
+      "tagline": "YENİ ŞEHİR · TEMATİK EĞLENCE",
+      "summary": "Yeni Şehir'de geniş ve taşkından korunan bir alana yayılan dev tematik eğlence ve tatil kompleksi.",
+      "sections": {
+        "genel": "Tematik eğlence alanları, oteller, gösteri merkezleri, simülasyonlar ve servis altyapısıyla büyük ölçekli turizm ve tüketim merkezi.",
+        "notlar": "Tematik alt alan adları ve sahiplik henüz kesinleşmedi."
+      },
+      "related": [
+        "yeni_sehir",
+        "diadolas"
+      ],
+      "status": "Ortak coğrafya eklemesi",
+      "shortLabel": "Düşbahçe"
     }
   ],
   "featureGallery": [
